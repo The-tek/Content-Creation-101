@@ -2,27 +2,27 @@
 
 # Module 9: Systems, teams and AI
 
-*Build a system and a team so your content keeps going without you doing everything.*
+*Build a system and a team so your content keeps going without you doing everything*
 
-This module shows how to turn content into something that runs every week without depending on your mood. You'll learn how to build a simple workflow, keep a bank of ideas, throw out weak ideas fast, track four numbers, review what worked, simplify before you automate, and use AI as a helper while keeping your own taste. Then it covers teams: the five stages of a personal brand team, who to hire first, how to run the team day to day, and how to set up AI helpers. The last lessons are about leading creative people well: giving them ownership, making failure safe, caring for them, protecting their focus time and keeping a clear but flexible structure. Many of the numbers come from creators describing their own results, so treat them as examples, not promises.
+This module shows how to make content run every week without depending on your mood. You'll build a simple workflow, keep a bank of ideas, cut weak ideas fast, track 4 numbers and review what worked. You'll also learn to simplify before you automate and to use AI as a helper while keeping your own taste. Then it covers teams: the 5 levels, who to hire first, how to run the team day to day, and how to lead creative people well. Many numbers come from creators describing their own results, so treat them as examples, not promises
 
 **16 lessons · about 134 minutes of reading**
 
 ## In this module
 
-1. [Why a system beats inspiration](#m9-l1)
+1. [Why a system works better than waiting for inspiration](#m9-l1)
 2. [The content workflow loop](#m9-l2)
 3. [Idea banks and swipe files](#m9-l3)
-4. [Filtering ideas: the funnel and the kill meeting](#m9-l4)
+4. [Filtering ideas: the funnel and the meeting where you cut ideas](#m9-l4)
 5. [Measuring what counts](#m9-l5)
-6. [Review rhythms: learning from your winners](#m9-l6)
+6. [How often to review: learning from your best posts](#m9-l6)
 7. [Simplify before you automate](#m9-l7)
-8. [AI as a helper: speed plus taste](#m9-l8)
+8. [AI as a helper: speed from AI, judgment from you](#m9-l8)
 9. [Building an AI content team](#m9-l9)
 10. [Team levels: who to hire and when](#m9-l10)
-11. [Hiring and running team operations](#m9-l11)
-12. [Lead creatives, don't control them](#m9-l12)
-13. [Safe to fail: flops, hackathons and training](#m9-l13)
+11. [Hiring and running your team day to day](#m9-l11)
+12. [Lead your creative team instead of controlling it](#m9-l12)
+13. [Safe to fail: bad results, hackathons and training](#m9-l13)
 14. [Being a leader worth following](#m9-l14)
 15. [Burnout, focus time and creative structure](#m9-l15)
 16. [Team standards: principles, details and values](#m9-l16)
@@ -33,69 +33,69 @@ At the end: [Cheat sheet](#cheat-sheet)
 
 <a id="m9-l1"></a>
 
-## 9.1 Why a system beats inspiration
+## 9.1 Why a system works better than waiting for inspiration
 
 *7 min read*
 
-> **The big idea:** Most people who struggle with content don't have a creativity problem, they have a process problem. If your content only happens when you feel inspired, it will stop the moment you don't. A simple routine you can keep up beats bursts of brilliance.
+> **The big idea:** Most people who struggle with content are missing a routine. They don't lack ideas or talent. A simple routine you can keep up gives you more than the days when you feel brilliant
 
-### A process problem, not a creativity problem
+### Fix your routine before you blame your talent
 
-- If you only post when you feel inspired, your results depend on your mood. A system takes the mood out of it: you have a place where ideas go, a way to turn each idea into a post, and a template to start from, so you never face a blank page.
-- A system can improve your results even when your ideas stay the same. A clear routine means you publish more often, you spot what works, and you fix what doesn't.
-- What you need to fix depends on where you are. At 0 to 500 views, ask why anyone would care about this post. At around 1,000 views, fix the structure: the idea, the hook and how you deliver it. At 10,000 to 50,000, find the posts that did far better than usual and make more like them. Getting 100,000 views on every post is mostly about having a system, a team and a process.
-- Big media brands are built by teams, not by one person. If everything depends on you, you will probably burn out and stop.
+If you only post when you feel inspired, your results follow your mood. A system takes the mood out of it. You have a place where ideas go, a way to turn each idea into a post, and a template to start from, so you never face a blank page
 
-### Put the process on paper
+A system can improve your results even when your ideas stay the same. With a clear routine you post more often, see what works and fix what doesn't
 
-- Anything you do more than once should be written down as a checklist, a set of steps (people call this an SOP, a standard operating procedure) or a template. That way it lives on paper, not in your head.
-- This is most important when someone else joins you. If the process is only in your head, you have to explain it out loud every time, and each retelling loses a little, like the game of telephone. A written version gets passed on exactly as it is.
-- One media team's well-known frameworks started as documents for its own editors and writers, written to move the founder's thinking into other people's hands. Only later did they become public content.
-- Templates make the work easier. The more of your work you turn into a template, the less you have to think from scratch.
-- Useful things to write down: steps for coming up with ideas, writing, editing, packaging and posting, a document describing how you sound, and a collection of hooks and formats you like.
-- You can also keep a writing checklist: every lesson you've learned, applied to every post before it goes out. Teaching what you know, at work or online, forces you to sharpen your own frameworks.
+It also protects you. Big media brands are built by whole teams, so if everything depends on you, you will probably get worn out and stop
 
-### Build a process you can keep
+### Write your process down
 
-- Many beginners start with huge expectations, especially in the first 6 months. They compare themselves to top creators without doing the work, or paying the cost, that those results took.
-- Many people force themselves into a format they hate, like vlogs, talking to the camera or video essays. Some people would much rather be interviewed by someone off camera. A format that works for someone else may not work for you, and you won't keep doing it.
-- Don't make content about topics that make you want to quit. For example, one team asked the CEO of a company making \$600 million a year to film "best networking hacks", which was the last thing that CEO wanted to talk about.
-- Make creating content add to your life instead of taking from it. One creator films at Airbnbs, in cool locations and on motorcycle rides, so content is tied to things they already love.
-- Only play a character if it really is you. One creator says: "If I'm not being myself, I'm not going to do it for more than 6 months."
+Anything you do more than once should be written down as a checklist (a list of steps) or a template (a ready-made shape you fill in). Then it lives on paper instead of in your head
+
+This helps most when someone else joins you. If the process only lives in your head, you explain it out loud every time, and each retelling changes it a little. A written version gets passed on exactly as it is
+
+Good things to write down:
+
+- the steps for ideas, writing, editing, packaging and posting
+- a document describing how you sound
+- a collection of hooks and formats you like
+
+### Build a routine you can keep up
+
+A routine only works if you keep doing it. Many beginners force themselves into a format they hate, like vlogs or talking to the camera, and quit within months
+
+A format that works for someone else may not work for you. Pick one you enjoy, and make content about topics you actually want to talk about
+
+Even better, tie content to things you already love. Say you enjoy motorcycle rides: film some of your videos on one, so making content never feels like a chore
 
 ### How little time a working system can take
 
-- Some creators say a good system needs very little time. One creator with a large following says they spend about 3 hours a week in total, 1 for Instagram and 2 for YouTube.
-- A media company says that when it had 1 million followers (in November 2023), the team was 3 people plus about 3 hours a week from the founder. It now has a team of 17.
-- One media lead says their own short videos take about 1 hour of ideas, 20 minutes of filming and 2 hours of editing a week. Long videos take about 1 hour of ideas and 30 minutes of filming, then an editor takes over.
-- These numbers are the creators' own claims. Use them as a sign of what is possible, not as a promise.
+A good system doesn't need all your time. One creator with a large following says they spend about 3 hours a week in total, 1 for Instagram and 2 for YouTube
 
-### Frameworks
+These numbers are the creators' own claims. Treat them as a sign of what is possible, not as a promise
 
 **What to work on at each stage**
 
-1. 0 to 500 views: ask why anyone would care. Is it useful or entertaining? Does it look good? Does it make people stop scrolling?
-2. Around 1,000 views and up: fix the structure, meaning the idea, the hook and how you deliver it.
-3. 10,000 to 50,000 views: find your outliers (posts that did much better than usual) and repeat them. A signature series can come back about 3 times a month.
-4. 100,000 views on every post: build a system, a team and a process.
+1. 0 to 500 views: ask why anyone would care about this post
+2. Around 1,000 views: fix how the post is built, meaning the idea, the hook and how you deliver it
+3. 10,000 to 50,000 views: find your outliers (posts that did much better than usual) and make more like them
+4. 100,000 views on every post: build a system, a team and a process
 
-### Examples
+**Example: Say you hate vlogs**
 
-- **Frameworks that started as team documents:** A media team wrote down its way of making content so its editors and writers could do the work without asking the founder every time. Those same documents later became public content.
-  <br>*Why it works:* Writing a process down lets other people do the work without a game of telephone, and the written principles can double as content.
-- **Filming on a motorcycle ride:** One creator films in places they enjoy, like Airbnbs mid-week with their partner and dog visiting at the weekend, and once filmed a video on a motorcycle ride.
-  <br>*Why it works:* When content is linked to things you enjoy, it becomes something you keep doing instead of something that drains you.
+Say you try vlogs for a month and dread every one. You switch to written posts about the same topics, and you keep going for a year
 
-### Common mistakes
+*Why it works:* A format you can keep doing beats a format that is popular but makes you quit
 
-- Waiting for inspiration, so your output depends on your mood.
-- Keeping the process in your head, so every handoff turns into a game of telephone.
-- Copying a top creator's format or schedule that you don't enjoy, then quitting within 6 months.
-- Expecting top-creator results in your first 6 months without their investment of money, time and privacy.
+### Mistakes to avoid
+
+- waiting for inspiration, so your output follows your mood
+- keeping the process in your head, so handing work over changes the message
+- copying a format from a top creator that you don't enjoy
+- expecting top-creator results in your first 6 months
 
 ### Try it
 
-Write down the steps you take from idea to published post as a numbered checklist. Mark the step you dread most, and write one change (a different format, place or time of day) that would make it more enjoyable.
+Write down the steps you take from idea to published post as a numbered checklist. Mark the step you dread most, and write one change (a different format, place or time of day) that would make it more enjoyable
 
 [Back to the top of this module](#top) · [All modules](../README.md#contents)
 
@@ -107,72 +107,59 @@ Write down the steps you take from idea to published post as a numbered checklis
 
 *8 min read*
 
-> **The big idea:** Good content isn't made in one burst. It runs in a loop: find ideas, make the content, publish it, check what happened, and feed what you learned into the next round. Plan the whole loop once, give each step its own time slot, and it runs every week.
+> **The big idea:** Good content comes from a loop that repeats: find ideas, make the content, publish it, check what happened, and use what you learned in the next round. Plan the loop once, give each step its own time slot, and it runs every week
 
 ### A simple weekly loop with 5 steps
 
-- Step 1, ideate: find ideas that are already performing and check that people want them. It's much easier to join a conversation people are already having than to start a new one. Take the topic, the angle and the format, never the other person's words.
-- Step 2, create: block time to film or write. Do the hard thinking beforehand, so that when you sit down, the only question is how fast you can get through it.
-- Step 3, produce: hand the work to someone else to edit, or simplify it yourself, for example one take and one caption.
-- Step 4, distribute: post on your main platform first, then reuse the content on the others.
-- Step 5, optimize: look at your best posts from the last 6 to 12 months and use them to come up with new ideas. Then the loop starts again, every week.
+1. Ideate: find ideas that are already doing well, and take the topic, the angle and the format, never the other person's words
+2. Create: block time to film or write. Do the hard thinking beforehand, so when you sit down you only have to get it done
+3. Produce: hand the work to someone to edit, or keep it simple yourself, like one take and one caption
+4. Distribute: post on your main platform first, then reuse the content on the others
+5. Improve: look at your best posts from the last 6 to 12 months and use them to come up with new ideas. Then the loop starts again
 
-### A 5-step process for building a content brand
+### Why planning is the real work
 
-- Map: decide what your brand stands for and pick 3 to 4 content buckets, which are the main topics you'll keep coming back to.
-- Model: copy what already works before you change it. There are two sources. Internal ideas come from what you've already said that did well, such as posts, coaching calls, stage talks, and takes that make friends say "good point". External ideas come from other people's topics, angles and formats, never their words.
-- Make: use a template and containers (a repeatable shape for each type of post), then record and direct.
-- Multiply: repost, re-edit, re-record and repurpose the same idea in new forms.
-- Measure: track 4 numbers and review them on a rhythm. You'll learn how in the next two lessons.
+The biggest difference between top creators and beginners is what happens before they press record. Top creators spend far more time deciding what to make
 
-### Other versions of the same loop
+It's easier to join a conversation people are already in than to start a new one. That is why step 1 starts from ideas that already work
 
-- A solo creator's loop can look like this: learn, find inspiration, generate ideas, script, record, edit, distribute, look at the results, repeat.
-- A team's pipeline can look like this: ideas, production, review, publish, report. A kanban board (columns of cards that move from left to right) works well for it. Tools that fit: Notion or ClickUp for planning, Slack for team chat, Google Drive for files, Typefully for scheduling, plus the analytics each platform gives you and a simple weekly report.
-- A writer's loop can look like this: read newsletters and listen to podcasts, pull out the new ideas, log them on a Notion board, write from the board when you feel inspired, then shorten the best into a thread.
-- The biggest difference between top creators and beginners is planning before they press record. Top creators spend far more time deciding what to make. At some level YouTube is a decision game, like a boardroom choosing which of 100 opportunities to pursue.
+### Block time for every step
 
-### Block time and plan the whole process
+Give each of the 5 steps its own time block, at least once a week. Keep cycles short: if you film once a month, something you learn tomorrow waits 4 weeks before you can use it
 
-- Give each of the 5 steps its own time block, at least once a week. Keep cycles short: if you film once a month, something you learn tomorrow waits 4 weeks to be used.
-- Check your calendar every month or so. One media lead moved all content creation to the weekend, because weekdays are the busiest and most stressful.
-- Block 1 to 2 hours for writing content, newsletters and promotions.
-- Project management is half the job. Use a board and realistic deadlines for the goals you want to hit.
-- Take a "30 videos in 30 days" challenge. Most people just make a video today. Instead, plan the whole process first: will you film once or twice a week? How many videos per session? Will editing take 5, 6 or 7 days?
+Check your calendar every month or so. Put content creation on the days that are least busy for you, because tired, stressed days make weak content
 
-### The 4 tools you need
+Plan the whole process, not only the filming. Say you want to post 30 videos in 30 days. Decide first: how many filming days a week, how many videos per day, and how many days editing takes
 
-- You only need somewhere to do 4 things: 1) get traffic, 2) collect emails, so you can reach people directly and show them more later, 3) take payment and host your products or services, and 4) save your ideas and writing.
-- Keep it simple and cheap. Most tools are free to start.
-- Which newsletter tool you pick isn't very important (Beehiiv, Kit and HubSpot are all fine). Being consistent is.
+### What you need to run it
 
-### Frameworks
+A team can run the same loop on a kanban board (columns of cards that move from left to right): ideas, production, review, publish, report
 
-**The weekly content loop**
+You only need somewhere to do 4 things:
 
-1. Ideate: find ideas that are already performing
-2. Create: block time to film, with the thinking done beforehand
-3. Produce: hand it off or simplify it
-4. Distribute: main platform first, then reuse it elsewhere
-5. Optimize: feed your best posts from the last 6 to 12 months into new ideas
+- get visitors
+- collect emails, so you can reach people directly
+- take payment and host your products or services
+- save your ideas and writing
 
-### Examples
+Keep it simple and cheap. Which newsletter tool you pick doesn't change much. Posting regularly does
 
-- **Moving content to the weekend:** One media lead looked over their calendar and moved all content creation to the weekend, because weekdays were the busiest and most stressful days.
-  <br>*Why it works:* The system fits around real life instead of competing with the hardest days.
-- **Planning a 30-day challenge:** Say you want to post 30 videos in 30 days. Before you film anything, you decide: two filming days a week, 4 videos per day, and editing finished in 5 days.
-  <br>*Why it works:* This is a made-up example. Planning the whole process up front turns a vague goal into a schedule you can follow.
+**Example: Planning a 30-day challenge**
 
-### Common mistakes
+Say you want to post 30 videos in 30 days. Before you film anything, you decide: two filming days a week, 4 videos per day, and editing finished in 5 days
 
-- Making one video today with no plan for filming days, batch size or editing time.
-- Long cycles, so lessons take weeks to reach the next piece.
-- Skipping the planning and doing the thinking on camera.
-- Starting a brand-new conversation instead of joining one people already care about.
+*Why it works:* Planning the whole process first turns a vague goal into a schedule you can follow
+
+### Mistakes to avoid
+
+- making one video today with no plan for filming, batching or editing
+- long cycles, so what you learn takes weeks to reach your next post
+- skipping the planning and doing the thinking on camera
+- starting a brand-new conversation instead of joining one people already care about
 
 ### Try it
 
-Open your calendar and block one slot each for ideate, create, produce, distribute and optimize for next week. Write next to each slot how long it should take, then compare with how long it really took at the end of the week.
+Open your calendar and block one slot for next week for each step: ideas, creating, producing, distributing and improving. Write next to each slot how long it should take, then compare with how long it really took
 
 [Back to the top of this module](#top) · [All modules](../README.md#contents)
 
@@ -184,72 +171,60 @@ Open your calendar and block one slot each for ideate, create, produce, distribu
 
 *8 min read*
 
-> **The big idea:** Good ideas aren't invented on the spot. You collect them all week and keep them in one place you can find again. A swipe file (a folder of posts and videos worth learning from) and a few idea banks mean you never start from nothing.
+> **The big idea:** You don't invent good ideas on the spot. You collect them all week and keep them in one place. A swipe file (a folder of posts and videos worth learning from) and a few idea banks (lists where you save ideas) mean you never start from nothing
 
-### One place for ideas and writing
+### One place for ideas
 
-- About 80% of an online business owner's work is ideas and writing: marketing, content, newsletters, products and services. You need one place to save all of it. Notion, Google Docs and Obsidian all work.
-- Scattered notes in an app you never reopen work at first, but sooner or later you'll want something more organized.
-- Think of your brand as a collection of notes. A database (a table where each idea is a row you can tag and sort) in Notion or ClickUp is a good home for ideas.
-- One top YouTuber saves found ideas, posts that did far better than usual, thumbnails and alerts into one collection to use later.
+Most of an online creator's work is ideas and writing, so you need one place to save all of it. Notion, Google Docs and Obsidian all work
 
-### Banks of what works
+Scattered notes in an app you never reopen work at first, but sooner or later you'll want something more organized. A database (a table where each idea is a row you can tag and sort) is a good home for ideas
 
-- A hook bank is a list of openings you've collected from videos with 50,000 or more likes in your own format. Keep it next to your idea list. Add a bank of words that carry emotion in your niche. The goal is to copy what works.
-- Save posts that did far better than normal, with 3 to 5 bullet points on why each one worked.
-- Take screenshots of successful videos, put them in a doc, and answer a few questions about why each one worked.
-- X is a competition in copywriting. Build a swipe file of the 20 best posts you couldn't help saving, then hold your own posts to that level.
-- Build a swipe file of the 100 best posts in your niche. For each one, save the hook, the first 30 seconds and the top comments. Steal the hook, never the content, then pour your own expertise into it.
-- Keep a doc with two parts. "Daily inspiration" holds topics, angles and visuals worth borrowing. "Long-term patterns" holds hooks, structures and formats that keep showing up over weeks.
-- Some people go further and build a database of 400 or more top videos from the best creators in each niche, tagged by hook, strategy, visuals, text and audio, so they can spot patterns. You don't need that many. The method is what counts.
+### Save what already works
 
-### Banks of what people ask
+A swipe file is where you save posts and videos that did far better than normal. Under each one, write 3 to 5 short notes on why it worked
 
-- Look through the comments for questions nobody has answered. A comment like "but how do I do this with no money?" is your next video.
-- Keep a list of your audience's problems in their own words. Write "I don't have the money and I'm scared I'll look stupid asking", not "capital constraints".
-- One creator has a bot watching their DMs. When 3 or more people ask the same question, they make content about it. A crash course that got 202,000 views came from exactly that.
+Keep a hook bank next to it: openings you collected from posts and videos with lots of likes in your own format
 
-### Banks of real material
+When you write, borrow the hook, then fill it with your own content and expertise. Never copy the content itself
 
-- A story bank holds your own stories. For each one, write a title, the point of the story, a short summary, where you could use it and a rating. To fill it, do "homework for life": every evening, write down the one story from today you would tell someone.
-- One ghostwriter calls this the most valuable routine: record the founder's meetings, remove anything private, and send the transcripts to the copywriter. The writer gets endless real opinions and stories without taking more of the founder's time.
-- Build an inspiration system: follow a curated set of feeds, and let an AI watch the videos you've saved and turn them into breakdowns inside your planning doc, so hundreds of saved videos become ideas you can actually make.
-- A bookmarks bot can log every post you bookmark and send you an evening summary of 3 saves worth turning into content.
+### Save what people ask
 
-### Frameworks
+Look through your comments for questions nobody has answered. A comment like "but how do I do this with no money?" is your next video
 
-**Four ways to get content ideas**
+Keep a list of your audience's problems in their own words. Write "I don't have the money and I'm scared I'll look stupid asking" instead of "capital constraints"
 
-1. Build a swipe file of the top 100 posts in your niche (save the hook, the first 30 seconds and the top comments)
-2. Steal the hook, never the content, and pour your own expertise in
-3. Mine the comments for questions nobody has answered
-4. Keep a list of problems in your audience's exact words
+If the same question keeps coming back in your DMs (private messages), that is a sign many people want the answer
 
-**What goes in a story bank**
+### Save your real material
 
-1. Title
-2. Point of the story
-3. Summary
-4. Where to use it
-5. Rating
+A story bank holds your own stories. For each one, write:
 
-### Examples
+- a title
+- the point of the story
+- a short summary
+- where you could use it
+- a rating
 
-- **DMs into content:** When three or more people send one creator the same question in DMs, they turn it into content. One crash course came from that.
-  <br>*Why it works:* A repeated question is proof of demand, in your audience's own words.
-- **Meeting transcripts:** Record the founder's meetings, remove the private parts, and give the transcripts to the copywriter.
-  <br>*Why it works:* The writer gets real opinions and stories without needing extra time from the founder.
+To fill it, every evening write down the one story from today you would tell someone
 
-### Common mistakes
+If you write for a founder, record their meetings, remove anything private, and use the transcripts. You get real opinions and stories without taking more of their time
 
-- Ideas scattered across apps you never open again.
-- Studying hooks from average posts or from a different format. Study videos with 50,000 or more likes in your own format.
-- Copying the content instead of the hook or the format.
-- Writing audience problems in your own words instead of theirs.
+**Example: A DM turns into content**
+
+Say three people send you the same question in DMs. You turn the answer into one post, and it does well because people were already asking
+
+*Why it works:* A question that keeps coming back shows people want the answer, and you get it in their own words
+
+### Mistakes to avoid
+
+- ideas scattered across apps you never open again
+- studying hooks from average posts or from a different format
+- copying the content instead of the hook or the format
+- writing your audience's problems in your own words instead of theirs
 
 ### Try it
 
-Create one doc with three headings: hooks that worked (from others), questions people asked me, and my real stories. Spend 10 minutes on each heading and add at least 3 entries. For every saved hook, write 3 to 5 bullets on why it worked.
+Create one doc with three headings: hooks that worked (from others), questions people asked me, and my real stories. Spend 10 minutes on each heading and add at least 3 entries
 
 [Back to the top of this module](#top) · [All modules](../README.md#contents)
 
@@ -257,74 +232,66 @@ Create one doc with three headings: hooks that worked (from others), questions p
 
 <a id="m9-l4"></a>
 
-## 9.4 Filtering ideas: the funnel and the kill meeting
+## 9.4 Filtering ideas: the funnel and the meeting where you cut ideas
 
 *8 min read*
 
-> **The big idea:** The best creators aren't more creative, they throw out bad ideas faster. A funnel takes a big pile of ideas and cuts it down, step by step, to the few worth making.
+> **The big idea:** The best creators get rid of bad ideas fast. A funnel takes a big pile of ideas and cuts it down, step by step, to the few worth making
 
 ### The idea funnel
 
-- Ideas come from three places. Internal ideas are what already worked on your own channel. External ideas are what worked for other channels. Innovation means looking across YouTube and other industries for something nobody is doing yet.
-- The numbers below are only an illustration. Start with 100 ideas. First, check each one against your audience. Your audience has three groups: your core fans, casual viewers and new viewers. Ideas that don't fit them get cut. That removes about 40.
-- Next, cut anything you can't actually make, about 20 more. "Swim covered in blood with 10 great white sharks" would go viral but might kill you. "Get MrBeast on the podcast" needs a contact, a way to convince him and a bigger show first.
-- Then ask: can I write the title and sketch a rough thumbnail right now? About half pass, leaving about 20.
-- Then ask: am I truly excited to make this? Even someone who only cares about views needs this answer, or they burn out. About 10 are left.
-- Make a one-page summary for each of the 10: a rough thumbnail sketch, a rough title, a box with 1 to 3 reasons it will work, and a one-line description of the story. Some say you can do all 10 in an hour or two. Ideas drive views, so they deserve that time.
-- Show the one-pagers to employees, peers or friends: "Here's the idea, here's the one-line description, what do you think?" Even a brand-new editor can help. Without other opinions you're working alone and deciding with ego. You should end with 3 to 4 ideas to develop. The group you ask can be called a "council".
+Start with a big pile of ideas, then run them through a few questions. Each question cuts some away. The numbers below are only an example
 
-### The ideation meeting
+1. Start with 100 ideas
+2. Does it fit your audience? Cut what doesn't, and about 60 are left
+3. Can you actually make it? Cut what you can't, and about 40 are left
+4. Can you write the title and sketch a rough thumbnail right now? About 20 are left
+5. Are you excited to make it? About 10 are left
 
-- Bring plenty of ideas, then pick. Say you present 12 ideas and make 4. The other 8 weren't wasted, because you chose the best of the best.
-- Pitch every idea in 3 parts: topic (AI tools), angle (these AI tools will make you money) and format (a tier list ranking tools S, A, B, C by how much money each one makes you).
-- Don't start from zero in the meeting. Come in with ideas ready, then use the meeting to kill the weak ones.
+### Turn the best ideas into one-pagers
 
-### Split ideas from making
+For each of the 10 ideas that are left, make a one-page summary: a rough thumbnail sketch, a rough title, 1 to 3 reasons it will work, and a one-line description of the story
 
-- One person on a top YouTube team asked a media lead whether the person who comes up with the ideas is also the person who makes them. The lead said yes. The reply was "Don't do that". When the same person does both, they pick the idea that's easiest to make, not the one that will perform best.
+Then show the one-pagers to friends, peers or teammates and ask what they think. Without other opinions you are working alone and letting your ego decide. You should end with 3 to 4 ideas to develop
+
+### The meeting where you choose ideas
+
+Bring plenty of ideas, then pick. Say you present 12 ideas and make 4. The other 8 weren't wasted, because you chose the best of the best. Don't start from zero in the meeting
+
+Pitch every idea in 3 parts: topic, angle and format. When every idea has the same 3 parts, they are easy to compare and easy to cut
+
+### Keep ideas and making separate
+
+If the same person comes up with the ideas and also makes them, they tend to pick the idea that's easiest to make, not the one that will do best
+
+Ask someone else to judge the ideas, or at least judge them in a different session from the one where you make things
 
 ### Give perfection a time limit
 
-- Spend an hour or two on a title, not a week. Then pick one and stick with it.
-- Every video leaves some views on the table, and nobody gets 100% of the possible views. So put a time limit on perfection.
-- Small creators especially need to publish, because time spent waiting is time not spent learning. It's like searching for the perfect spouse until you're 65.
-
-### Frameworks
-
-**The idea funnel**
-
-1. Collect about 100 ideas from internal, external and new sources
-2. Cut what doesn't fit your audience (about 60 left)
-3. Cut what you can't realistically make (about 40 left)
-4. Keep only ideas you can title and sketch a thumbnail for right now (about 20 left)
-5. Keep only ideas you're excited to make (about 10 left)
-6. Write a one-pager for each: thumbnail, title, reasons it will work, one-line description
-7. Show them to other people and pick 3 to 4
+Spend an hour or two on a title, not a week. Then pick one and move on. Nobody gets 100% of the views possible, so waiting for the perfect version only costs you time you could spend learning
 
 **The 3-part pitch**
 
 1. Topic: the subject
-2. Angle: the take on it
-3. Format: the container it's delivered in
+2. Angle: your take on it
+3. Format: the shape it's delivered in
 
-### Examples
+**Example: The AI tools pitch**
 
-- **The AI tools pitch:** Topic: AI tools. Angle: these AI tools will make you money. Format: a tier list ranked by how much money each tool makes you.
-  <br>*Why it works:* When every idea is pitched in all three parts, ideas are easy to compare and easy to kill.
-- **The shark idea:** Swimming covered in blood with 10 great white sharks would probably go viral, but it fails the feasibility step because it could kill the creator.
-  <br>*Why it works:* Going viral alone doesn't get an idea through the funnel.
+Topic: AI tools. Angle: these AI tools will make you money. Format: a tier list ranked by how much money each tool makes you
 
-### Common mistakes
+*Why it works:* Pitching every idea in all three parts makes ideas easy to compare
 
-- Remaking one hit instead of finding 20 to 30 topics and killing most of them.
-- Brainstorming from zero inside the meeting.
-- The same person choosing and making the ideas, so the easiest one wins.
-- Deciding alone and leading with ego.
-- Overthinking a title for a week.
+### Mistakes to avoid
+
+- remaking one hit instead of finding 20 to 30 topics and cutting most of them
+- brainstorming from zero inside the meeting
+- the same person choosing and making the ideas, so the easiest one wins
+- overthinking a title for a week
 
 ### Try it
 
-Write 20 ideas in 10 minutes. Later, in a separate sitting, run them through the filters (does it fit my audience, can I make it, can I title it now, am I excited) and keep the best 3, each pitched as topic, angle and format.
+Write 20 ideas in 10 minutes. Later, in a separate session, run them through the questions (does it fit my audience, can I make it, can I title it now, am I excited) and keep the best 3, each pitched as topic, angle and format
 
 [Back to the top of this module](#top) · [All modules](../README.md#contents)
 
@@ -336,74 +303,62 @@ Write 20 ideas in 10 minutes. Later, in a separate sitting, run them through the
 
 *8 min read*
 
-> **The big idea:** Views are an early signal, not the goal. Track 4 numbers (views, followers added, leads and revenue), and remember that money in the bank is the real test of whether your content works.
+> **The big idea:** Views are an early sign of how a post is doing. Track 4 numbers: views, followers added, leads and revenue. The real test of whether your content works is money in the bank
 
 ### The 4 numbers to track
 
-- Views (or impressions): the biggest early sign of how content is doing. Track it, but don't make it your goal.
-- Followers added: people saw you and liked what you said. If you get lots of views and no new followers, people are seeing you and not liking what you say.
-- Leads: emails, phone numbers or even addresses you collect on every platform. This moves people from earned traffic (attention you don't control) to owned traffic (people you can contact directly).
-- Revenue: money your content brings in. Without it, you can't know whether paying for a team is worth it.
-- One way to track them: set up an automatic Slack message each morning showing yesterday's views, followers, leads and revenue. Also track the follower counts of your main accounts daily.
-- For a single piece of content, narrow it down to views and followers added. As one creator puts it, "I ignore all the metrics" besides those.
+1. Views (or impressions, the number of times your post was shown): an early sign of how content is doing. Track it, but don't make it your goal
+2. Followers added: people saw you and liked what you said. Lots of views and no new followers means people see you but don't like what you say
+3. Leads: emails or phone numbers you collect. They move people from attention you don't control to people you can contact directly
+4. Revenue: money your content brings in. Without it, you can't know whether paying for a team is worth it
 
-### Look past vanity numbers
+For a single post, you can narrow it down to views and followers added
 
-- Vanity metrics look good but don't pay your bills. Chasing likes and engagement pushes founders toward viral, beginner-level content. The best overall test is cash in the bank, or profit per month.
-- Look past views to trials, DMs and sales calls. Use numbers to find out what's wrong, and pay attention to what people link you with. If everyone connects your name with one idea, that's an asset.
-- Report your work with data. For example: "this video did 2.5x or 3x better than my average on TikTok or LinkedIn", plus engagement, average view duration, leads, and how many leads were qualified and bought.
-- Reality gives feedback. If you're not growing or making money, your actions are wrong or something is missing. Learn from it, try new tactics every day and keep adjusting.
+### Look past numbers that only look good
 
-### Decide with data, not feelings
+Likes can mislead you. Chasing likes pushes you toward basic content that spreads fast but builds nothing. A better test is cash in the bank, or profit per month
 
-- At one company, anyone making a decision has to show the boss the data first.
-- Here's why. Say a new format gets lots of views. If you never check how many followers it brought, you'll chase views instead of followers. Know which number you're trying to improve.
-- The skill is to collect the data, clean it up and decide from it.
-- Give every number an owner. Use a scorecard (a simple table of the numbers you track) and name one person responsible for each. "You can only manage what you measure."
+Look past views to trials, DMs and sales calls. If everyone connects your name with one idea, that's something valuable you own
+
+If you're not growing or making money, something is wrong or missing. Learn from it and keep adjusting
+
+### Decide with data instead of feelings
+
+Say a new format gets lots of views. If you never check how many followers it brought, you'll chase views instead of followers. Know which number you're trying to improve
+
+Give every number an owner. Use a scorecard (a simple table of the numbers you track) and name one person responsible for each
 
 ### Reading a single post
 
-- Treat data as a map, not a verdict on your worth.
-- On X, watch the replies. One creator says a reply rate of 1 to 3% is excellent.
-- Don't judge a post in 3 seconds. Use a checklist: who watched (age and other details), what device they used, whether they were new or returning, how the views changed over time, and where they came from.
-- The early click-through rate (the share of people who clicked after seeing your title and thumbnail) in the first hour and first 24 hours predicts how the video will do. Ignore the lifetime click-through rate.
-- Use the audience-activity chart in YouTube Studio to choose when to post.
-- One top YouTuber studies other creators' thumbnail tests, checks where a video ranks among the channel's last 10, and watches which title patterns beat a certain view count.
+Data is a map for what to do next. A bad number says nothing about your worth
 
-### Frameworks
+Don't judge a post in 3 seconds. Check who watched, where they came from, and how the views changed over time
 
-**The 4 numbers**
-
-1. Views: an early signal, track it but don't aim at it
-2. Followers added: did they like what you said
-3. Leads: move people from earned traffic to owned traffic
-4. Revenue: what the team is paying back
-
-**The 3 S's for reading one post**
+A simple way to read one post is 3 questions:
 
 1. Start: did people stop scrolling?
 2. Stay: did the post pay off quickly so they kept watching?
-3. Signal: did they do anything, like follow, reply or save?
+3. Signal: did they do something, like follow, reply or save?
 
-### Examples
+**Example: The views trap**
 
-- **The views trap:** A new format at one company got lots of views. The boss asked how many followers it brought. If you never check, you end up chasing views instead of followers.
-  <br>*Why it works:* Pick the number you're trying to improve before you judge a format.
+Say a new format gets 100,000 views, but it brings only 5 new followers. A format with 10,000 views and 500 new followers is worth more to you
 
-### Common mistakes
+*Why it works:* Pick the number you're trying to improve before you judge a format
 
-- Optimizing for views or likes instead of followers, leads and revenue.
-- Judging a video in 3 seconds without checking who watched, where they came from and how the views changed.
-- Looking at lifetime click-through rate instead of the first hour and first day.
-- Tracking numbers that nobody owns.
+### Mistakes to avoid
 
-### Where the sources disagree
+- aiming for views or likes instead of followers, leads and revenue
+- judging a post in 3 seconds without checking who watched and where they came from
+- tracking numbers that nobody owns
 
-Some creators say to track 4 numbers daily but judge single posts only on views and followers added. Others say cash or profit per month is the only number that counts, and one says to judge channels only on sales and signups, never views. They all agree that views alone aren't enough.
+### Where creators disagree
+
+Some creators say cash or profit per month is the only number that counts. Others say to judge single posts on views and followers added. They all agree that views alone aren't enough
 
 ### Try it
 
-Take your last 5 posts and write down, for each, the views, the followers added and any lead or sale it brought. Then for the best one, answer the 3 S's: why people started, where they left, and which line got a reaction.
+Take your last 5 posts and write down, for each, the views, the followers added and any lead or sale it brought. Then for the best one, answer the 3 questions: why people started, where they left, and what they did
 
 [Back to the top of this module](#top) · [All modules](../README.md#contents)
 
@@ -411,81 +366,54 @@ Take your last 5 posts and write down, for each, the views, the followers added 
 
 <a id="m9-l6"></a>
 
-## 9.6 Review rhythms: learning from your winners
+## 9.6 How often to review: learning from your best posts
 
 *9 min read*
 
-> **The big idea:** Numbers only help if you look at them on a schedule and turn them into instructions for your next post. Review daily, weekly, monthly and quarterly, and compare your best posts with your worst to find what to repeat.
+> **The big idea:** Numbers only help if you look at them on a schedule and turn them into instructions for your next post. Compare your best posts with your worst to find what to repeat
 
-### A rhythm for looking at your numbers
+### How often to look at your numbers
 
-- Daily: record the numbers for each platform, such as followers added. If you have a team, each owner posts a short daily update.
-- Weekly: fill in a scorecard with all the numbers and notes, and go over it in a weekly meeting.
-- Monthly: compare everything you posted last month with its results, write a full report and review the strategy. Change things monthly, not daily, so you don't react on impulse.
-- Quarterly: plan which formats, angles and topics to test next. Check whether your positioning or content buckets need to change.
-- Some teams run a weekly leadership meeting that starts with the scoreboard and key numbers, then moves to problems, opportunities, challenges and limits.
-- A weekly call about content performance also helps. If average view duration on YouTube is going up, you're doing the right things. If it's going down, rethink how your scripts are built.
+- daily: record the numbers for each platform, such as followers added
+- weekly: fill in a scorecard with all the numbers and notes, and go over it in a meeting if you have a team
+- monthly: compare what you posted last month with its results, and review the strategy
+- every 3 months: plan which formats, angles and topics to test next, and check whether what you want to be known for needs to change
+
+Change your strategy monthly, not daily, so you don't react on a whim
 
 ### Compare your winners with your losers
 
-- What works depends on your niche. What works for a dentist won't work for a financial adviser, so use your own data. Ignoring it for topics, scripts and formats is, as one creator puts it, "playing the game on hard mode".
-- Step 1: set the date range to only the period since you started using your current approach, for example the last 2 months.
-- Step 2: sort your videos by most views.
-- Step 3: collect the transcripts and stats for all of them, and split each transcript into script sections, such as hook, story and ending.
-- Step 4, the manual way: go from the best performer down, and ask what you did. Look for a pattern across the winners, for example in how you reveal the answer, how you show proof or how you create urgency.
-- Step 5, the AI way: AI is very good at finding patterns. Export your data (for example as a CSV file) into an AI chat tool, ask it to compare your top 10, 20 or 30 videos, find what the winners did differently in the storytelling, and give very specific instructions for next time. Also give it your script outline, so it can match each transcript to it.
-- What you get is the words, sentence structure, grammar and topics that separate winners from losers. You can do this every day.
+What works depends on your niche, so use your own data. If you ignore it when choosing topics, scripts and formats, you make things harder for yourself
 
-### Other review habits
+1. Set the date range to the period since you started your current approach, for example the last 2 months
+2. Sort your posts or videos by most views
+3. Go from the best performer down and ask what you did. Look for a pattern across the winners, like how you reveal the answer or how you show proof
+4. Turn each pattern into one instruction for your next post
 
-- Compare your top 20% of posts with your bottom 20%, looking at topics, hooks and words. One creator did this and learned that their audience wanted systems more than mindset advice, and that hooks with specific numbers did about 10 times better. They say this, and it isn't independently checked.
-- Once a month, review your best content and rewrite the winners.
-- Track the numbers, review them weekly, make 5 more versions of your outliers and stop doing what isn't working.
-- Check your content pillars (your main topics) every month. If saves, views and shares are dropping, drop, replace or fix a pillar. Keep testing new things even when the old ones work, because it won't work forever.
-- Connect the analytics from every platform. See where viewers stop watching and why one video gets more skips or shares than another. Form a guess, and put each lesson straight into the next script. Every video should make your next one better.
+### Let AI find the patterns
 
-### Review as a system
+AI is very good at finding patterns. Export your data (for example as a CSV file, a simple table) into an AI chat tool and ask it to compare your top 10 to 30 posts
 
-- One coach reviews dozens to hundreds of business owners' videos every week. The most common hook mistakes he teaches came out of that: delay, confusion, irrelevance and disinterest.
-- Daily practice with feedback, where members post content and get reviews from others, works better than one big class.
-- Always check a hook with your gut before moving on, and rework it if it's hard to understand.
+Ask what the winners did differently and for very specific instructions for next time. You get the words, structure and topics that set your winners apart from your losers
 
-### Frameworks
+### Keep your review simple
 
-**A reporting rhythm**
+Compare your top 20% of posts with your bottom 20%, looking at topics, hooks and words
 
-1. Daily: record the numbers for each platform
-2. Weekly: fill in the scorecard and hold a meeting
-3. Monthly: compare content with results, write a full report, review the strategy
-4. Quarterly: plan tests and check positioning and content buckets
+Once a month, rewrite your best content, and make 5 more versions of your outliers (posts that did way better than usual)
 
-**Winners vs losers analysis**
+Keep testing new things even when the old ones work, because they won't work forever
 
-1. Limit the date range to the period you've used your current approach
-2. Sort by views
-3. Collect transcripts and stats, and split them into script sections
-4. Read from best to worst and look for patterns
-5. Or give the data and your script outline to an AI and ask for specific instructions
+### Mistakes to avoid
 
-### Examples
-
-- **Top 20% vs bottom 20%:** One creator compared their best and worst posts. They found their audience wanted systems more than mindset, and hooks with specific numbers did about 10 times better.
-  <br>*Why it works:* Comparing the extremes shows a pattern faster than looking at averages.
-
-### Common mistakes
-
-- Changing your strategy every day because of an impulse.
-- Using other niches' rules instead of your own data.
-- Reviewing without writing instructions for the next piece.
-- Relying on old winners forever without testing new things.
-
-### Where the sources disagree
-
-Some creators say to change things monthly, not daily, to avoid reacting on impulse. Others say to run the winners vs losers comparison every day, and some teams use a bot that reports daily. Both can be true: look at the numbers daily, but change your strategy on a slower rhythm.
+- changing your strategy every day on a whim
+- using other niches' rules instead of your own data
+- reviewing without writing instructions for the next post
+- relying on old winners forever without testing new things
 
 ### Try it
 
-Export or list your last 20 posts with views and follows. Sort by follows. Write down 3 things the top 5 share that the bottom 5 don't, then turn each into one instruction for your next post.
+Export or list your last 20 posts with views and follows. Sort by follows. Write down 3 things the top 5 share that the bottom 5 don't, then turn each into one instruction for your next post
 
 [Back to the top of this module](#top) · [All modules](../README.md#contents)
 
@@ -497,36 +425,33 @@ Export or list your last 20 posts with views and follows. Sort by follows. Write
 
 *7 min read*
 
-> **The big idea:** Elon Musk is known for a 5-step routine for improving any process: question it, delete parts, simplify, speed it up, and only then automate. Applied to content, it means you shouldn't automate a messy process, because you'll just make the mess faster.
+> **The big idea:** A well-known 5-step routine for improving any process is: question it, delete parts, simplify, speed it up, and only then automate (let software do it for you). If you automate a messy process, you just make the mess faster
 
-### The 5 steps, with content examples
+### The 5 steps
 
-- Step 1, question every requirement. If something has been done the same way for 5 years, ask why, especially now that AI exists. One media lead asked why they were color grading and using fancy gear, and went iPhone-only.
-- Step 2, delete parts. Delete until something breaks, then add that part back. If nothing breaks when you delete things, you haven't deleted enough. The same media lead deleted everything, found out that bad audio does hurt, and added a cheap microphone.
-- Step 3, simplify and improve what's left, and only after deleting. Combine work where you can. For example, short videos on Saturday and long videos on Sunday became all on Saturday. A founder who had a separate editor, project manager, copywriter and designer cut down to fewer roles, with the editor also doing thumbnails and copy. Every extra person is another line of communication to manage.
-- Step 4, speed up the cycle. Do it more often so you learn faster. In one team, content went from weekly to twice a week, editing time dropped from 3 hours to 1, and ideas are now generated almost daily.
-- Step 5, automate last, not first. If you automate a process that isn't finished, you get "AI slop" on repeat (low-quality, generic output). Automate your content flow only after it exists and works.
-- One media company's core value is "simple scales". Making things complicated is easy, and making them simple is hard.
+1. Question every requirement. If something has been done the same way for years, ask why. Say you spend an hour colour grading every video: ask if anyone watching would notice
+2. Delete parts. Delete until something breaks, then add that part back. If nothing breaks, you haven't deleted enough
+3. Simplify and improve what's left, only after deleting. Combine work where you can, for example filming all videos on one day instead of two
+4. Speed up the cycle. Do it more often so you learn faster
+5. Automate last. If you automate a process that isn't finished, you get AI slop (low-quality, generic output) on repeat
 
-### Find the one thing holding you back
+### Why deleting comes first
 
-- Picture a car factory that makes 10 car bodies, 10 engines and 4 wheel sets a day. It's limited by the wheels, so time spent making more engines is wasted. This idea is called the theory of constraints: the slowest step limits everything.
-- Find the one step that limits your content engine, and work only on that.
+It's easy to make things complicated and hard to make them simple. Every extra step, and every extra person, is another thing to manage
+
+Say a creator drops fancy gear and films on a phone. After deleting, they find out bad audio really does hurt, so they add a cheap microphone back. Deleting too much shows you what you really need
+
+### Find the one step slowing you down
+
+Picture a car factory that makes 10 car bodies, 10 engines and 4 wheel sets a day. The wheels limit it to 4 cars, so making more engines changes nothing
+
+Content works the same way. Find the one step that limits how much you publish, such as editing, and work only on that
 
 ### Protect your focused time
 
-- A common claim is that most CEOs can do their core work in four focused hours a day.
-- Split them like this: 1) strategic decisions, 2) content creation and systems, 3) growing the team and strategy, 4) making money.
-- Put those hours at the time of day you work best. One CEO's block is 7am to 11am, uninterrupted. Otherwise, in their words, "I'm probably screwed that day."
-- Revenue deserves about an hour of attention every day, or something can go wrong in sales or customer success without you noticing.
-- One idea you may hear is to overload your calendar, because work expands to fill the time you give it.
+Your most valuable work needs a few hours without interruptions. Put them at the time of day you work best, and use them for decisions, making content and making money
 
-### Obsess over volume and speed
-
-- Pay attention to how much you publish and how fast. If an edit takes 10 days, push it to 5.
-- "Volume negates luck" is one saying. And speed lets you learn faster.
-
-### Frameworks
+Also watch how much you publish and how fast. If an edit takes 10 days, bring it down to 5
 
 **The 5-step routine**
 
@@ -536,30 +461,22 @@ Export or list your last 20 posts with views and follows. Sort by follows. Write
 4. Speed up the cycle
 5. Automate last
 
-**Four focused hours**
+**Example: The wheel factory**
 
-1. Strategic decisions
-2. Content creation and systems
-3. Team growth and strategy
-4. Making money
+A factory that makes 10 bodies, 10 engines and 4 wheel sets a day can only build 4 cars. Making more engines changes nothing
 
-### Examples
+*Why it works:* Work only on the step that limits your output
 
-- **Deleting until it broke:** One media lead dropped color grading and fancy gear and went iPhone-only. After deleting everything, bad audio turned out to hurt, so a cheap microphone was added back.
-  <br>*Why it works:* Deleting too much shows you what you truly need.
-- **The wheel factory:** A factory that makes 10 bodies, 10 engines and 4 wheel sets a day can only build 4 cars. Making more engines changes nothing.
-  <br>*Why it works:* Work only on the step that limits your output.
+### Mistakes to avoid
 
-### Common mistakes
-
-- Automating before the process works, which repeats the mess as "AI slop".
-- Simplifying before deleting.
-- Adding people, and with them more lines of communication, instead of cutting steps.
-- Improving steps that aren't the one holding you back.
+- automating before the process works, which repeats the mess as AI slop
+- simplifying before deleting
+- adding people instead of cutting steps
+- improving steps that aren't the one holding you back
 
 ### Try it
 
-List every step you do for one post or video. Cross out one step you only keep out of habit, then circle the single step that limits how much you publish the most. Plan one change to that step only.
+List every step you do for one post or video. Cross out one step you only keep out of habit, then circle the one step that limits how much you can publish. Plan one change to that step only
 
 [Back to the top of this module](#top) · [All modules](../README.md#contents)
 
@@ -567,80 +484,65 @@ List every step you do for one post or video. Cross out one step you only keep o
 
 <a id="m9-l8"></a>
 
-## 9.8 AI as a helper: speed plus taste
+## 9.8 AI as a helper: speed from AI, judgment from you
 
 *9 min read*
 
-> **The big idea:** AI is fast, but by default it gives you the average of everything it has read. Use it as the engine that does the heavy work, and keep your own taste as the steering wheel. Use AI to help people, not replace them, and never expect it to hand you the perfect idea.
+> **The big idea:** AI is fast, but by default it gives you the average of everything it has read. Let it do the heavy work, and keep your own taste (your sense of what is good) in charge
 
 ### Why AI sounds generic
 
-- Large language models (the AI behind chatbots) work by predicting what's most likely to come next, so they fall back on the most common patterns.
-- One study had an AI coding tool work on 2,430 real software projects with open questions. It picked the same popular tools again and again: one UI library 90.1% of the time, one styling tool 68.4%, one hosting service 100% of the time for JavaScript deployment, and one state tool over its main rival every time. These are great tools, but when 90% of people accept the same defaults, 90% of products end up looking the same.
-- Ask AI for a viral post and give it nothing else, and you get the average of everything it has read, and the average is boring.
-- AI gets you about 60% of the way, fast. Most people stop there and call it done, so 60% is now the new mediocre.
-- Avoid tutorials that say "build it in ONE prompt". One-prompt wonders produce one-prompt results.
+AI chatbots work by predicting what is most likely to come next, so they fall back on the most common patterns. If you ask for a viral post and give nothing else, you get the average of everything it has read, and the average is boring
 
-### The 80/20 split: 80% AI, 20% taste
+AI gets you about 60% of the way, fast. Most people stop there and call it done, so 60% is now the new average
 
-- Let AI do research, first drafts, boilerplate (the repetitive standard parts), structure, formatting and speed. The last 20% is yours: deciding what stays and what's cut, rewriting the safe hook, swapping the default parts, and applying what you know is good in your field.
-- Most people invert it. They spend 80% of their energy prompting and tweaking, running the same prompt fifteen times, and almost no time on judgment. Productivity without quality is just motion.
-- The difference is what happens after the AI finishes and before a human hits publish.
-- One published "taste skill" shows what this looks like: about 400 tokens (small chunks of text) of explicit rules, such as using specific fonts instead of the common ones, specific colors instead of the usual blue-purple, and rules for motion, layout and backgrounds. Most importantly, it has a "what to avoid" list that stops the AI from falling back to defaults.
-- AI is a production engine. Taste is the steering wheel.
+### The 80/20 split
 
-### Help people, don't replace them
+Let AI do research, first drafts, structure, formatting and speed. The last 20% is yours: decide what stays and what's cut, rewrite the safe hook, and apply what you know is good in your field
 
-- There's an industry joke: "I replaced my whole content team with AI." The reply: "We can tell." The worst case is CEOs posting AI avatars (computer-made versions of themselves) and expecting them to beat the CEO on camera.
-- One team splits its content flow like this. The first 10%, finding ideas and outliers, uses AI tools the team built, because they were spending 5 to 10 hours a week on ideas. The middle 80%, scripting, filming and editing, is done by real people. The last 10% uses AI to review the result and point out blind spots.
-- One media lead writes most scripts by hand. They use AI to widen their options, for example 50 angles to choose from, not to write.
-- Automate last. If you add AI before you have a system, it will just do whatever the internet says, which is mostly wrong.
-- Use AI for research and ideas, not for 100% of your copy. One writer says over 90% of their article copy is still written by hand, and that their writing bot wasn't that good, so they prefer to write it themselves. AI won't replace taste, but it can take the grunt work: research, ideas, first drafts, analytics and tracking.
+Most people flip it. They spend their energy re-running the same prompt fifteen times and almost no time on judgment. AI is the engine that does the work, and your taste is the steering wheel
+
+### Help people instead of replacing them
+
+Use AI to widen your options, for example to get 50 angles on a topic, then pick one and write it yourself. AI can take the routine work: research, ideas, first drafts, analytics and tracking
+
+Replacing the person on camera with an AI avatar usually backfires, because people can tell
+
+Add AI after you have a system. Without one, it will just do whatever it finds most common
 
 ### Useful ways to prompt
 
-- When you ask AI for ideas, give it the shape of a hook (like "is it possible to..." or "what happens if..."), or it hands you flat statements. Collect 100 ideas, then pick the 1 that fits.
-- Useful prompts: ask it to break down why a post worked and how to repeat it; to pull your stories and beliefs into one document; to list subtopics of a broad topic (but write your own list first); to guide you through planning your content by pasting in an article; or to research viral posts for product ideas.
-- Don't expect any AI to give you the perfect idea. Treat what it gives you as inspiration, have a conversation with it, and steer it toward what feels true to you.
-- Here is a prompt for a small product: "Research top performing YouTube videos in [topic], specifically ones that help people improve their lives in some way. Then, help me brainstorm my own unique product idea based around that." One example result was a "30 Day Life Reset", where an AI interviews the buyer and builds a custom plan.
-- Here is a prompt idea for a small service: outline a pack of 4 one-on-one calls priced at \$500 to \$1,000. Have the AI interview you one question at a time, then write out where clients are now, a 1-month outcome, the steps grouped into 4 calls, homework, 5 onboarding questions and 3 name ideas.
-- You can also use AI image generation to mock up a better first frame before you film.
+When you ask for ideas, give the AI the shape of a hook (like "what happens if..."), or it hands you flat statements. Collect 100 ideas, then pick the 1 that fits
 
-### Frameworks
+Good jobs for AI are:
+
+- breaking down why a post worked and how to repeat it
+- pulling your stories and beliefs into one document
+- listing subtopics of a broad topic (write your own list first)
+
+Don't expect the perfect idea. Treat what it gives you as inspiration and steer it toward what feels true to you
 
 **The 80/20 split**
 
 1. 80% AI: research, drafts, structure, formatting, speed
-2. 20% taste: cut, rewrite the hook, swap the defaults, add your own judgment
+2. 20% your judgment: cut, rewrite the hook, add your own taste
 
-**Where AI fits in the content flow**
+**Example: 50 angles**
 
-1. First 10%: AI helps find ideas and outliers
-2. Middle 80%: people script, film and edit
-3. Last 10%: AI reviews and points out blind spots
+Say you ask AI for 50 angles on one topic. You pick the one that feels true, then write the script yourself
 
-### Examples
+*Why it works:* AI gives you more options. You choose and write
 
-- **A published taste skill:** A 400-token rule file for an AI that names exact fonts, colors, motion and layout rules, plus a list of what to avoid.
-  <br>*Why it works:* The avoid list is what stops the AI from sliding back to the average default.
-- **50 angles:** One media lead uses AI to produce many angles on a topic, then picks one and writes the script by hand.
-  <br>*Why it works:* AI widens your options. The human chooses and writes.
+### Mistakes to avoid
 
-### Common mistakes
-
-- One-prompt content with no context.
-- Stopping at the AI's 60% draft.
-- Spending your energy on re-prompting instead of on judgment.
-- Replacing the person on camera with an AI avatar.
-- Expecting AI to hand you the perfect idea.
-
-### Where the sources disagree
-
-Some creators say to let AI do 80% and keep 20% for taste. Others say to keep the middle 80% (scripting, filming, editing) with real people and use AI only at the start and end, and some writers write over 90% of their article copy by hand. They all agree that human judgment at the end decides the quality.
+- asking for content in one prompt with no context
+- stopping at the AI's 60% draft
+- spending your energy on re-prompting instead of on judgment
+- replacing the person on camera with an AI avatar
 
 ### Try it
 
-Take one rough hook you wrote. Run it through an AI and ask it to make the hook clearer, then write your own final version that keeps one thing from the AI and cuts one thing. Write 3 rules for a personal "what to avoid" list based on what you cut.
+Take one rough hook you wrote. Ask an AI to make it clearer, then write your own final version that keeps one thing from the AI and cuts one thing. Write 3 rules for your own "what to avoid" list based on what you cut
 
 [Back to the top of this module](#top) · [All modules](../README.md#contents)
 
@@ -652,79 +554,58 @@ Take one rough hook you wrote. Run it through an AI and ask it to make the hook 
 
 *10 min read*
 
-> **The big idea:** AI helpers (often called agents or bots) can work like a small content team, but only if they share the full picture of you and your brand, each one does one narrow job, every action is written to a log, and a human approves anything that goes public.
+> **The big idea:** AI helpers (often called agents or bots) can work like a small content team. Each one needs one narrow job, the same notes about you, a log (a record of what it did), and a person who approves anything that goes public
 
 ### Give the AI context first
 
-- A bot is only as good as the context you give it. Brain-dump how you make content, and use voice dictation because it's the fastest way. Expect it to take longer than 5 minutes. Share your past videos so it can learn your editing style, share content you love and explain why it works and how to adapt it, and connect your analytics. Scripts, writing, stories, lessons and feedback all count. Context turns a generic AI into your second creative brain.
-- Let the AI interview you first. It should ask about your business, your offer, your buyers, your goals, your pricing, your current channels, the tools you pay for, what a good week looks like and what you refuse to automate. Save the answers as one brief plus one note per topic.
-- One creator used an interview prompt ("ask me 50 questions about my content and brand") to build the main context file.
-- Write each of your frameworks as a document and save it as a skill (a saved set of instructions) in Claude, ChatGPT or Gemini, so the AI uses it when it writes scripts or brainstorms. For example, a story structure written as a plug-and-play template.
-- Write detailed step-by-step guides for every part of the job, such as copywriting and research, feed them to your AI agents, and keep improving the outputs so you can scale. One creator sums up their stack as "Claude Skills + Grok Bot for X. All you need."
+A bot is only as good as the context (background information) you give it. Say everything you know about how you make content, using voice dictation because it's the fastest way
 
-### An example of a bot team
+Also share your past posts, content you love and why it works, and your analytics. Context turns a generic AI into your second creative brain
 
-- One creator built a team that copies the structure of a human content team: 11 bots in 3 departments, with a "Chief of Staff" bot that runs the team, sets the daily priorities and gives one daily summary.
-- Research bots: one scans posts that did unusually well overnight and sends a morning report of ideas. One watches lists of accounts on X for new formats and trends. One logs every bookmark and sends an evening summary of 3 saves worth turning into content. One finds 5 posts worth quote-posting, with an angle, 2 to 3 times a day.
-- Creation bots: one challenges your ideas and gives 3 stronger angles (you tell it "be honest, not nice"). One writes 10 hook variations and a draft based on your voice document. One makes 3 image prompts per article. One checks every stat and claim and gives sources.
-- Tracking bots: one logs article ideas and sends a ranked list every Sunday, and one reports daily impressions and the top 3 posts and why they worked. Others were still being built: finding sponsors, repurposing content, finding replies worth writing and finding people to collaborate with.
-- Set it up in this order: 1) connect your tools, 2) give full context (let it scan your posts, write a brief and interview you one question at a time), 3) build a voice document from your posts, 4) define your audience and 3 positioning angles, 5) research the top 20 accounts in your niche and 5 gaps nobody covers, 6) set 3 to 4 pillars with 10 ideas each, and only then 7) build the bots.
-- Running tips: run only 3 to 4 bots at a time, with few on daily routines, or you'll burn through your usage limit. Keep each bot's job narrow, because mixing 2 or more jobs makes quality drop fast. Keep one text file per bot with its tasks, your voice, and dos and don'ts. Every time something doesn't sound like you, give feedback and update that file.
-- One creator quotes a cost of a \$30 per month plan, with 3 to 4 bots rotating and using about 7% of the weekly limit per day.
-- The same creator says their bots never publish or reply on their behalf, and warns you to actually spend time learning content yourself, or the system will make slop.
+Then let the AI interview you. It should ask about your business, what you sell, your buyers, your goals and what you refuse to automate. Save the answers as one brief plus one note per topic
 
-### An example of an agent that helps you distribute content
-
-- Three rules: look at what's working before writing anything. Judge every channel on sales and signups, never views. Nothing gets sent or paid for until you say yes.
-- Flip the usual order. First collect what's working this week, pull the best posts in full, turn videos into text, let the agent spot patterns, write with the sources attached, then wait for your approval.
-- Keep one folder as the brain, with 4 parts: a brief (your business, your offer, your buyers and what counts as a win), a knowledge base (linked text notes everyone can read), a log (what went out, how it did and what changed) and a rules file (what the agent does alone and what needs your approval).
-- Put secret keys (the passwords that let programs talk to each other) in a separate settings file, never in the brief, and give each part only the keys it needs. Schedule jobs with cron, which works like an alarm clock for your computer.
-- A common mistake is one giant assistant with one endless prompt. Instead, use one agent per job, have every agent read the same notes, and have every agent log what it did.
-- Rules for day one: research, drafts and reports can run without asking. Anything that is posted, emailed or costs money waits for your OK. Passwords, payments and account settings stay with you. The day these rules annoy you is the day they save you.
-- Save your corrections, so the next run uses them.
-
-### What it frees you for
-
-- A good setup frees your time for work only you can do: ideas, brand deals, reading your analytics and building your brand.
-- You can also record every meeting into a searchable database and give each team member their own AI assistant.
-
-### Frameworks
-
-**The order to set up your bots**
+### Set it up in order
 
 1. Connect your tools
-2. Give full context: your posts, a brief, and an interview one question at a time
+2. Give full context and let the AI interview you one question at a time
 3. Build a voice document from your posts
-4. Define your audience and 3 positioning angles
-5. Research the top 20 accounts in your niche and 5 gaps
-6. Set 3 to 4 pillars with 10 ideas each
+4. Define your audience and 3 ways to describe what makes you different
+5. Research the top 20 accounts in your niche and 5 gaps nobody covers
+6. Set 3 to 4 pillars (your main topics) with 10 ideas each
 7. Only then build the bots
 
-**The folder your agent works from**
+### What a bot team can look like
 
-1. Brief: business, offer, buyers, what counts as a win
-2. Knowledge base: linked text notes
-3. Log: what went out, how it did, what changed
-4. Rules file: what runs alone and what needs your approval
-5. Keys kept separately, jobs scheduled with cron
+One way is to copy a human content team. Research bots scan for posts that did unusually well and send a morning report of ideas. Creation bots challenge your ideas, write hook variations and check every claim. Tracking bots report daily impressions and which posts did best
 
-### Examples
+Keep each bot's job narrow, because mixing 2 or more jobs makes quality drop fast. Run only 3 to 4 bots at a time, or you'll use up your usage limit
 
-- **The writer bot that wasn't good enough:** One creator built a bot to write posts for X, but says it wasn't that good and they still prefer to write the copy by hand.
-  <br>*Why it works:* Bots are strongest at research, scouting and tracking. The copy still needs a human.
+Keep one text file per bot with its tasks, your voice, and dos and don'ts. Every time something doesn't sound like you, update that file
 
-### Common mistakes
+### Rules that keep you safe
 
-- One giant assistant with one endless prompt.
-- Mixing 2 or more jobs in one bot.
-- Running too many bots on daily routines and burning your usage.
-- Letting agents publish, reply, email or spend money without approval.
-- Building bots before the context, voice document and pillars exist.
-- Not saving corrections, so the same mistake repeats.
+Research, drafts and reports can run without asking. Anything that is posted, emailed or costs money waits for your OK. Passwords, payments and account settings stay with you
+
+Keep a log of what each bot did, and save your corrections so the next run uses them. Bots work best at research, scouting and tracking, and the copy still needs a person
+
+Spend time learning content yourself, or the system will make slop (low-quality filler)
+
+**Example: The writer bot that wasn't good enough**
+
+Say you build a bot to write your posts, and the posts come out flat. You use it for research and ideas instead, and write the copy by hand
+
+*Why it works:* Bots do best at research, scouting and tracking. The copy still needs a person
+
+### Mistakes to avoid
+
+- one giant assistant with one endless prompt
+- mixing 2 or more jobs in one bot
+- letting bots publish, reply, email or spend money without approval
+- building bots before the context, voice document and pillars exist
 
 ### Try it
 
-Write a one-page brief for an AI helper: what you make, who it's for, what counts as a win, 5 dos and 5 don'ts, and a rules list of what it may do alone and what needs your OK. Then give it one narrow job, such as finding 5 posts worth replying to.
+Write a one-page brief for an AI helper: what you make, who it's for, what counts as a win, 5 dos and 5 don'ts, and what it may do alone and what needs your OK. Then give it one narrow job, such as finding 5 posts worth replying to
 
 [Back to the top of this module](#top) · [All modules](../README.md#contents)
 
@@ -736,49 +617,43 @@ Write a one-page brief for an AI helper: what you make, who it's for, what count
 
 *9 min read*
 
-> **The big idea:** A personal brand team changes as the audience grows: you start alone, then hire one person to run content, then one person per platform, and later split ideas from production and media from marketing. Know which level you're at and hire the next role at the right time.
+> **The big idea:** A personal brand team changes as your audience grows: you start alone, then hire one person to run content, then one person per platform, and later split ideas from production. Know which level you're at and hire the next role at the right time
 
-### The 5 levels (by total followers across all platforms)
+### The 5 levels
 
-- Level 1, solo creator (0 to 100,000 followers): you have no team. Make the best content you can, set a schedule you can keep, and get plenty of practice. You can't learn to surf from a book.
-- Level 2, content manager (100,000 to 500,000): hire one creative director or content manager who approves everything, so the founder never has to look at another video.
-- Level 3, channel owners (500,000 to 1 million): the content manager can't be the one who slows everything down. Give each platform its own owner, or give one owner a pair of similar platforms.
-- Level 4, split ideas from production (1 million to 3 million): the people who come up with ideas are not the people who make them. Hold weekly ideation meetings.
-- Level 5, separate media from marketing (3 million to 10 million): the media side grows the audience and the marketing side makes the money.
+The levels follow your total followers across all platforms. The numbers are a rough guide
+
+1. Solo creator (0 to 100,000): you have no team. Make the best content you can and set a schedule you can keep
+2. Content manager (100,000 to 500,000): hire one person who runs content and approves everything, so you never have to look at another video
+3. Channel owners (500,000 to 1 million): give each platform its own owner, so the content manager doesn't slow everything down
+4. Split ideas from production (1 million to 3 million): the people who come up with ideas are different from the people who make the content
+5. Separate media from marketing (3 million to 10 million): the media side grows the audience and the marketing side makes the money
 
 ### What a content manager does
 
-- A content manager has 5 jobs. 1) Ideas: they own all the topics, angles, scripts and frameworks, pulled from the founder's own views. 2) Capture: they hold the camera. 3) Production: they clean the content up for every platform. 4) Distribution: they get it onto every platform. 5) Analytics review: they run the reporting rhythm from the earlier lessons.
-- Let them own it. One founder's brief to their media lead was: "Here are my social platforms, you figure it out."
-- One claim is that 90% of CEOs get stuck at this level because they can't find someone they trust.
-- One story: a founder called a media lead in 2023 to go all in. The lead moved 4,000 km and set up a studio. They started with 2 people, the lead and one editor, and the team grew to 17 full-time people.
+A content manager owns the whole routine: ideas, filming, preparing the content for every platform, posting it, and reviewing the numbers
+
+Let them really own it. Your brief can be as short as: here are my platforms, you figure it out
+
+Many founders stay stuck at this level because they can't find someone they trust
 
 ### Channel owners
 
-- One person runs each platform day to day: ideas, production, distribution, analytics, and notes on what to change.
-- Start by pairing similar channels. One team's first 4 owners covered Instagram plus Facebook, YouTube Shorts plus TikTok, YouTube long videos, and LinkedIn plus Twitter plus email. Today, they have one owner per platform.
-- Give each owner clear weekly goals and let them own the calendar, topics and packaging (the title, thumbnail and opening). If they miss their goals, the content lead has a serious talk. The result on the other end is their doing, not yours.
-- One view is that with AI, one person per platform can run the whole cycle in 40 hours a week.
-- Instead of having three editors all making Instagram content, give one person Instagram as their full-time job, including ideas and strategy. You stay a sounding board and focus on how that platform fits the whole brand, where you have the most context. Nobody is the expert on every platform. It's pretty audacious to think you should run everything.
-- Teams now hire a head for each platform, such as Instagram, YouTube or X.
+One person runs each platform day to day: ideas, production, posting, numbers, and notes on what to change
 
-### Other ways to build a team
+Start by pairing similar platforms, for example one owner for Instagram and Facebook, and one for YouTube Shorts and TikTok. Later, give each platform its own owner
 
-- A founder's three phases. Phase 1: a virtual assistant and a video editor, which suits a founder who still writes scripts alone. Phase 2: a creative director or content manager who owns the whole engine. Hire them as soon as you can, ideally in the first year, so you aren't what slows everything down. Phase 3: owners of each workflow, such as production, Instagram, YouTube, LinkedIn, email, SMS and ads.
-- Another way is to build the team around each stage from content to revenue. Creators are the writers for X and LinkedIn and the video editors for YouTube, Instagram and TikTok. Distributors include the social media manager, a "chief distribution officer". Strategists handle data, titles, packaging, thumbnails, where conversions come from, input from the sales team on what to make next, and shoot planning.
-- Don't hand everything off and ignore it. The founder stays as "chief detail officer", giving the final green light on topics and vetoing anything that doesn't fit the brand.
-- Another team grew in phases. Phase 1: the founder is the face of the brand. Phase 2: a copywriter or head of content, a short-video editor and a creative director. Phase 3: groups of 10 to 20 people per channel.
-- Some build lean teams with 3 key roles and automations for most of the rest. One creator says a solid content team costs about \$40,000 a month. There's also a "follow-the-sun" idea: drafts reviewed in Australia's morning, visuals in Asia, edits in Europe, writing and posting in the US.
-- At its peak, one big creator brand had about 30 core team members and about 150 in the creative team, but more didn't always mean better, and a smaller team performed better.
-- One YouTube strategist built a small team of strategists. Young strategists are often very good but don't yet understand limits and what's realistic to make. Creators can hire editors and thumbnail designers earlier now, but they should still have the basic skills themselves, or a team member who covers each one.
+Give each owner clear weekly goals and let them own the calendar, topics and packaging. The results belong to them
+
+You stay someone they can talk ideas through with, and you focus on how each platform fits the whole brand
 
 ### Specialists or people with many roles?
 
-- One approach, from a team with 10 million followers: split the team into short video, long video and writing (tweets, LinkedIn, email), so people become specialists.
-- Another approach: train each person for several roles. With AI, the thumbnail designer can also edit and schedule. One role per person is a mistake seen in media companies, because fewer roles means fewer lines of communication.
-- Both views come from the same team. What they share: clear owners, with each owner able to do more thanks to AI.
+Some teams split people into short video, long video and writing, so each person becomes an expert in one thing
 
-### Frameworks
+Others train each person for several roles. With AI, one person can design thumbnails, edit and schedule, and fewer roles means fewer people to coordinate
+
+Both approaches share the same thing: clear owners for every job
 
 **The 5 levels of a personal brand team**
 
@@ -788,33 +663,16 @@ Write a one-page brief for an AI helper: what you make, who it's for, what count
 4. Split ideas from production, 1 million to 3 million
 5. Separate media from marketing, 3 million to 10 million
 
-**Creators, distributors and strategists**
+### Mistakes to avoid
 
-1. Creators: writers and editors
-2. Distributors: the people who get content onto every platform
-3. Strategists: data, packaging, what to make next
-4. Founder: the chief detail officer with the final green light
-
-### Examples
-
-- **The first 4 channel owners:** One team's first owners covered Instagram plus Facebook, YouTube Shorts plus TikTok, YouTube long videos, and LinkedIn plus Twitter plus email. Later each platform got its own owner.
-  <br>*Why it works:* Pairing similar platforms lets a small team cover everything before it can afford one owner each.
-
-### Common mistakes
-
-- The founder or content manager becoming the person who approves everything and slows the team down.
-- Never finding someone to trust, so the brand stalls at level 2.
-- Handing everything off and ignoring it.
-- Assuming a bigger team is always better.
-- Hiring before you have the basic skills to judge the work.
-
-### Where the sources disagree
-
-Some say that at level 2 the founder should never look at another video and just tell the content manager "you figure it out". Others say the founder must stay as chief detail officer with the final green light on topics. Team size splits too. Some built big teams of 17, 18 or groups of 10 to 20, while others argue for lean teams with 3 key roles, and one saw a smaller team perform better. The same team teaches both specialists and one person in many roles.
+- the founder or content manager approving everything and slowing the team down
+- never finding someone to trust, so the brand stalls at level 2
+- handing everything off and never checking the results
+- assuming a bigger team is always better
 
 ### Try it
 
-Write down which of the 5 levels you're at, by followers. List the jobs (ideas, capture, production, distribution, analytics) and write who does each one today. Circle the one job you should hand off first.
+Write down which of the 5 levels you're at, by followers. List the jobs (ideas, filming, production, posting, numbers) and write who does each one today. Circle the one job you should hand off first
 
 [Back to the top of this module](#top) · [All modules](../README.md#contents)
 
@@ -822,87 +680,63 @@ Write down which of the 5 levels you're at, by followers. List the jobs (ideas, 
 
 <a id="m9-l11"></a>
 
-## 9.11 Hiring and running team operations
+## 9.11 Hiring and running your team day to day
 
 *9 min read*
 
-> **The big idea:** Hire for taste and potential, and test people with paid tasks. Then run the team with one central hub, a clear definition of done and of quality, fast reviews and frequent check-ins.
+> **The big idea:** Hire for taste and potential, and test people with paid tasks. Then run the team with one central hub (one place for all the work), a clear definition of done, fast reviews and frequent check-ins
 
 ### Hiring
 
-- Your team sets the ceiling for your brand. Hire for taste and potential, and train for skill. Always run a paid test task before you hire. One A-player beats 3 B-players.
-- In the AI era, ask "how good were they before AI came out". Expect to spend five figures a month on AI usage if you want a serious setup. And don't hire anyone unwilling to learn AI tools.
-- Hire editors, designers and copywriters through test projects. Hold the standard, run clear one-on-one meetings with deadlines, and hold people to numbers. Move good people up and others down or off the team.
-- At scale, you hire someone who can hire someone.
-- The best personal brand team is built, not bought. One founder didn't find a media lead in some magic pond. They hired a hungry kid who didn't have the playbooks and invested in him.
-- If you don't trust your team to decide for you, maybe you hired wrong, or you lack good onboarding and training. Look into why.
+Your team sets how far your brand can go. Hire for taste (a good eye for what is good) and potential, and train for skill
 
-### How to run the team day to day
+Always run a paid test task before you hire. One top performer is worth more than 3 average ones
 
-- Use one central hub, such as Notion. It's only as good as the team using it. A view that shows each editor's percentage complete is helpful.
-- Use Slack for day-to-day messages and WhatsApp for urgent ones.
-- Have several touch points a week, from 3 meetings a day to 3 every other day. One weekly call is fighting an uphill battle.
-- Make sure everyone knows who to go to when something breaks, so the head of content stops putting out fires.
-- Write down a definition of done (what a finished piece must include) and a definition of quality (how good it has to be). Then use a fixed chain: the editor makes version 1, a peer reviews it, the founder reviews it, and version 3 ships. This fixed a client's review loop that had been stuck for months.
-- Review quickly. Long one-on-one calls early on pay off later.
+Don't hire anyone who is unwilling to learn AI tools. If you don't trust your team to decide for you, you may have hired the wrong people, or you lack good onboarding (teaching new people how things work)
 
-### Run the work on paper
+### One hub and regular check-ins
 
-- Write down the steps for ideas, writing, editing, packaging and posting, plus a voice document and a swipe file. Run the pipeline from ideas to production, review, publish and report on a kanban board.
-- Production has one job: to help the viewer understand. Any production that doesn't do that is wasted. The best editing and design often go unnoticed because they don't distract.
-- For short video shoots, sit down with all the short-video scripts and use question-based prompting. That means asking the person on camera questions to lead them, instead of handing them lines or a teleprompter.
-- One team's tools: frame.io for notes on videos, Google Drive and a shared slide deck for hackathon entries, Zoom, and Slack for owning flops in public.
+Use one central hub, such as Notion, for all the work. Use a chat tool like Slack for day-to-day messages
 
-### A machine for working with many creators
+Have several short check-ins a week. One weekly call is not enough
 
-- One agency owner hired over 60 creators at once through a creator marketplace (about \$299 per month), with no calls and no portfolios, just a brief. UGC means content made by creators for a brand to use.
-- They spent close to \$100,000 in 3 months and say they got about 5 times that back. They let go of 5 to 10 creators a week until 15 top performers remained. Top performers show themselves when formats are proven and instructions are followed.
-- They also claim 100 million or more views from that team, and 150 million views in 3 months overall.
-- A beginner version: hire 1 to 2 creators at about \$600 per month each, let go of weak ones quickly and have replacements ready.
-- Hand creators everything: daily scripts, all assets, examples from other creators and a content calendar. Your creators don't owe you anything, you owe them everything. Your job is to find viral formats and show exactly how to copy them.
-- Culture keeps creators. The owner claims that studios with over \$100 million in funding tried to poach their creators with more pay, and they stayed.
+Make sure everyone knows who to go to when something breaks, so the head of content stops spending the day fixing urgent problems
+
+### Define done and quality
+
+Write down a definition of done (what a finished piece must include) and a definition of quality (how good it has to be). Without them, reviews loop forever
+
+Then use a fixed review chain, so a piece doesn't bounce back and forth:
+
+1. The editor makes version 1
+2. A peer reviews it
+3. You review it
+4. Version 3 ships
 
 ### Check in below your managers
 
-- One leader, when scaling, handed management to managers they trusted and walked away with no formal check-in. Some managers gave poor feedback, came late to one-on-ones or weren't present. Problems stayed hidden until they boiled over, and the leader lost the trust of people they had promised it would be great.
-- The fix is skip-level one-on-ones: meet the people below your managers and ask what their managers do well, what confuses them and what isn't going well. Ignore the natural complainers, but act on red flags such as "my manager never shows up to my one-on-ones".
-- Loyal teams won't "rat" on a manager, so earn trust through regular check-ins. Every two weeks or every month is enough. New hires have fewer touch points with you, so build trust before they'd ever raise a problem.
-- A tip: managers who only report good news are a red flag, so go a layer deeper. Managers who tell you about weird interactions or questions they couldn't answer are the ones you don't need to worry about.
-- If you rely only on feedback from the top down, you'll have blind spots.
+When you hand management to managers, still meet the people below them, once every month or two. Ask what their manager does well and what isn't going well
 
-### Frameworks
+Problems stay hidden if feedback only travels top down. Act on warning signs such as "my manager never turns up to my one-on-ones"
 
-**The review chain**
+Build trust early with new hires, so they feel safe raising a problem later
 
-1. Write down what done means and what quality means
-2. The editor makes version 1
-3. A peer reviews it
-4. The founder reviews it
-5. Version 3 ships
+**Example: A stalled review loop**
 
-### Examples
+Say an editor's videos go back and forth for weeks. You write what done and quality mean, then set a chain of editor, peer and you, with version 3 shipping
 
-- **The stalled review loop:** A client's review loop had stalled for months. They fixed it by writing a definition of done and of quality, then setting a fixed chain: editor, peer, founder, with version 3 shipping.
-  <br>*Why it works:* Clear standards and a fixed number of rounds stop endless revisions.
-- **60 creators down to 15:** The agency owner hired over 60 creators with only a brief, let go of 5 to 10 a week, and kept 15 top performers.
-  <br>*Why it works:* With proven formats and clear instructions, the best performers show themselves quickly.
+*Why it works:* Clear standards and a fixed number of rounds stop endless revisions
 
-### Common mistakes
+### Mistakes to avoid
 
-- Hiring without a paid test task.
-- Having one weekly call as the only touch point.
-- No definition of done or quality, so reviews loop forever.
-- Blaming editors when the system is the problem.
-- Delegating to managers and never checking below them.
-- Giving creators a vague brief instead of scripts, assets and examples.
-
-### Where the sources disagree
-
-Some say you need several touch points a week, and that one weekly call is an uphill battle. Others warn that every 30-minute meeting can cost a creative 1.5 hours of focus, and protect maker days with no meetings. Both want fast feedback. They differ on how much meeting time it takes.
+- hiring without a paid test task
+- relying on one weekly call as the only check-in
+- no definition of done or quality, so reviews loop forever
+- delegating to managers and never checking below them
 
 ### Try it
 
-Write a definition of done and a definition of quality for one type of content you make, 5 lines each. Then write your review chain: who checks it, in what order, and which version ships.
+Write a definition of done and a definition of quality for one type of content you make, 5 lines each. Then write your review chain: who checks it, in what order, and which version ships
 
 [Back to the top of this module](#top) · [All modules](../README.md#contents)
 
@@ -910,96 +744,64 @@ Write a definition of done and a definition of quality for one type of content y
 
 <a id="m9-l12"></a>
 
-## 9.12 Lead creatives, don't control them
+## 9.12 Lead your creative team instead of controlling it
 
 *9 min read*
 
-> **The big idea:** The more you control how your team works, the fewer good ideas they bring you. A good leader sets the vision and decides what needs to be done, then lets the team decide how.
+> **The big idea:** The more you control how your team works, the fewer good ideas they bring you. A good leader sets the vision (where you're going) and decides what needs to be done, then lets the team decide how
 
-### Where these lessons come from
+### Teach your team instead of controlling it
 
-- They come from one media leader, who says they built an in-house media team from zero to 18 full-time people in two and a half years. They say the team produced 350 pieces of content a week and billions of impressions every year. These are their own claims.
-- The starting idea: your media team probably doesn't hate deadlines, data and structure. They hate the way they're being managed.
-- The lessons are 5 mindset shifts, then 5 leadership principles.
+The more you control the process, the more you hold back new ideas. Say one manager comes up with every video idea, and after a while the team only makes small variations and the numbers drop
 
-### Shift 1: training isn't about control
+The fix is to stop pitching for two weeks and teach the team how to do the brief, the title and the outline themselves. You can't grow alone, so build a system and a culture that multiply you
 
-- The more you control the process, the more you stifle creativity and new ideas.
-- Here's a story. A brilliant manager came up with every long video idea, did the research, wrote the title, thumbnail and outline, and pitched everything. Results were good at first, then the team plateaued: no new ideas, only small variations, and the numbers dropped.
-- The leader told the manager to pitch no new ideas for two weeks and instead teach the team to do the brief, concept, title, thumbnail and outline. The result was many new formats that worked, a team that could now do it, and a manager freed up for bigger projects.
-- The point is that you don't need a fully top-down strategy. Equip the team to build one from the bottom up. You can't scale alone, so build a system, a process and a culture that multiply you.
-- A warning: this isn't everyone sitting around a campfire, and not every idea is good. Some people pitch every time and work hard, but ideas aren't their skill, and they're better as a videographer or an editor. Know each person's strengths and use them. Not everyone should contribute ideas, but help the ones who are good at it.
-- Make it safe to keep pitching, even after one idea is turned down, so people come back again and again.
-- Nobody is the expert on every platform. It's pretty audacious to think you should run everything.
+Not everyone should pitch ideas. Know each person's strengths, and help the ones who are good at it keep pitching, even after one idea is turned down
 
-### Shift 2: managing isn't leading
+### Managing and leading are different jobs
 
-- Managing means reaching a goal by telling people exactly what to do. Leading means casting a big vision, being clear on deadlines and expectations, sharing the mission and values of the project, and giving people tools to take ownership instead of just doing tasks.
-- Here's a story. On a high-stakes campaign for a large platform company, the leader's instinct was to control the concept, the shot list and the script. Instead, the leader brought in the creative director, the director of photography and the lead editor, shared the vision, the importance, the budget and the timeline, and let them decide the concept, shot list, gear and talent.
-- In the leader's words, the result was far better than anything they would have come up with on their own, and people commented on the ads asking for more ads.
-- The leader still checked in along the way (for example, "did we factor in the wind?") but didn't micromanage. The message to the team was: I trust you.
-- A useful phrase is "checking on, not checking in". Ask how they're doing, what the status is, and what roadblocks you can remove. Don't ask about the lighting, the framing or the frame rate.
+Managing means telling people exactly what to do. Leading means sharing the vision, the deadlines, the budget and why the project is important, then letting people decide how to do it
 
-### Shift 3: going from doer to leader changes who you are
+Check on the person, and leave the work to them. Ask how they're doing and what is in their way. Don't ask about the lighting or the framing
 
-- This may be the hardest shift, because you have to change where you get your sense of value. This leader was known for high personal output, like 8 short videos in a day or a video edited in 24 hours. After becoming a leader, their output became the team's output and the shoutouts stopped. They felt down for a while.
-- The reframe: take internal credit when your team gets the shoutouts, because you built the environment that allows it.
-- Let go of perfectionism and rely on coaching, mentoring and training. People won't do it your way. Most creative choices are subjective, so unless you have a strong preference, go with the editor's choice.
-- Try ending each day by asking, not "what did I get done?" but "what did my team get done, what roadblocks did I remove, and what context did I give that led to a breakthrough?"
+### Ownership grows people
 
-### Shift 4: ownership grows people
+Give ownership to the people who are ready for it, such as reviewing all short videos. The more ownership you give to the right people, the more they give back, and you get time to think further ahead
 
-- Here's a story. The leader was reviewing every short video, a couple of hundred a week, which became absurd. One editor was growing into a leader who understood short videos as well as the leader or better and could train others. The leader gave that editor the review of short videos.
-- The editor became more engaged, grew into a leader, and a few months later was promoted to manager with people reporting to them, at 22. The more ownership you give to the right people, the more they give back. It also freed the leader to think 3, 6, 12 and 36 months ahead.
-- You can make ownership bigger or smaller: a whole campaign, a whole shoot, or just the sound (watching audio levels) or the lighting.
-- Have the team come up with the strategies, the game plan and the agenda, and bring them to you for review. That is a perfect moment for informal training.
+Ownership can be big or small: a whole campaign, or just the sound. Let the team build the plan and bring it to you for review
 
-### Shift 5: creatives do care about business results
+Creatives care about business results once they see how their work leads to them. Share the data on what content sells, not only likes and views
 
-- A common myth is that creatives only care about artistic integrity, not conversions or revenue. The view here is that they care a lot once they know how their work leads to results. If they don't care, you probably haven't shown them how their work drives revenue.
-- Here's a story. A company pushed monthly seminars. Before there was reporting, the team didn't care. For a documentary piece, the team first worked with marketing and sales to add tracking from organic content to sales. The video sold out a whole month of seminars. The editor felt hugely fulfilled, and the rest of the team started thinking about how their content could sell seminars.
-- The leader claims that 99% of teams only report platform analytics, not the bigger business picture.
-- The fix is to share the data. Show how organic content drives profit and how paid campaigns raised sales, so the team thinks about results and not only likes, views and comments.
+### Your own job changes
 
-### Five leadership principles
+Going from doer to leader is hard, because your output becomes the team's output. Feel proud when your team gets the credit, because you built the setup that allowed it
 
-- 1) Lead with empathy, not authority, and balance structure with freedom. Set clear expectations and allow independence inside them: you define the what and let your team define the how.
-- 2) Encourage ownership. Don't build a checklist army, build an army of problem solvers. Give people ownership of key projects, let the creative set the goal, strategy and solutions, and you guide.
-- 3) Be humble and give the team the credit. People who hoard credit kill motivation. Praise publicly on team calls and give criticism privately.
-- 4) Debate less and do more. When you and a creative disagree, unless it would hurt the brand, go with their idea, because your view is likely subjective, and then see what the audience thinks. The leader says they were wrong more often than not. Still state your opinion on the record, so if it turns out right the team trusts it more next time. Or A/B test both ideas (publish two versions and compare) instead of debating, and use the results for future decisions.
-- 5) Love data, don't fear it. Many creatives distrust data because it was only ever used to tell them what they did wrong. Be the one who shows data is empowering, for example with a weekly call about watch time and average view duration and what they mean for how scripts are built.
+Let go of perfectionism. People won't do it your way, and most creative choices are down to personal taste. Unless you have a strong preference, go with the editor's choice
 
-### Frameworks
+### Five principles
 
-**Managing vs leading**
+1. Lead with empathy, and set clear expectations with freedom inside them
+2. Encourage ownership, so the team solves problems instead of following a checklist
+3. Give the team the credit, praise in public and give criticism in private
+4. Debate less and test more: when you disagree, go with their idea unless it would hurt the brand, or publish both versions and compare
+5. Love data, and show the team it helps them instead of only telling them what they did wrong
 
-1. Cast the vision and share the mission, budget, timeline and why it matters
-2. Let the people closest to the craft decide how to do it
-3. Check on how they're doing and what's blocking them, not on the lighting or the framing
-4. State your opinion on the record, then A/B test instead of debating
-5. Share business data so the team sees how their work leads to results
+**Example: Check on the person**
 
-### Examples
+Instead of asking an editor "why is the frame rate 24?", you ask "how are you doing, and what's in your way?"
 
-- **The manager who pitched everything:** One manager came up with every idea and the team plateaued. The leader made the manager stop pitching for two weeks and teach the team to pitch instead.
-  <br>*Why it works:* The result was new formats that worked, a team that could do it, and a freed-up manager.
-- **The big campaign:** Instead of writing the concept and shot list, the leader gave the creative director, camera lead and editor the vision and budget, and let them decide.
-  <br>*Why it works:* The ads were so good that people commented asking for more ads.
+*Why it works:* This shows trust, and the editor keeps ownership of the work
 
-### Common mistakes
+### Mistakes to avoid
 
-- Pitching every idea yourself and calling it leadership.
-- Checking lighting and framing instead of checking on the person.
-- Asking everyone to pitch ideas when ideas aren't their skill.
-- Only reporting platform analytics and never the business result.
-
-### Where the sources disagree
-
-Some leaders say you define the what and let the team define the how, and go with the creative's idea when the choice is subjective. Others, on a different team, critique the keyframes (the key moments) in editors' videos, because the outcome counts for more than their feelings. Both run big teams, so the line sits between what must be exact and what is down to taste.
+- pitching every idea yourself and calling it leadership
+- checking lighting and framing instead of checking on the person
+- asking everyone to pitch ideas when ideas aren't their skill
+- only reporting platform numbers and never the business result
 
 ### Try it
 
-Write down one task you still control that a team member could own. Write the vision for it in two sentences, then write the one question you'd ask them instead of checking the details.
+Write down one task you still control that a team member could own. Write the vision for it in two sentences, then write the one question you'd ask them instead of checking the details
 
 [Back to the top of this module](#top) · [All modules](../README.md#contents)
 
@@ -1007,77 +809,69 @@ Write down one task you still control that a team member could own. Write the vi
 
 <a id="m9-l13"></a>
 
-## 9.13 Safe to fail: flops, hackathons and training
+## 9.13 Safe to fail: bad results, hackathons and training
 
 *9 min read*
 
-> **The big idea:** Fear kills creativity and honesty. Build a team where a flop is nothing to hide, and train people by having them do the work, not by giving lectures.
+> **The big idea:** Fear kills creativity and honesty. Build a team where a flop (a post that did badly) is nothing to hide, and train people by letting them do the work instead of giving lectures
 
 ### Fear ruins a team
 
-- Leaders who use fear and micromanagement to force people to comply end up with the opposite of what they want.
-- When creatives are afraid to fail, they stick to the same thing, the work looks uninspired and engagement drops. Build a culture where failure is a stepping stone, not a career-ending mistake.
-- Fear also kills honesty. Afraid people still fail, but they hide it, and you want to know about big failures early, not when the project is done.
-- Many leaders accept experiments only when they win. If a failed experiment brings disappointment, people stop experimenting and make safe content they already know works. Then nothing new gets tried.
-- The same goes for big projects. If you micromanage, the result is worse, the team feels distrusted, and they make what pleases the boss instead of their best work.
+When creatives are afraid to fail, they stick to the same thing, the work looks uninspired and engagement drops
+
+Fear also kills honesty. Afraid people still fail, but they hide it, and you want to hear about big failures early, not when the project is done
+
+If a failed experiment brings disappointment, people stop experimenting and make only safe content. Then nothing new gets tried
 
 ### "We love a good flop"
 
-- Use a saying like "we love a good flop". It tells the team that it's okay to experiment and fail. Everyone in leadership has to buy in.
-- The leader goes first. One leader was the first to post in the team chat "this one flopped big time" about their own ideas. Soon the team started calling out their own flops too, like an editor who spent a full day on one high-energy short with graphics, sound design and music, and it flopped.
-- No finger pointing ("you didn't get a good clip") and no blame. In this team, morale went up and the team got tighter.
-- There's a limit. This doesn't mean a week of flops. If something keeps underperforming, look into it. Performance still counts, and you keep tracking the data.
+Use a saying like "we love a good flop". It tells the team that it's okay to experiment and fail
+
+The leader goes first. Post in the team chat about your own flops, and soon the team calls out theirs too
+
+No finger pointing and no blame. There is a limit though: if something keeps doing badly, look into it, because performance still counts
 
 ### Content hackathons
 
-- A hackathon is a whole day devoted to making things the team doesn't normally make. The goal is to try new things, not to get results. It's a way to run the experiment part of a 70/20/10 split: 70% proven content, 20% variations and 10% experiments.
-- The first version of this team's hackathon had the wrong reward. The team posted everything during the week, and the winner was whoever got the most impressions in the first 48 hours, with a \$150 to \$200 gift card. That rewarded playing it safe. Competitive people made what they thought would get impressions, not the most innovative thing.
-- Here's how it runs now. It's usually on a Thursday or Friday, every quarter (monthly is hard for teams with lots of output). It's a fully blocked day with no normal projects.
-- About 10 days before, message the team to reschedule meetings and clear their workload with their manager, almost as if it were a vacation. If one or two people work on tomorrow's edit during the hackathon, it creates a strange dynamic and signals that the hackathon isn't a priority.
-- On the Monday before, explain what it is and why. The pitch: make what you've wanted to make but feared because you didn't know how it would perform. "This could be our lowest performer ever, we might not even post it, and that's fine."
-- On the day, hold a 9:00 a.m. kickoff call to go over the rules. Then everyone has from 9 to 4 (7 hours) to work on anything. The leader sends food gift cards or orders lunch so nobody has to think about it.
-- At 4 p.m., everyone stops creating and has 15 minutes to upload their piece to Google Drive and add it to a shared slide deck, one slide per person.
-- Each person presents their piece and explains why it's a compelling new form or format. It's also valuable when someone explains "three quarters of the way through, I realized this wouldn't work" and what they learned.
-- The winner is chosen by an anonymous live team vote on the most innovative and experimental piece that is still right for the brand (an educational tax brand doesn't need an unrelated music video). Peers know best what's different from someone's usual work.
-- Team members often have an itch they're afraid to scratch. The hackathon removes that lingering thought.
+A hackathon is a whole day for making things the team doesn't normally make. The goal is to try new things, and results come second
+
+Run it every quarter as a fully blocked day with no normal projects. Tell the team about 10 days before, so they can clear their workload
+
+The pitch: make what you've wanted to make but feared because you didn't know how it would perform. It might be your lowest performer ever, and that's fine
+
+Give everyone about 7 hours to make anything. At the end, each person shares their piece and what they learned, even if it didn't work
+
+Pick the winner with an anonymous team vote on the most experimental piece that still fits the brand. Don't reward the most views, because that pushes people toward safe ideas
 
 ### Feedback and training
 
-- Give feedback throughout a project, not only at the end. One leader used to give total independence with no check-ins and kept finding big problems near the final edit. On a sensitive four-week vlog, they set four weekly check-ins, and in week 2 they caught a moment the person on camera wouldn't want, which the editor was making the heart of the story. The lesson: check in more often.
-- Hands-on training beats passive presentations. Creatives learn best by doing, and 15 to 20 minutes into a Zoom training they squirm. A workshop works better. Give a team of short video editors the same footage, then go through each edit one by one, with everyone saying what was good, what could change and what was missed.
-- Don't answer problems right away. Ask "how would you approach this?" If they say "I don't know, that's why I'm asking", ask what they'd do if you were on vacation or unreachable. Instead of "use this transition", ask "what transition pairs scene one with scene two best?" This builds problem solving and confidence, and they start bringing solutions, not problems.
-- Give others a chance to lead. Hold a monthly team training where a team member in rotation gives a 30-minute talk on something they love and know well, such as storytelling, sound design or motion graphics. They learn more by teaching, the team levels up, you find hidden skills (people often don't tell leadership everything they can do), and you invest in their communication skills.
-- One claim is that communication is the most important creative skill. Creative skill is a commodity now, because there are a million great editors, but if you communicate your ability to craft a story better, you win.
-- If someone says "I don't do public speaking", don't let them opt out, but give plenty of notice (a week is awful). Don't remove their fear for them. Train them: show how you build a talk and how many times you rehearse. Do it 20 times and you're less nervous.
+Give feedback throughout a project, not only at the end. Say you check in each week on a four-week project, and in week 2 you catch a problem that would otherwise be found only in the final edit
 
-### Frameworks
+Hands-on training works better than long presentations. Give your editors the same footage, then go through each edit one by one: what was good, what could change, what was missed
+
+Don't answer problems right away. Ask "how would you approach this?" They learn to bring solutions, not only problems
+
+Let team members take turns giving a short talk on something they love. They learn by teaching, and you find skills you didn't know about
 
 **How to run a content hackathon**
 
 1. Hold it every quarter, as a full blocked day with no normal projects
-2. 10 days ahead: clear workloads and explain that the goal is trying new things, not results
-3. 9 a.m. kickoff, then 7 hours to make anything
-4. 4 p.m.: upload to a shared deck, one slide per person
-5. Each person presents, then the team votes anonymously on the most innovative piece
+2. 10 days ahead: clear workloads and explain that trying new things is the goal
+3. Give everyone about 7 hours to make anything
+4. Each person presents what they made and learned
+5. The team votes anonymously on the most experimental piece that fits the brand
 
-### Examples
+### Mistakes to avoid
 
-- **The flopped short:** An editor spent a full day on a high-energy short with graphics, sound design and music. It flopped, and the editor called it out in the team chat.
-  <br>*Why it works:* The leader had modeled it first by announcing their own flops.
-- **The four-week vlog:** Four weekly check-ins caught, in week 2, a moment the person on camera wouldn't want as the heart of the story.
-  <br>*Why it works:* Without the check-in, the problem would have shown up near the final edit.
-
-### Common mistakes
-
-- Rewarding the most impressions in a contest that's meant to encourage new ideas (the first version of one hackathon).
-- Letting people work on normal projects during the hackathon.
-- Pointing fingers at a flop.
-- Giving one big review at the end of a sensitive project.
-- Running long passive presentations as training.
+- rewarding the most views in a contest meant to encourage new ideas
+- letting people work on normal projects during the hackathon
+- pointing fingers at a flop
+- giving one big review at the end of a sensitive project
+- running long passive presentations as training
 
 ### Try it
 
-Write the date of one hackathon day next quarter and the vote rule you'd use to pick the winner.
+Write the date of one hackathon day next quarter and the vote rule you'd use to pick the winner
 
 [Back to the top of this module](#top) · [All modules](../README.md#contents)
 
@@ -1089,74 +883,68 @@ Write the date of one hackathon day next quarter and the vote rule you'd use to 
 
 *9 min read*
 
-> **The big idea:** A team follows a leader who gives them credit, shields them from stress, cares about them as people, and lets them grow without forcing them into management.
+> **The big idea:** A team follows a leader who gives them credit, protects them from stress, cares about them as people, and lets them grow without forcing them into management
 
-### Build your team's name inside the company
+### Give your team credit
 
-- Make them the stars, not you. A good leader gives credit and makes the team look better. Praise them in company-wide meetings and in one-on-ones with the CEO or founder.
-- Don't just say "my team is killing it". Name who made what impact. For example (made up): "Maya went above and beyond on this edit. We had last-minute revisions Thursday night for a Friday morning upload, she didn't complain, got it done, and it became one of our best videos with far less hand-holding."
-- Without this, executives who rarely see the team just know them as names on a page, another cell in a spreadsheet. It's your job to change that, because you meet the CEO more often than they do.
+Make them the stars. Praise them in company-wide meetings and in one-on-ones with the CEO or founder
 
-### Be their advocate and shield
+Don't just say "my team is killing it". Name who made what impact
 
-- In one company, the creative director absorbed all the blunt feedback from executives, and none of it reached the editor. At other companies, editors had CEOs yelling at them.
-- Executives usually aren't bad people. They have high expectations, move fast and communicate in their own way. Absorb the tough feedback and pass it on in a way that excites and empowers people instead of frightening them.
-- Creatives do well with consistency and psychological safety (feeling safe to speak and make mistakes). Constant changes of direction or aggressive pushback cause whiplash and disengagement. Tough feedback is fine, but mean delivery works far less well.
-- Here's a trick. If an executive walks into the edit room in an aggressive mood, say "can we walk to the break room to talk about this video?" That gives the creative room to spend energy on the work instead of wondering whether they're about to be fired.
+Say (made up): "Maya did far more than expected on this edit. We had last-minute revisions on Thursday night, she got it done, and it became one of our best videos"
+
+Without named credit, executives who rarely see the team just know them as names on a page
+
+### Protect your team
+
+Take in tough feedback from executives, and pass it on in a way that gives people confidence instead of frightening them
+
+Creatives do well with consistency and psychological safety (feeling safe to speak and make mistakes). Constant changes of direction or aggressive pushback make them lose interest
+
+If an executive walks in angry, say "can we walk to the break room to talk about this video?" That gives the creative room to focus on the work
 
 ### Care beyond the work
 
-- People do their best work when they're valued as humans. Pay attention to what they care about. If they love pickleball, buy a racket or a coffee gift card for a birthday or work anniversary.
-- When someone is sick, send soup or juice if the budget allows, or send a kind message. It removes the worry, especially for remote workers, that the boss thinks they're slacking. The payoff is excitement, loyalty and a team that sticks around.
-- Empathy means earning respect instead of demanding it. Check in with intention, not only about deadlines but about how people are doing, what they struggle with, what they enjoy and want more of, and how things are outside work (within boundaries). A grumpy person may have had a rough morning. That's not an excuse, but it's room for empathy.
-- When someone shares something painful, like a loss in the family, don't just ask if they can keep working. Tell them to take the time they need, unless working is how they cope, and give them real attention.
-- You have to actually care, because faked care is easy to spot. Some people push back on empathy at work, but high turnover is lost productivity, and keeping people improves the bottom line.
+People do their best work when they're valued as humans. Pay attention to what they care about, and check in on how they're doing, not only on deadlines
+
+When someone is sick or going through something painful, tell them to take the time they need. You get loyalty and a team that stays
+
+You have to actually care, because faked care is easy to spot
 
 ### Help people grow without forcing them into management
 
-- Many creatives, like designers, editors, motion designers, videographers and audio engineers, want more ownership, independence and responsibility in their own area, not management. Give them a seat at the table: ownership of post-production from the moment footage arrives to upload, or writing the editing playbook used to onboard new editors.
-- Offer two career tracks: one for individual contributors (for example, video editor levels 1 to 5, like developers have) and one for management. In most organizations the only way to get a raise is to become a manager. Two tracks give people a road map without forcing meetings on people who hate them.
-- Here's an example. An editor kept bringing process improvements, not shiny new ideas. The leader realized he didn't want to manage people. He liked being the go-to person for processes and playbooks. So he became senior editor, built all the post-production processes, oversaw edits and did first-pass reviews. Leadership isn't just about who manages people, it's about who sets the standard and who influences the team.
+Many creatives want more ownership in their own area but don't want to manage people. Offer two career tracks: one for people who do the work (like editor levels 1 to 5) and one for management
 
-### Lead by example and be open
+Say an editor keeps bringing ideas to improve your process, and doesn't want to manage people. Make that person a senior editor who builds the processes and does first reviews
 
-- Show, don't tell. One leader had a two-month stretch of being checked out and lazier, and the team started making simple careless mistakes too. A youth pastor once told a worship band that people won't do what you do, they'll do what you do times 10. If you show up 5 to 10 minutes late, your team may show up 30 to 60 minutes late.
-- Being open is your biggest asset. Leaders who pretend to have all the answers create distance. Nobody respects a manager who covers a mistake by claiming it was on purpose.
-- Be the first to call out your own mistakes. If a project underperforms, don't shift the blame. Analyze it, learn from it, apply it next time and share what you learned with the team.
+Leadership is also about who sets the standard, not only about who manages people
 
-### Three closing questions
+### Lead by example
 
-- Am I empowering and leading my team, or just managing them?
-- Am I creating a culture where people feel safe to take risks?
-- Am I leading by example and holding myself to the standard I hold the team to?
-- Leadership isn't about control. It's about creating the right conditions for the team to do well. The team needs clarity, trust and space, and great leadership means improving over and over.
+People do what you do, so show it. If you arrive 10 minutes late, your team may arrive 30 minutes late
 
-### Frameworks
+Be open about your mistakes. Nobody respects a manager who covers a mistake by claiming it was on purpose
+
+Be the first to call out your own, then share what you learned
+
+Ask yourself: am I giving my team freedom and support, am I making it safe to take risks, and do I hold myself to the standard I hold the team to?
 
 **Three principles of a leader worth following**
 
-1. Lead with empathy: earn respect, don't demand it
-2. Lead by example: the team does what you do, times 10
+1. Lead with empathy: earn respect instead of demanding it
+2. Lead by example: the team copies what you do
 3. Be open: own your mistakes first and share what you learned
 
-### Examples
+### Mistakes to avoid
 
-- **Naming the editor:** Instead of telling the CEO the team is killing it, the leader says exactly what one editor did and how she handled last-minute revisions.
-  <br>*Why it works:* Named credit makes people visible, not just names on a page.
-- **The process editor:** An editor kept bringing process fixes. The leader realized he wanted to be the person who sets the standard, not a manager, and made him senior editor.
-  <br>*Why it works:* Leadership is also about who sets the standard and who influences the team.
-
-### Common mistakes
-
-- Saying the team is doing great without naming who did what.
-- Passing executive anger straight on to the creatives.
-- Faking care.
-- Making management the only way to grow.
-- Covering a mistake by calling it a test.
+- saying the team is doing great without naming who did what
+- passing executive anger straight on to the creatives
+- faking care
+- making management the only way to grow
 
 ### Try it
 
-Write one sentence of named credit about a teammate that you could say to a founder this week. Include who did what and what happened as a result.
+Write one sentence of named credit about a teammate that you could say to a founder this week. Include who did what and what happened as a result
 
 [Back to the top of this module](#top) · [All modules](../README.md#contents)
 
@@ -1168,69 +956,77 @@ Write one sentence of named credit about a teammate that you could say to a foun
 
 *9 min read*
 
-> **The big idea:** Burnout comes more from unclear expectations and wasted effort than from a heavy workload. Protect your team's uninterrupted making time, and give them structure that is clear but flexible.
+> **The big idea:** Burnout (being worn out by work) comes more from unclear expectations and wasted effort than from a heavy workload. Protect your team's uninterrupted making time, and give them structure that is clear but flexible
 
 ### What burnout is and how to spot it
 
-- Burnout (also called work fatigue or career fatigue) happens to everyone. Creatives love a challenge, so push them right to the edge, not over it.
-- One claim is that the biggest cause is unclear expectations and rewards that point in different directions, more than a heavy workload. An example: rewarding people for views, then punishing them because conversions and sales aren't rising. Passionate creatives who are given too little work also check out.
-- A simple definition: burnout is a mix of no say in how you work, unclear expectations and a pace you can't keep up.
-- Warning signs: creativity declining, disengagement (camera off on Zoom more often, or on camera but not contributing), avoiding challenges, and emotional exhaustion, such as less control, quicker frustration, crying or high anxiety.
+Burnout happens to everyone. A simple definition: no say in how you work, unclear expectations and a pace you can't keep up
+
+An example of unclear expectations is rewarding people for views, then punishing them because sales aren't rising
+
+Warning signs are creativity declining, losing interest (camera off on calls, or on camera but not contributing), avoiding challenges, and being quickly frustrated or exhausted
 
 ### Make rest normal
 
-- If you as the leader never pause, your team won't either. Work never runs out, so take time off even when things are crazy.
-- Leaders can help by encouraging rest. If a team member who has worked for months without a day off asks for a long vacation with good notice, say yes and find a way to make it work, even if it feels scary at first.
-- Pushing at the red line all the time leaves no energy to come up with new ideas. A good baseline is 7 to 8 hours of sleep and a couple of weeks of vacation a year. One leader came back from their first proper vacation in 7 to 8 years full of ideas.
-- You can't decide how other people live, but younger people may not know how to pace themselves. Think of a marathon. If you sprint the first 5 miles, you're done.
+If you as the leader never pause, your team won't either. Take time off even when things are crazy
 
-### Fix wasted effort and protect making time
+If someone who has worked for months without a day off asks for a long vacation with good notice, say yes and find a way to make it work
 
-- Burnout is often caused by inefficiency, not by volume, so turn your workflows into clear systems. One claim: every 30-minute meeting can cost a creative 1.5 hours, which is 30 minutes of winding down or watching the clock before, and 30 minutes of getting back into flow after.
-- There's a difference between a maker schedule and a manager schedule. Makers move things forward by making, with deep focus. Managers move things forward through meetings. Most organizations run on the manager schedule, which leaves editors with gaps of only 15 to 30 minutes.
-- Here's one small business. Tuesday and Thursday are manager days with most of the meetings. Monday, Wednesday and Friday are blocked for making.
-- Here's one bigger company. Monday is a manager day, with back-to-back meetings from about 8:30 a.m. to 5:30 p.m. and one 15-minute break. On Tuesday, Thursday and Friday, 7 a.m. to 12 p.m. is maker time with no calls except emergencies, and 12 to 5 p.m. can be booked, with meetings pushed as late as possible (avoid a 12:30 meeting and then another at 4:00). Wednesday is a team-wide maker day: one-on-ones are allowed for feedback or brainstorming, but no meetings with more than two people, so nobody feels guilty about dropping their work.
-- One claim is that most creatives managed this way loved it and took the habit with them.
+Pushing at the limit all the time leaves no energy for new ideas. Younger people may not know how to pace themselves
 
-### Shiny objects and structure
+Think of a marathon: if you sprint the first 5 miles, you're done
 
-- Shiny object syndrome means chasing every new idea, which leads to scattered, inconsistent work. Teach people to choose well by showing them paths, not by giving orders.
-- Here's a story. A team's top short-video editor, a year in, wanted to move to YouTube long videos, because it looked exciting and the CEO valued it more. The leader laid out two paths. Path 1: stay in short videos, quickly become a senior editor and likely manage people while still young. Path 2: move to YouTube, where three strong editors are ahead of you, start at the bottom, and have a slim chance of a senior role. Or climb in shorts first and move later as a leader. Within a day or two the editor chose shorts, understanding that focus brings bigger results faster. The leader was also willing to give a top performer 6 months to try something new, to keep them engaged.
-- Too much structure stifles new ideas, and too little leads to disorder. The enemy of creativity is confusion. The more clarity people have, the more energy goes into creating. Set clear goals, share the mission and vision, and give people room to decide how.
-- It isn't one size fits all. A videographer crew working around a fast-moving entrepreneur lives in chaos, like last-minute flights or setting up a podcast in an office in 5 minutes. A big YouTube editing team needs more systems and process to hit deadlines. Even chaos should be organized: you need rules in place in order to break the rules. Hold your systems loosely, not religiously.
+### Protect making time
 
-### Creative guardrails
+Makers move things forward through deep focus, and managers move things forward through meetings. Most companies run on the manager schedule, which leaves editors with gaps of only 15 to 30 minutes
 
-- Limits fuel creativity when used well. Instead of "make this go viral" or "promote my new six-hour video on building a brand on YouTube", give a brief like "a mashup of me talking about how to build a brand, only using podcast moments".
-- Another example of a limit: the person on camera can't film for a month and there are no new videos for four YouTube slots, so the team makes themed mashups from past footage.
+One claim is that a 30-minute meeting can cost a creative 1.5 hours, because of the winding down before and the getting back into focus after
 
-### Frameworks
+Split your week. Say Tuesday and Thursday are manager days with most of the meetings, and Monday, Wednesday and Friday are blocked for making
+
+Push meetings as late in the day as possible, and keep one team-wide day with no meetings of more than two people
+
+### Clear but flexible structure
+
+Too much structure blocks new ideas, and too little leads to disorder. The more clarity people have, the more energy goes into creating
+
+Set clear goals and share the mission, then give people room to decide how
+
+Keep your systems flexible and don't follow them like a religion. Different teams need different amounts of structure
+
+Limits help creativity when used well. Instead of "make this go viral", give a brief like "a mashup of me talking about how to build a brand, using only podcast moments"
+
+### Chasing every new idea
+
+Shiny object syndrome means chasing every new idea, which leads to scattered work. Teach people to choose by showing them paths instead of giving orders
+
+Say your best short-video editor wants to move to long videos because it looks exciting. Show two paths: stay in short videos and become a senior editor soon, or start at the bottom in long videos with a slim chance of a senior role
+
+Seeing both makes the choice clear
 
 **Maker days and manager days**
 
 1. Pick manager days and stack the meetings back to back
 2. Block the other days or mornings for making, with no calls
 3. Push meetings as late in the day as possible
-4. Keep one team-wide maker day with no meetings of more than two people
+4. Keep one team-wide day with no big meetings
 
-### Examples
+**Example: A creative limit**
 
-- **Shorts or long videos:** The leader showed the top short-video editor two career paths, and the editor chose short videos within a day or two.
-  <br>*Why it works:* Showing paths teaches good choices better than giving orders.
-- **A creative guardrail:** Instead of telling an editor to make something go viral, the brief says: make a mashup of the host talking about building a brand, using only podcast moments.
-  <br>*Why it works:* A clear limit gives creative people something to push against.
+Instead of telling an editor to make something get a lot of views, the brief says: make a mashup of the host talking about building a brand, using only podcast moments
 
-### Common mistakes
+*Why it works:* A clear limit gives creative people something to work with
 
-- Rewarding views while punishing a lack of sales.
-- Giving passionate creatives too little work.
-- Booking meetings in 15 to 30 minute gaps.
-- Running structure religiously.
-- Briefing "make it go viral" instead of giving a limit.
+### Mistakes to avoid
+
+- rewarding views while punishing a lack of sales
+- booking meetings in 15 to 30 minute gaps
+- following structure like a religion
+- briefing "make it go viral" instead of giving a limit
 
 ### Try it
 
-Write out your week with blocks for manager days and maker days. Count how many meetings land inside maker time and move them.
+Write out your week with blocks for manager days and maker days. Count how many meetings land inside maker time and move them
 
 [Back to the top of this module](#top) · [All modules](../README.md#contents)
 
@@ -1242,57 +1038,49 @@ Write out your week with blocks for manager days and maker days. Count how many 
 
 *6 min read*
 
-> **The big idea:** A strong team is led with principles instead of personal taste, held to small details, and guided by a few clear values.
+> **The big idea:** A strong team is led with principles (rules that apply every time) instead of personal taste, held to small details, and guided by a few clear values
 
-### Lead with principles, not preferences
+### Lead with principles instead of preferences
 
-- One media leader calls this probably the single biggest piece of advice: give lots of notes, but teach principles, not your own taste.
-- "I don't like this, change it" teaches nothing, and the person will keep bringing the same problem back to you. A principle teaches them to think for themselves next time.
-- Example principles from one media team: show, don't tell (show the thing on screen instead of just describing it), and make thumbnails clear, not clever.
-- Bonus: the same principles can become content.
+Give lots of notes, but teach principles and keep your own taste out of it
 
-### Obsess over the details
+"I don't like this, change it" teaches nothing, and the person will keep bringing the same problem back to you. A principle teaches them to think for themselves next time
 
-- The difference between Olympic gold and silver can be milliseconds. One leader critiques the key moments in editors' videos, because they care more about the outcome than about the editors' feelings.
-- Also pay close attention to volume and speed.
-- A media lead on a podcast set saw a top podcast team obsess over the shot, the questions, the audio and the quality of guests (only A+ guests). The war is won in the small battles.
+Example principles: show the thing on screen instead of just describing it, and make thumbnails easy to understand at a glance
 
-### One media company's three core values
+### Care about small details
 
-- Build the people: the only way up is to get replaced, so train people to replace their manager.
-- Be the example: you can't ask for detail you don't show yourself.
-- Simple scales: making things complex is easy, and making them simple is hard, but simple things grow.
+The difference between gold and silver at the Olympics can be milliseconds. Big wins come from many small wins
+
+Pay close attention to the shot, the audio and the quality of what you publish, and also to how much you publish and how fast
+
+### Three core values
+
+One media company runs on three values:
+
+- build the people: train people to replace their manager
+- be the example: you can't ask for care about details if you don't show it yourself
+- simple scales (simple things can grow big): making things complex is easy, and making them simple is hard
 
 ### Credit your team
 
-- One founder shines a light on the team instead of hiding them from other people who might hire them away. The media lead says this has the opposite effect. People whose brands you grow are less likely to leave, because they feel they owe you something back. It's one reason the lead hasn't left.
+Give the team public credit, instead of hiding them from people who might hire them away. People whose brands you grow are less likely to leave, because they feel they owe you something back
 
-### Frameworks
+**Example: Notes as principles**
 
-**Three core values of one media team**
+Instead of "change this", give a principle like "show the thing on screen" or "make thumbnails easy to understand at a glance"
 
-1. Build the people: train them to replace their manager
-2. Be the example: show the detail you ask for
-3. Simple scales: keep things simple, because simple things grow
+*Why it works:* A principle teaches the editor how to decide next time
 
-### Examples
+### Mistakes to avoid
 
-- **Notes as principles:** Instead of "change this", give a principle like "show, don't tell" or "thumbnails clear, not clever".
-  <br>*Why it works:* A principle teaches the editor how to decide next time.
-
-### Common mistakes
-
-- Giving notes as taste ("I don't like it").
-- Asking for details you don't show yourself.
-- Hiding the team from view.
-
-### Where the sources disagree
-
-Some leaders critique every key moment because the outcome counts for more than editors' feelings. Others say to praise in public, criticize in private, and be careful how tough feedback is delivered. Both aim for high quality but disagree on how much feelings should shape the way feedback is delivered.
+- giving notes as taste ("I don't like it")
+- asking for details you don't show yourself
+- hiding the team from view
 
 ### Try it
 
-Take one note you gave recently and rewrite it as a principle the person can reuse.
+Take one note you gave recently and rewrite it as a principle the person can reuse
 
 [Back to the top of this module](#top) · [All modules](../README.md#contents)
 
@@ -1302,26 +1090,23 @@ Take one note you gave recently and rewrite it as a principle the person can reu
 
 ## Cheat sheet: Systems, teams and AI
 
-The whole module on one page.
+The whole module on one page
 
-- If content feels hard, fix the process before you blame your creativity.
-- Write every repeated process down as a checklist, a set of steps or a template.
-- Give each step of your weekly content flow its own time block.
-- Keep one place for ideas, saved posts and your real stories.
-- Bring plenty of ideas to the meeting, then throw out the weak ones fast.
-- Track views, followers added, leads and revenue, and know which one you're improving.
-- Review daily, weekly, monthly and quarterly, but change your strategy monthly, not daily.
-- Delete and simplify steps before you automate anything.
-- Let AI do the speed work, and keep the taste and final decisions for yourself.
-- Give each AI helper one job, the same notes, a log of its work and a human approval step.
-- Hire in order: first a content manager, then one owner per platform.
-- Hire for taste and potential, train for skill, and run a paid test first.
-- Decide what needs to be done, and let your team decide how.
-- Check on how people are doing, not on the lighting and framing.
-- Make flops safe by announcing your own first.
-- Give credit by name, and give criticism in private.
-- Protect uninterrupted making time and watch for the signs of burnout.
-- Teach your team principles, not your personal taste.
+- if content feels hard, look at your process first
+- write every repeated process down as a checklist or template
+- give each step of your weekly content flow its own time block
+- keep one place for ideas, saved posts and your real stories
+- bring plenty of ideas to the meeting, then cut the weak ones fast
+- track views, followers added, leads and revenue
+- review daily, weekly, monthly and every 3 months, but change strategy monthly
+- delete and simplify steps first, and automate last
+- let AI do the speed work, and keep the taste and final decisions
+- give each AI helper one job, the same notes, a log and a person who approves
+- hire in order: a content manager first, then one owner per platform
+- hire for taste and potential, and run a paid test first
+- decide what needs to be done, and let your team decide how
+- make flops safe by announcing your own first
+- give credit by name, and give criticism in private
 
 ---
 

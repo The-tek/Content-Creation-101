@@ -4,7 +4,7 @@
 
 We took 65 of the best videos and articles from creators who grew huge audiences, over 300,000 words in total, and turned them into one free guide. The filler is gone and every important point is kept
 
-**11 modules · 176 lessons · 217 frameworks · 290 examples · about 25 hours of reading**
+**11 modules · 176 lessons · 57 frameworks · 94 examples · about 25 hours of reading**
 
 Put together by [@BuzzMalx](https://x.com/BuzzMalx). Every creator is credited at the end: [Credits](CREDITS.md)
 
@@ -74,7 +74,7 @@ Plus: [cheat sheet](guide/02-hooks.md#cheat-sheet)
 
 ### [Module 3: Storytelling](guide/03-storytelling.md)
 
-*Storytelling is a skill you can learn: give people a reason to care, a question to guess, a surprise, and a reason to keep going* (14 lessons, ~121 min)
+*Storytelling is a skill you can learn: give people a reason to care, a question to guess and a surprise* (14 lessons, ~121 min)
 
 <details><summary>All lessons</summary>
 
@@ -155,7 +155,7 @@ Plus: [cheat sheet](guide/05-ideas-packaging-and-virality.md#cheat-sheet)
 
 ### [Module 6: Formats and video](guide/06-formats-and-video.md)
 
-*Pick a few formats you can keep making, write the hook around what people see first, keep production simple, and post at a pace you can keep up* (16 lessons, ~127 min)
+*Pick a few formats you can keep making, build the hook around what people see first, keep production simple, and post at a pace you can keep* (16 lessons, ~127 min)
 
 <details><summary>All lessons</summary>
 
