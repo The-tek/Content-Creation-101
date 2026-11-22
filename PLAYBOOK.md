@@ -4,9 +4,9 @@
 
 Each step has a goal, the questions to answer, the rules from the sources, the mistakes to avoid and the lessons to read. Copy it into your notes and write your answers under each question.
 
-- Part A: answer once, in order, before you worry about growth. Come back every 3 months.
+- Part A: answer these once, in order, before you worry about growth. Come back to them every 3 months.
 - Part B: run every post through these 4 steps.
-- Part C: do these every week and month.
+- Part C: do these every week and every month.
 
 ## Steps
 
@@ -35,38 +35,38 @@ Each step has a goal, the questions to answer, the rules from the sources, the m
 
 ## A. Build the brand
 
-*Answer these once, in order. Revisit every 3 months.*
+*Answer these once, in order. Come back to them every 3 months.*
 
 <a id="s1"></a>
 
 ### Decide where you're going
 
-> **Goal:** Know what the brand is for before you post, so you can judge every post by one question: does it move me closer?
+> **Goal:** Know what your brand is for before you post, so you can judge every post with one question: does this move me closer to what I want?
 
 **Answer these**
 
-1. What do you want this brand to bring you in 3 years? (clients, a job, a product, brand deals, an audience)
-2. What would you have to be known for to get that?
-3. What do you have to do (not only talk about) to be known for that?
-4. What do you have to learn first?
+1. What do you want this brand to bring you in 3 years? (clients, a job, a product, brand deals or an audience)
+2. What would people have to know you for to get that?
+3. What do you have to actually do, not just talk about, to be known for that?
+4. What do you need to learn first?
 5. Point A: in one sentence, what situation does your reader want to escape?
 6. Point B: in one sentence, where do you help them get to?
-7. Does your buyer need to be taught how the solution works (education), or just feel something (entertainment)?
-8. How will attention turn into money: brand deals (advertising) or selling your own thing (conversion)?
+7. Does your buyer need to be taught how the solution works (educational content), or do they mostly need to feel something (entertaining content)?
+8. How will attention turn into money: brand deals (companies pay you to reach your audience) or selling your own product or service?
 
 **Rules from the sources**
 
-- Start from the end: outcome, known for, do, learn (the Brand Journey Framework).
-- Aim for known and paid for the right thing. A big following that earns little is a trap (the 2x2).
+- Start from the end and work backwards: the outcome you want, what you need to be known for, what you need to do, and what you need to learn.
+- Aim to be known and paid for the right thing. A big following that earns you little is a trap.
 - Every idea and every post should sit somewhere on the path from Point A to Point B.
-- Test every action: is it moving me closer to the outcome or further away?
+- Test every action by asking: is this moving me closer to the outcome or further away?
 
 **Mistakes to avoid**
 
 - Posting before you know what you want to be known for.
-- Measuring success by followers when the outcome you want is clients.
+- Measuring success by followers when what you really want is clients.
 
-**You are done when:** You have 4 lines (outcome, known for, do, learn) and one Point A to Point B sentence.
+**You are done when:** You have 4 lines (outcome, known for, do, learn) and one sentence that goes from Point A to Point B.
 
 **Read more:** [1.1 Why personal brands win now](guide/01-personal-brand-and-positioning.md#m1-l1) · [1.2 Start from the end: what you want to be known for](guide/01-personal-brand-and-positioning.md#m1-l2)
 
@@ -78,27 +78,27 @@ Each step has a goal, the questions to answer, the rules from the sources, the m
 
 **Answer these**
 
-1. Have you already done what your audience wants? Then you're on the expert route. Still on the way? Then you're on the student route. Which one is true?
-2. What are 5 real wins, failures or results you have, and what can someone else learn from each?
-3. If you're a student: what are you pursuing right now, how, and what are you doing differently?
-4. Could friends grill you on each of your topics for 30 minutes with no prep? (the dinner test)
-5. Which proof can you show for your main claim: a result for someone like them, your own result, a following or cosign, 'i was where you are', or common ground?
-6. What real weakness or mistake can you mention after the proof?
+1. Have you already done what your audience wants to do? Then you can teach as an expert. Are you still on the way? Then you teach as a student who shares the journey. Which one is true for you?
+2. What are 5 real wins, failures or results you have, and what could someone else learn from each?
+3. If you're a student: what are you working toward right now, how, and what are you doing differently from others?
+4. Could friends quiz you on each of your topics for 30 minutes with no preparation and you'd handle it?
+5. Which proof can you show for your main claim: a result for someone like them, your own result, a big following or a known person vouching for you, "I was where you are", or something you have in common?
+6. After the proof, what real weakness or mistake can you mention?
 
 **Rules from the sources**
 
 - Do the thing first, then talk about it. Faked expertise gets found out.
-- Pick the route that is true. Posing as an expert while you're a student is lying.
-- The strongest proof is a result for someone like the viewer, the weakest is a polished setup (the trust proof ladder).
-- Proof first, then a real flaw. That order builds trust.
-- Keep stacking proof: document, then do, then teach what you did.
+- Pick the route that is true. Posing as an expert when you're a student is lying.
+- The strongest proof is a result you got for someone like the viewer. The weakest is a polished setup that only looks impressive.
+- Give proof first, then a real flaw. That order builds trust.
+- Keep adding proof over time: document what you do, do more, then teach what you did.
 
 **Mistakes to avoid**
 
 - Teaching what you haven't done.
-- Inventing a weakness to look relatable.
+- Inventing a weakness just to look relatable.
 
-**You are done when:** You have a Credibility Bank or Interest Bank with 5 true lines, each with a lesson.
+**You are done when:** You have a list of 5 true lines (wins, failures or results), each with a lesson someone can take from it.
 
 **Read more:** [1.3 Credibility first: do the thing, then talk about it](guide/01-personal-brand-and-positioning.md#m1-l3) · [4.10 Trust, weakness and proof](guide/04-psychology-and-attention.md#m4-l10)
 
@@ -110,7 +110,7 @@ Each step has a goal, the questions to answer, the rules from the sources, the m
 
 **Answer these**
 
-1. Who is the one person you want to reach? (what they do, what stage they're at)
+1. Who is the one person you want to reach? (what they do and what stage they're at)
 2. What painful problem do they have that you can solve?
 3. Hopes: what do they want in the next 90 days?
 4. Dreams: where do they want to be in 5 to 10 years?
@@ -123,17 +123,17 @@ Each step has a goal, the questions to answer, the rules from the sources, the m
 
 - Write for one specific reader, with one idea and one takeaway per post.
 - Use the exact words your audience uses, so they feel understood.
-- Trust is built by naming their painful problem, promising to solve one problem per piece, then doing it with clear steps, again and again.
-- Copy unanswered questions from the comments of big posts in your niche into a problem bank, in their exact words.
+- Build trust in three steps: name their painful problem, promise to solve one problem per piece, then solve it with clear steps, over and over.
+- Collect unanswered questions from the comments of big posts in your niche into a list of problems, in their exact words.
 
 **Mistakes to avoid**
 
 - Writing for everyone.
 - Guessing their problems instead of reading their words.
 
-**You are done when:** You have a short profile of your person (hopes, dreams, fears, blockers) and 5 problems written in their own words.
+**You are done when:** You have a short profile of your person (hopes, dreams, fears, blockers) and 5 of their problems written in their own words.
 
-**Read more:** [4.8 Emotion: clicks, shares and pain](guide/04-psychology-and-attention.md#m4-l8) · [1.12 Trust: how it is built and how to protect it](guide/01-personal-brand-and-positioning.md#m1-l12) · [11.6 Use the words your audience already uses](guide/11-writing-and-copywriting.md#m11-l6) · [5.3 Where good ideas come from](guide/05-ideas-packaging-and-virality.md#m5-l3)
+**Read more:** [4.8 Emotion: what drives clicks, shares and action](guide/04-psychology-and-attention.md#m4-l8) · [1.12 Trust: how it is built and how to protect it](guide/01-personal-brand-and-positioning.md#m1-l12) · [11.6 Use the words your audience already uses](guide/11-writing-and-copywriting.md#m11-l6) · [5.3 Where good ideas come from](guide/05-ideas-packaging-and-virality.md#m5-l3)
 
 <a id="s4"></a>
 
@@ -143,27 +143,27 @@ Each step has a goal, the questions to answer, the rules from the sources, the m
 
 **Answer these**
 
-1. What's the narrowest version of your topic? Write it in the centre, then 2 wider rings around it.
+1. What's the narrowest version of your topic? Write it in the centre of a page, then draw 2 wider rings around it.
 2. What have you done that proves you can win in the centre ring?
-3. Could you spend 40 hours a week on this topic for the next 10 years? If not, which part of it would you stay obsessed with?
-4. Could you make 100+ posts about it?
+3. Could you spend 40 hours a week on this topic for the next 10 years? If not, which part of it could you stay obsessed with?
+4. Could you make 100 or more posts about it?
 5. How big is the market? What do the dedicated accounts in this niche usually get?
-6. Will your ideas work for core fans, casual viewers and new people?
-7. Are you already making money, or do you have an offer? Then that's your topic. Under about 30 posts? Make 20 to 30 on anything first, then decide.
+6. Would your ideas interest three kinds of people: core fans (know the topic well), casual viewers (know a bit) and new people (know nothing)?
+7. Are you already making money from this, or do you have an offer? Then that's your topic. Have you made fewer than about 30 posts? Make 20 to 30 on anything first, then decide.
 
 **Rules from the sources**
 
-- Start in the pond where your experience can win. Move up only as proof grows, never because you're bored.
-- Own one category before five.
-- Check your market size before you blame the niche.
-- Every idea should reach core, casual and new people. Only-core and only-new both fail (CCN).
+- Start in the small pond where your experience can win. Move up only when your proof grows, never because you're bored.
+- Own one category before you try five.
+- Check how big the market is before you blame the niche.
+- Every idea should work for core fans, casual viewers and new people. If it only works for experts, or only for beginners, it will fall flat.
 
 **Mistakes to avoid**
 
 - Going broad on day one.
 - Switching niches out of boredom instead of because of results.
 
-**You are done when:** You have a niche bullseye and an honest answer to 'could I do this for 10 years?'
+**You are done when:** You have your niche drawn as a centre with rings, and an honest answer to "could I do this for 10 years?"
 
 **Read more:** [1.5 Niche: start narrow, then widen](guide/01-personal-brand-and-positioning.md#m1-l5) · [1.6 Size your niche: reach, core, casual and new](guide/01-personal-brand-and-positioning.md#m1-l6) · [1.13 Obsession, stickiness and fandom](guide/01-personal-brand-and-positioning.md#m1-l13) · [8.14 Starting from zero: niche, bio, voice and category](guide/08-distribution-and-growth.md#m8-l14)
 
@@ -176,28 +176,28 @@ Each step has a goal, the questions to answer, the rules from the sources, the m
 **Answer these**
 
 1. Fill in: I help [who] with [what] in [what way].
-2. What do you stand for, who is it for, why should they care, and why can't they get it anywhere else? (brand-market fit)
+2. What do you stand for, who is it for, why should they care, and why can't they get it anywhere else?
 3. Which emotion should people feel when they see your posts?
 4. What are you genuinely exceptional at?
-5. Who else can say what you say? If many can, what's your unfair advantage: experience, access, results, perspective or taste?
+5. Who else could say what you say? If many people can, what's your unfair advantage: experience, access, results, a different view or taste?
 6. Can you list 10 pieces of original work around your position (things to build, test, explain, measure or argue)?
 7. Which 5 things do you want people to link with you?
 8. Which 3 things do you refuse to be linked with?
-9. What's your promise, your proof, your perspective and your personality? (the 4 Ps)
+9. What do you promise, what proves it, what's your view on the topic, and what's your personality?
 
 **Rules from the sources**
 
-- A brand is an association in people's heads, built by repeating the same pairing again and again.
-- Pair yourself with your 5 associations in every piece.
-- Find the gap one layer under a hot conversation: what keeps getting asked, and where does the content stop before it's useful?
-- Positioning has 4 parts: beliefs, clear messaging, signal (how much of your content is valuable) and taste (consistent choices over time).
+- A brand is an association in people's heads, built by repeating the same pairing again and again, like your name and "hooks".
+- Pair yourself with your 5 associations in every piece you make.
+- Look for the gap one layer under a hot conversation: what do people keep asking, and where does existing content stop before it's useful?
+- Positioning has 4 parts: what you believe, clear messaging, signal (how much of your content is truly valuable) and taste (consistent choices over time).
 
 **Mistakes to avoid**
 
-- A position many others could claim too.
-- Changing the message every month, so no pairing sticks.
+- Taking a position many others could claim too.
+- Changing your message every month, so no association sticks.
 
-**You are done when:** You have one authority sentence, 5 associations and 3 anti-associations, and you passed the 10 pieces test.
+**You are done when:** You have one sentence about what you do, 5 things people link with you, 3 things you refuse to be linked with, and a list of 10 pieces of original work.
 
 **Read more:** [1.4 What a brand really is: association](guide/01-personal-brand-and-positioning.md#m1-l4) · [1.7 Positioning: promise, proof, perspective, personality](guide/01-personal-brand-and-positioning.md#m1-l7) · [1.9 Finding your gap and your market edge](guide/01-personal-brand-and-positioning.md#m1-l9)
 
@@ -211,27 +211,27 @@ Each step has a goal, the questions to answer, the rules from the sources, the m
 
 1. What are 5 things people in your niche say that you disagree with, and what do you believe instead?
 2. Which of those could you keep saying even if nobody liked it?
-3. Which belief or behaviour does your content stand against? (an enemy, never a person)
+3. Which belief or behaviour does your content stand against? (an enemy, but never a person)
 4. What do you want people to believe before they ever see your offer?
-5. What do you teach that deserves a name? (2 to 4 words, easy to remember, repeat and reference)
+5. What do you teach that deserves a name? (2 to 4 words, easy to remember, repeat and point to)
 6. Which vague word in your niche can you redefine so it tells people what to do?
 
 **Rules from the sources**
 
-- Keep 3 to 5 contrarian takes and repeat them (a Two Column Approach or a contrarian take vault).
-- Be contrarian, not controversial. The enemy is a belief or behaviour, never a person.
-- Test the takes in content and double down on the one that lands.
-- A topic gives you things to post about, a point of view gives those posts somewhere to go.
-- Build a world: named concepts, your own language, characters and places people recognise.
+- Keep 3 to 5 beliefs that go against the usual advice, and repeat them. Write them in a list so you can reuse them.
+- Be contrarian, not controversial. The enemy is a belief or a behaviour, never a person.
+- Test your takes in content and double down on the one that lands.
+- A topic gives you things to post about. A point of view gives those posts somewhere to go.
+- Build a world around your brand: named ideas, your own language, and characters and places people recognise.
 
 **Mistakes to avoid**
 
 - Hot takes you don't actually believe.
 - Takes everyone in your niche already says.
 
-**You are done when:** You have a take vault with 3 to 5 beliefs and at least 1 named concept.
+**You are done when:** You have a list of 3 to 5 beliefs and at least 1 named idea.
 
-**Read more:** [1.8 Contrarian takes and a point of view](guide/01-personal-brand-and-positioning.md#m1-l8) · [1.11 Worldbuilding: a world your audience lives in](guide/01-personal-brand-and-positioning.md#m1-l11) · [4.7 Making old ideas feel new](guide/04-psychology-and-attention.md#m4-l7) · [4.11 Identity, sharing, enemies and disagreement](guide/04-psychology-and-attention.md#m4-l11)
+**Read more:** [1.8 Contrarian takes and a point of view](guide/01-personal-brand-and-positioning.md#m1-l8) · [1.11 Worldbuilding: a world your audience lives in](guide/01-personal-brand-and-positioning.md#m1-l11) · [4.7 Making old ideas feel new](guide/04-psychology-and-attention.md#m4-l7) · [4.11 Identity, sharing, shared enemies and disagreement](guide/04-psychology-and-attention.md#m4-l11)
 
 <a id="s7"></a>
 
@@ -241,21 +241,21 @@ Each step has a goal, the questions to answer, the rules from the sources, the m
 
 **Answer these**
 
-1. Where were you, what sparked the change, and where are you now? (3 lines)
-2. What are 3 beliefs about your topic you hold with conviction?
+1. Where were you, what sparked a change, and where are you now? (3 lines)
+2. What are 3 beliefs about your topic that you hold strongly?
 3. Which 5 surprising true facts about your life could open a story?
 4. What loss or miss can you share, how did it feel, and what can someone learn from it?
 5. What will you share about your life, and what stays private?
-6. What's your purpose, your pain, your real interests and your non-negotiables? (the character diamond)
+6. What's your purpose, your pain, your real interests and the things you will never compromise on?
 7. Which chapters do you want your story to have next?
 
 **Rules from the sources**
 
 - Your story is what makes the same idea land differently when you say it.
-- Tell a story as the topic itself, or open a proven topic with your story.
-- A vulnerable story builds trust only when it gives the audience a takeaway.
+- Either tell a story as the topic itself, or open a proven topic with your own story.
+- A vulnerable story builds trust only when the audience gets a takeaway from it.
 - Share real weaknesses only, never faked ones.
-- Write one line every night about the story of the day, and keep a story bank: title, point, summary, where to use it, rating.
+- Write one line every night about the story of your day, and keep a story bank: title, point, short summary, where to use it and a rating.
 
 **Mistakes to avoid**
 
@@ -270,23 +270,23 @@ Each step has a goal, the questions to answer, the rules from the sources, the m
 
 ### Plan your content
 
-> **Goal:** Turn the brand into a map of what to post, so you never start from zero.
+> **Goal:** Turn your brand into a map of what to post, so you never start from zero.
 
 **Answer these**
 
-1. Which 2 to 3 broad topics will you cover, and which 3 to 5 subtopics sit under each? (the content map)
-2. Which 3 to 4 pillars back up your authority sentence?
-3. What's each pillar's job: get you discovered, build trust or sell?
-4. Which 1 to 3 formats will you use? Are they native to your platform, and do you enjoy making them?
+1. Which 2 to 3 broad topics will you cover, and which 3 to 5 smaller topics sit under each? (your content map)
+2. Which 3 to 4 pillars (main themes) back up your one sentence about what you do?
+3. What is each pillar's job: get you discovered, build trust or sell?
+4. Which 1 to 3 formats will you use (for example short video, text post, article)? Are they native to your platform, and do you enjoy making them?
 5. Write each one as a formula: topic + format + visual layout.
-6. How will you split proven content, new versions of it, and experiments?
+6. How will you split your content between proven posts, new versions of them, and experiments?
 
 **Rules from the sources**
 
-- Pick 3 to 4 topics and 1 to 3 formats, and combine them into 5 to 10 repeatable formulas.
-- Change the input, not the structure.
-- Give every post one job: eyeballs, trust or a sale. Around 60% discovery, 30% trust, 10% sales, adjusted to your business.
-- Run about 70% proven, 20% new versions of what's proven and 10% experiments.
+- Pick 3 to 4 topics and 1 to 3 formats, and combine them into 5 to 10 formulas you can repeat.
+- Change the input, not the structure. Keep the layout and swap the idea.
+- Give every post one job: reach new people, build trust or make a sale. A rough split is 60% reach, 30% trust and 10% sales, adjusted to your business.
+- Aim for about 70% proven content, 20% new versions of what's proven and 10% experiments.
 - Short posts are where you test ideas fast. The winners become long pieces.
 
 **Mistakes to avoid**
@@ -309,25 +309,25 @@ Each step has a goal, the questions to answer, the rules from the sources, the m
 1. Where does your person already spend time?
 2. Are you best at writing, talking or being on camera?
 3. How many hours a week do you really have?
-4. Which one platform will you focus on for the next 6 months, and what's your hero format there?
+4. Which one platform will you focus on for the next 6 months, and what is your main format there?
 5. What pace could you keep for 6 months without dropping quality?
-6. What does your bio say: who you help, with what, plus 1 line of credibility?
-7. Where will you collect emails, and which free resource will you offer for them?
+6. What does your bio say: who you help, with what, plus 1 line of proof?
+7. Where will you collect emails, and which free resource will you offer in exchange?
 
 **Rules from the sources**
 
 - Master one platform first, then add a second.
-- The full setup is 1 short-form platform for reach, 1 long-form for depth and 1 email list or community to stay in touch.
-- Get quality to 7 out of 10, raise volume to the platform's normal, then push quality to 9 (the quality-quantity accordion).
+- The full setup is 1 short-form platform for reach, 1 long-form platform for depth, and 1 email list or community so you can stay in touch.
+- First get quality to 7 out of 10. Then raise your volume to the normal level for the platform. Then push quality to 9.
 - Leave 2 to 3 hours between posts so each one gets its chance.
-- Start an email list on day one. Platforms you rent can change or ban you overnight.
+- Start an email list on day one. A platform you don't own can change its rules or ban you overnight.
 
 **Mistakes to avoid**
 
 - Spreading across 4 platforms before winning one.
 - A bio that says what you are instead of who you help.
 
-**You are done when:** You have one platform, one hero format, a weekly pace, a bio and a place to collect emails.
+**You are done when:** You have one platform, one main format, a weekly pace, a bio and a place to collect emails.
 
 **Read more:** [8.5 Choosing your platforms](guide/08-distribution-and-growth.md#m8-l5) · [8.6 How often and when to post](guide/08-distribution-and-growth.md#m8-l6) · [6.12 Posting frequency: volume, quality and batching](guide/06-formats-and-video.md#m6-l12) · [8.12 Own your audience: the web between channels](guide/08-distribution-and-growth.md#m8-l12) · [8.14 Starting from zero: niche, bio, voice and category](guide/08-distribution-and-growth.md#m8-l14)
 
@@ -341,25 +341,25 @@ Each step has a goal, the questions to answer, the rules from the sources, the m
 
 ### Pick the idea
 
-> **Goal:** You can't out-edit a weak topic, so the idea gets most of your time.
+> **Goal:** You can't edit your way out of a weak topic, so the idea gets most of your time.
 
 **Answer these**
 
-1. Demand: do enough people care? Fit: does your audience come to you for this? Interest: do you care enough? (score each 1 to 5, cut any 1)
+1. Demand: do enough people care? Fit: does your audience come to you for this? Interest: do you care enough? Score each from 1 to 5 and cut anything with a 1.
 2. What's the topic, what's your angle on it, and what's the format?
-3. Is it relevant to your person, a small effort for a big reward, non-obvious, proven and doable? (the 5 points)
+3. Is it relevant to your person, a small effort for a big reward, non-obvious, already proven and doable?
 4. Will it work for core fans, casual viewers and new people?
-5. Which pillar does it serve, and what's its job: discover, trust or sell?
-6. Has it worked before, for you or as an outlier for someone else (judged against that account's own normal)?
+5. Which pillar does it serve, and what's its job: reach, trust or sale?
+6. Has it worked before, for you or for someone else? (Judge someone else's post against that account's own normal results, not against big accounts.)
 7. What's at stake for the reader: what do they win or lose?
 
 **Rules from the sources**
 
-- Topic is king.
+- The topic matters most. Great packaging can't rescue a topic nobody wants.
 - 1 topic x 3 angles x 3 formats = 9 ideas.
-- Steal the format, never the words, and use recent outliers.
-- Write 20 or more ideas, kill most of them, make the best few (the idea funnel).
-- Everything has a stake: give every intro a consequence or an enemy.
+- Copy the format, never the words, and look at recent posts that did far better than usual for their account.
+- Write 20 or more ideas, throw most away, and make the best few.
+- Everything needs a stake: give every intro a consequence or an enemy.
 
 **Mistakes to avoid**
 
@@ -368,7 +368,7 @@ Each step has a goal, the questions to answer, the rules from the sources, the m
 
 **You are done when:** Your idea is written as topic + angle + format, with its job.
 
-**Read more:** [5.2 Topic is king](guide/05-ideas-packaging-and-virality.md#m5-l2) · [5.4 The anatomy of an idea: topic, angle, format](guide/05-ideas-packaging-and-virality.md#m5-l4) · [5.7 Finding outliers](guide/05-ideas-packaging-and-virality.md#m5-l7) · [5.9 Choosing which ideas to make](guide/05-ideas-packaging-and-virality.md#m5-l9) · [5.19 Home run ideas and the three stages of packaging](guide/05-ideas-packaging-and-virality.md#m5-l19)
+**Read more:** [5.2 Topic is king](guide/05-ideas-packaging-and-virality.md#m5-l2) · [5.4 What an idea is made of: topic, angle, format](guide/05-ideas-packaging-and-virality.md#m5-l4) · [5.7 Finding outliers](guide/05-ideas-packaging-and-virality.md#m5-l7) · [5.9 Choosing which ideas to make](guide/05-ideas-packaging-and-virality.md#m5-l9) · [5.19 Home run ideas and the three stages of packaging](guide/05-ideas-packaging-and-virality.md#m5-l19)
 
 <a id="s11"></a>
 
@@ -380,7 +380,7 @@ Each step has a goal, the questions to answer, the rules from the sources, the m
 
 1. Can a stranger tell what it's about from the first line alone?
 2. Why should they care right now?
-3. Does it lead with the benefit or the pain, not the name of the thing?
+3. Does it lead with the benefit or the pain, not just the name of the thing?
 4. Could the hook be read two ways? If yes, rewrite it.
 5. Did you write 5 to 20 versions and pick the best?
 6. Do the title, the image and the first line all say the same thing?
@@ -389,17 +389,17 @@ Each step has a goal, the questions to answer, the rules from the sources, the m
 **Rules from the sources**
 
 - Say what it's about in the first sentence, in as few words as possible.
-- Lean, 'but', snapback in 2 to 4 lines, and only snap back to something you can deliver.
+- In 2 to 4 lines, lean in on the problem, add a "but", then pull back to a clear promise. Only promise what you can deliver.
 - The same idea can flop or fly depending on how it's packaged.
 - Write the hook last, and never keep the AI's first line.
 - Make the spoken words, visuals, text and audio say the same thing.
 
 **Mistakes to avoid**
 
-- Warm-up lines before the point (delay).
-- Hooks that confuse, feel irrelevant or don't make people care (the hook mistakes).
+- Warm-up lines before the point.
+- Hooks that confuse, feel irrelevant or don't make people care.
 
-**You are done when:** Your first line passes the one-second test.
+**You are done when:** Your first line makes sense to a stranger in one second.
 
 **Read more:** [2.1 What a hook does and why it decides everything](guide/02-hooks.md#m2-l1) · [2.2 The master formula: lean, stun, snap back](guide/02-hooks.md#m2-l2) · [2.7 Hook mistakes 1 and 2: delay and confusion](guide/02-hooks.md#m2-l7) · [2.14 Hooks in writing: first lines for posts, threads and articles](guide/02-hooks.md#m2-l14) · [5.10 Why packaging decides the result](guide/05-ideas-packaging-and-virality.md#m5-l10)
 
@@ -411,27 +411,27 @@ Each step has a goal, the questions to answer, the rules from the sources, the m
 
 **Answer these**
 
-1. Do the first lines after the hook restate the promise, give one proof and a first small win?
+1. Do the first lines after the hook repeat the promise, give one proof and a first small win?
 2. Is every line simple enough for anyone to understand?
 3. Can you delete any word without changing the meaning?
-4. Did you use numbers, names and timeframes instead of 'a few' or 'soon'?
+4. Did you use numbers, names and timeframes instead of "a few" or "soon"?
 5. Does every tip say what the reader gets from it?
-6. For a story: is something at stake, and did every 'and then' become 'but' or 'therefore'?
+6. For a story: is something at stake, and did every "and then" become "but" or "therefore"?
 7. Did you deliver everything the packaging promised?
 
 **Rules from the sources**
 
 - Clarity over cleverness: smart ideas in simple words.
-- Write like you talk. Voice is the part nobody can copy.
-- Open the next question as you close the last one, so people keep going (the dopamine ladder).
-- Proof before teaching, and be honest about what the piece is not.
-- Satisfaction: the piece has to pay off what the packaging promised.
-- Use text boxes people can screenshot, so the piece gets saved and shared.
+- Write like you talk. Your voice is the part nobody can copy.
+- Open the next question as you answer the last one, so people keep reading.
+- Show proof before you teach, and be honest about what the piece does not cover.
+- The piece has to pay off what the title and hook promised.
+- Add text boxes people can screenshot, so the piece gets saved and shared.
 
 **Mistakes to avoid**
 
 - A hook the body doesn't pay off.
-- Vague words like 'stuff' or 'things' where a real example should be.
+- Vague words like "stuff" or "things" where a real example should be.
 
 **You are done when:** Every line earns its place and the promise is kept.
 
@@ -441,32 +441,32 @@ Each step has a goal, the questions to answer, the rules from the sources, the m
 
 ### Check it before you post
 
-> **Goal:** Catch what would hurt trust or kill the share before it goes out.
+> **Goal:** Catch what would hurt trust or kill sharing before it goes out.
 
 **Answer these**
 
-1. Would people share it, and what does sharing it say about them? (the share check)
+1. Would people share it, and what does sharing it say about them?
 2. Do you believe everything you're saying?
 3. Is every claim, number and story true? Did you check the original source of any study?
-4. What's this post's one job: discover, trust or sell?
+4. What's this post's one job: reach, trust or sale?
 5. Would someone save it and come back to it?
-6. Could anything in it earn a mute, block or report?
+6. Could anything in it get someone to mute, block or report you?
 
 **Rules from the sources**
 
 - People share what says something good about them.
 - Treat viral stats as claims until you find the original source.
-- If you sell something, aim for trust, not virality.
-- Match the size of any ask to the trust you've built, with no fake urgency.
+- If you sell something, aim for trust, not for going viral.
+- Match the size of any ask to the trust you've built, and use no fake urgency.
 
 **Mistakes to avoid**
 
 - Repeating a shaky stat because everyone else does.
 - A post with no clear job.
 
-**You are done when:** It's true, it has one job, and you'd be proud to have your name on it.
+**You are done when:** It's true, it has one job, and you'd be proud to put your name on it.
 
-**Read more:** [4.11 Identity, sharing, enemies and disagreement](guide/04-psychology-and-attention.md#m4-l11) · [4.15 How X reads attention: one creator's algorithm reading](guide/04-psychology-and-attention.md#m4-l15) · [4.2 The attention span myth](guide/04-psychology-and-attention.md#m4-l2)
+**Read more:** [4.11 Identity, sharing, shared enemies and disagreement](guide/04-psychology-and-attention.md#m4-l11) · [4.15 How X reads attention: one creator's reading of the algorithm](guide/04-psychology-and-attention.md#m4-l15) · [4.2 The attention span myth](guide/04-psychology-and-attention.md#m4-l2)
 
 ---
 
@@ -486,12 +486,12 @@ Each step has a goal, the questions to answer, the rules from the sources, the m
 2. Which bigger accounts in your niche can you reply to with a real point of view?
 3. Whose ideas did you use, and did you credit them?
 4. Which past winner can you repost, reshape or turn into a long piece?
-5. Who could you collab with or share a group chat with?
+5. Who could you team up with, or share a group chat with?
 
 **Rules from the sources**
 
-- Reply and quote to add your own view, never just 'great post'.
-- Credit the people whose ideas you use. It builds relationships and borrowed reach.
+- Reply and quote to add your own view, never just "great post".
+- Credit the people whose ideas you use. It builds relationships and gives you some of their reach.
 - Every month, rewrite your winners from new angles: shorter, longer, as a list, with a better hook.
 - Add depth (long form) and new platforms only with your best ideas.
 
@@ -502,7 +502,7 @@ Each step has a goal, the questions to answer, the rules from the sources, the m
 
 **You are done when:** Every post has a plan to reach new people, not just your followers.
 
-**Read more:** [8.1 The one principle: eyes on your work](guide/08-distribution-and-growth.md#m8-l1) · [8.7 Replies, comments and networking](guide/08-distribution-and-growth.md#m8-l7) · [8.8 Borrowing reach: quotes, remixes, collabs and group chats](guide/08-distribution-and-growth.md#m8-l8) · [8.9 Repurposing: the waterfall versus the lake](guide/08-distribution-and-growth.md#m8-l9) · [8.10 Double down on your winners](guide/08-distribution-and-growth.md#m8-l10)
+**Read more:** [8.1 The one principle: get eyes on your work](guide/08-distribution-and-growth.md#m8-l1) · [8.7 Replies, comments and networking](guide/08-distribution-and-growth.md#m8-l7) · [8.8 Borrowing reach: quotes, remixes, collabs and group chats](guide/08-distribution-and-growth.md#m8-l8) · [8.9 Repurposing: the waterfall versus the lake](guide/08-distribution-and-growth.md#m8-l9) · [8.10 Double down on your winners](guide/08-distribution-and-growth.md#m8-l10)
 
 <a id="s15"></a>
 
@@ -515,24 +515,24 @@ Each step has a goal, the questions to answer, the rules from the sources, the m
 1. For your last 20 posts: how many views, follows, leads and sales did each bring?
 2. What do your top 5 share that your bottom 5 don't?
 3. For your best post: why did people start, where did they leave, and which line got a reaction?
-4. Which formula earned its place: it performs, brings the right people, you enjoy it and you're proud of it?
+4. Which format is worth keeping: does it perform, bring the right people, do you enjoy it and are you proud of it?
 5. What will you do more of, and less of, next month?
 
 **Rules from the sources**
 
-- Views are a leading signal. Follows, leads and revenue are the goal (the 4 metrics).
-- Review daily, weekly, monthly and quarterly, but change things monthly, not daily.
-- Judge a format only after enough reps, because early results mislead (one creator used 100).
-- Treat algorithm rules as one creator's claims and test them yourself.
+- Views are an early signal. Follows, leads and revenue are the goal.
+- Review daily, weekly, monthly and every 3 months, but change things monthly, not daily.
+- Judge a format only after enough tries, because early results mislead. One creator says they waited for 100.
+- Treat advice about how the algorithm works as unproven, and test it on your own account.
 
 **Mistakes to avoid**
 
 - Judging by views alone.
 - Changing everything after one bad day.
 
-**You are done when:** You have 3 instructions for next month, taken from your own winners.
+**You are done when:** You have 3 instructions for next month, taken from your own best posts.
 
-**Read more:** [9.5 Measuring what matters](guide/09-systems-teams-and-ai.md#m9-l5) · [9.6 Review rhythms: learning from your winners](guide/09-systems-teams-and-ai.md#m9-l6) · [5.17 Doubling down and testing new things](guide/05-ideas-packaging-and-virality.md#m5-l17) · [1.15 Plans, timelines and staying power](guide/01-personal-brand-and-positioning.md#m1-l15)
+**Read more:** [9.5 Measuring what counts](guide/09-systems-teams-and-ai.md#m9-l5) · [9.6 Review rhythms: learning from your winners](guide/09-systems-teams-and-ai.md#m9-l6) · [5.17 Doubling down and testing new things](guide/05-ideas-packaging-and-virality.md#m5-l17) · [1.15 Plans, timelines and staying power](guide/01-personal-brand-and-positioning.md#m1-l15)
 
 <a id="s16"></a>
 
@@ -542,21 +542,21 @@ Each step has a goal, the questions to answer, the rules from the sources, the m
 
 **Answer these**
 
-1. What do you sell, or what will you sell? (a service, a product, brand deals)
-2. Fill in: helping [who] go from [where they're stuck] to [where they want to be] so they can [benefit] (the promise formula).
+1. What do you sell, or what will you sell? (a service, a product or brand deals)
+2. Fill in: helping [who] go from [where they're stuck] to [where they want to be] so they can [benefit].
 3. Is the result worth far more than the price?
 4. What's the next step in your content: a free resource, a sales page or a call?
-5. What's the smallest version you could build and sell in a week? (the \$10 test)
+5. What's the smallest version you could build and sell in a week for about \$10?
 6. Of your last 10 posts, how many gave something and how many asked for something?
-7. How can someone raise their hand: a questionnaire, a DM, a reply?
+7. How can someone raise their hand: a questionnaire, a DM or a reply?
 
 **Rules from the sources**
 
 - Give first, sell later, and keep the ask much smaller than what you gave.
 - Give away your best ideas and sell the help applying them.
-- Views turn into money only when 4 things work: they feel 'that's my problem', they trust you, there's a clear next step, and the offer fits. If one is zero, the result is zero.
-- With a small audience, sell by hand: posts, newsletter, questionnaire, DMs, link to pay.
-- Test an offer before building it: problem post, poll, behind the scenes, waitlist, soft pre-sell.
+- Views turn into money only when 4 things are true: people feel "that's my problem", they trust you, there's a clear next step, and the offer fits. If one is missing, the result is zero.
+- With a small audience, sell by hand: posts, a newsletter, a questionnaire, DMs and a link to pay.
+- Test an offer before you build it: post about the problem, run a poll, show behind the scenes, start a waitlist, or pre-sell softly.
 
 **Mistakes to avoid**
 
@@ -565,7 +565,7 @@ Each step has a goal, the questions to answer, the rules from the sources, the m
 
 **You are done when:** You have one clear promise, one next step in your content and a way for people to raise their hand.
 
-**Read more:** [10.3 Give first, sell later](guide/10-money-and-careers-in-content.md#m10-l3) · [10.4 Give away the best, sell the implementation](guide/10-money-and-careers-in-content.md#m10-l4) · [10.5 Your first product: small, fast, validated](guide/10-money-and-careers-in-content.md#m10-l5) · [10.7 Getting your first client by hand](guide/10-money-and-careers-in-content.md#m10-l7) · [10.10 Building an offer from zero and a 90-day plan](guide/10-money-and-careers-in-content.md#m10-l10) · [8.16 From views to money: the attention conversion funnel](guide/08-distribution-and-growth.md#m8-l16)
+**Read more:** [10.3 Give first, sell later](guide/10-money-and-careers-in-content.md#m10-l3) · [10.4 Give away the best, sell the implementation](guide/10-money-and-careers-in-content.md#m10-l4) · [10.5 Your first product: small, fast, validated](guide/10-money-and-careers-in-content.md#m10-l5) · [10.7 Getting your first client by hand](guide/10-money-and-careers-in-content.md#m10-l7) · [10.10 Building an offer from zero, and a 90-day plan](guide/10-money-and-careers-in-content.md#m10-l10) · [8.16 From views to money: the attention conversion funnel](guide/08-distribution-and-growth.md#m8-l16)
 
 <a id="s17"></a>
 
@@ -584,15 +584,15 @@ Each step has a goal, the questions to answer, the rules from the sources, the m
 
 **Rules from the sources**
 
-- Expect about 36 months before meaningful results (a creator's claim).
-- Test widely for the first 60 days (about 50 posts), then keep only the formulas that perform, bring the right people, you enjoy and you're proud of.
-- One timeline: 30 days to 'i can do this', 100 days to a habit, 365 days to expect the first money.
-- Fix the process before blaming creativity, and simplify before you automate.
+- Expect it to take about 36 months to get meaningful results. One creator says this, so treat it as a rough guide.
+- Test widely in the first 60 days (about 50 posts). Then keep only the formats that perform, bring the right people, you enjoy and you're proud of.
+- A rough timeline: 30 days until "I can do this", 100 days until it's a habit, 365 days until you can expect the first money.
+- Fix your process before you blame your creativity, and simplify before you automate.
 - Let AI handle speed and keep taste for yourself, with a human approval step.
 
 **Mistakes to avoid**
 
-- Quitting before the reps add up.
+- Quitting before the repeated effort adds up.
 - Automating a process that doesn't work yet.
 
 **You are done when:** You have a 60-day plan with a review date, one place for ideas and a weekly content day.

@@ -2,17 +2,17 @@
 
 # Module 8: Distribution and growth
 
-*Get eyes on your work, then turn attention into trust, an owned audience and sales.*
+*Get people to see your work, then turn their attention into trust, an audience you own, and sales.*
 
-Posting alone doesn't grow an account. Creators here say growth comes from getting content in front of people through replies, quotes, collabs and the right platforms, then keeping those people on channels you own. They also say patience and reps matter more than early numbers, and that views only matter if they turn into followers and buyers. Pick one platform, repeat what wins, and match your content to where the audience is.
+Posting alone doesn't grow an account. Growth comes from getting your content in front of people through replies, quote posts, collabs and the right platforms, then keeping those people on channels you own, like an email list. Patience and repetition matter more than early numbers, and views only help if they turn into followers and buyers. Pick one platform, repeat what wins, and match your content to where your audience is.
 
 **23 lessons · about 197 minutes of reading**
 
 ## In this module
 
-1. [The one principle: eyes on your work](#m8-l1)
+1. [The one principle: get eyes on your work](#m8-l1)
 2. [Interest media: how algorithms pick who sees you](#m8-l2)
-3. [The X algorithm, as creators explain it](#m8-l3)
+3. [How the X algorithm works, as creators read it](#m8-l3)
 4. [Growing on X: what to do and what to avoid](#m8-l4)
 5. [Choosing your platforms](#m8-l5)
 6. [How often and when to post](#m8-l6)
@@ -24,23 +24,23 @@ Posting alone doesn't grow an account. Creators here say growth comes from getti
 12. [Own your audience: the web between channels](#m8-l12)
 13. [Patience, reps and not quitting](#m8-l13)
 14. [Starting from zero: niche, bio, voice and category](#m8-l14)
-15. [Why a 226M-view article worked](#m8-l15)
+15. [Why the most-viewed article in X history worked](#m8-l15)
 16. [From views to money: the attention conversion funnel](#m8-l16)
 17. [An audience of buyers](#m8-l17)
-18. [Content that sells: the filter, a dinner test and promotion frequency](#m8-l18)
+18. [Content that sells: the \$10,000 filter and how often to promote](#m8-l18)
 19. [Content campaigns and the funnel by audience stage](#m8-l19)
 20. [Launches and creator collabs](#m8-l20)
 21. [Growth phases for a company, and founders with zero distribution](#m8-l21)
 22. [Go to market: pick channels by how you sell](#m8-l22)
 23. [Outbound email, SEO and ads](#m8-l23)
 
-At the end: [Cheat sheet](#cheat-sheet) · [Flashcards](#flashcards)
+At the end: [Cheat sheet](#cheat-sheet)
 
 ---
 
 <a id="m8-l1"></a>
 
-## 8.1 The one principle: eyes on your work
+## 8.1 The one principle: get eyes on your work
 
 *7 min read*
 
@@ -48,102 +48,47 @@ At the end: [Cheat sheet](#cheat-sheet) · [Flashcards](#flashcards)
 
 ### Why posting is not enough
 
-- You can't post and hope the algorithm saves you. You have to get your content in front of people and shared by people with bigger audiences. One creator calls this 'the one and only principle for social media growth'.
-- Three things for success: 1) what you do, and is it valuable; 2) how many people know what you do; 3) is it valuable to the people who know, and if not, how do you make it valuable (marketing and sales).
-- The formula: consistency, effort, improving the thing, and growing how many people know about it. Together that equals success.
-- It's fine to write into the void for practice, but at some point you must put real effort into getting eyes on your content.
-- 'If nobody sees it, it doesn't matter.' Distribution is the moat builders (especially technical ones) underestimate most. The gap between 'shipped' and 'someone uses and pays for this' is almost all distribution.
-- Building got easy, getting noticed didn't. A good product nobody hears about is a product nobody buys.
+- Many beginners post and hope the algorithm will find them. It usually doesn't. Your content has to be put in front of people, ideally people who already have an audience and will share it.
+- Success has three parts. First, what you make and whether it is valuable. Second, how many people know it exists. Third, whether it is valuable to the people who do know. If it isn't, you fix it with marketing and sales, which just means explaining the value better and asking people to act.
+- Put together: be consistent, put in effort, keep improving the work, and keep growing the number of people who know about it.
+- It's fine to write into the void for practice at the start. But at some point you need to put real effort into getting people to see what you make.
+- If nobody sees it, nothing else counts. Builders, especially technical ones, tend to underestimate this. The gap between "I built it" and "someone uses it and pays for it" is almost all about getting seen.
+- Building things has become easy, but getting noticed hasn't. A good product that nobody hears about is a product nobody buys.
 
 ### Distribution is trust at scale
 
-- Distribution can be defined as 'trust at scale'. AI levelled the building floor but didn't touch the trust floor.
-- Taste feeds distribution: if what you make is really good, people distribute it for you because it made them think. If it's generic, no posting frequency saves it.
-- The split: use AI for the logistics (formatting, repurposing, scheduling, analytics) and put your own energy into making the thing worth distributing.
-- One creator puts it as a story: 'distribution is just other people distributing your story'.
+- Distribution means getting your work in front of lots of people who trust it. One way to say it is "trust at scale". AI made it cheaper to build things, but it did nothing to make people trust you.
+- Taste helps distribution. If what you make is really good, people share it for you because it made them think. If it's generic, posting more often won't save it.
+- A good split: let AI handle the chores (formatting, repurposing, scheduling, checking numbers), and spend your own energy on making something worth sharing.
+- Another way to put it: distribution is just other people telling your story for you.
 
-### The big-picture growth steps
+### The four big steps of growth
 
-- Step 1: write persuasive content.
-- Step 2: get eyes on it (replies, quotes, reposts, DMs, remixing, collabs, group chats, covered in later lessons).
-- Step 3: iterate on your ideas with data, every month.
-- Step 4: create depth and span with your best ideas: long form, and more platforms, so you're not 'a slave to that platform'.
+- Step 1: write content that persuades, meaning people feel something or learn something and want to act.
+- Step 2: get eyes on it. Later lessons cover how: replies, quote posts, reposts, DMs, remixing, collabs and group chats.
+- Step 3: every month, look at your results and improve your ideas based on what actually did well.
+- Step 4: take your best ideas and give them depth (longer formats like articles or long videos) and span (more platforms). That way you don't depend on one platform.
 
 ### When views are low, look at the content first
 
-- The algorithm is just a reflection of people's interests. Swap 'the algorithm isn't picking up my video' for 'the audience isn't connecting with my message'.
-- 100 to 300 views is not a shadowban. People just don't want that piece.
-- One hard line: 'the algorithms are so good that if you're not getting traction, it's because your content's not good'. That's one creator's claim, useful as motivation, not proven.
-
-### Frameworks
-
-**The 3 things for success**
-
-1. What you do: is it valuable?
-2. Reach: how many people know what you do?
-3. Fit: is it valuable to the people who know? If not, fix it with marketing and sales
-
-**Big-picture growth steps**
-
-1. Write persuasive content
-2. Get eyes on it
-3. Iterate on ideas with data monthly
-4. Add depth (long form) and span (more platforms) with your best ideas
+- The algorithm mostly reflects what people are interested in. So instead of "the algorithm isn't picking up my video", try "the audience isn't connecting with my message".
+- Getting 100 to 300 views usually isn't a shadowban (a secret penalty). It most often means people didn't want that particular piece.
+- Some creators go further and say that if you're not getting traction, your content simply isn't good enough. That is a strong claim that nobody has proven, but it is a useful push to improve the work before blaming the platform.
 
 ### Examples
 
-- **A digital art account:** Art curation accounts grew by sharing other artists' best work. The account got featured by using their hashtag, commenting consistently and DMing them. Over about 2 months many small accounts shared its posts, and big accounts (100K to 500K followers) shared them 10 to 20 times. It gained about 2,500 followers.
-  <br>*Why it works:* It shows growth came from other people putting the work in front of their audiences, not from posting alone.
+- **A digital art account:** An account shared other artists' best work. It used their hashtag, commented on their posts regularly and sent them DMs. Over about 2 months, many small accounts shared its posts, and bigger accounts (100,000 to 500,000 followers) shared them 10 to 20 times. It gained about 2,500 followers.
+  <br>*Why it works:* The growth came from other people putting the work in front of their own audiences, not from posting alone.
 
 ### Common mistakes
 
 - Posting and waiting for the algorithm to find you.
-- Blaming a shadowban when the audience simply didn't want the piece.
-- Trying to fix weak, generic work with more posting.
+- Blaming a shadowban when the audience simply didn't want that piece.
+- Trying to fix weak, generic work by posting more.
 
 ### Try it
 
-Write the three questions at the top of a page and answer each in one line for your own content: what's valuable about it, roughly how many people know it exists, and who it's valuable to. Then list 3 concrete ways you could put your next post in front of new people this week.
-
-<details><summary><b>Check yourself (4 questions)</b></summary>
-
-**1. What is 'the one and only principle' of social media growth?**
-
-- a) Write longer posts
-- b) Use the right hashtags
-- c) Get your content in front of people, including bigger audiences
-- d) Post every day without a break
-
-*Answer: c) Get your content in front of people, including bigger audiences.* Posting alone does nothing. You must get eyes on your work, often through people with bigger audiences.
-
-**2. Distribution is best described as...**
-
-- a) a paid ads problem
-- b) a posting schedule
-- c) a vanity metric
-- d) trust at scale
-
-*Answer: d) trust at scale.* AI made building easy but didn't make trust easy, and distribution is trust at scale.
-
-**3. Your post gets 200 views. How should you read that?**
-
-- a) The audience didn't connect with the message
-- b) You're shadowbanned
-- c) Post at a different time
-- d) Buy some views to kick-start it
-
-*Answer: a) The audience didn't connect with the message.* The algorithm reflects people's interests, so low views mean people didn't want that piece.
-
-**4. What happens when your work is generic?**
-
-- a) No posting frequency saves it
-- b) AI will fix it
-- c) It grows slower but steadily
-- d) Posting more fixes it
-
-*Answer: a) No posting frequency saves it.* Taste feeds distribution. Good work gets shared for you, generic work doesn't, however often you post.
-
-</details>
+Write three questions on a page and answer each in one line for your own content: what is valuable about it, roughly how many people know it exists, and who it is valuable to. Then list 3 concrete ways you could put your next post in front of new people this week.
 
 [Back to the top of this module](#top) · [All modules](../README.md#contents)
 
@@ -155,105 +100,57 @@ Write the three questions at the top of a page and answer each in one line for y
 
 *8 min read*
 
-> **The big idea:** Feeds now show people what they're interested in, not who they follow. The algorithm tests each post on strangers, so every post can win, and the wrong kind of views can hurt you.
+> **The big idea:** Feeds now show people what they're interested in, not just who they follow. The algorithm tests each post on strangers, so any post can win, and the wrong kind of views can hurt you.
 
 ### From follower feeds to interest media
 
-- Five years ago you saw posts from people you followed. Now the feed shows what you're interested in. 'The algorithm changed no one. The algorithm exposed everyone.'
-- One creator with about 50M followers watches only one number on every platform, views per post, because 'the creative is the variable'. A brand new account's 4th post can outrun theirs.
-- 'Your third post can change the course of your career'. Judge each post on its merit, not on your follower count.
-- The platforms finally want what you want (keep people on the app), so relevant posts get reach for free. 'For the first time ever in marketing, creative is creating the reach.'
-- Since TikTok, social media became 'interest media'. You see what the algorithm picks for you, mostly from people you don't follow.
-- Brands built on the old follower feed (2016 to 2018) lost reach. A 10K account and a 1M account compete for the same attention, so small creators grow faster than ever and big ones face more competition. One view is that personal brands as they worked in 2016 are dead.
-- The answer: pick one interest your audience wants from you and go all in. Focus on serving people, views and staying relevant.
+- About five years ago you mostly saw posts from people you followed. Now your feed shows what the app thinks you're interested in, mostly from people you don't follow. This is often called "interest media", and it started with TikTok.
+- The result: a small account and a huge account compete for the same attention. Small creators can grow faster than ever, and big ones face more competition.
+- One creator with about 50 million followers says he watches a single number on every platform: views per post. His reason is that the content itself is the thing that changes the result. A brand new account's 4th post can beat his.
+- So judge each post on its own merit, not on your follower count. Even your third post can change the course of your career.
+- Platforms now want what you want: to keep people on the app. So posts people find relevant get reach for free. For the first time in marketing, the quality of the creative is what creates the reach.
+- Brands built on the old follower feed (around 2016 to 2018) lost reach. Some people argue personal brands built that old way are dead.
+- The answer: pick one interest your audience wants from you and go all in. Serve those people, watch your views, and stay relevant.
 
 ### The algorithm is a matchmaker
 
-- Step 1: it 'fingerprints' the piece: computer vision on the visuals, the audio or transcript, plus caption and creator data, then builds a 'fit score' for who should like it.
-- Step 2: it shows it to a first test group (about 200 people in this model), mostly non-followers. Strangers liking it is the real signal.
-- Step 3: good data pushes it to about 2,000, then about 20,000 and on. Mixed data re-tests another small group. Bad data stops it. '200 view jail' means the first test group didn't like it.
-- What it reads: average watch time and completion, engagement rate (likes plus comments plus shares divided by views), and 'watch-time session share' (how much of someone's session was your content, which nobody can see).
-- Caveat: the '200 people' and the exact steps are a creator's simplified model (based on outlier data and Instagram's CEO), not published platform rules.
+- Here is a simplified model of how it works. It is one creator's explanation, based on outlier data and comments from Instagram's CEO, not published platform rules. The "200 people" and the exact steps are approximate.
+- Step 1: it "fingerprints" your post. It looks at the visuals, the audio or transcript, and your caption and account data, then guesses who would like it.
+- Step 2: it shows the post to a small first test group (about 200 people in this model), mostly people who don't follow you. Strangers liking it is the real signal.
+- Step 3: if the numbers are good, it pushes the post to about 2,000 people, then about 20,000, and so on. If they are mixed, it tests another small group. If they are bad, it stops. "200 view jail" means the first test group didn't like it.
+- What it reads: how long people watch and how many finish, the engagement rate (likes plus comments plus shares, divided by views), and how much of a person's session on the app was spent on your content. You can't see that last one.
 
-### Audience matching: stay on the same few topics
+### Stay on the same few topics
 
-- The same goes for X: one idea per post helps the algorithm, because mixed topics make it hard to know who to show a post to, especially inside SimClusters (interest groups).
-- The 'shotgun topics' pitfall: one account mixing tech and marketing got millions of views but didn't grow, because each post only interested half the audience. One topic per account.
+- The same goes for X. One idea per post helps, because mixed topics make it hard for the algorithm to know who to show a post to. X groups people into interest clusters, and your post needs to fit one.
+- Say one account mixes tech and marketing. It might get millions of views but not grow, because each post only interests half of the audience. One topic per account works better.
 
-### The wrong views hurt you
+### The wrong views can hurt you
 
-- 'Not all views are created equal, most can hurt long-term growth.'
-- The viral trap: a huge viral piece on a broad topic gets stuck with passive scrollers in the middle. A specific piece travels to the people who buy. Never chase the broadest ('max') ring: a viral max video brings the wrong followers and confuses the algorithm.
-- Views only count if they turn into followers. Views without follows build 'negative brand association to your face': people saw you, didn't like it, didn't follow.
-
-### Frameworks
-
-**How the algorithm decides**
-
-1. Fingerprint: read visuals, audio, caption and creator data to build a fit score
-2. Test: show it to a small group of mostly non-followers (about 200 in this model)
-3. Expand or stop: good data goes to about 2,000 then 20,000, mixed data re-tests, bad data stops
+- Not all views are equal, and some can hurt long-term growth.
+- A huge viral post on a broad topic mostly reaches passive scrollers, people who watch and move on. A specific post travels to the people who actually buy or care. Don't chase the broadest possible audience. A viral hit on a broad topic brings the wrong followers and confuses the algorithm about who you're for.
+- Views only help if they turn into followers. Views without follows can even hurt: people saw you, didn't like it, and now remember you that way.
 
 ### Examples
 
-- **A brand new TikTok account:** A brand new account ('You're somebody now'), first post, zero followers, a slight re-edit of a clip that had already done well: 8.2M organic views. The creator says they're heading to 1,000+ niche accounts.
-  <br>*Why it works:* Proof that the creative, not the follower count, now creates reach.
-- **The gorilla video:** Imagine a Claude page posts a Claude-for-marketers reel (50k views, 500 followers), then a gorilla-runs-a-marathon video (5M views, 5,000 followers). The next product video is shown to the gorilla crowd, they don't engage, and the algorithm stops pushing it.
+- **A brand new TikTok account:** A creator started a brand new account with zero followers and posted a slight re-edit of a clip that had already done well. It got 8.2 million views. The creator says they plan to run over 1,000 niche accounts like it.
+  <br>*Why it works:* This shows the content, not the follower count, now creates the reach. It is one creator's report.
+- **The gorilla video (made up):** Imagine a page about Claude posts a reel for marketers (50,000 views, 500 new followers). Then it posts a funny gorilla-runs-a-marathon video (5 million views, 5,000 new followers). Its next product video is shown to the gorilla crowd. They don't engage, and the algorithm stops pushing it.
   <br>*Why it works:* Off-topic viral views bring followers who teach the algorithm the wrong audience.
 
 ### Common mistakes
 
 - Judging a post by your follower count instead of its own views.
-- Mixing unrelated topics on one account (shotgun topics).
+- Mixing unrelated topics on one account.
 - Chasing broad viral hits that bring followers who don't care about your main topic.
 
 ### Where the sources disagree
 
-One view says posting time, hashtags and captions 'don't matter' to the algorithm. Another creator found posting time did matter in tests (see the lesson on frequency and timing).
+Some creators say posting time, hashtags and captions don't matter to the algorithm. Others tested it and found posting time did matter (see the lesson on how often and when to post).
 
 ### Try it
 
-Take your last 10 posts and mark each one 'core topic' or 'off topic'. Next to each, write whether it brought followers. Look for any off-topic post with big views and few follows, and write one line on what audience it may have attracted.
-
-<details><summary><b>Check yourself (4 questions)</b></summary>
-
-**1. In this model, who sees a new post first?**
-
-- a) Only your followers
-- b) A small test group of mostly non-followers
-- c) Only people who liked your last post
-- d) Everyone in your country
-
-*Answer: b) A small test group of mostly non-followers.* The first test group is mostly strangers, and strangers liking it is the real signal.
-
-**2. What is meant by 'the creative is the variable'?**
-
-- a) Each post's quality now decides its reach
-- b) Follower count decides reach
-- c) You should change your profile picture often
-- d) Ads matter more than posts
-
-*Answer: a) Each post's quality now decides its reach.* In interest media the feed picks posts by interest, so the post itself decides how far it goes.
-
-**3. Why can a viral off-topic post hurt you?**
-
-- a) X deletes viral posts
-- b) It brings followers who teach the algorithm the wrong audience
-- c) It uses up your monthly reach
-- d) Viral posts lower your verification
-
-*Answer: b) It brings followers who teach the algorithm the wrong audience.* The next on-topic post is shown to the wrong crowd, they don't engage, and it stops being pushed.
-
-**4. Views without follows create...**
-
-- a) negative brand association
-- b) a cold-start boost
-- c) nothing at all
-- d) a shadowban
-
-*Answer: a) negative brand association.* People saw you, didn't like what they saw, and didn't follow.
-
-</details>
+Take your last 10 posts and mark each one "core topic" or "off topic". Next to each, write whether it brought followers. Look for any off-topic post with big views and few follows, and write one line on what audience it may have attracted.
 
 [Back to the top of this module](#top) · [All modules](../README.md#contents)
 
@@ -261,131 +158,84 @@ Take your last 10 posts and mark each one 'core topic' or 'off topic'. Next to e
 
 <a id="m8-l3"></a>
 
-## 8.3 The X algorithm, as creators explain it
+## 8.3 How the X algorithm works, as creators read it
 
 *10 min read*
 
-> **The big idea:** X's open-source code can be read as three stages: Scouts find posts, a Judge scores them by what each viewer will probably do, and a Bouncer filters them. Shares, replies and quotes count far more than likes, and negative feedback is brutal. All of this is creators' reading, not official rules.
+> **The big idea:** X has published parts of its code, and creators read it as three stages: scouts find posts, a judge scores them by what each viewer will probably do, and a filter removes the rest. Shares, replies and quotes count far more than likes, and negative feedback is very costly. This is creators' interpretation, not official rules.
 
-### Read this first: whose claims these are
+### Read this first: how sure can we be?
 
-- Everything here is one creator's reading of X's open-source code. They say themselves they are 'NOT from the X algorithm team', it's 'purely my interpretation', and X keeps some parts closed.
-- A second creator (who says they grew from 400 to 26,000 followers) gives another reading. Treat both as 'appears to', not fact.
-- The weights change often without announcement. One reading says the like weight moved from 0.5 in August to 0.66 by October 30, 2026.
+- Everything here comes from creators who read X's open-source code and explain what they think it means. They say themselves that they are not on the X team, that it is their own interpretation, and that X keeps some parts closed.
+- A second creator, who says they grew from 400 to 26,000 followers, gives a slightly different reading. So treat everything as "it appears that", not as fact.
+- The weights (how much each action counts) change often and without announcement. One reading says the weight of a like moved from 0.5 in August to 0.66 by the end of October 2026.
 
-### Stage 1: the Scouts (where posts come from)
+### Stage 1: the scouts (where posts come from)
 
-- Thunder: posts from people you follow, your 'bubble'.
-- Phoenix: posts from people you don't follow yet. It's called 'where the virality lies': it predicts what you'll want before you've followed the poster.
-- SimClusters: posts popular in your niche. Accounts and posts are grouped by who engages with what. One creator's article about the Head of Content role went viral inside the tech startup, marketing and content niche, not across the whole platform.
-- Popular Posts: a fourth, smaller source, a shared list of popular recent posts, first seeded from the most-followed active accounts.
+- Four sources feed the For You timeline, X's main feed of recommended posts.
+- Thunder finds posts from people you already follow, your bubble.
+- Phoenix finds posts from people you don't follow yet. It guesses what you'll like before you've ever followed the poster, which is where viral growth comes from.
+- SimClusters finds posts that are popular in your niche. X groups accounts and posts by who engages with what. For example, one creator's article about the content job at startups went viral inside the tech startup, marketing and content niche, not across the whole platform.
+- Popular Posts is a smaller fourth source: a shared list of popular recent posts, first collected from the most-followed active accounts.
 
-### Stage 2: the Judge (the weights)
+### Stage 2: the judge (the weights)
 
-- For every post and every viewer, a model (said to be built on the same architecture as Grok) predicts how likely the person is to like, reply, share, read the whole thing, follow and so on, then adds up a weighted score.
-- The positive weights (production defaults as of October 30, 2026): share via copy link 20, reply 5, quote 5, share via DM 5, follow author 4, share 2, repost 1, like 0.66, click into post 0.3, open link 0.2, dwell 0.05, photo expand 0.05, profile click 0, video quality view 0.
-- The negative weights: not dwelled (scrolled past) -0.02, block author -31.2, not interested -52.3, mute author -58.8, report -234. In October it was summed up as 'one report equals 350 likes'.
-- Takeaways: shares are king (X wants people on the platform), replies and quotes count 7.5x a like, likes 'barely move the needle', negative feedback is 'absolutely brutal'.
-- In October a 'user debias' model was also described: likes from people who like everything count less, engagement from picky people counts more, so engagement pods got weaker.
+- For every post and every viewer, a model (said to be built the same way as Grok, X's AI) predicts how likely that person is to like, reply, share, read the whole thing, follow, and so on. Then it adds up a weighted score.
+- Positive weights, as read from the code at the end of October 2026: share by copying the link 20, reply 5, quote 5, share by DM 5, follow the author 4, share 2, repost 1, like 0.66, click into the post 0.3, open a link 0.2, time spent reading 0.05, expand a photo 0.05, profile click 0, video view 0.
+- Negative weights: scrolling past without pausing -0.02, block the author -31.2, tap "not interested" -52.3, mute the author -58.8, report -234. Put simply, one report cancels out about 350 likes.
+- What this means: shares are the strongest signal because X wants people to stay on the platform. Replies and quotes count about 7.5 times a like. Likes barely move the needle. Negative feedback is brutal.
+- A "user debias" step was also described: likes from people who like everything count less, and engagement from picky people counts more. That makes engagement pods (groups that like each other's posts) weaker.
 
 ### Adjustments after the score
 
-- Posting too much: if you post too many posts, not all of them get a chance to be pushed.
-- Out-of-network discount: posts from accounts the viewer doesn't follow get their score multiplied by a factor below 1.
-- Small account boost: small accounts get a boost on fresh posts. One creator says they had their first viral post 3 days after starting. Another says accounts under 1,000 followers appear to get extra discovery.
+- Posting too much: if you post a lot, not all of your posts get a chance to be pushed.
+- Out-of-network discount: posts from accounts the viewer doesn't follow have their score multiplied by a number below 1, so they have to be better to get through.
+- Small account boost: small accounts seem to get a boost on fresh posts. One creator says they had their first viral post 3 days after starting. Another says accounts under 1,000 followers appear to get extra discovery.
 
-### Stage 3: the Bouncer (filters and reputation)
+### Stage 3: the filter (what gets removed)
 
-- Filtered out: posts older than 48 hours (X is real-time), posts you've already seen, reposts and replies from people you don't follow, blocked and muted accounts and keywords, spam, flagged accounts and bots.
-- Account credibility: a PageRank-style score based on who follows and engages with you. 'Network quality matters (not just size).'
-- X tracks inauthentic behaviour over time, and its transparency tool shows labels that limit your visibility, including posts marked as spam.
-- The way to stay safe: don't let AI write and post 100% of your copy, get Premium (and verify your ID if you're comfortable), avoid content that gets you muted, blocked or reported.
+- Removed before you see them: posts older than 48 hours (X favours fresh posts), posts you've already seen, reposts and replies from people you don't follow, blocked and muted accounts and keywords, spam, flagged accounts and bots.
+- Account credibility: you get a score a bit like Google's PageRank, based on who follows and engages with you. Network quality matters, not just size.
+- X tracks fake behaviour over time, and its transparency tool shows labels that limit your visibility, including posts marked as spam.
+- How to stay safe: don't let AI write and post all of your copy, get Premium (and verify your ID if you're comfortable), and avoid content that gets you muted, blocked or reported.
 
 ### Myths and quirks
 
-- Myth: 'profile clicks are a huge signal'. Weighted 0 now, 'conversions are what count' (a follow is worth 4).
-- Myth: 'big accounts get guaranteed reach'. One creator has seen many big accounts die over about 18 months.
-- Myth: 'small accounts can't go viral'. They get a cold-start boost.
-- Engagement groups no longer work like they used to.
-- Quirks: each feed is built from about 2,000+ candidate posts, the model reads your last ~1,000 actions to predict what you want, and it uses signals like installed apps, inferred gender and location (from IP).
-- 'Algos are essentially games and math'. The job is to match content with the right people to keep them on the platform, so you reverse-engineer what gets pushed instead of posting whatever you want.
+- Myth: profile clicks are a huge signal. They are weighted 0 now. What counts is conversion, and a follow is worth 4.
+- Myth: big accounts get guaranteed reach. One creator has watched many big accounts fade over about 18 months.
+- Myth: small accounts can't go viral. They get a cold-start boost.
+- Engagement groups don't work like they used to.
+- Quirks: each feed is built from about 2,000 candidate posts. The model reads your last 1,000 or so actions to predict what you want. It also uses signals like your installed apps, inferred gender and location.
+- The big picture: the algorithm is a game of math whose job is to match content with the right people so they stay on the platform. So find out what gets pushed and work with it, instead of posting whatever you feel like.
 
 ### A second reading of what counts
 
-- Original posts reach non-followers best. Don't build growth on replies, reposts, copied text or recycled content.
-- Sharing is one of the strongest signals, especially copying the link to send to someone. Ask: would someone send this to a friend?
+- Original posts reach non-followers best. Don't build your growth on replies, reposts, copied text or recycled content.
+- Sharing is one of the strongest signals, especially copying the link to send to someone. Ask yourself: would someone send this to a friend?
 - Replies and quotes are strong because they create conversations. Conversations between people who follow each other appear to weigh significantly more.
-- A post that makes someone follow you sends a strong signal, so some posts should give a clear reason to hit follow.
-- Time spent inside the post is the major metric. Bookmarks appear to have little or no direct ranking value.
-- For video, a tap isn't enough now: if people open it and leave at once it doesn't help much, so start with the strongest part and cut long intros.
-- The biggest takeaway: X is getting better at telling real interest from empty engagement. It wants people to read, watch, reply, quote, share and follow. 'Not more content, better content.'
-
-### Frameworks
-
-**The Scout, the Judge and the Bouncer**
-
-1. Scouts: Thunder (people you follow), Phoenix (people you don't follow yet), SimClusters (popular in your niche), plus Popular Posts
-2. Judge: predicts each viewer's likely actions and gives a weighted score
-3. Bouncer: filters old, seen, spammy or low-reputation posts before the For You feed
+- A post that makes someone follow you sends a strong signal, so some of your posts should give a clear reason to hit follow.
+- Time spent inside the post is a major metric. Bookmarks appear to have little or no direct ranking value.
+- For video, a tap isn't enough anymore. If people open it and leave right away, it doesn't help much. Start with your strongest part and cut long intros.
+- The biggest takeaway: X is getting better at telling real interest from empty engagement. It wants people to read, watch, reply, quote, share and follow. Not more content, better content.
 
 ### Examples
 
-- **A Head of Content article:** The article went viral inside the tech startup, marketing and content niche, but not platform-wide.
-  <br>*Why it works:* It shows SimClusters: posts spread through interest groups first.
+- **An article that stayed in its niche:** A creator's article about the content job at startups went viral among tech startup, marketing and content people, but not across the whole platform.
+  <br>*Why it works:* This is SimClusters at work: posts spread through interest groups first.
 
 ### Common mistakes
 
 - Chasing likes, one of the weakest signals.
-- Posting things that collect mutes, blocks, reports or 'not interested', which are weighted far below zero.
+- Posting things that collect mutes, blocks, reports or "not interested" taps, which are weighted far below zero.
 - Treating any creator's weight table as official or permanent. The weights change without notice.
 
 ### Where the sources disagree
 
-Window: one creator's October posts say the first ~2 hours of a post are everything, while their article and a second creator both describe a 48-hour window (and the second says to reply on your own post in the first 30 minutes). Bookmarks: the second creator says they appear to have little direct ranking value, while the first creator's share test still asks 'would someone bookmark it?' as a sign a post is worth spreading. Both can be true: a save can show value without pushing ranking.
+Some creators say the first 2 hours of a post decide everything. Others describe a 48-hour window and say to reply on your own post in the first 30 minutes. On bookmarks, one creator says they have little ranking value, while another still asks "would someone bookmark this?" as a sign a post is worth spreading. Both can be true: a save can show value without pushing the ranking.
 
 ### Try it
 
-Pick one post you're about to publish. Using the weights, write down which high-value action you're designing for (link share, DM share, reply, quote or follow) and change one line to make that action more likely. Then check it for anything that might earn a 'not interested'.
-
-<details><summary><b>Check yourself (4 questions)</b></summary>
-
-**1. In this reading, which source brings posts from people you don't follow yet?**
-
-- a) Popular Posts
-- b) Phoenix
-- c) SimClusters
-- d) Thunder
-
-*Answer: b) Phoenix.* Phoenix predicts what you'll want before you follow someone. It's called where the virality lies.
-
-**2. Which action has the highest positive weight in the table?**
-
-- a) Profile click
-- b) Like
-- c) Repost
-- d) Share via copy link
-
-*Answer: d) Share via copy link.* Copy link is 20, a like is 0.66 and a profile click is 0.
-
-**3. Why are profile clicks said to be overrated?**
-
-- a) They are banned
-- b) They count as negative
-- c) They're weighted 0, it's the follow that counts
-- d) They only count for big accounts
-
-*Answer: c) They're weighted 0, it's the follow that counts.* A profile click scores 0 for the post, a follow scores 4. 'Conversions are what count.'
-
-**4. What does 'network quality matters' refer to?**
-
-- a) A PageRank-style credibility score based on who follows and engages with you
-- b) The number of people you follow
-- c) How many groups you're in
-- d) Your Wi-Fi speed
-
-*Answer: a) A PageRank-style credibility score based on who follows and engages with you.* The Bouncer looks at account credibility, based on the quality of who engages with you, not just size.
-
-</details>
+Pick one post you're about to publish. Using the weights, decide which high-value action you're designing for (link share, DM share, reply, quote or follow) and change one line to make that action more likely. Then check the post for anything that might earn a "not interested".
 
 [Back to the top of this module](#top) · [All modules](../README.md#contents)
 
@@ -397,70 +247,59 @@ Pick one post you're about to publish. Using the weights, write down which high-
 
 *9 min read*
 
-> **The big idea:** The practical rules creators draw from their reading of X: make posts people share, reply to and quote, stay original and on one idea, and stay away from anything that gets you muted, reported or flagged as fake.
+> **The big idea:** The practical rules creators draw from how X works: make posts people share, reply to and quote, stay original and on one idea, and avoid anything that gets you muted, reported or flagged as fake.
 
 ### Why creators take X seriously
 
-- Creators can post every format on X, the users are smart and rich, and 'most creators still treat it as a side platform'. Not taking X seriously is called 'the most expensive mistake a creator can make'.
-- X is the best platform for networking and for testing ideas fast, and it suits writers, founders and operators.
-- One creator describes X as 'the angry middle-aged guy who hasn't become what he wants yet': cerebral, wants a challenge, 'a little smarter and a little ruder than feels comfortable'.
-- On X, contrarian takes, one-liners and predictions that start a small fight in the replies win. Feel-good posts 'trying to be liked instead of right' lose. Posts die in a day.
-- (Oct 31) 'the algorithms are so good now that your account can do a 180 in just a few days'. It used to take weeks to 'warm' an account.
+- You can post every format on X, the users are smart and often have money, and most creators still treat it as a side platform. Some call ignoring X the most expensive mistake a creator can make.
+- X is the best platform for networking and for testing ideas quickly, and it suits writers, founders and operators.
+- One creator describes the typical X user as a cerebral person who wants a challenge, a little smarter and a little ruder than feels comfortable.
+- So contrarian takes, one-liners and predictions that start a small fight in the replies win. Feel-good posts that try to be liked instead of right lose. Posts also die within about a day.
+- Algorithms are so good now that an account can turn around in a few days. It used to take weeks to "warm up" an account.
 
 ### What to do
 
-- Make content people want to share: easy to scan, easy to send. The share test before posting: would someone bookmark it, reply to it, or send it to a friend?
-- Spark conversation: opinions, observations, frameworks, questions or ideas people can react to. You want people replying in your comments.
-- Give real value and original insight from your experience, network and job, your 'unfair market advantages'.
-- Grab attention fast: learn hooks and copywriting. If you mainly make video, invest in a proper camera, mic and light. You can also start simple with sincere, self-made founder videos, no special effects.
-- One idea per post. If a post has several ideas, split it. Every post needs a clear takeaway, a specific person it's for and a specific call to action.
-- Test every format X is pushing: threads, articles, media. Use several formats.
+- Make content people want to share: easy to scan and easy to send. Before posting, ask: would someone bookmark it, reply to it, or send it to a friend?
+- Spark conversation with opinions, observations, frameworks, questions or ideas people can react to. You want people replying in your comments.
+- Give real value and original thinking from your own experience, network and job. These are your unfair advantages, things others can't copy.
+- Grab attention fast by learning hooks and copywriting. If you mostly make video, invest in a proper camera, mic and light. You can also start simple with sincere, self-made founder videos and no special effects.
+- Keep one idea per post. If a post has several ideas, split it. Every post needs a clear takeaway, a specific person it's for and a specific call to action.
+- Test every format X is pushing, such as threads, articles and media. Use several formats.
 - Write hooks that are strong but accurate. If the headline promises something the post doesn't deliver, people leave and the algorithm punishes it.
+- Build a dense network of high-quality people around you, because the algorithm reads who engages with you.
 
 ### Getting comments: 5 ways
 
 - Take a hard stance.
-- Take the contrarian side.
-- Push the framing further ('better than every pasta shop in the world').
-- Talk about things people already have opinions on (Nike, not 'shoes').
-- Make them feel something.
+- Take the contrarian side, the opposite of what most people say.
+- Push the framing further. For example, "better than every pasta shop in the world" gets more reactions than "good pasta".
+- Talk about things people already have opinions on. Nike gets more reactions than "shoes".
+- Make people feel something.
 
 ### What to avoid
 
-- Engagement bait ('like if you agree', 'comment YES to receive it', 'tag 3 friends'). It's punished more than ever.
-- Hashtag stuffing: 'hashtags are not a growth strategy, we are not in 2015 anymore'.
-- Repeating identical or nearly identical text, which looks spammy. Reuse ideas with a new angle, format or insight instead.
-- Negativity and politics. Reports and mutes 'significantly devalue your account'. Block constant haters. Don't argue with trolls: block or mute them, because arguing risks them muting or blocking you.
-- Reply spam and AI slop replies, which one creator claims 'can suppress your account to the point of irreversible damage'.
-- Bots: no bot replies to strangers, no automated likes or follows, no copy-pasting the same post across accounts, or the account gets hidden or banned.
-- Downloading and re-uploading other people's content. Credit others and use X's quote and post-media features instead.
+- Engagement bait like "like if you agree", "comment YES to receive it" or "tag 3 friends". It is punished more than ever.
+- Hashtag stuffing. Hashtags are not a growth strategy anymore.
+- Repeating identical or nearly identical text, which looks like spam. Reuse an idea with a new angle or format instead.
+- Negativity and politics. Reports and mutes significantly lower how your account is rated. Block constant haters, and don't argue with trolls: block or mute them, because arguing risks them muting or blocking you.
+- Reply spam and low-effort AI replies. One creator claims these can suppress your account so badly that it can't recover.
+- Bots: no bot replies to strangers, no automated likes or follows, and no copy-pasting the same post across accounts, or the account gets hidden or banned.
+- Downloading and re-uploading other people's content. Credit others and use X's quote and media features instead.
 
 ### Links, calls to action and Creator Rewards
 
-- X punishes posts that send people off the platform, so keep only about 10% of posts bottom of funnel and put the call to action in the replies (for example: 'we work with founders struggling with content, DM me this word').
-- Creator Rewards: X pays for impressions from people outside your network. Three things block it: AI-written posts or replies, engagement groups ('1M impressions but only 50k verified = the same circle recycling your posts'), and re-uploading other people's content (quote it instead).
-- Profile basics: get verified, show your face, a 2 to 3 line bio of what you do and who it's for, a simple banner, a pinned post that converts.
+- X punishes posts that send people off the platform. So keep only about 10% of your posts focused on selling, and put the call to action in the replies. For example: "we work with founders struggling with content, DM me this word".
+- Creator Rewards means X pays for impressions from people outside your network. Three things block it: AI-written posts or replies, engagement groups, and re-uploading other people's content (quote it instead). One sign of a group: 1 million impressions but only 50,000 from verified accounts means the same circle is recycling your posts.
+- Profile basics: get verified, show your face, write a 2 to 3 line bio of what you do and who it's for, use a simple banner, and pin a post that converts.
 
 ### Hashtags and keywords on other platforms
 
-- Hashtags and title keywords are 'only the tip of the iceberg'.
-- Maybe 10% extra views, not what takes you from 1,000 to 100,000. 'Just make a better video.' This creator doesn't use hashtags.
-
-### Frameworks
-
-**Practical advice for the X algorithm**
-
-1. Make content people want to share
-2. Grab attention fast (hooks, copywriting, setup)
-3. Post original content and credit others
-4. One idea per post
-5. Avoid negativity, block or mute trolls
-6. Build a dense network of high-quality people
-7. Test every format X is pushing
+- On other platforms, hashtags and title keywords are only the tip of the iceberg. They may add about 10% more views, which won't take you from 1,000 to 100,000.
+- One creator's answer is simple: just make a better video. They don't use hashtags.
 
 ### Common mistakes
 
-- Engagement bait like 'comment YES'.
+- Engagement bait like "comment YES".
 - Posting the same text again and again.
 - Arguing with trolls instead of muting or blocking them.
 - Letting AI write and post all of your copy and replies.
@@ -468,51 +307,11 @@ Pick one post you're about to publish. Using the weights, write down which high-
 
 ### Where the sources disagree
 
-One view: get verified and show your face, and faceless is 'hard mode'. It also admits 'if you're good at content you can build a faceless brand, but most people aren't willing to dox'. So showing a face is easier, not required.
+Some creators say you should get verified and show your face, and that faceless is hard mode. Even they admit a faceless brand can work if you're good at content, but that most people aren't willing to put their name out there. So showing your face is easier, not required.
 
 ### Try it
 
-Go through your last 10 posts and tag any that break a rule above (engagement bait, two ideas in one post, a link in the main post, repeated text, negativity). Rewrite one of them so it has one idea, one reader and a reason to share.
-
-<details><summary><b>Check yourself (4 questions)</b></summary>
-
-**1. Which kind of post is fine on X?**
-
-- a) Misleading posts
-- b) Hashtag-stuffed posts
-- c) Controversial posts
-- d) Engagement bait
-
-*Answer: c) Controversial posts.* Controversial is OK. Irrelevant, annoying or misleading content earns 'not interested'.
-
-**2. Where is it suggested to put a sales call to action on X?**
-
-- a) In every post
-- b) In the replies
-- c) In the first line
-- d) In a hashtag
-
-*Answer: b) In the replies.* X punishes posts that send people away, so keep about 10% bottom of funnel and put the CTA in the replies.
-
-**3. What should you do with trolls?**
-
-- a) Ignore the rules and report everyone
-- b) Argue to drive replies
-- c) Block or mute them
-- d) Quote them
-
-*Answer: c) Block or mute them.* Arguing risks them muting or blocking you, which hurts your reach.
-
-**4. Which of these blocks Creator Rewards?**
-
-- a) Engagement groups recycling your posts
-- b) Posting articles
-- c) Replying to comments
-- d) Using images
-
-*Answer: a) Engagement groups recycling your posts.* AI-written posts, engagement groups and re-uploaded content are the ones named.
-
-</details>
+Go through your last 10 posts and mark any that break a rule above (engagement bait, two ideas in one post, a link in the main post, repeated text, negativity). Rewrite one of them so it has one idea, one reader and a reason to share.
 
 [Back to the top of this module](#top) · [All modules](../README.md#contents)
 
@@ -524,109 +323,55 @@ Go through your last 10 posts and tag any that break a rule above (engagement ba
 
 *9 min read*
 
-> **The big idea:** Win one platform before spreading out. Pick it by where your audience already is, what you're good at (writing, talking, camera), how much time you have, and the format that platform pushes hardest.
+> **The big idea:** Win one platform before you spread out. Pick it by where your audience already is, what you're good at (writing, talking or being on camera), how much time you have, and the format that platform pushes hardest.
 
-### Rented, owned and earned
+### Rented, owned and earned channels
 
-- Rented: platforms you don't control (X, TikTok, Instagram, YouTube). Best for reach.
-- Owned: audiences you reach directly (newsletter, community, website). For trust and sales.
-- Earned: other people's audiences (collabs, podcasts). For mindshare.
-- Mass distribution needs all three. Use rented platforms to find people and owned channels to keep them.
+- Rented channels are platforms you don't control, like X, TikTok, Instagram and YouTube. They are best for reach, meaning finding new people.
+- Owned channels are audiences you can reach directly, like a newsletter, a community or a website. They are best for trust and sales.
+- Earned channels are other people's audiences, like collabs and podcasts where you are a guest. They are best for mindshare, meaning people start to know your name.
+- Growing big needs all three. Use rented platforms to find people and owned channels to keep them.
 
-### How to pick
+### How to pick your platform
 
-- Start with 1 to 2 platforms max. Ask where your audience already spends time, whether you're better at writing, talking or being on camera, and how much time you can really commit.
-- The time rule: low time = 1 to 2 channels, about 8 to 12 hours a week = 2 to 4 channels, high = 5+ with repurposing.
-- Pick where your buyers spend the most time and the format that platform pushes hardest.
-- Pick one platform to optimise for over the next 6 to 12 months. 'Focus is an amplifier.' Spread across 7 platforms and you get bad results everywhere.
-- The best platform is the one you already use, the app you open when you pick up your phone. You understand its feel better than anyone who doesn't use it daily, and otherwise you'll hate the process in what is 'a marathon, not a sprint'.
-- 'You win by being undeniable in one place', then expand. Each platform is a different person.
+- Start with 1 to 2 platforms at most. Ask yourself three questions: where does my audience already spend time, am I better at writing, talking or being on camera, and how much time can I really commit?
+- Use the time rule. Low time: 1 to 2 channels. About 8 to 12 hours a week: 2 to 4 channels. A lot of time: 5 or more, but only if you repurpose (turn one piece of content into many).
+- Choose the place where your buyers spend the most time, and the format that platform pushes hardest.
+- Pick one platform to focus on for the next 6 to 12 months. Focus multiplies your results. Spread across 7 platforms and you get bad results on all of them.
+- The best platform is often the one you already use, the app you open when you pick up your phone. You understand how it feels better than anyone who doesn't use it daily. Otherwise you'll hate the process, and growing an account is a marathon, not a sprint.
+- You win by being undeniable in one place, then expanding. Each platform has its own kind of person, so don't treat them all the same.
 
-### Platform notes from the creators
+### Platform notes
 
-- X is best for networking and testing ideas fast (low to medium effort). YouTube is slow to start but compounds like nothing else. LinkedIn is underrated, with less competition and buyers. A newsletter has the highest engagement right after posting. Podcasts are high effort to run, low effort to guest on. A community is for retention.
-- The 'hero format' per platform: Instagram, TikTok, Facebook and Snapchat = short video. YouTube = 10 to 30 minute videos. LinkedIn = short text or the new LinkedIn short video (called 'the biggest untapped opportunity right now', one creator's opinion). X and Threads = short text. X is the pick for developer tools, crypto, startups and tech buyers.
-- For writers: social media writing is the simplest traffic source. It's free, 'social media is a skill, not luck', you can post every day, test endless ideas, and you don't need video, audio or design skills.
-- Options for writers: X has potential and deep ideas. Threads is good for beginners but has lower market sophistication (like Instagram), so more trolling. LinkedIn has the most money but is boring and professional. Substack is one creator's pick, 'where deep thinkers live', and followers are subscribers, so no separate email tool is needed.
+- X is best for networking and testing ideas fast, with low to medium effort. YouTube is slow to start but builds up like nothing else. LinkedIn is underrated, with less competition and many buyers. A newsletter has the highest engagement right after you send it. Podcasts take a lot of effort to run but little effort to join as a guest. A community is for keeping people.
+- Each platform has a "hero format", the format it pushes hardest. Instagram, TikTok, Facebook and Snapchat: short video. YouTube: videos of 10 to 30 minutes. LinkedIn: short text, or its new short video, which one creator calls the biggest untapped opportunity right now (that is an opinion). X and Threads: short text. X is the pick if you sell to developers, crypto people, startups or tech buyers.
+- For writers, social media writing is the simplest way to get traffic. It's free, it's a skill and not luck, you can post every day, you can test endless ideas, and you don't need video, audio or design skills.
+- Options for writers: X has potential and room for deep ideas. Threads is good for beginners but has more trolling and lower market sophistication, like Instagram. LinkedIn has the most money but is boring and formal. Substack is one creator's pick, a place where deep thinkers live, and your followers are already email subscribers, so you don't need a separate email tool.
 - One creator would start with Instagram, then add one more. In their view Instagram and YouTube perform best right now, and they grew only on those two.
-- TikTok is better for studying hooks (its search and For You page are more refined). What works on TikTok generally works on Instagram, because both measure engagement and watch time.
-- The supply and demand point (a creator's claim): Facebook has billions of users but less new content than YouTube or Instagram, so the team grew a client's Facebook faster by filling the gap.
-- Takeaway from a call: YouTube works as an acquisition channel for B2B.
+- TikTok is better for studying hooks, because its search and For You page are more refined. What works on TikTok generally works on Instagram, because both measure engagement and watch time.
+- Supply and demand also matters. One creator's team says Facebook has billions of users but less new content than YouTube or Instagram, so they grew a client's Facebook faster by filling the gap.
+- One takeaway from a sales call: YouTube works as a way to get customers for B2B (business-to-business) companies.
 
 ### Don't spread too early
 
-- One creator calls it 'failure by suffocation': spreading to new platforms too early. Stay on one platform and one format until a system runs 30 days in a row without breaking. They call this their own biggest mistake.
-- 'Violent volume': one creator stayed only on YouTube for 18 months before touching Instagram or TikTok. Spread over 5 platforms and you have a fifth of your effort in each.
-- Master one platform before going everywhere. Spreading thin causes 'ops headaches and strategy drift'. 'Pour all your water into one cup' instead of half-filling 3 or 4.
-- A later recipe once one platform works: 1 short-form platform for reach (7 posts a week), 1 long-form for depth (1 to 2 a week), 1 nurture channel (email or community).
-
-### Frameworks
-
-**Rented, owned, earned**
-
-1. Rented: platforms you don't control, for reach
-2. Owned: newsletter, community, website, for trust and sales
-3. Earned: collabs and podcasts, for mindshare
-
-**Reach, depth, nurture**
-
-1. 1 short-form platform for reach, about 7 posts a week
-2. 1 long-form platform for depth, 1 to 2 a week
-3. 1 nurture channel: email or community
+- One creator calls it failure by suffocation: spreading to new platforms too early. Stay on one platform and one format until your system has run for 30 days in a row without breaking. They call this their own biggest mistake.
+- Another creator stayed only on YouTube for 18 months before touching Instagram or TikTok. Spread over 5 platforms and each one gets a fifth of your effort.
+- Master one platform before going everywhere. Spreading thin causes ops headaches (too much to run) and strategy drift (your message changes on each platform). Pour all your water into one cup instead of half-filling three or four.
+- Once one platform works, here is a simple recipe: 1 short-form platform for reach (about 7 posts a week), 1 long-form platform for depth (1 to 2 pieces a week), and 1 channel to nurture people (email or a community).
 
 ### Common mistakes
 
-- Starting on 5 or 7 platforms at once (failure by suffocation).
+- Starting on 5 or 7 platforms at once.
 - Picking a platform you never use yourself.
-- Picking a format the platform doesn't push (the hero format).
+- Picking a format the platform doesn't push.
 
 ### Where the sources disagree
 
-Where to start: one view says grow on short form first, where it's easier and you control more, then move the audience to long form (YouTube and podcasts need about 50 videos before anyone cares). Another says start on a long-form platform (X or YouTube) and 'trickle down' ideas to short form after 2 to 3 months. Best platform: one creator picks Substack for writers, another picks Instagram and YouTube, another picks X for tech buyers.
+Where to start: some creators say start with short form, where it's easier and you control more, then move people to long form. Others say start on a long-form platform like X or YouTube, then turn ideas into short form after 2 to 3 months. Best platform: one creator picks Substack for writers, another picks Instagram and YouTube, another picks X for tech buyers.
 
 ### Try it
 
-Answer three questions in writing: where your audience already spends time, whether you're best at writing, talking or camera, and how many hours a week you really have. Use the time rule to set how many channels you'll run, then name the one platform you'll focus on for the next 6 months and its hero format.
-
-<details><summary><b>Check yourself (4 questions)</b></summary>
-
-**1. In the rented, owned and earned model, what are owned channels mainly for?**
-
-- a) Trust and sales
-- b) Mindshare
-- c) Reach
-- d) Testing hooks
-
-*Answer: a) Trust and sales.* Rented is for reach, earned for mindshare, owned (newsletter, community) for trust and sales.
-
-**2. What is meant by 'failure by suffocation'?**
-
-- a) Writing posts that are too long
-- b) Spreading to new platforms too early
-- c) Using too many hashtags
-- d) Posting too little
-
-*Answer: b) Spreading to new platforms too early.* Stay on one platform and format until a system runs 30 days in a row without breaking.
-
-**3. The best platform to start on is usually...**
-
-- a) the one with the most users
-- b) the app you already open every day
-- c) LinkedIn
-- d) the newest one
-
-*Answer: b) the app you already open every day.* You understand its feel already, and you're less likely to hate the long process.
-
-**4. Which platform is picked for writers, and why?**
-
-- a) Threads, because it's easy
-- b) LinkedIn, because it's fun
-- c) TikTok, because of reach
-- d) Substack, because followers are subscribers
-
-*Answer: d) Substack, because followers are subscribers.* It's called 'where deep thinkers live', and you don't need a separate email tool.
-
-</details>
+Answer three questions in writing: where your audience already spends time, whether you're best at writing, talking or camera, and how many hours a week you really have. Use the time rule to decide how many channels you'll run, then name the one platform you'll focus on for the next 6 months and its hero format.
 
 [Back to the top of this module](#top) · [All modules](../README.md#contents)
 
@@ -638,109 +383,60 @@ Answer three questions in writing: where your audience already spends time, whet
 
 *8 min read*
 
-> **The big idea:** Creators disagree on volume and timing. The common ground: a pace you can keep, enough space between posts for each one to run, and quality first.
+> **The big idea:** Creators disagree on how much to post and when. The common ground: pick a pace you can keep up, leave space between posts so each one can run, and put quality first.
 
 ### Two routes on X (never the middle)
 
-- Quantity route: up to 24 posts a day, at least 1 hour apart. Only for news accounts or very fast niches (AI, crypto). You accept flops, 'throwing darts and hoping 1 to 2 a day stick'.
-- Later (Nov 2) the advice is to space posts 2 hours minimum. The plans: 3 to 6 value posts a day (90-day plan), 'a few posts a day' when starting.
-- Another creator agrees on spacing: don't post several things back to back, because they compete for the same audience. 'Make every post earn its own distribution before tweeting the next one.'
+- Quantity route: up to 24 posts a day, at least 1 hour apart. This is only for news accounts or very fast niches like AI and crypto. You accept that many posts will flop, and you throw darts hoping 1 or 2 a day stick.
+- Quality route: one creator later advised spacing posts at least 2 hours apart, with 3 to 6 value posts a day in a 90-day plan, or just a few posts a day when you start.
+- Another creator agrees about spacing. Don't post several things back to back, because they compete for the same audience. Make every post earn its own reach before you post the next one.
 
 ### Quality versus quantity
 
-- One great post beats six average posts. Posts compete with each other in the same feed. Spend the time making one idea great (keep drafts on your phone).
-- The volume trap: people post 1,000+ AI pieces a day across hundreds of accounts and engagement trends toward zero. 'Quantity without quality is just noise at scale.' What performs is rarely the information, it's whether the reader trusts the writer.
-- One big creator no longer says 'post 40 times a day'. It's a quality to quantity ratio: post as much as you can at your quality.
-- The 'quality-quantity accordion': get quality to 7/10, raise volume to the platform's normal (suggested numbers: short video 1 a day, YouTube 1 a week, short text about 5 posts a day), then push quality to 9/10. Then 6 months consistent.
-- Reaching 100M views a month needs brute-force volume, likely 20+ posts a day across platforms for brands, founders and employee content programs. Early on, daily posts let you brute-force your way to winning content pillars: make content, iterate, find winners, make more.
-- One app founder scaled their app's content to 6,000 videos a month (more in the founder and team lesson).
+- One great post beats six average ones. Posts compete with each other in the same feed, so spend your time making one idea great. Keeping drafts on your phone helps.
+- The volume trap: some people post over 1,000 AI-made pieces a day across hundreds of accounts, and engagement trends toward zero. Quantity without quality is just noise at scale. What performs is rarely the information, it's whether the reader trusts the writer.
+- One big creator no longer says to post 40 times a day. Now it's a ratio of quality to quantity: post as much as you can at the quality you can hold.
+- One way to do it is the quality-quantity accordion. First get quality to about 7 out of 10. Then raise volume to what's normal for the platform (suggested: short video 1 a day, YouTube 1 a week, short text about 5 posts a day). Then push quality to 9 out of 10. Then stay consistent for 6 months.
+- Reaching 100 million views a month takes brute-force volume, probably 20 or more posts a day across platforms for brands, founders and employee content programs. Early on, daily posts also help you find winning topics fast: make content, look at the results, find the winners, make more of those.
+- One app founder scaled their app's content to 6,000 videos a month (more in the lesson on founders and teams).
 
-### Tests on YouTube Shorts
+### A test on YouTube Shorts
 
-- Day of the week didn't matter at all: shorts failed and succeeded on every day.
-- Time of day did: morning posts got noticeably more views. Don't copy that time. Check YouTube Studio, Analytics, Audience to see when your audience is most active and post then.
-- Frequency across two channels, from twice a week to four a day: 4 a day was too much (only about half got picked up, and quality dropped). Twice a week worked better but felt unproductive. Once a day was the sweet spot: time for quality plus steady exposure.
-- If daily is too much, tone it down. Consistency matters most. Don't go too long without uploading or you lose momentum.
+- Day of the week didn't matter at all. Shorts failed and succeeded on every day.
+- Time of day did matter. Morning posts got noticeably more views. But don't just copy that time. Open YouTube Studio, then Analytics, then Audience, to see when your own audience is most active, and post then.
+- The same creator tested frequency across two channels, from twice a week to four a day. Four a day was too much: only about half got picked up and quality dropped. Twice a week worked better but felt unproductive. Once a day was the sweet spot, with time for quality and steady exposure.
+- If daily is too much for you, tone it down. Consistency matters most. Don't go too long without uploading, or you lose momentum.
 
 ### Consistency is mostly for you
 
-- A consistent schedule doesn't matter algorithmically, but it matters a lot mentally and for building repetition. 'If you're really good you can post whenever you want, but you're not really good at the start.'
-- Two levers for reach: your best topics and 100% consistency.
-- Consistency is what creates the association (Michael Jordan wore Nikes every game, not just the finals).
+- A fixed schedule doesn't matter much to the algorithm, but it matters a lot for your mindset and for building repetition. If you're really good you can post whenever you want, but at the start you're not that good yet.
+- Two things drive reach: your best topics and being 100% consistent.
+- Consistency also builds the link between you and your topic. Michael Jordan wore Nike shoes in every game, not just the finals, and that is why people connect the two.
 
-### A schedule for winning a niche (YouTube)
+### A schedule for winning a niche on YouTube
 
-- Goal: become the biggest channel in your niche. The schedule: 1 long-form video a week (15 to 40 minutes) with 5 skips a year, plus 3+ Shorts a week.
-- The week gives a 7-day turnaround to make a good 15+ minute video. The 5 skips cover holidays or a video that isn't good enough: 'I never want to post a bad video just to hit a schedule.'
-
-### Frameworks
-
-**Quality-quantity accordion**
-
-1. Raise quality to about 7/10
-2. Raise volume to the platform's normal pace
-3. Push quality to 9/10 at that volume
-4. Hold it for 6 months, answer every comment, move people to email
+- The goal is to become the biggest channel in your niche. The schedule: 1 long video a week (15 to 40 minutes) with 5 skipped weeks a year, plus 3 or more Shorts a week.
+- The week gives you 7 days to make a good video of 15 minutes or more. The 5 skips cover holidays or a video that isn't good enough. One creator says they never want to post a bad video just to hit a schedule.
 
 ### Examples
 
-- **A YouTube Shorts frequency test:** One creator posted from twice a week up to four times a day across two channels. At four a day only about half got picked up and quality fell. Once a day gave time for quality and steady exposure.
-  <br>*Why it works:* Proof that more posts isn't automatically more reach.
+- **A YouTube Shorts frequency test:** One creator posted from twice a week up to four times a day across two channels. At four a day only about half of the videos got picked up and quality fell. Once a day gave time for quality and steady exposure.
+  <br>*Why it works:* More posts doesn't automatically mean more reach.
 
 ### Common mistakes
 
 - Posting several posts back to back so they compete.
-- Picking the middle route: too many posts for quality, too few for the darts approach.
+- Picking the middle route: too many posts for good quality, too few for the darts approach.
 - Copying another creator's best posting time instead of checking your own audience.
 - Raising volume before quality reaches a decent level.
 
 ### Where the sources disagree
 
-Volume: one view says about 5 short text posts a day on X, another says 3 to 5 (or up to 24 for news), another says 20+ a day across platforms at scale, while another says one great post beats six average ones. One creator says both 'just post less' and 'volume negates luck' in different videos; the fair reading is a pace you can keep for years. Timing: one test found morning posts did better; another creator says 'the algorithm does not care what time you post' (half their videos went out at 1 a.m.); another also says posting time doesn't matter; another says timing matters less than spacing.
+On volume, advice ranges from about 5 short text posts a day on X, to 3 to 5 (or up to 24 for news), to 20 or more a day across platforms at scale, while others say one great post beats six average ones. A fair reading is: choose a pace you can keep for years. On timing, one test found morning posts did better. Other creators say the algorithm doesn't care what time you post, and one says timing matters less than spacing.
 
 ### Try it
 
-Write down the pace you could keep for 6 months without dropping quality. Then plan tomorrow's posts with at least 2 to 3 hours between each one, and after a week compare the posts that had space with any that went out close together.
-
-<details><summary><b>Check yourself (4 questions)</b></summary>
-
-**1. On the quality route, what matters more than timing?**
-
-- a) Posting 24 times a day
-- b) Spacing posts so each one has time to run
-- c) Posting at midnight
-- d) Hashtags
-
-*Answer: b) Spacing posts so each one has time to run.* 'Timing isn't that important, but spacing is key'.
-
-**2. What was the frequency sweet spot in the YouTube Shorts test?**
-
-- a) Twice a week
-- b) Four a day
-- c) Once a day
-- d) Once a month
-
-*Answer: c) Once a day.* Four a day cut quality and pick-up, twice a week felt unproductive, once a day balanced both.
-
-**3. What did the YouTube Shorts test find about the day of the week?**
-
-- a) Weekends win
-- b) Only Fridays work
-- c) Mondays win
-- d) It didn't matter at all
-
-*Answer: d) It didn't matter at all.* Shorts failed and succeeded on every day. Time of day mattered more.
-
-**4. A consistent schedule matters mostly...**
-
-- a) for hashtags
-- b) for the algorithm
-- c) for you, mentally and for building repetition
-- d) for brand deals
-
-*Answer: c) for you, mentally and for building repetition.* It doesn't matter algorithmically, but it matters a lot while you're still learning.
-
-</details>
+Write down the pace you could keep for 6 months without dropping quality. Then plan tomorrow's posts with at least 2 to 3 hours between them, and after a week compare the posts that had space with any that went out close together.
 
 [Back to the top of this module](#top) · [All modules](../README.md#contents)
 
@@ -752,117 +448,63 @@ Write down the pace you could keep for 6 months without dropping quality. Then p
 
 *9 min read*
 
-> **The big idea:** Replies and real relationships are the cheapest way to get seen, but only when the reply is interesting, about your own experience, and under posts people actually read.
+> **The big idea:** Replies and real relationships are the cheapest way to get seen. They only work when your reply is interesting, comes from your own experience, and sits under posts people actually read.
 
 ### Replies that get profile clicks
 
-- Replies are the low-hanging fruit everyone recommends, and you have to do them. If your reply captures attention, holds it and delivers value, readers click your profile and follow.
-- Mistake 1: boring posts don't make people read replies. A tweet can get huge likes while only 100 people open the replies, if nothing sparks conversation. Reply to posts that spark discussion.
-- Mistake 2: boring replies don't get profile clicks. Stop repeating the original post. Talk about yourself and how you experienced it. That drives the most profile clicks.
-- Mistake 3: small accounts get fewer impressions. Reply and network with accounts your size, but that won't grow you much on its own. Also reply to bigger accounts with interesting content.
-- Keep replying over months. You need your name in people's mouths. It compounds: 'there's that guy again', which leads to DMs, follows, and the creators themselves noticing you.
+- Replying under other people's posts is the easy win everyone recommends, and you do have to do it. If your reply grabs attention, holds it and gives value, readers click your profile and follow you.
+- Mistake 1: replying under boring posts. A post can get lots of likes while only 100 people open the replies, because nothing in it starts a conversation. Reply to posts that spark discussion.
+- Mistake 2: boring replies. Don't repeat what the original post said. Talk about yourself and how you experienced the same thing. That drives the most profile clicks.
+- Mistake 3: only replying to accounts your size. Small accounts get fewer impressions, so networking with them is fine but won't grow you much on its own. Also reply to bigger accounts, with something interesting.
+- Keep replying for months. You need your name to keep showing up in front of people. It builds on itself: people start thinking "there's that guy again", which leads to DMs, follows, and the bigger creators noticing you.
 
-### Network building on X
+### Building your network on X
 
-- Build your network by engaging with others, and only reply-guy when you have real value to add. Ask real questions under other people's posts, not 'nice post'.
-- 'You can spend under 15 minutes a day writing a few tweets and build an insane network'.
-- Build a dense network of high-quality people in your niche. It helps reach and the account's credibility score.
-- (Nov 4 list) Become great first, then expand your network. Reply to and engage with people you find helpful, 'they might give away free sauce'. Also use networking tools off X (one creator sent 170+ connection requests on Cosign to people in their city).
-- The connections step: follow 50 people in your space, reply to 10 big ones, DM 5 to 10 a day, give first. One creator says those replies led them to James Clear, who introduced them to their book editor.
-- X is a social network, so be social. Ask people, reply, support, build relationships, and follow people you really interact with. Conversations between people who follow each other appear to carry more weight.
+- Build your network by engaging with others, and only jump into replies when you have real value to add. Ask real questions under other people's posts, not "nice post".
+- You can spend under 15 minutes a day writing a few posts and still build a strong network.
+- Build a dense network of high-quality people in your niche. It helps your reach and your account's credibility score.
+- Become great at your craft first, then expand your network. Reply to and engage with people you find helpful, because they might share their best tips for free. You can also use networking tools outside X. One creator sent over 170 connection requests on an app called Cosign to people in their city.
+- A simple routine: follow 50 people in your space, reply to 10 big ones, DM 5 to 10 people a day, and give first. One creator says replies like these led to an introduction to a well-known author, who then introduced them to their book editor.
+- X is a social network, so be social. Ask people questions, reply, support them, build relationships, and follow people you really interact with. Conversations between people who follow each other appear to carry more weight.
 
 ### DMs
 
-- Manual DMs are slow and hard, but networking helps growth and gets reposts.
-- Don't be a corporate robot. A parody: 'great to connect, we should have a virtual coffee and talk about Zapier automations'.
-- Make friends to the point where they're happy to share what you ask.
-- DMs have diminishing returns for lead gen. Effort is better spent selling a high-ticket service (\$2,500) than a \$150 product, and far better than spending a DM to get one impression on a post. Technically a post is an offer, and its conversion is engagement.
+- Sending DMs by hand is slow and hard, but networking helps growth and gets you reposts.
+- Don't sound like a corporate robot. A parody of it: "great to connect, we should have a virtual coffee and talk about Zapier automations".
+- Make friends, to the point where they're happy to share your work when you ask.
+- DMs have diminishing returns for finding customers. Your effort is better spent selling a high-ticket service (\$2,500) than a \$150 product, and far better than spending a DM just to get one impression on a post. Technically a post is an offer, and its conversion is engagement.
 
 ### Talk to your own followers
 
-- Recognition is the cheapest loyalty. Reply to comments and DMs, reshare stories and posts that tag you, comment on their videos, run giveaways or free meetups, or just say thank you. People want to be recognised and feel they know you, and then they help the movement.
+- Recognition is the cheapest loyalty. Reply to comments and DMs, reshare stories and posts that tag you, comment on their videos, run giveaways or free meetups, or just say thank you. People want to feel seen and feel they know you, and then they help your movement grow.
 - Block 30 to 40 minutes in your calendar for it.
-- 'Post and ghost' creators who never answer comments or DMs build no relationship and no influence.
-- Answer every comment, take people to DMs, and give them an owned place to go deeper (newsletter).
-- Stay close to a community by answering questions, going live and sharing behind the scenes.
+- Creators who post and then disappear, never answering comments or DMs, build no relationship and no influence.
+- Answer every comment, take people into DMs, and give them an owned place to go deeper, like a newsletter.
+- Stay close to your community by answering questions, going live and sharing behind the scenes.
 
-### Reading replies
+### Reading your replies
 
-- On X, watch replies. A 1 to 3% reply rate is excellent.
-- Mine the comments for unanswered questions ('but how do I do this with no money?' is your next piece).
-- One creator's bot watches their DMs, and when 3+ people ask the same question they make content on it. A 202k-view crash course came from exactly that.
-- In 'my photos 10 years ago vs now', photo quality matters less than you'd think. People argue in the comments, and that helps it go viral.
-
-### Frameworks
-
-**The connections routine**
-
-1. Follow 50 people in your space
-2. Reply to 10 big accounts
-3. DM 5 to 10 people a day
-4. Give first
-
-### Examples
-
-- **Replies that led to a book deal:** One creator says the replies they left on bigger accounts led them to James Clear, who then introduced them to their book editor.
-  <br>*Why it works:* Shows how steady replies turn into relationships that open doors.
+- On X, watch your replies. A reply rate of 1 to 3% (replies divided by views) is excellent.
+- Mine the comments for questions nobody has answered. A comment like "but how do I do this with no money?" is your next piece of content.
+- One creator uses a bot that watches their DMs. When 3 or more people ask the same question, they make content about it. A crash course that got 202,000 views came from exactly that.
+- Another example: a post comparing "my photos 10 years ago vs now". Photo quality mattered less than you'd think. People argued in the comments, and that helped it go viral.
 
 ### Common mistakes
 
 - Replies that repeat the original post.
 - Replying under boring posts nobody opens the replies on.
 - Only replying to accounts your own size.
-- AI slop or spam replies, which can suppress an account.
+- Low-effort AI or spam replies, which can suppress an account.
 - Corporate, salesy DMs.
-- Posting and ghosting your own comments.
+- Posting and then ignoring your own comments.
 
 ### Where the sources disagree
 
-One creator says 'ignore your comments' in some videos (to protect yourself from drama) and says creators who don't reply to comments and DMs have no influence in another. The fair reading from that creator's own videos: talk with your real followers, don't feed the haters.
+One creator says in some videos to ignore your comments, to protect yourself from drama, and in another says creators who don't reply to comments and DMs have no influence. A fair reading: talk with your real followers, and don't feed the haters.
 
 ### Try it
 
 Find 3 posts from bigger accounts in your niche that already have a lively reply section. Write one reply to each that shares your own experience of the topic in 2 to 3 lines, without repeating the post. Then spend 10 minutes answering every comment on your own latest post.
-
-<details><summary><b>Check yourself (4 questions)</b></summary>
-
-**1. Which reply gets the most profile clicks?**
-
-- a) 'Great post!'
-- b) A link to your product
-- c) A summary of the original post
-- d) Your own experience of the topic
-
-*Answer: d) Your own experience of the topic.* Stop repeating the post and talk about yourself and how you experienced it.
-
-**2. Why doesn't replying under boring posts work?**
-
-- a) Replies there count as negative
-- b) Few people open the replies if nothing sparks conversation
-- c) X hides replies on boring posts
-- d) Big accounts block you
-
-*Answer: b) Few people open the replies if nothing sparks conversation.* A post can get many likes while only 100 people open the replies.
-
-**3. What reply rate is called excellent on X?**
-
-- a) Under 0.1%
-- b) 1 to 3%
-- c) 20 to 30%
-- d) 50%
-
-*Answer: b) 1 to 3%.* Watch replies on X, and 1 to 3% is excellent.
-
-**4. How much daily time is it suggested to block for talking to followers?**
-
-- a) None, ignore comments
-- b) 3 hours
-- c) 5 minutes
-- d) 30 to 40 minutes
-
-*Answer: d) 30 to 40 minutes.* Put 30 to 40 minutes in the calendar for replies, DMs and recognition.
-
-</details>
 
 [Back to the top of this module](#top) · [All modules](../README.md#contents)
 
@@ -874,71 +516,62 @@ Find 3 posts from bigger accounts in your niche that already have a lively reply
 
 *10 min read*
 
-> **The big idea:** The fastest way to new people is through people who already have them. Quote, remix and credit bigger creators, collaborate with overlapping audiences, and build real creator friendships, all with good content as the base.
+> **The big idea:** The fastest way to new people is through people who already have them. Quote, remix and credit bigger creators, collaborate with people whose audience overlaps yours, and build real creator friendships, with good content as the base.
 
 ### Quote posts and reposts
 
-- A quote post is a repost with your commentary on top (on Instagram, share to your story with commentary and a tag). The creator may see it and repost it.
-- A bland 'this is great' gives nobody a reason to repost or click. Talk about yourself and write persuasively.
-- Quoting a 500K account is a numbers game and luck, they probably won't see it. Make quote posts targeted and worth your time.
-- Reposts: your content must be good and shareable enough that people want it on their own feed.
-- On X, a quote post works when your take adds tension or value, not just 'this'. Credit others and use X's own quote and post-media features instead of copying.
+- A quote post is a repost with your own comment on top. On Instagram, the same thing is sharing to your story with a comment and a tag. The creator may see it and repost it.
+- A bland "this is great" gives nobody a reason to repost or click. Talk about yourself and write persuasively.
+- Quoting a 500,000-follower account is a numbers game and luck, because they probably won't see it. Make your quote posts targeted and worth your time.
+- For people to repost you, your content must be good and shareable enough that they want it on their own feed.
+- On X, a quote post works when your take adds tension or value, not just "this". Credit others and use X's own quote and media features instead of copying.
 
 ### Remixing what's already big
 
-- DJs grow by remixing popular songs and borrowing their traffic. YouTubers make videos about popular people. Podcasts book big guests.
-- 4 moves for writers: 1) quote creators in a thread or newsletter, use their ideas to illustrate a point, then DM them that you mentioned them (they may repost without being asked); 2) commentate on their content, like reaction videos; 3) bring them on a podcast (people love being on podcasts and share the episode, and it's a way to befriend bigger people you can ask for something later); 4) talk about their ideas and credit them, for example 'the best idea I've seen this week', how it affected you, and who wrote it.
-- Helping spread other people's names makes them help spread yours.
-- 'Cult hopping': reference known brands, celebrities or movements to borrow credibility while you're small. Showing a face or brand people already know is also called 'speed to relatability'.
-- Stitching or reacting to content that already went viral is another way to draft off what's big.
+- DJs grow by remixing popular songs and borrowing their traffic. YouTubers make videos about popular people. Podcasts book big guests. You can do the same.
+- Four moves for writers. 1) Quote creators in a thread or newsletter, use their ideas to illustrate a point, then DM them that you mentioned them. They may repost without being asked. 2) Comment on their content, like a reaction video does. 3) Bring them on a podcast. People love being on podcasts and share the episode, and it's a way to befriend bigger people you can ask for something later. 4) Talk about their ideas and credit them, for example: "the best idea I've seen this week", how it affected you, and who wrote it.
+- When you help spread other people's names, they help spread yours.
+- You can also borrow credibility while you're small by referencing known brands, celebrities or movements. Showing a face or brand people already know gets you trust faster.
+- Stitching or reacting to content that already went viral is another way to ride on what's big.
 
 ### Collabs
 
-- Collab only with audience overlap. Podcasts, stages and collab reels only work if the other person's audience looks like yours. The wrong niche brings the wrong audience.
-- Find channels that make content similar to yours (by comparing titles and content). They're useful as collab partners and for inspiration.
-- Earned channels (collabs, podcasts) give you mindshare. Podcasts are high effort to run but low effort to be a guest on.
-- One creative direction for a personal brand includes 'a collab every month'.
+- Only collaborate when the audiences overlap. Podcasts, stages and collab reels only work if the other person's audience looks like yours. The wrong niche brings the wrong audience.
+- To find partners, look for channels that make content similar to yours by comparing titles and topics. They are useful as collab partners and as inspiration.
+- Collabs and podcasts are earned channels: they give you mindshare. Podcasts are high effort to run but low effort to be a guest on.
+- One suggested plan for a personal brand is to do a collab every month.
 
 ### Group chats and masterminds
 
-- One claim: every creator you know is in group chats with other creators, talking strategy and sharing and commenting on each other's posts. Some comment on each other's posts every morning, others repost what's shared in the group. You can spot tribes of 5 to 10 creators who all talk to each other.
-- The word 'mastermind' is preferred over 'engagement group': shared minds work better than one (an idea credited to Napoleon Hill). It can become lifelong friendships, not just transactions.
-- You'll need to DM people and build social skills. Leave a group if it feels purely transactional and start a new one.
-- Test all of these mechanisms over 6 to 12 months.
+- One creator claims that every creator you know is in group chats with other creators, talking strategy and sharing and commenting on each other's posts. Some comment on each other's posts every morning, others repost what's shared in the group. You can spot tribes of 5 to 10 creators who all talk to each other.
+- Call it a mastermind, not an engagement group. Shared minds work better than one (an idea often credited to Napoleon Hill). It can become lifelong friendship, not just a trade of favours.
+- You'll need to DM people and build social skills. If a group feels purely transactional, leave and start a new one.
+- Test all of these ways over 6 to 12 months.
 
 ### Paid reposts
 
-- Not running ads for followers, which is called 'the worst thing you can do' (people lose hundreds of followers a day), and not shoutout pages with 'follow this account' captions.
-- What it means: take a truly authentic post you'd write anyway and pay a bigger account (one that offers this as a service) to repost it or reply to it, with no caption and no 'go follow'. People who like it follow, and you nurture them. It's called 10x more authentic than ads with sleazy direct-response tactics.
-- Good content is a must. With bad content a repost does little. One creator says they tried it at the start, it worked because the content was good, and they no longer do it.
-- Large accounts get hundreds of DMs a day and need a filter, so payment gets attention.
-- Replies work as paid growth mainly on X, where someone replying to you shows your post to their followers. On Instagram replies don't boost you on their feed.
+- This is not running ads to get followers. Ads for followers are called the worst thing you can do, because people can lose hundreds of followers a day. It is also not shoutout pages with "follow this account" captions.
+- Here is what it means. Take a truly authentic post you'd write anyway, and pay a bigger account (one that offers this as a service) to repost it or reply to it, with no caption and no "go follow". People who like the post follow you, and then you nurture them. It is said to be 10 times more authentic than ads with sleazy hard-sell tactics.
+- Good content is a must. A repost does little for bad content. One creator says they tried it at the start and it worked because the content was good, and they no longer do it.
+- Large accounts get hundreds of DMs a day and need a filter, so payment is what gets their attention.
+- Replies work as paid growth mainly on X, where someone replying to you shows your post to their followers. On Instagram, replies don't boost you on their feed.
 
 ### Other people as amplifiers
 
-- Personal brand amplifiers: clips of you shared by others (podcast clips, reactions, clipping accounts, a 'clipper army') multiply your reach beyond your own time. Example: Goggins clips from Rogan's podcast.
-- Characters spread you too. Several people with the same interest broadcast the same association (MrBeast's crew, Colin and Samir).
-- Named concepts and redefined terms spread because other people reference them in their own content.
-- The speedrun: one 'igniter' video plus a 'super share' from a big account kicks growth off. About 5,000 followers is called the 'minimum credibility' line.
-- On Diary of a CEO: no call to action on clips, just the guest's name and the show link in the bio. 'Rising tide lifts all boats', so each clip is made for shares.
-
-### Frameworks
-
-**4 ways to borrow traffic as a writer**
-
-1. Quote them in a thread or newsletter, then DM them that you did
-2. Commentate on their content
-3. Bring them on a podcast
-4. Share and credit their ideas ('the best idea I've seen this week')
+- Other people can spread you. Clips of you shared by others, like podcast clips, reactions and clipping accounts (a whole "clipper army"), multiply your reach beyond your own time. An example is the many accounts that clip David Goggins from Joe Rogan's podcast.
+- Characters spread you too. Several people with the same interest repeat the same association, like MrBeast's crew or the hosts Colin and Samir.
+- Named concepts and redefined terms spread because other people use them in their own content.
+- One idea for a fast start: an "igniter" video, plus a big share from a large account, kicks growth off. About 5,000 followers is called the minimum for credibility.
+- One big podcast's approach: no call to action on clips, just the guest's name and the show link in the bio. A rising tide lifts all boats, so each clip is made to be shared.
 
 ### Examples
 
-- **Goggins on Rogan:** Clips of David Goggins on Joe Rogan's podcast spread across many accounts that weren't his.
-  <br>*Why it works:* An example of amplifiers: other people spreading your association for you, which is said to be why some brands get huge in 3 to 4 years.
+- **Clips of Goggins on Rogan's podcast:** Clips of David Goggins on Joe Rogan's podcast spread across many accounts that weren't his.
+  <br>*Why it works:* Other people spread your name and ideas for you. This is said to be why some brands get huge within 3 to 4 years.
 
 ### Common mistakes
 
-- Bland quote posts like 'this is great'.
+- Bland quote posts like "this is great".
 - Collabs with people whose audience doesn't overlap with yours.
 - Buying follower ads or shoutout-page posts.
 - Paying for reposts of weak content.
@@ -946,51 +579,11 @@ Find 3 posts from bigger accounts in your niche that already have a lively reply
 
 ### Where the sources disagree
 
-One view recommends creator masterminds where members share and comment on each other's posts. Another says engagement groups 'don't work like they used to' and block Creator Rewards ('the same circle recycling your posts'), and an October reading says engagement pods got weaker. Even the first view separates real friendships from transactional groups.
+Some creators recommend masterminds where members share and comment on each other's posts. Others say engagement groups don't work like they used to, and that they can block Creator Rewards because it looks like the same circle recycling your posts. Even supporters separate real friendships from transactional groups.
 
 ### Try it
 
 Pick one idea from a bigger creator in your niche that changed how you work. Write a post explaining the idea, how it affected you and who it came from, with credit. Publish it, then send that creator a short, honest DM saying you mentioned them.
-
-<details><summary><b>Check yourself (4 questions)</b></summary>
-
-**1. What makes a quote post worth reposting?**
-
-- a) Writing 'this is great'
-- b) Adding hashtags
-- c) Tagging 10 people
-- d) Your own persuasive take, often about yourself
-
-*Answer: d) Your own persuasive take, often about yourself.* A bland quote gives no reason to click or repost. Your own take does.
-
-**2. The rule for collabs is...**
-
-- a) collab with the biggest account possible
-- b) only collab where audiences overlap
-- c) never collab
-- d) collab only on podcasts
-
-*Answer: b) only collab where audiences overlap.* The wrong niche brings the wrong audience.
-
-**3. How does 'paid growth' differ from ads?**
-
-- a) A bigger account reposts an authentic post with no 'go follow' caption
-- b) It uses shoutout pages
-- c) It runs follower campaigns
-- d) It targets by age
-
-*Answer: a) A bigger account reposts an authentic post with no 'go follow' caption.* Follower ads and shoutout pages are rejected. People who like the post choose to follow.
-
-**4. Why do clips by others matter?**
-
-- a) They count as ads
-- b) They replace your own posting
-- c) They raise your bio ranking
-- d) They multiply your reach beyond your own time
-
-*Answer: d) They multiply your reach beyond your own time.* They're called personal brand amplifiers, like Goggins clips from Rogan.
-
-</details>
 
 [Back to the top of this module](#top) · [All modules](../README.md#contents)
 
@@ -1002,121 +595,65 @@ Pick one idea from a bigger creator in your niche that changed how you work. Wri
 
 *9 min read*
 
-> **The big idea:** One idea can feed many platforms, but creators now split on how. The waterfall cuts one pillar piece into everything. The lake makes content for each main platform first, then moves only the proven winners.
+> **The big idea:** One idea can feed many platforms, but creators now disagree on how. The waterfall cuts one big piece into everything. The lake makes content for each main platform first, then moves only the proven winners.
 
 ### The content waterfall
 
-- One pillar piece, for example a 13-minute YouTube video, becomes 26+ pieces.
-- Short video: 3 Instagram Reels, 3 TikToks, 3 YouTube Shorts, cut from the core moments.
-- Text from the script: 3 LinkedIn posts, 3 X threads, and a newsletter a few weeks later.
-- Audio: distribute it on Spotify and Apple.
-- Filming one video fills the next month's calendar for Instagram, TikTok, X and LinkedIn, so you're not on 'some content hamster wheel'.
-- Founders without this system cycle through start, give up, restart, give up.
-- The 'rule of five': every idea should live in 5 places (X, LinkedIn, YouTube, newsletter and more), native to each.
-- The X version: 1 winning post becomes 26 pieces. A '13 lessons at 33' post (4.6M views, the creator's own figure) became tweets, shorts, a long video and a newsletter.
+- The waterfall starts with one pillar piece, for example a 13-minute YouTube video. You cut it into 26 or more smaller pieces.
+- Short video: 3 Instagram Reels, 3 TikToks and 3 YouTube Shorts, cut from the best moments.
+- Text: use the script to write 3 LinkedIn posts, 3 X threads, and a newsletter a few weeks later.
+- Audio: publish the audio on Spotify and Apple Podcasts.
+- The payoff: filming one video fills the next month's calendar on Instagram, TikTok, X and LinkedIn, so you're not stuck on a content hamster wheel, always making something new.
+- Founders without a system like this tend to cycle through start, give up, restart, give up.
+- A related idea is the rule of five: every idea should live in 5 places (X, LinkedIn, YouTube, a newsletter and more), written natively for each.
+- On X, the same idea works like this: one winning post becomes 26 pieces. One creator says a post called "13 lessons at 33" got 4.6 million views, and became tweets, shorts, a long video and a newsletter.
 
 ### One piece, every platform
 
-- One writer writes the newsletter first, then pastes it to X, then turns it into a YouTube script: one piece, every platform.
-- Turn one idea into many. One article becomes material for other channels. A Nov 4 list says long-form becomes 5+ short forms, and the route is long first, then cut down.
-- One creator makes video versions of their articles 'for people that don't like reading', raw and unedited, and posts the video a few days later as a quote of the article.
-- Make it once and let a bot post it to X, YouTube, Instagram and TikTok with caption and hashtags.
-- But adapt per platform: a different hook and caption per app. Repeating identical text looks spammy on X. 'Be native', every platform has its own language.
+- One writer writes the newsletter first, pastes it to X, then turns it into a YouTube script. One piece, every platform.
+- Turn one idea into many. One article becomes material for your other channels. The usual route is to go long first, then cut down. Long-form can become 5 or more short pieces.
+- One creator makes video versions of their articles for people who don't like reading. The videos are raw and unedited, and are posted a few days later as a quote of the article.
+- You can also make a piece once and use a tool to post it to X, YouTube, Instagram and TikTok with a caption and hashtags.
+- But adapt it for each platform: a different hook and caption on each app. Repeating identical text looks like spam on X. Be native, because every platform has its own language.
 
 ### The lake method
 
-- The title of the idea: 'stop repurposing content'.
-- The problem with the waterfall: it optimises for one platform, often not the one rewarding you most, and gives bad outputs on the others. An example: a YouTube video with 100 views clipped into Instagram clips that get 1,000.
-- The waterfall worked back in the 'document, don't create' era, and 'omnipresent' posting of everything everywhere 'used to work in 2016'.
-- The lake: pick the primary platforms that serve your goals and make content dedicated to each. Everything goes into 'the lake'. Then fish out the best performers and post them on the other platforms (an Instagram winner goes to LinkedIn), but never post everything everywhere.
-- 'I'd rather you not post than post something that you know is going to fail.'
-- For one client the primary platforms are Instagram and YouTube. Others still get the reels (the reel also goes on TikTok), they just don't get dedicated content.
+- The idea is: stop repurposing content the waterfall way.
+- The problem with the waterfall: it optimises for one platform, often not the one rewarding you most, and gives weak results on the others. For example, a YouTube video with 100 views gets clipped into Instagram clips that get 1,000.
+- The waterfall worked in the "document, don't create" era, and posting everything everywhere used to work around 2016.
+- The lake works like this. Pick the main platforms that serve your goals and make content made for each one. Everything goes into the lake. Then fish out the best performers and post them on your other platforms. An Instagram winner goes to LinkedIn, for example. But never post everything everywhere.
+- The rule of thumb: you'd rather not post than post something you already know is going to fail.
+- Example: for one client the main platforms are Instagram and YouTube. The other platforms still get the Instagram reels (the reel also goes on TikTok), but they don't get content made just for them.
 
 ### The waterfall today
 
-- In one interview, a former Head of Content at a big creator agency says the waterfall works less than it did 6 to 12 months earlier.
-- Each platform needs its own plan.
+- A former head of content at a big creator agency says the waterfall works less than it did 6 to 12 months earlier.
+- So each platform needs its own plan.
 
 ### Theme pages and amplification
 
-- One app founder splits it into a content machine (creates content) and content amplification (pushes it further than 1 post on 1 account). Amplification can't work without the machine.
-- Theme pages are accounts you own that post your content differently: AI replicas of UGC, viral-hook reposts of already-viral videos, AI stories about the problem the product solves.
-- One video goes to TikTok, Instagram and YouTube at once through a scheduler, with an agent scheduling every morning. The claim: 10M+ views from videos that had already gone viral once, reposted with a new borrowed hook at the start.
-
-### Frameworks
-
-**The content waterfall**
-
-1. Make one pillar piece (a long video)
-2. Cut short videos for Reels, TikTok and Shorts
-3. Write LinkedIn posts, X threads and a newsletter from the script
-4. Publish the audio as a podcast
-
-**The lake method**
-
-1. Pick your primary platforms
-2. Make dedicated content for each
-3. Let everything collect in the lake
-4. Fish out the winners and move only those to other platforms
+- One app founder splits the work in two. The content machine creates content. Amplification pushes it further than one post on one account. Amplification can't work without the machine.
+- Theme pages are extra accounts you own that post your content in different ways: AI replicas of user-made videos, reposts of already-viral videos with a new hook, or AI stories about the problem your product solves.
+- One video goes to TikTok, Instagram and YouTube at once through a scheduling tool, with an AI agent scheduling every morning. The founder claims over 10 million views from videos that had already gone viral once and were reposted with a new, borrowed hook at the start.
 
 ### Examples
 
-- **The 100-view YouTube video:** A YouTube video that got 100 views was clipped into Instagram clips that got 1,000.
-  <br>*Why it works:* It shows the waterfall spreads weak pieces everywhere instead of moving proven winners.
+- **The 100-view YouTube video:** A YouTube video that got 100 views was clipped into Instagram clips that got 1,000 views.
+  <br>*Why it works:* The waterfall spreads weak pieces everywhere instead of moving proven winners.
 
 ### Common mistakes
 
 - Posting the exact same text on every platform.
-- Cutting up a pillar piece that never performed on its home platform.
+- Cutting up a pillar piece that never did well on its home platform.
 - Posting something everywhere when you already know it will flop.
 
 ### Where the sources disagree
 
-Several creators say repurpose everything: you already did 80% of the work, so pair familiar channels (Instagram to Facebook, TikTok to Shorts, YouTube to podcast audio), and one added that understanding distribution gets 10x more views. Newer views say stop: make content for each main platform and move only winners. The honest merge: make for each primary platform first, then move the proven winners.
+Some creators say repurpose everything, because you've already done 80% of the work. They pair familiar channels, like Instagram to Facebook, TikTok to Shorts, and YouTube to podcast audio. Newer views say stop: make content for each main platform and move only the winners. A fair merge is to make content for each main platform first, then move the proven winners.
 
 ### Try it
 
 Take your best piece from the last 3 months. List where it could go next, and for each place write the new hook or caption it would need to feel native. Then mark which of those you'd still post if the piece had flopped, and drop any you only kept to fill a slot.
-
-<details><summary><b>Check yourself (4 questions)</b></summary>
-
-**1. In the waterfall, what does one 13-minute video become?**
-
-- a) 26+ pieces across platforms
-- b) A single podcast
-- c) Exactly 5 posts
-- d) One newsletter
-
-*Answer: a) 26+ pieces across platforms.* Reels, TikToks, Shorts, LinkedIn posts, X threads, a newsletter and audio.
-
-**2. What is the main complaint about the waterfall?**
-
-- a) It's banned on Instagram
-- b) It only works on X
-- c) It optimises for one platform and gives bad outputs on the others
-- d) It takes too little time
-
-*Answer: c) It optimises for one platform and gives bad outputs on the others.* It often optimises for a platform that isn't rewarding you, and spreads weak pieces everywhere.
-
-**3. In the lake method, what goes to the other platforms?**
-
-- a) Only the best performers
-- b) Everything you make
-- c) Only text posts
-- d) Nothing
-
-*Answer: a) Only the best performers.* You fish out the winners from the lake and move only those.
-
-**4. According to the former agency Head of Content, what still works?**
-
-- a) Long video turned into written posts
-- b) Identical posts on every app
-- c) Hashtag-led clips
-- d) YouTube cut into short clips
-
-*Answer: a) Long video turned into written posts.* Long video into written posts still works, while YouTube into short clips doesn't necessarily.
-
-</details>
 
 [Back to the top of this module](#top) · [All modules](../README.md#contents)
 
@@ -1132,123 +669,69 @@ Take your best piece from the last 3 months. List where it could go next, and fo
 
 ### Spot the winners first
 
-- The speedrun: post daily, review in batches of 10, sort the batch by follows gained, and copy what the winner did differently.
-- Audit your top 20% against your bottom 20% (topics, hooks, words). That's how one creator says they learned their audience wanted systems over mindset, and that specific numbers in hooks did '10x better'.
-- Profile efficiency ratio = follows divided by profile visits. Most profiles convert about 5%, one creator's about 20%.
-- Two ratios to read a post. Likes divided by impressions (2 to 3% is a big hit) and reposts divided by likes (20 to 30% means it will spread, because people repost what they want to be seen agreeing with).
-- The 3 S's for every post: start (did they stop?), stay (did it pay off fast?), signal (did they do anything?). After each post write 3 notes: why they started, where they left, which line got a reaction. 'If you can't name it, you can't repeat it.' 'The data isn't a judgment of your worth, it's a map.'
-- When a video overperforms, there's no single data point that tells you why. Look at demographics (a new country or age group), device type (doing well on TV, maybe because it's longer), new versus returning viewers, the view trend (fast spike or slow build) and traffic sources (ranking in search). Data colours in parts of the picture, so zoom out.
+- A simple routine: post daily, review your posts in batches of 10, sort each batch by follows gained, and copy what the winner did differently.
+- Compare your top 20% of posts with your bottom 20% (topics, hooks, words). That is how one creator says they learned their audience wanted systems over mindset, and that specific numbers in hooks did about 10 times better.
+- Profile efficiency ratio is follows divided by profile visits. It tells you how many visitors you convert. Most profiles convert about 5%. One creator's converts about 20%.
+- Two ratios help you read a post. Likes divided by impressions: 2 to 3% is a big hit. Reposts divided by likes: 20 to 30% means it will spread, because people repost what they want to be seen agreeing with.
+- Check every post on three things. Start: did people stop scrolling? Stay: did it pay off quickly? Signal: did they do anything, like reply or follow? After each post write 3 notes: why people started, where they left, and which line got a reaction. If you can't name why it worked, you can't repeat it. The data isn't a judgment of your worth, it's a map.
+- When a video does far better than usual, no single number tells you why. Look at demographics (a new country or age group), device type (doing well on TV may mean it's longer), new versus returning viewers, the view trend (a fast spike or a slow build) and traffic sources (is it ranking in search?). Each number shows only part of the picture, so zoom out.
 
 ### Make more of what popped
 
-- Every month, rewrite your best posts from new angles (short, long, list, better hook).
-- The most frustrating thing is someone who gets a viral hit and doesn't repeat the topic, format or angle. Iterate on your own winners, not only other people's. A 10x outlier that brought followers goes straight back into ideation.
-- When a format or topic pops, drop everything else and push it. It might only be hot for 30, 60 or 90 days. 'When things get easy, go hard.'
-- One big creator's lesson: 20 years of one thing. When it's working, don't take your foot off the gas. 'The gains are made in the repetition.'
-- On signature formats: once one works, 'run it over and over until it stops working'.
+- Every month, rewrite your best posts from new angles: shorter, longer, as a list, with a better hook.
+- One thing creators find most frustrating is someone who gets a viral hit and then doesn't repeat the topic, format or angle. Iterate on your own winners, not only other people's. A post that did about 10 times better than usual and brought followers goes straight back into your idea list.
+- When a format or topic pops, drop everything else and push it. It might only be hot for 30, 60 or 90 days. When things get easy, go hard.
+- One big creator's lesson, after 20 years of doing one thing: when it's working, don't take your foot off the gas. The gains are made in the repetition.
+- The same goes for signature formats. Once one works, run it over and over until it stops working.
 
-### The 4 Rs
+### The 4 Rs: repost, re-edit, re-record, repurpose
 
-- Repost: every winner gets reposted after 60 days, then 60 days after that (another video says 60 to 90 days). Find pieces older than 60 days that did far better than your average. On one client's account anything over 100K goes back on the main feed, and the best videos go out 4 to 5 times. 'You're giving your audience too much credit': most haven't seen it or don't remember it.
-- Like a concert: people want to hear the hits again, and you'd be upset if the artist skipped your favourite song. 'Branding is all about associations.'
-- Re-edit: change a winner slightly to unlock another repost. Look at your top 30 and ask how better editing could get more. Keep the hook, move things in the middle.
-- Re-record: same winning topic, new angle, new shoot. Take your top 5 from the last 6 months and film them again in a new setting. 'You don't need to come up with new ideas.'
-- Repurpose: move winners across platforms (see the lake method).
-- One big creator's version: an 8.2M-view new TikTok post was a slight re-edit of a clip that had already done well.
+- Repost: put every winner up again after 60 days, then again 60 days after that (another source says 60 to 90 days). Look for pieces older than 60 days that did far better than your average. On one client's account, anything over 100,000 views goes back on the main feed, and the best videos go out 4 to 5 times. You're giving your audience too much credit: most of them haven't seen it or don't remember it.
+- Think of a concert. People want to hear the hits again, and you'd be upset if the artist skipped your favourite song. Branding is all about associations, and repeating your hits builds them.
+- Re-edit: change a winner slightly so it can be posted again. Look at your top 30 and ask how better editing could get more out of them. Keep the hook and change things in the middle.
+- Re-record: same winning topic, new angle, new shoot. Take your top 5 from the last 6 months and film them again in a new setting. You don't need to come up with new ideas.
+- Repurpose: move your winners across platforms (see the lake method).
+- One big creator's example: a brand new TikTok post that got 8.2 million views was a slight re-edit of a clip that had already done well.
 
-### Instagram trial reels (Instagram only, tactics change)
+### Instagram trial reels (Instagram only, and tactics change)
 
-- Trial reels launched in December 2024 to test videos on non-followers. One team reposted 30 top videos, sometimes 30 times a day, for 1 to 3M views. Then Instagram added duplicate detection and those reposts dropped to about 50 views.
-- The double post: post as a trial reel, then 24 to 48 hours later post the same file on the main feed no matter how the trial did. The claim: it doubles reach with no extra work.
-- The repost hack: take your top 30 videos and change 4 things (speed 1.1x to 1.2x, music, on-screen text and caption style, flip horizontally). The claim: an 80 to 90% chance of not being flagged. Post 3 to 5 trial reels a day.
-- The super hack: cover the old on-screen text with new text using Instagram's own text tool, nothing else. The claim: still working as of October to November 2026.
-- The claim: over 100 million views on trial reels for one client in 2 years.
+- Trial reels launched in December 2024. They let you test a video on people who don't follow you. These are all claims from creators and may stop working.
+- One team reposted 30 top videos, sometimes 30 times a day, for 1 to 3 million views. Then Instagram added detection for duplicates, and those reposts dropped to about 50 views.
+- The double post: post as a trial reel, then 24 to 48 hours later post the same file on the main feed, no matter how the trial did. The claim is that this doubles your reach with no extra work.
+- The repost hack: take your top 30 videos and change 4 things: speed (1.1x to 1.2x), music, on-screen text and caption style, and flip the video horizontally. The claim is an 80 to 90% chance of not being flagged. Post 3 to 5 trial reels a day.
+- The super hack: cover the old on-screen text with new text using Instagram's own text tool, and change nothing else. The claim is that it still worked in late 2026.
+- One creator claims over 100 million views on trial reels for one client in 2 years.
 
 ### Know when to stop
 
-- A signature series works at most about 3 times a month or it dies. Check your pillars monthly and drop, replace or fix one whose saves, views or shares fall. Keep testing even when the old things work, 'it's not going to work forever'.
-- Formulas burn out, so go back to testing.
+- A signature series works at most about 3 times a month, or it dies. Check your content pillars (your main topics) every month. Drop, replace or fix one whose saves, views or shares fall.
+- Keep testing even when the old things work, because it's not going to work forever. Formulas burn out, so go back to testing.
 
 ### Format search with a fast double down
 
-- Formats grow channels. In channels grown from scratch, usually 70%+ of the growth came from 1 or 2 ideas turned into formats. Think of a channel as a show, not a TV channel.
-- The loop: try an idea. If it works, do it again as fast as you can. It doesn't have to blow up: 2x your average views is enough signal. If it works twice in a row, you have a winning format. Then milk it.
-- 'I don't want to saturate the audience' is a myth in this view. People overestimate viewers' appetite for novelty and underestimate their appetite for more of what they already like. Forrest Galante's channel, biggest in its niche, still has over 50% of uploads in its 2 formats.
-
-### Frameworks
-
-**The 4 Rs**
-
-1. Repost winners every 60 to 90 days
-2. Re-edit them slightly to unlock another repost
-3. Re-record the winning topic with a new angle or setting
-4. Repurpose winners onto other platforms
-
-**The 3 S's**
-
-1. Start: did they stop?
-2. Stay: did it pay off fast?
-3. Signal: did they do anything?
+- Formats grow channels. On channels grown from scratch, usually 70% or more of the growth came from 1 or 2 ideas turned into formats. Think of a channel as a show, not a TV channel.
+- The loop: try an idea. If it works, do it again as fast as you can. It doesn't have to blow up. Twice your average views is enough of a signal. If it works twice in a row, you have a winning format. Then milk it.
+- The worry "I don't want to saturate the audience" is a myth in this view. People overestimate how much viewers want something new and underestimate how much they want more of what they already like. One large wildlife channel, the biggest in its niche, still has over 50% of its uploads in just 2 formats.
 
 ### Examples
 
-- **A top 20% audit:** Comparing the best and worst posts showed the audience wanted systems over mindset, and that specific numbers in hooks did about 10x better.
-  <br>*Why it works:* It shows that winners tell you what to make more of.
+- **A top 20% audit:** Comparing a creator's best and worst posts showed the audience wanted systems over mindset, and that specific numbers in hooks did about 10 times better.
+  <br>*Why it works:* Your winners tell you what to make more of.
 
 ### Common mistakes
 
 - Getting a hit and never repeating its topic, format or angle.
 - Assuming your audience remembers everything you posted.
-- Running a winning series so often it dies.
+- Running a winning series so often that it dies.
 - Reading one number and guessing why something worked.
 
 ### Where the sources disagree
 
-One view says repost the same winners every 60 to 90 days. On X, another warns that repeating identical or nearly identical text looks spammy and says to reuse the idea with a new angle, format or insight instead, and a third says re-uploaded content blocks Creator Rewards. The re-edit and re-record moves sit closer to the second piece of advice.
+Some creators say to repost the same winners every 60 to 90 days. On X, others warn that repeating identical or nearly identical text looks like spam, and say to reuse the idea with a new angle, format or insight. Re-uploaded content can also block Creator Rewards. The re-edit and re-record moves are closer to the second view.
 
 ### Try it
 
-Sort your last 30 posts by follows gained (or by views if you can't see follows). Take the top one and write 3 new versions of it: a different hook, a different format (list, story or thread) and a deeper or shorter version. Schedule one for next week.
-
-<details><summary><b>Check yourself (4 questions)</b></summary>
-
-**1. What's the advice when a post pops?**
-
-- a) Delete it and repost it
-- b) Boost it with ads
-- c) Move on to new topics
-- d) Make 5 more versions of it
-
-*Answer: d) Make 5 more versions of it.* Don't think 'I already did it', repackage the winner.
-
-**2. How often is it suggested to repost a winner?**
-
-- a) Every 60 to 90 days
-- b) Once a year
-- c) Never
-- d) Every day
-
-*Answer: a) Every 60 to 90 days.* Most people haven't seen it or don't remember it.
-
-**3. What does the profile efficiency ratio measure?**
-
-- a) Replies divided by likes
-- b) Likes divided by views
-- c) Follows divided by profile visits
-- d) Posts per day
-
-*Answer: c) Follows divided by profile visits.* Most profiles convert about 5%, one creator's about 20%.
-
-**4. What is the kill rule?**
-
-- a) Delete posts after 48 hours
-- b) Two flops in a row with a style, drop it for now
-- c) Kill any post under 1,000 views
-- d) Never kill a format
-
-*Answer: b) Two flops in a row with a style, drop it for now.* 'If you do a style of post twice and it flops twice, kill that format, at least for now.'
-
-</details>
+Sort your last 30 posts by follows gained (or by views if you can't see follows). Take the top one and write 3 new versions of it: a different hook, a different format (list, story or thread), and a deeper or shorter version. Schedule one for next week.
 
 [Back to the top of this module](#top) · [All modules](../README.md#contents)
 
@@ -1260,103 +743,54 @@ Sort your last 30 posts by follows gained (or by views if you can't see follows)
 
 *8 min read*
 
-> **The big idea:** Followers are not the goal. An active audience that comes back, replies and shares without being asked is built by being reliably useful over many pieces, giving generously, and making people feel part of something.
+> **The big idea:** Followers are not the goal. An active audience, one that comes back, replies and shares without being asked, is built by being reliably useful over many pieces, giving generously, and making people feel part of something.
 
 ### A passive audience versus an active community
 
-- A passive audience is a commodity, and followers are a vanity metric. An active community (people who reply, share without being asked, and come back daily because you're part of how they think about a topic) is a moat.
-- You earn it by being useful, saying specific things, being honest about what you know and don't, and showing up long enough. Trust runs on a different clock: AI compresses creation from days to minutes, but trust still takes months or years.
-- Cult fans: casual fans watch and leave, cult fans want to help you grow and share you. That's why cult brands seem to be everywhere.
-- Citizens (your audience) become advocates and amplifiers, and a dense, similar audience compounds faster.
+- A passive audience is easy to replace, and a follower count is a vanity metric. An active community is hard to copy. It is made of people who reply, share without being asked, and come back daily because you're part of how they think about a topic.
+- You earn it by being useful, saying specific things, being honest about what you know and don't know, and showing up long enough. Trust runs on a different clock. AI can shrink creation from days to minutes, but trust still takes months or years.
+- Casual fans watch and leave. Cult fans want to help you grow and share you. That's why cult brands seem to be everywhere.
+- Your audience can turn into advocates who spread you. A dense audience of similar people grows faster.
 
-### Consistency of value is what brings people back
+### Consistent value is what brings people back
 
-- The first level of obsession comes from a higher signal-to-noise ratio than everyone else in your category, over many pieces.
-- The top rung ('revelation', when people see you as a reliable source of value) needs non-obvious, differentiated value delivered again and again. Deep-pain audiences turn into super fans in a few pieces, nice-to-have audiences take many.
-- Results drive return. Viewers who act on your advice and get results come back 'over and over'.
-- The watering hole: an elephant goes back to the hole that had water 9 times out of 10, not the one that had it 1 time in 3. Every useful post is water.
-- Create value and people pay you with attention. Evergreen beats news, something someone can come back to in years.
-- Bingeability. A follow usually needs about 4 to 5 'content minutes' (a rule of thumb), so make people binge, with hard series (numbered) or soft series (every piece feels like the same show).
+- The first level of obsession comes from a higher signal-to-noise ratio than everyone else in your category. In plain words: more useful, less filler, over many pieces.
+- The top level is when people see you as a reliable source of value. That needs non-obvious, different value delivered again and again. Audiences with a deep pain turn into super fans in a few pieces. Audiences who just have a nice-to-have interest take many.
+- Results bring people back. Viewers who act on your advice and get results come back over and over.
+- Think of a watering hole. An elephant goes back to the hole that had water 9 times out of 10, not the one that had water 1 time in 3. Every useful post is water.
+- Create value and people pay you with their attention. Evergreen content, which someone can come back to years later, beats news.
+- Make it easy to binge. A follow usually needs about 4 to 5 minutes of your content (a rule of thumb), so give people more to watch. Use hard series (numbered parts) or soft series (every piece feels like the same show).
 
 ### Give generously
 
-- One creator worried about giving away too much free value. After day 2 of filming a free 6 hour 22 minute YouTube course (12 to 13 hour filming days, about 30 hours of filming plus hundreds of hours of editing), they told their content director they could probably sell it for over a million dollars (their estimate). They released it free instead, and within 7 days met three dream brands.
-- The goal now: push the limits of what's acceptable to release for free, following 'share the knowledge, sell the personalization'.
-- Be generous to a fault. Give away so much that people wonder what the paid stuff must be.
-- 'Jab, jab, jab, right hook'. If every post is a sales pitch, people learn to duck. 'If your content is completely selfish, it's not going to work.'
+- One creator worried about giving away too much free value. After day 2 of filming a free YouTube course of 6 hours 22 minutes (12 to 13 hour filming days, about 30 hours of filming plus hundreds of hours of editing), they told their content director they could probably sell it for over a million dollars. That's their own estimate. They released it free instead, and within 7 days they met three dream brands.
+- The goal now is to push the limits of what's acceptable to release for free, following the idea: share the knowledge, sell the personalization.
+- Be generous to a fault. Give away so much that people wonder what the paid stuff must be like.
+- Think of boxing: jab, jab, jab, then the right hook. Give value several times before you ask for anything. If every post is a sales pitch, people learn to duck. If your content is completely selfish, it won't work.
 
 ### Make people feel part of it
 
-- The community playbook: make people feel special (a name, public recognition, a visual identity, shared beliefs and language, a qualification process to get in).
-- Give them a home: Discord (real-time, younger), Telegram (updates, crypto), Skool (courses plus community), a private group (simple), or a newsletter (the best entry point, but not a community on its own).
-- Rituals: weekly events, meetups, member spotlights, challenges (like tech companies' 'Dev Days').
-- A common enemy makes people self-select. The right people join and the others stay away. Never a specific person or company.
-- Recognition is the cheapest loyalty. Thank people, reshare them, meet them, and they help the movement.
-
-### Frameworks
-
-**Building a community**
-
-1. Make people feel special: name, recognition, identity, shared language, a way in
-2. Give them a home: Discord, Telegram, Skool, private group or newsletter
-3. Stay close: answer questions, go live, share behind the scenes
-4. Run rituals: weekly events, meetups, spotlights, challenges
+- A community playbook: make people feel special with a name, public recognition, a look, shared beliefs and language, and some way to earn their way in.
+- Give them a home. Discord is real-time and younger. Telegram is for updates and crypto. Skool is courses plus community. A private group is simple. A newsletter is the best entry point but isn't a community on its own.
+- Add rituals: weekly events, meetups, member spotlights and challenges, like the developer days some tech companies run.
+- A common enemy makes people sort themselves. The right people join and the others stay away. The enemy should be an idea, never a specific person or company.
+- Recognition is the cheapest loyalty. Thank people, reshare them and meet them, and they help your movement grow.
 
 ### Examples
 
-- **A free course:** The creator nearly sold a 6-hour course they thought was worth over a million dollars, released it free instead, and met three dream brands within 7 days.
-  <br>*Why it works:* The case for 'share the knowledge, sell the personalization'.
+- **A free course:** A creator nearly sold a 6-hour course they thought was worth over a million dollars. They released it free instead and met three dream brands within 7 days.
+  <br>*Why it works:* This is the case for share the knowledge, sell the personalization. It is one creator's own account.
 
 ### Common mistakes
 
 - Chasing follower count instead of people who reply and share.
 - Selling in every post.
-- Being useful only some of the time, like a watering hole that's often dry.
+- Being useful only some of the time, like a watering hole that is often dry.
 - Treating a newsletter alone as a community.
 
 ### Try it
 
-Look at your last 10 posts and mark each one 'water' (someone could use it today) or 'dry' (filler, promo or vague). Count the water. Then write down one free thing you're holding back that you could give away next week.
-
-<details><summary><b>Check yourself (4 questions)</b></summary>
-
-**1. What counts as a moat?**
-
-- a) Paid ads
-- b) A large follower count
-- c) Posting every day
-- d) An active community that replies, shares and returns
-
-*Answer: d) An active community that replies, shares and returns.* A passive audience is a commodity and followers are a vanity metric.
-
-**2. What is the watering hole point?**
-
-- a) Use fewer posts
-- b) People return to the source that is reliably useful
-- c) Post near water
-- d) Only big accounts matter
-
-*Answer: b) People return to the source that is reliably useful.* The elephant goes back to the hole that had water 9 out of 10 times. Every useful post is water.
-
-**3. What did a free course lead to, by the creator's account?**
-
-- a) A copyright claim
-- b) Lost followers
-- c) Nothing measurable
-- d) Three dream brands within 7 days
-
-*Answer: d) Three dream brands within 7 days.* It was taken as proof for 'share the knowledge, sell the personalization'.
-
-**4. In the community playbook, what is a newsletter?**
-
-- a) The best entry point, but not a community on its own
-- b) Only for crypto
-- c) Useless for communities
-- d) A full community
-
-*Answer: a) The best entry point, but not a community on its own.* It's the best entry point, but people need a home to gather in.
-
-</details>
+Look at your last 10 posts and mark each one "water" (someone could use it today) or "dry" (filler, promo or vague). Count the water. Then write down one free thing you're holding back that you could give away next week.
 
 [Back to the top of this module](#top) · [All modules](../README.md#contents)
 
@@ -1368,59 +802,43 @@ Look at your last 10 posts and mark each one 'water' (someone could use it today
 
 *8 min read*
 
-> **The big idea:** Rented platforms can change or ban you overnight. Point every channel at the others with a clear reason, and move people onto something you own, an email list or community, from day one.
+> **The big idea:** Rented platforms can change the rules or ban you overnight. Point every channel at the others with a clear reason, and move people onto something you own, like an email list or community, from day one.
 
-### Why owned matters
+### Why owning your audience matters
 
-- 'They could ban me tomorrow and my entire audience would be gone', so build an owned channel (newsletter, Skool) too.
-- If your business lives on someone else's platform, one change can take it away, so the email list comes first.
-- X shows a post to about 15% of your followers, while email reaches 100% (one creator's figures).
-- Start your newsletter on day one, even if you can't publish regularly. For founders: start a contact list (email or text) on day one, the only audience you own.
+- If a platform banned you tomorrow, your whole audience would be gone. So build an owned channel too, like a newsletter or a Skool community.
+- If your business lives on someone else's platform, one change can take it away. That's why the email list comes first.
+- One creator says X shows a post to about 15% of your followers, while email reaches 100%.
+- Start your newsletter on day one, even if you can't publish regularly. For founders, start a contact list (email or text) on day one. It is the only audience you own.
 - On Substack, followers are subscribers, so you don't need a separate email tool.
 
 ### Content is a web, not a funnel
 
 - People jump between YouTube, Instagram, LinkedIn and X in any order, and may never see your newsletter. That's fine.
-- Being on every platform isn't enough, people won't find you by themselves. Point every platform at the others with a reason (short form to long form, long form to short form) so the web catches people, then move them to channels you own.
-- One model: a free template, GPT, SOP or scorecard if you message a keyword on Instagram, with no opt-in. Going there to DM often means a follow too. On Instagram, point back to new YouTube videos.
-- Point every channel to another (X to newsletter, YouTube to X).
-- This is called interoperability: build rails between your surfaces (short video to long video to email to community). Keep your beliefs consistent on every surface, though you don't need all of them on day one.
+- Being on every platform isn't enough, because people won't find you by themselves. Point every platform at the others with a reason, for example from short form to long form and back. That way the web catches people. Then move them to channels you own.
+- One example: on Instagram, offer a free template, custom GPT, process document or scorecard to anyone who messages you a keyword, with no sign-up form. Going to your DMs often means a follow too. Also on Instagram, point people back to your new YouTube videos.
+- Point every channel to another one, such as X to your newsletter or YouTube to X.
+- This is called interoperability: building rails between your channels (short video to long video to email to community). Keep your beliefs consistent on every channel, but you don't need all of them on day one.
 
 ### From social to email
 
-- Collect emails from day one with a pinned post, one opt-in for one reader.
-- The auto-plug: when a post passes a set number of likes, a reply with your opt-in goes out automatically.
-- 'Social to email list to nurture to sell'. Selling straight from a post rarely works.
-- The flywheel: X to lead magnets to newsletter to offer. The pinned post moves people to the next platform or the newsletter, and the cover photo states the benefit of following.
-- The back end: content to an email landing page to a 5-day email course to a 4-day sales series (transformation, outcomes, price and return, objections).
-- For courses and communities: every post that does well gets a freebie that grows the email list. A free checklist or community first, the paid product after.
+- Collect emails from day one with a pinned post that has one sign-up offer for one type of reader.
+- The auto-plug: when a post passes a set number of likes, a reply with your sign-up link is sent automatically.
+- The path is: social, then email list, then nurture, then sell. Selling straight from a post rarely works.
+- One flywheel: X posts lead to free downloads (lead magnets), which lead to your newsletter, which leads to your offer. The pinned post moves people to the next platform or the newsletter, and the cover photo states the benefit of following you.
+- A longer back end: content leads to an email landing page, then a 5-day email course, then a 4-day sales series that covers the transformation, the outcomes, the price and return, and the doubts people have.
+- For courses and communities: every post that does well gets a freebie that grows your email list. Give a free checklist or community first, and the paid product after.
 
 ### Point to one clear next step
 
-- (YouTube) Recommend one next video. Find 'the next logical problem' (this video took them from 0 to 1, recommend the 1 to 10 video), frame it as the next step on their journey, and point to only one. Several options confuse people.
+- On YouTube, recommend one next video. Find the next logical problem. If this video took them from 0 to 1, recommend your 1 to 10 video. Frame it as the next step on their journey, and point to only one. Several options confuse people.
 - Give people an owned place to go deeper, like a newsletter, after you've answered their comments and DMs.
-- The recipe ends with a nurture channel: email or community, next to one short-form and one long-form platform.
-
-### Frameworks
-
-**Social to email to sale**
-
-1. Social posts
-2. Email list (pinned post, auto-plug)
-3. Nurture over email
-4. Sell
-
-**The authority flywheel**
-
-1. X posts
-2. Lead magnets
-3. Newsletter
-4. Offer
+- A simple setup ends with a nurture channel (email or community), next to one short-form and one long-form platform.
 
 ### Examples
 
-- **Keyword DMs:** On Instagram, one creator offers a free template, GPT, SOP or scorecard to anyone who messages a keyword, with no opt-in form, and points people back to new YouTube videos.
-  <br>*Why it works:* A web where each channel feeds another, and the DM often brings a follow too.
+- **Keyword DMs on Instagram:** A creator offers a free template, GPT, process document or scorecard to anyone who messages a keyword, with no sign-up form, and points people back to new YouTube videos.
+  <br>*Why it works:* Each channel feeds another, and the DM often brings a follow too.
 
 ### Common mistakes
 
@@ -1431,47 +849,7 @@ Look at your last 10 posts and mark each one 'water' (someone could use it today
 
 ### Try it
 
-Pick your best post from the last month. Write one free, matching resource it could lead to (a checklist, template or guide), and draft the reply or pinned post that offers it. Then write down where that opt-in would collect emails.
-
-<details><summary><b>Check yourself (4 questions)</b></summary>
-
-**1. Why build an owned channel?**
-
-- a) It replaces posting
-- b) Rented platforms could ban you and your audience would be gone
-- c) X requires it
-- d) It's free
-
-*Answer: b) Rented platforms could ban you and your audience would be gone.* 'They could ban me tomorrow and my entire audience would be gone'.
-
-**2. Content is...**
-
-- a) only for one platform
-- b) best kept on email only
-- c) a web, with each platform pointing to others
-- d) a straight funnel
-
-*Answer: c) a web, with each platform pointing to others.* People move between platforms in any order, so connect them with reasons and then move people to owned channels.
-
-**3. What is the 'auto-plug'?**
-
-- a) A paid ad
-- b) An automatic reply with your opt-in once a post passes a set number of likes
-- c) A video editor
-- d) A hashtag tool
-
-*Answer: b) An automatic reply with your opt-in once a post passes a set number of likes.* It puts the opt-in under posts that are already doing well.
-
-**4. How many next videos should you point to?**
-
-- a) Five
-- b) Three
-- c) One
-- d) None
-
-*Answer: c) One.* Several options confuse people. Point to the next logical problem.
-
-</details>
+Pick your best post from the last month. Write one free, matching resource it could lead to (a checklist, template or guide), and draft the reply or pinned post that offers it. Then write down where that sign-up would collect emails.
 
 [Back to the top of this module](#top) · [All modules](../README.md#contents)
 
@@ -1483,121 +861,68 @@ Pick your best post from the last month. Write one free, matching resource it co
 
 *8 min read*
 
-> **The big idea:** Most growth comes late. The creators here say the early months look flat, the work still counts, and the people who keep posting through the quiet stretch are the ones who get the jump.
+> **The big idea:** Most growth comes late. The early months look flat but the work still counts, and the people who keep posting through the quiet stretch are the ones who get the jump.
 
 ### Three growth phases
 
-- A channel moves through establishment, improvements and optimization.
-- Establishment: work out what and who you are as a channel, pick your niche or sub-niche, and post one or two videos a week until you have about 30 to 50 videos (about 4 to 5 months). Make what calls to you and what you're passionate about. Some will do okay, some terrible, most nothing at all.
-- Move to improvement once you post at a steady pace and have learned the basic skills. Then add strategy: YouTube Studio, retention curves, a scheduled weekly brainstorm, and a process of elimination to pick ideas.
-- Telling a beginner to post twice a week and also learn retention curves, data, ideas and packaging is overwhelming. 'Sometimes you just need to take a bit of time to be quiet and make 30, 40, 50 videos'.
-- YouTube is very hard to get good at, but once you are, it feels like an input and output game.
+- A channel moves through three phases: establishment, improvements and optimization.
+- Establishment: work out what and who you are as a channel, pick your niche or sub-niche, and post one or two videos a week until you have about 30 to 50 videos (about 4 to 5 months). Make what calls to you and what you're passionate about. Some will do okay, some terrible, and most will do nothing at all.
+- Improvements: move here once you post at a steady pace and have learned the basic skills. Now add strategy. Use YouTube Studio, look at retention curves (graphs that show where viewers stop watching), hold a weekly brainstorm, and pick ideas by process of elimination.
+- Optimization: use your data to tune what already works.
+- Telling a beginner to post twice a week and also learn retention curves, data, ideas and packaging is overwhelming. Sometimes you just need to be quiet for a while and make 30, 40, 50 videos.
+- YouTube is very hard to get good at, but once you are, it starts to feel like a simple input and output game.
 
 ### Two graphs
 
 - One coach watched about 520 to 530 creators in their program and describes two paths.
-- Graph 1: month 1 is about 1K average views and feels like a waste of time. Learning hooks, filming and editing becomes tedious. Perfectionism sets in ('I won't post for a week until I figure out a good hook'). They come back, get 1,000 views, and take another break. The breaks grow longer. It becomes a loop.
-- Graph 2: months 1 and 2 look the same. But they post through the plateau, learn the basics, and around month 2 to 3 'things just click'. They hit flow and momentum.
-- The first 30 days, what you post barely matters because you're learning. Feeling you've used up all your good ideas by day 30 is normal.
-- Learning hooks can make you overthink and stop posting. Constant learning without posting is called 'edging your learning'. Focus on daily iteration with feedback.
-- The claimed examples: one creator hit 10K followers after 60 days and 66 posts. Another went from 500 to 10,000 followers after 77 days of posting. A third sat around 3,000 followers for the first 60 to 90 days (under 10K views a video) while working 12-hour days selling pest control door to door. They still posted daily (one week off) and later grew by 250 to 300K+ followers in a year. Results can look flat for even 6 months, then take off.
+- Graph 1: month 1 averages about 1,000 views and feels like a waste of time. Learning hooks, filming and editing gets tedious. Perfectionism sets in ("I won't post for a week until I figure out a good hook"). They come back, get 1,000 views, and take another break. The breaks get longer. It becomes a loop.
+- Graph 2: months 1 and 2 look exactly the same. But these people post through the flat stretch and learn the basics, and around month 2 to 3 things just click. They hit flow and momentum.
+- In the first 30 days, what you post barely matters, because you're learning. Feeling that you've used up all your good ideas by day 30 is normal.
+- Learning about hooks can make you overthink and stop posting. Constantly learning without posting is like edging: you keep getting close but never finish. Focus on daily practice with feedback.
+- The following are claims from creators. One hit 10,000 followers after 60 days and 66 posts. Another went from 500 to 10,000 followers after 77 days of posting. A third sat around 3,000 followers for the first 60 to 90 days, with under 10,000 views a video, while working 12-hour days selling pest control door to door. They still posted daily and later grew by 250,000 to 300,000 or more followers in a year. Results can look flat for even 6 months, then take off.
 - Don't buy followers. You're not building anything. There's no magic pill.
 
 ### Reps before metrics
 
-- One creator says they didn't fixate on who was listening. They committed to 100 reps they were proud of: 100 newsletters and 100 YouTube videos. 'The score will take care of itself.' The claims: the newsletter passed 182,000 after 100 reps, and YouTube reached about 172K subscribers after about 96 videos.
-- Look at your work from six months ago. You should almost cringe. That's how you know you're improving. Content inflection points come mostly from reps. Keep putting out things consistently.
-- One creator's numbers (their claim): the first 100k followers took 8 to 9 months and the next 100k took 45 days. Scale makes growth easier.
-- Expect about 36 months and hundreds of posts for a personal brand to form. Consistency is what creates the association.
-- Step 0: write one thing a day for 30 days just to see what happens. 'All the rewards go to the people who play the longest.' Then pick a sub-niche and commit for at least a year. Pivoting every week kills compounding.
-- 'The only way you lose is if you stop posting.'
+- One creator says they didn't fixate on who was listening. They committed to 100 reps they were proud of: 100 newsletters and 100 YouTube videos. The score will take care of itself. They claim the newsletter passed 182,000 subscribers after 100 issues, and YouTube reached about 172,000 subscribers after about 96 videos.
+- Look at your work from six months ago. You should almost cringe. That's how you know you're improving. Big jumps in growth come mostly from reps, so keep putting things out consistently.
+- Another creator claims the first 100,000 followers took 8 to 9 months and the next 100,000 took 45 days. Scale makes growth easier.
+- Expect about 36 months and hundreds of posts for a personal brand to form. Consistency is what creates the association between you and your topic.
+- Step 0: write one thing a day for 30 days just to see what happens. All the rewards go to the people who play the longest. Then pick a sub-niche and commit for at least a year. Changing topic every week kills compounding, which is the way growth builds on itself.
+- The only way you lose is if you stop posting.
 
 ### Don't quit three inches from gold
 
-- Compounding only shows up if you keep going. Quit and you restart from zero.
-- The numbers for one client's YouTube: 10K to 100K subscribers took about 7 years, 100K to 1M took 1 year, and 1M to 2.5M the next year. In another video the same channel took 7 years to reach 100K, then went from 100K to 2.9M between year 7 and year 9.
-- 'It takes more time setting the foundation of the house than actually building the building itself.'
-- Start now: one creator expects AI to make the barrier to entry very low within 2 years, with everyone making content, so start before it's crowded. The prediction: personal brand will be one of the only things that matter for distribution in two years.
+- Compounding only shows up if you keep going. If you quit, you restart from zero.
+- Numbers from one client's YouTube channel: 10,000 to 100,000 subscribers took about 7 years, 100,000 to 1 million took 1 year, and 1 million to 2.5 million took the next year. In another video the same channel took 7 years to reach 100,000, then went from 100,000 to 2.9 million between year 7 and year 9.
+- It takes more time to set the foundation of a house than to build the building on top of it.
+- Start now. One creator expects AI to make the barrier to entry very low within 2 years, with everyone making content, so start before it's crowded. Their prediction is that personal brand will be one of the only things that matters for distribution by then.
 - The fear of being judged by your high school friends fades after about 4 weeks of posting daily.
 
 ### Stay in the game when traction slips
 
-- A creator and a friend with 10M subscribers in food agreed: you win long term on YouTube by staying in the game.
-- Zoomed out, drops look like speed bumps. In the moment they feel like disasters: from 4M views a month back to 2M, or breaking 10M a month and falling back by almost half.
-- The point: the hardest part isn't the early days with no traction, it's not giving up when you had traction and it feels like it's slipping. Forrest Galante's 3,900% growth was not a straight line.
-
-### Frameworks
-
-**The growth phases**
-
-1. Establishment: find your niche, post 1 or 2 a week until you have 30 to 50 pieces
-2. Improvements: post steadily and learn the fundamentals, then add retention data, a weekly brainstorm and elimination
-3. Optimization: use the data to tune what already works
-
-**The two graphs**
-
-1. Month 1 looks bad for everyone (about 1K views)
-2. Graph 1: take breaks to learn more, breaks grow, you loop
-3. Graph 2: post through the plateau, learn by doing, around month 2 to 3 it clicks
+- A creator and a friend with 10 million subscribers in food agreed that you win long term on YouTube by staying in the game.
+- Zoomed out, drops look like speed bumps. In the moment they feel like disasters, like going from 4 million views a month back to 2 million, or breaking 10 million a month and falling back by almost half.
+- The hardest part isn't the early days with no traction. It's not giving up when you had traction and it feels like it's slipping. Even a wildlife channel that grew 3,900% did not grow in a straight line.
 
 ### Examples
 
-- **A door-to-door seller, one coach's claim:** Stuck near 3,000 followers for 60 to 90 days with under 10K views a video, while working 12-hour sales days. The creator kept posting daily and later grew by 250 to 300K+ followers in a year.
-  <br>*Why it works:* Results can look flat for months before they take off.
-- **100 reps:** One creator committed to 100 newsletters and 100 YouTube videos before judging. They say that gave a 182,000 newsletter and about 172K YouTube subscribers.
-  <br>*Why it works:* Count your reps first, then look at the score. These are their numbers, not checked.
+- **A door-to-door seller:** One coach says a creator stayed near 3,000 followers for 60 to 90 days, with under 10,000 views a video, while working 12-hour sales days. They kept posting daily and later grew by 250,000 to 300,000 or more followers in a year.
+  <br>*Why it works:* Results can look flat for months before they take off. This is one coach's claim.
+- **100 reps:** One creator committed to 100 newsletters and 100 YouTube videos before judging the results. They say that led to a 182,000-person newsletter and about 172,000 YouTube subscribers.
+  <br>*Why it works:* Count your reps first, then look at the score. These are their own numbers and have not been checked.
 
 ### Common mistakes
 
-- Taking a break to 'learn more' until the breaks get longer than the posting (graph 1).
+- Taking a break to "learn more" until the breaks are longer than the posting.
 - Judging the work in the first 30 days, when you are still learning.
-- Pivoting topics every week, which kills compounding.
+- Changing topics every week, which kills compounding.
 - Buying followers.
 - Quitting just before the curve bends, then restarting from zero.
 
 ### Try it
 
-Pick a rep target (one creator used 100). Count how many pieces you have made so far, and write the number you need before you judge anything. Hold your review until you hit it.
-
-<details><summary><b>Check yourself (4 questions)</b></summary>
-
-**1. What did one creator say they committed to instead of watching who was listening?**
-
-- a) 100 reps they were proud of
-- b) Copying their best posts every week
-- c) A fixed follower target each month
-- d) Posting only when a post could go viral
-
-*Answer: a) 100 reps they were proud of.* They committed to 100 newsletters and 100 YouTube videos and said the score would take care of itself.
-
-**2. In the two graphs, what separates graph 2 from graph 1?**
-
-- a) They change niche every month
-- b) They buy followers early
-- c) They post through the plateau instead of taking longer breaks
-- d) They only post when they have a perfect hook
-
-*Answer: c) They post through the plateau instead of taking longer breaks.* Graph 2 creators keep posting, learn the basics, and things click around month 2 to 3.
-
-**3. What should you do in the establishment phase?**
-
-- a) Study retention curves every day
-- b) Post 1 or 2 videos a week until you have about 30 to 50
-- c) Pick ideas only by data
-- d) Post only once you are really good
-
-*Answer: b) Post 1 or 2 videos a week until you have about 30 to 50.* Take time to be quiet and make 30, 40, 50 videos before adding strategy.
-
-**4. What is a sign you are improving?**
-
-- a) You almost cringe at your work from six months ago
-- b) Your follower count doubles each month
-- c) Your old posts still get the most views
-- d) You stop checking analytics
-
-*Answer: a) You almost cringe at your work from six months ago.* Cringing at six-month-old work shows improvement, and inflection points come mostly from reps.
-
-</details>
+Pick a rep target (one creator used 100). Count how many pieces you have made so far, and write down the number you need before you judge anything. Hold your review until you hit it.
 
 [Back to the top of this module](#top) · [All modules](../README.md#contents)
 
@@ -1609,107 +934,51 @@ Pick a rep target (one creator used 100). Count how many pieces you have made so
 
 *9 min read*
 
-> **The big idea:** At the start, narrow beats broad. Pick a sub-niche, say who you help in the bio, own one thing and repeat it, and copy what already works in your niche without copying the content.
+> **The big idea:** At the start, narrow beats broad. Pick a sub-niche, say who you help in your bio, own one thing and repeat it, and copy what already works in your niche without copying the content.
 
 ### Pick a niche you can stay in
 
-- Pick a sub-niche, never a 'mega category' like personal development or health, and commit for at least a year.
-- Four questions to choose a niche: Are you making money already? Do you already have an offer? (then that's your topic). Are you a beginner? (under about 30 posts in this format: make 20 to 30 on anything you like, then decide). Do you have own products or brand deals? Pick a topic you could make 100+ posts on.
-- One creator's first 60 days were clueless. Over time they became 'the systems guy'. Their positioning statement = a thesis + 3 things that make it true + your mechanism. They also wrote 5 dos and 5 don'ts for their voice.
-- In one clip, a team member got five-figure-a-month offers with only a few thousand followers because their content targeted one clear niche ('growth operator').
+- Pick a sub-niche, not a mega category like personal development or health, and commit for at least a year. A sub-niche is a narrow slice, like "personal development for new managers".
+- Ask yourself four questions. Are you already making money, with an offer? Then that is your topic. Are you a beginner, with under about 30 posts in this format? Then make 20 to 30 posts on anything you like, then decide. Do you have your own products or brand deals? Then choose a topic that fits them. In every case, pick a topic you could make 100 or more posts on.
+- One creator's first 60 days were clueless. Over time they became the systems guy. Their positioning statement was a thesis (one main belief), plus 3 things that make it true, plus their mechanism (how they do it). They also wrote 5 dos and 5 don'ts for their voice.
+- In one clip, a team member got offers worth five figures a month with only a few thousand followers, because their content targeted one clear niche, growth operator.
 
 ### The bio is beachfront real estate
 
-- The bio is about the reader, never about you.
-- Version 1: 'I write about X for Y'. Version 2: 'on a mission to help Y get Z'. Add 1 line of credibility.
-- 'Clear, not clever.'
+- Your bio is the first thing people read, so it's prime space. It is about the reader, not about you.
+- Version 1: "I write about X for Y", for example "I write about sleep for new parents" (made up). Version 2: "on a mission to help Y get Z". Then add 1 line of credibility, like a result or a job you've done.
+- Be clear, not clever.
 
 ### Category and credibility
 
-- Category: get known for ONE thing and say it over and over ('if I had a dollar for every time I've said boring business'). Own a word, own repeat formats, even own a look. 'Repeat past the point of boredom.'
-- Credibility without a studio: one polished video got 47k views and a raw kitchen clip got about 100x that.
-- Three free credibility sources: look native to the platform, talk about what you've actually done, and show yourself doing the work.
-- Ideas in four steps: build a swipe file (top 100 posts in your niche: save the hook, the first 30 seconds and the top comments). Steal the hook, never the content, and pour your expertise in. Mine unanswered questions in comments. Keep a problem bank in THEIR exact words ('I don't have the money and I'm scared I'll look stupid asking', not 'capital constraints').
+- Get known for one thing and say it over and over. One creator jokes about the money they'd have if they got a dollar every time they said boring business. Own a word, own formats you repeat, even own a look. Repeat past the point of boredom.
+- You don't need a studio to look credible. One creator says a polished video got 47,000 views and a raw kitchen clip got about 100 times that.
+- Three free ways to build credibility: look native to the platform, talk about what you've actually done, and show yourself doing the work.
+- Finding ideas, in four steps. Build a swipe file, a folder of the top 100 posts in your niche, saving the hook, the first 30 seconds and the top comments. Steal the hook, never the content, and pour your own expertise in. Look for unanswered questions in comments. Keep a problem bank in their exact words, like "I don't have the money and I'm scared I'll look stupid asking" rather than "capital constraints".
 
-### A study, voice and writing system
+### Study, voice and writing system
 
-- Study the masters: X is 'a copywriting Olympics'. Build a swipe file of the top 20 posts you couldn't help saving (for example Naval's 'how to get rich without getting lucky', a one-line hook then short, easy lines). Hold your own posts to that bar.
-- Writing system: keep a checklist of every lesson learned. End every post on a 'bar' that hits like a rap line ('you do not rise to the level of your goals, you fall to the level of your systems'). Use specific numbers, the how and the what, short sentences, images when relevant, and nothing that sounds like ChatGPT.
-
-### Frameworks
-
-**Niche questions**
-
-1. Are you making money? Do you have an offer? Then that is your topic
-2. Are you a beginner (under about 30 posts)? Make 20 to 30 on anything, then decide
-3. Do you have own products or brand deals? Choose accordingly
-4. Pick a topic you could make 100+ posts on
-
-**The idea loop**
-
-1. Swipe file of the top 100 posts in the niche
-2. Steal the hook, never the content
-3. Mine unanswered questions in comments
-4. Keep a problem bank in their exact words
+- Study the best. X is a copywriting Olympics. Build a swipe file of the top 20 posts you couldn't help saving. One example is Naval's "how to get rich without getting lucky": a one-line hook, then short, easy lines. Hold your own posts to that bar.
+- Writing system: keep a checklist of every lesson you learn. End every post on a bar, a line that hits like a rap line, such as "you do not rise to the level of your goals, you fall to the level of your systems". Use specific numbers, say the how and the what, keep sentences short, add images when relevant, and write nothing that sounds like ChatGPT.
 
 ### Examples
 
-- **A kitchen clip:** A polished video got 47k views. A raw kitchen clip got about 100x that.
-  <br>*Why it works:* Native and real beat studio polish (one creator's claim).
-- **Bio versions:** V1: 'I write about X for Y'. V2: 'on a mission to help Y get Z'. Plus 1 line of credibility.
-  <br>*Why it works:* The bio speaks to the reader.
+- **A kitchen clip:** One creator says a polished video got 47,000 views, while a raw kitchen clip got about 100 times that.
+  <br>*Why it works:* Native and real can beat studio polish. One creator says so.
+- **Bio versions (made up):** Version 1: "I write about sleep for new parents." Version 2: "On a mission to help new parents get 8 hours of sleep." Then add one line, like "Helped 200 families."
+  <br>*Why it works:* The bio speaks to the reader and says what they get.
 
 ### Common mistakes
 
-- A 'mega category' niche.
+- Picking a mega category as your niche.
 - A clever bio that hides who it is for.
 - Copying a viral post's content instead of its format.
-- Posting about what you can't explain for 30 minutes at dinner.
-- Pivoting topic every week.
+- Posting about something you couldn't talk about for 30 minutes over dinner.
+- Changing your topic every week.
 
 ### Try it
 
-Write your bio in version 1 or 2 form, then add 1 line of credibility. Then write 5 topics that pass the dinner test.
-
-<details><summary><b>Check yourself (4 questions)</b></summary>
-
-**1. What should the bio be about?**
-
-- a) Your favourite quote
-- b) The reader, never you
-- c) Your follower count
-- d) Your full life story
-
-*Answer: b) The reader, never you.* It's beachfront real estate and it is about the reader.
-
-**2. What should you copy from viral posts?**
-
-- a) The exact wording
-- b) The posting time
-- c) The format, never the content
-- d) The author's name
-
-*Answer: c) The format, never the content.* Copy the viral FORMAT of the moment and bend it to your niche.
-
-**3. What is the test for what to post about?**
-
-- a) What is easiest to write
-- b) What is trending today
-- c) What my competitors posted
-- d) What have I earned the right to explain
-
-*Answer: d) What have I earned the right to explain.* The dinner test: could friends grill you on it for 30 minutes with zero prep?
-
-**4. What is said about signature formats?**
-
-- a) Start with one repeated visual element and run it until it stops working
-- b) Change the format every week
-- c) Force a format on day one
-- d) Copy a competitor's format exactly
-
-*Answer: a) Start with one repeated visual element and run it until it stops working.* A signature format can't be forced, so start with one repeated element.
-
-</details>
+Write your bio in version 1 or 2 form, then add 1 line of credibility. Then write 5 topics you could happily talk about for 30 minutes over dinner.
 
 [Back to the top of this module](#top) · [All modules](../README.md#contents)
 
@@ -1717,94 +986,44 @@ Write your bio in version 1 or 2 form, then add 1 line of credibility. Then writ
 
 <a id="m8-l15"></a>
 
-## 8.15 Why a 226M-view article worked
+## 8.15 Why the most-viewed article in X history worked
 
 *7 min read*
 
-> **The big idea:** The most-viewed article in X history worked because of a few plain choices: a bold time-bound promise, good timing, a full system, a new concept, and ideas that already worked as posts.
+> **The big idea:** The most-viewed article in X history worked because of a few plain choices: a bold promise with a time limit, good timing, a complete system, a fresh concept, and ideas that had already worked as posts.
 
-### The piece and its reasons
+### The article and why it worked
 
-- The article: 'How to fix your entire life in 1 day', 5 to 6k words, 339k likes on X (the author's numbers, from their own channel).
-- An extreme, time-bound promise ('in 1 day') that clashes with the belief that change takes years. It also forced the author to be creative enough to deliver it.
-- A greatest-hits album: each of the 7 sections was an idea that had already done well as a post. One section title was literally an old tweet, copy-pasted. 'Every idea inside the article is a reason it goes viral, not just the title.'
+- The article was called "How to fix your entire life in 1 day". It was 5,000 to 6,000 words and, by its author's own count, got 339,000 likes on X.
+- It made an extreme promise with a time limit: "in 1 day". That clashes with the common belief that change takes years, which makes people curious. It also forced the author to be creative enough to actually deliver on it.
+- It worked like a greatest-hits album. Each of its 7 sections was an idea that had already done well as a post. One section title was an old tweet, copied word for word. Every idea inside the article is a reason it could go viral, not just the title.
 
 ### The shape of the article
 
-- Intro: the problem, what's wrong, the enemy, said bluntly. Then 'I'm not here to judge you, I've dropped 10x more goals than I've hit' (talk as an equal).
-- Set expectations: 'this is long, save it, grab a notebook'. Saves help the algorithm and stop people quitting halfway.
-- Body: the big ideas and why it happens, which is the education.
-- Ending: the protocol or steps, which is the implementation.
+- Intro: state the problem, what's wrong, and the enemy, bluntly. Then talk to the reader as an equal, for example: "I'm not here to judge you, I've dropped 10 times more goals than I've hit".
+- Set expectations: "this is long, save it, grab a notebook". Saves help the algorithm, and the warning stops people quitting halfway.
+- Body: the big ideas and why things happen. This is the education.
+- Ending: a protocol, meaning step-by-step actions the reader can follow. This is the implementation.
 
-### How the piece was made
+### How the article was made
 
-- '80% of writing is research and outlining. If you're staring at a blank page, you haven't done the research.'
-
-### Frameworks
-
-**The article shape**
-
-1. Intro: the problem and the enemy, said bluntly, then talk as an equal
-2. Preview the whole piece and the transformation in one paragraph
-3. Set expectations: long, save it, grab a notebook
-4. Body: the big ideas (education)
-5. Ending: the protocol (implementation)
+- 80% of writing is research and outlining. If you're staring at a blank page, you haven't done enough research.
 
 ### Examples
 
-- **Greatest-hits album:** Each of the 7 sections was an idea that had already worked as a post. One section title was an old tweet copied word for word.
-  <br>*Why it works:* The article packs proven ideas, so each one is a reason to share.
+- **A greatest-hits album:** Each of the 7 sections of the article was an idea that had already worked as a post. One section title was an old tweet copied word for word.
+  <br>*Why it works:* The article packs in proven ideas, so each one is a reason to share it.
 
 ### Common mistakes
 
 - Writing an article from a blank page without research.
 - Giving tips instead of a system someone can follow.
 - A vague promise with no time frame.
-- Getting concepts from AI chats or scrolling instead of books.
+- Getting your concepts from AI chats or scrolling instead of from books.
 
 ### Try it
 
 List 7 of your posts that did well. Ask whether they could be the sections of one article, and write the one promise that holds them together.
-
-<details><summary><b>Check yourself (4 questions)</b></summary>
-
-**1. Why did the promise 'in 1 day' work?**
-
-- a) It was short to read
-- b) It used a famous name
-- c) It clashed with the belief that change takes years
-- d) It was posted at night
-
-*Answer: c) It clashed with the belief that change takes years.* The extreme, time-bound promise clashed with that belief and also forced the author to deliver.
-
-**2. What was each section of the article?**
-
-- a) A guest author's idea
-- b) A brand new idea
-- c) A quote from a book
-- d) An idea that had already done well as a post
-
-*Answer: d) An idea that had already done well as a post.* It was called a greatest-hits album.
-
-**3. Why does the author tell readers to save it and grab a notebook?**
-
-- a) To get more follows from bots
-- b) Saves help the algorithm and stop people quitting halfway
-- c) To hide that it is long
-- d) To get more comments
-
-*Answer: b) Saves help the algorithm and stop people quitting halfway.* Setting expectations about length keeps people reading and lifts saves.
-
-**4. What is said about the source of new concepts?**
-
-- a) They come from AI chats
-- b) They come from competitors
-- c) They come from books, not AI chats or scrolling
-- d) They come from trending posts
-
-*Answer: c) They come from books, not AI chats or scrolling.* Teaching something they didn't know is what makes people follow you.
-
-</details>
 
 [Back to the top of this module](#top) · [All modules](../README.md#contents)
 
@@ -1816,84 +1035,35 @@ List 7 of your posts that did well. Ask whether they could be the sections of on
 
 *8 min read*
 
-> **The big idea:** Views only turn into money if four things all work, and they multiply. If any one is zero, the result is zero.
+> **The big idea:** Views only turn into money if four things all work, and they multiply. If any one of them is zero, the result is zero.
 
 ### The four steps that multiply
 
-- The attention conversion funnel has four steps. They multiply, so one zero means zero.
-- 1) Bullseye signal: within the first lines the viewer thinks 'that's exactly my problem' or 'that's exactly what I want'. People sort every video into solution, entertainment or irrelevant, and only 'solution' buys. Tools: name their pain, the emotion of not solving it, the before and after, a named method.
-- 2) Trust bank: every useful post is a deposit (give, give, give, ask). Some proof is worth more than others. The more painful the problem, the less trust they need to act.
-- 3) Clear ramp: an off-ramp in every piece: a lead magnet (the favourite, matched to THAT video's topic), a sales page, or a call or DM. Talking about New York for 8 hours and then offering an exit to Tulsa doesn't work.
-- 4) Aligned offer: the buyer's math is 'how likely am I to get the result for this price?'. Trust lets you charge more before the 'flip point'. The rule: the buyer should get 10x the price back within 30 days.
+- The attention conversion funnel is how attention turns into sales. It has four steps. They multiply, so one zero means zero.
+- 1) A bullseye signal. In the first lines, the viewer should think "that's exactly my problem" or "that's exactly what I want". People sort every video into solution, entertainment or irrelevant, and only "solution" buys. To hit the bullseye, name their pain, the feeling of not solving it, the before and after, and a named method.
+- 2) A trust bank. Every useful post is a deposit: give, give, give, then ask. Some proof is worth more than others. And the more painful the problem, the less trust people need before they act.
+- 3) A clear ramp. Every piece needs a way out, called an off-ramp: a lead magnet (a free download, ideally matched to that exact video's topic), a sales page, or a call or DM. Talking about New York for 8 hours and then offering an exit to Tulsa doesn't work, because the exit doesn't match where the person was going.
+- 4) An aligned offer. The buyer does quick math: how likely am I to get the result for this price? Trust lets you charge more. A good rule is that the buyer should get 10 times the price back within 30 days.
 
 ### The trust ladder, weakest to strongest
 
-- A study, then a stranger's testimonial ('Mark from San Antonio'), then borrowed credibility ('I used a famous framework'), then your own result, then several named client results, then showing your skill live in the content, then a big real audience, then a warm recommendation from someone they trust.
-- The warm recommendation is the strongest, which is why shares matter.
-
-### Frameworks
-
-**Attention conversion funnel**
-
-1. Bullseye signal: they feel 'that's my problem' in the first lines
-2. Trust bank: deposits of useful posts plus proof
-3. Clear ramp: a lead magnet, sales page or call in every piece
-4. Aligned offer: the result is worth far more than the price
+- Going from weakest to strongest: a study, then a stranger's testimonial ("Mark from San Antonio"), then borrowed credibility ("I used a famous framework"), then your own result, then several named client results, then showing your skill live in your content, then a big real audience, then a warm recommendation from someone they already trust.
+- A warm recommendation is the strongest, which is why shares matter so much.
 
 ### Examples
 
-- **New York and Tulsa:** Talking about New York for 8 hours and then offering an exit to Tulsa.
-  <br>*Why it works:* Content and ramp have to point the same way.
+- **New York and Tulsa:** Imagine talking about New York for 8 hours, then offering an exit to Tulsa.
+  <br>*Why it works:* Your content and your ramp have to point the same way.
 
 ### Common mistakes
 
 - Making a great video with no ramp.
-- A lead magnet that does not match that video's topic.
+- Using a lead magnet that doesn't match that video's topic.
 - Treating the four steps as add-ons when they multiply.
 
 ### Try it
 
 Take one post. Mark whether each of the 4 steps is present: bullseye signal, trust, ramp, offer. Fix the weakest one first.
-
-<details><summary><b>Check yourself (4 questions)</b></summary>
-
-**1. What is true about the four steps of the funnel?**
-
-- a) They add up
-- b) Only the first matters
-- c) Only the offer matters
-- d) They multiply, so one zero means zero
-
-*Answer: d) They multiply, so one zero means zero.* One zero in any step gives zero overall.
-
-**2. Which viewer type buys?**
-
-- a) The ones who see it as a solution
-- b) Irrelevant viewers
-- c) Anyone who follows
-- d) Entertainment viewers
-
-*Answer: a) The ones who see it as a solution.* People sort videos into solution, entertainment or irrelevant. Only solution buys.
-
-**3. What is the strongest trust signal?**
-
-- a) A stranger's testimonial
-- b) Your own bio
-- c) A study
-- d) A warm recommendation from someone they trust
-
-*Answer: d) A warm recommendation from someone they trust.* That is the top of the trust ladder, which is why shares matter.
-
-**4. What is the rule for an aligned offer?**
-
-- a) The buyer should get 10x the price back within 30 days
-- b) Price at the market average
-- c) Always charge the lowest price
-- d) Give a discount to every viewer
-
-*Answer: a) The buyer should get 10x the price back within 30 days.* Trust lets you charge more before the flip point.
-
-</details>
 
 [Back to the top of this module](#top) · [All modules](../README.md#contents)
 
@@ -1905,44 +1075,35 @@ Take one post. Mark whether each of the 4 steps is present: bullseye signal, tru
 
 *8 min read*
 
-> **The big idea:** Viewers are interested, buyers are trying to solve something. Build for the buyer's pain, and measure dollars, not views.
+> **The big idea:** Viewers are interested, buyers are trying to solve a problem. Build for the buyer's pain, and measure dollars, not views.
 
 ### The buyer triangle
 
-- Viewers are interested, buyers are trying to solve something.
-- The buyer triangle: a pain point, your solution is better, faster or cheaper, and you're the one to trust.
-- 'Views are not the goal, dollars are.' A small niche gives small views but can give the same 15 clients.
+- Viewers are just interested. Buyers are trying to solve something.
+- A buyer needs three things: a pain point, a solution from you that is better, faster or cheaper than what they have now, and a reason to trust you.
+- Views are not the goal, dollars are. A small niche gives small views but can still bring you the same 15 clients.
 
-### The 6 steps
+### 6 steps to build a buyer audience
 
-- Define the buyer. Map their whole workflow step by step. Pick the most painful step. Write down what they do about it TODAY (the baseline). Find your less obvious, faster way (where all the value is). Package it.
+- 1\. Define the buyer.
+- 2\. Map their whole workflow, step by step.
+- 3\. Pick the most painful step.
+- 4\. Write down what they do about it today. This is the baseline you have to beat.
+- 5\. Find your less obvious, faster way. This is where all the value is.
+- 6\. Package it into something they can buy.
 
-### The 6 mistakes
+### 6 mistakes that keep you from buyers
 
-- An entertainment channel: an influencer with 8M followers sold about 25 t-shirts (one creator's story).
-- Topics all over the place. Topics too broad. The same advice as everyone else. No walk-away steps.
-- Not posting long enough: the widely quoted '7-11-4' is 7 hours, 11 touchpoints and 4 places before someone buys. It's a marketing rule of thumb, not hard data.
-
-### Frameworks
-
-**Buyer triangle**
-
-1. Pain point
-2. Your solution is better, faster or cheaper
-3. You are the one to trust
-
-**6 steps to a buyer audience**
-
-1. Define the buyer
-2. Map their workflow step by step
-3. Pick the most painful step
-4. Write down their baseline today
-5. Find your less obvious, faster way
-6. Package it
+- Running an entertainment channel. One creator tells of an influencer with 8 million followers who sold only about 25 t-shirts.
+- Topics all over the place.
+- Topics too broad.
+- Giving the same advice as everyone else.
+- No clear next step the viewer can take away.
+- Not posting long enough. A widely quoted rule of thumb is 7-11-4: 7 hours, 11 touchpoints and 4 places before someone buys. It's a marketing rule of thumb, not hard data.
 
 ### Examples
 
-- **The 8M influencer:** An influencer with 8M followers sold about 25 t-shirts (one creator's story).
+- **The 8 million follower influencer:** One creator tells of an influencer with 8 million followers who sold only about 25 t-shirts.
   <br>*Why it works:* Views from entertainment don't make buyers.
 
 ### Common mistakes
@@ -1950,51 +1111,11 @@ Take one post. Mark whether each of the 4 steps is present: bullseye signal, tru
 - Running an entertainment channel when you want buyers.
 - Topics too broad or all over the place.
 - Giving the same advice as everyone.
-- Posting without a walk-away step.
+- Posting without a next step for the viewer.
 
 ### Try it
 
-Write your buyer's workflow in steps. Circle the most painful step, then write what they do about it today and a less obvious way.
-
-<details><summary><b>Check yourself (4 questions)</b></summary>
-
-**1. What is true about views and dollars?**
-
-- a) Dollars never follow views
-- b) Views are not the goal, dollars are
-- c) Both are equal
-- d) Views are the only goal
-
-*Answer: b) Views are not the goal, dollars are.* A small niche can give the same 15 clients.
-
-**2. What is the '7-11-4' rule?**
-
-- a) 7 posts, 11 likes, 4 shares
-- b) 7 hours, 11 touchpoints, 4 places before someone buys
-- c) 7 days, 11 hours, 4 videos
-- d) 7 emails, 11 calls, 4 meetings
-
-*Answer: b) 7 hours, 11 touchpoints, 4 places before someone buys.* It's a marketing rule of thumb, not hard data.
-
-**3. Where is the value in step 5?**
-
-- a) Your less obvious, faster way
-- b) The comment replies
-- c) The workflow map
-- d) The baseline
-
-*Answer: a) Your less obvious, faster way.* After writing down what they do today, your less obvious, faster way is where all the value is.
-
-**4. What did the influencer with 8M followers sell?**
-
-- a) About 25 t-shirts
-- b) Nothing
-- c) Thousands of courses
-- d) A million subscriptions
-
-*Answer: a) About 25 t-shirts.* It was a story about an entertainment channel.
-
-</details>
+Write your buyer's workflow in steps. Circle the most painful step, then write what they do about it today and one less obvious way to solve it.
 
 [Back to the top of this module](#top) · [All modules](../README.md#contents)
 
@@ -2002,116 +1123,59 @@ Write your buyer's workflow in steps. Circle the most painful step, then write w
 
 <a id="m8-l18"></a>
 
-## 8.18 Content that sells: the filter, a dinner test and promotion frequency
+## 8.18 Content that sells: the \$10,000 filter and how often to promote
 
 *9 min read*
 
-> **The big idea:** Chasing millions of views brings beginners with no money. Targeting a specific, affluent audience gives fewer views and more cash, and you need to ask for the sale often enough.
+> **The big idea:** Chasing millions of views brings beginners with no money. Aiming at a specific, well-off audience gives fewer views and more cash, and you need to ask for the sale often enough.
 
 ### Boring content makes the money
 
-- The affluence paradox: chasing millions of views attracts beginners with no money. A specific affluent audience means fewer views and much more cash. Lifestyle and beach content got likes. Systems breakdowns got 'I shared this with my whole team in Slack'.
-- The filter before posting: 'would someone pay \$10,000 for this information?' If not, it's entertainment.
-- Proof-led: the best-earning content is live, unscripted 'whiteboard sessions' helping real founders (for example Ali Abdaal's funnel). 'Details create cash': 'build your personal brand' is forgettable, 'how I grew my X from 0 to 214,000 in 12 months with 3 formats' is proof.
-- Max 3 repeatable formats, rotated forever. 'Change the input, not the structure.' A known format also makes word of mouth easy.
-- Content like an index fund, not day trading: steady value compounds, viral spikes die.
-- The SELL formula: Stories, Educate (how-to or how-I), List (any clear structure).
-- Ideas come from a 3-question buyer survey: biggest goal this year? what keeps you up at night? magic wand, what would you want my help with?
-- The #1 metric: profit per piece of content.
+- Chasing millions of views attracts beginners with no money. A specific, well-off audience means fewer views but much more cash. In one example, lifestyle and beach content got likes, while breakdowns of how a business runs got comments like "I shared this with my whole team in Slack".
+- Use this filter before posting: would someone pay \$10,000 for this information? If not, it's entertainment, and entertainment rarely sells.
+- Proof-led content makes the most money. The best-earning content is often live, unscripted whiteboard sessions where you help real founders. Details create cash. "Build your personal brand" is forgettable. "How I grew my X from 0 to 214,000 in 12 months with 3 formats" is proof.
+- Use at most 3 repeatable formats and rotate them forever. Change the input, not the structure. A known format also makes word of mouth easy.
+- Treat content like an index fund, not day trading. Steady value builds up over time, while viral spikes die.
+- A simple recipe, called SELL: Stories, Educate (how-to or how-I), List (any clear structure).
+- Get ideas from a 3-question survey of your buyers: what is your biggest goal this year? What keeps you up at night? If you had a magic wand, what would you want my help with?
+- The number one metric is profit per piece of content.
 
 ### Tickets and a product ladder
 
-- 62% of one creator's event tickets came from organic content and 38% from paid ads. The newsletter sold 30%, YouTube 27%, X about 1%.
-- Product ladder: free content, then \$0 to 50 (guide, template), then \$50 to 500, then \$500 to 5k, then a big ticket. Start with free plus ONE paid step. Add the next only when the one below is full. Ship at 85%.
+- For one creator, 62% of event tickets came from organic content and 38% from paid ads. By channel, the newsletter sold 30%, YouTube 27%, and X about 1%. The biggest feed is not always the biggest seller.
+- The product ladder: free content, then a \$0 to \$50 product (a guide or template), then \$50 to \$500, then \$500 to \$5,000, then a big-ticket offer. Start with free content plus ONE paid step. Add the next step only when the one below is full of customers. Ship at 85%, meaning don't wait for perfect.
 
-### Promotion frequency
+### How often to promote
 
-- Products don't sell themselves. You must deliberately send traffic. More traffic means more sales.
-- Two levers: promote more often (no change to offer, strategy or funnel; always remind people you sell something; be clear on what you sell, what to do, how and when to buy) and make more content, which gives more in-between moments for calls to action.
-- The odds someone clicks your bio link and buys are tiny.
-- The math: at 7 posts a week, one weekly promo is 14% of content. At 90 posts a month (3 a day) with 4 promos, it's about 4%. 'More content = more opportunity to sell (without being annoying).' 'Promote your products like you'd promote a sponsorship.'
+- Products don't sell themselves. You must send traffic on purpose. More traffic means more sales.
+- There are two levers. First, promote more often. You don't need to change your offer, strategy or funnel. Just always remind people you sell something, and be clear on what you sell, what to do, and how and when to buy. Second, make more content, which gives you more in-between moments to add a call to action.
+- The odds that someone clicks your bio link and buys are tiny, so the bio alone isn't enough.
+- The math: at 7 posts a week, one weekly promo is 14% of your content. At 90 posts a month (3 a day) with 4 promos, it's about 4%. More content means more chances to sell without being annoying. Promote your products the way you'd promote a sponsorship.
 
 ### Paid boosts
 
-- Never boost posts from an organic account that works. Paid viewers blur who your audience is, they don't engage with normal posts, and reach drops. Boost the winning creative from a separate ad account.
-- Post every ad organically FIRST, and only pay to boost the ones that beat your normal views. The two views fit together.
+- Never boost posts from an organic account that works. Paid viewers blur who your audience is, they don't engage with your normal posts, and your reach drops. Boost the winning creative from a separate ad account instead.
+- Post every ad organically first, and only pay to boost the ones that beat your normal views. That way both kinds of views work together.
 
-### A barbell
+### A barbell approach
 
-- One big creator says the world is splitting into extreme tech (AI) on one side and "1950s grandpa stuff" on the other: call, text or write to every past client just to say hello, with no ask. The advice is to do both.
-
-### Frameworks
-
-**The content filter**
-
-1. Ask: would someone pay \$10,000 for this information?
-2. If not, it is entertainment
-3. Use max 3 repeatable formats
-4. Track profit per piece of content
-
-**The product ladder**
-
-1. Free content
-2. \$0 to 50 guide or template
-3. \$50 to 500
-4. \$500 to 5k
-5. Big ticket, one step at a time, only when the one below is full
+- One big creator says the world is splitting into two extremes: very advanced tech like AI on one side, and old-fashioned human contact on the other. For example, call, text or write to every past client just to say hello, with no ask. The advice is to do both.
 
 ### Examples
 
-- **Ticket sources:** 62% of event tickets came from organic content, 38% from paid ads. Newsletter 30%, YouTube 27%, X about 1%.
+- **Where tickets came from:** For one creator, 62% of event tickets came from organic content and 38% from paid ads. The newsletter sold 30%, YouTube 27% and X about 1%.
   <br>*Why it works:* The biggest feed is not always the biggest seller.
 
 ### Common mistakes
 
 - Chasing the biggest audience instead of the right one.
-- Promoting once a week at 14% of content when you could make more content.
+- Promoting only once a week, which is 14% of your content, when making more content would lower that share.
 - Boosting posts from the organic account that works.
 - Launching a whole product ladder at once.
 
 ### Try it
 
-Run this test on your last 5 posts: would someone pay \$10,000 for that information? Mark each as paid-worthy or entertainment.
-
-<details><summary><b>Check yourself (4 questions)</b></summary>
-
-**1. What is the filter before posting?**
-
-- a) Will this go viral?
-- b) Would someone pay \$10,000 for this information?
-- c) Will my friends like it?
-- d) Is it trending?
-
-*Answer: b) Would someone pay \$10,000 for this information?.* If not, it's entertainment.
-
-**2. What is said about 4 promos in 90 posts?**
-
-- a) It is 14% of content
-- b) It is about 4% of content
-- c) It is zero
-- d) It is 50% of content
-
-*Answer: b) It is about 4% of content.* At 7 posts a week one weekly promo is 14%; at 90 posts a month with 4 promos it is about 4%.
-
-**3. What is said about boosting posts?**
-
-- a) Never use ads at all
-- b) Boost the organic account that works
-- c) Boost every post
-- d) Boost winners from a separate ad account, never the organic one
-
-*Answer: d) Boost winners from a separate ad account, never the organic one.* Paid viewers blur who your audience is and reach drops.
-
-**4. What is said about the next step on the product ladder?**
-
-- a) Add it only when the step below is full
-- b) Skip the free step
-- c) Start at the big ticket
-- d) Launch all steps together
-
-*Answer: a) Add it only when the step below is full.* Start with free plus ONE paid step.
-
-</details>
+Run this test on your last 5 posts: would someone pay \$10,000 for that information? Mark each one as worth paying for or entertainment.
 
 [Back to the top of this module](#top) · [All modules](../README.md#contents)
 
@@ -2123,92 +1187,43 @@ Run this test on your last 5 posts: would someone pay \$10,000 for that informat
 
 *8 min read*
 
-> **The big idea:** Stop thinking one post at a time. Pick one narrative, give it a month, and match each piece to where the audience is.
+> **The big idea:** Stop thinking one post at a time. Pick one story to tell, give it a month, and match each piece to where your audience is on their journey.
 
 ### Campaigns, not single posts
 
-- Pick one important narrative and develop it for a month across four jobs. Topics can look completely different and still point the same way (a hiring breakdown, an agent tutorial, a 'super IC' article, a case study, a meme about giant GTM teams).
-- Consistency doesn't mean repeating one sentence 100 times. It means '100 different pieces of evidence pointing toward the same conclusion'. Then repeat the cycle with new evidence, because most of the audience didn't see it all the first time.
-- 'Lightning strike' (from Play Bigger): when you have something worth launching, concentrate activity into a short window so real things land together. If someone meets you four times that week from four sources, they should hear roughly the same story. Not to fake momentum.
-- 'Most brands stop repeating a message right around the point the market is finally starting to notice it.'
+- Pick one important narrative (the main story you want people to believe) and develop it for a month. Topics can look completely different and still point the same way. Say your narrative is that small teams beat big ones. You could post a hiring breakdown, a tutorial, an article, a case study and a meme, and every one supports the same conclusion.
+- Consistency doesn't mean repeating one sentence 100 times. It means 100 different pieces of evidence pointing toward the same conclusion. Then repeat the cycle with new evidence, because most of your audience didn't see it all the first time.
+- A "lightning strike" is when you have something worth launching and you concentrate your activity into a short window so real things land together. If someone meets you four times that week from four different places, they should hear roughly the same story. The aim isn't to fake momentum.
+- Most brands stop repeating a message right around the point when the market is finally starting to notice it. Don't be one of them.
 
 ### Funnel by audience stage
 
-- Not everyone is at the same stage. If someone thinks their process is fine, a 20-minute tutorial won't move them. First show why it's worth changing, then the better version, then how, then why to trust you.
-- Top of funnel: awareness. Reach new people and introduce the problem, shift or opportunity.
-- Middle: belief and trust. Show thinking, proof, process, results and depth.
-- Bottom: commercial connection. The offer, who it's for, results, testimonials and next step.
-- Don't copy a fixed 60/30/10 ratio. It depends on what you sell. A broad personal brand needs more top of funnel. A high-ticket offer to a specific ICP needs more middle and bottom.
-- Diagnose where the audience gets stuck. Read but don't follow = weak positioning or promise. Follow but never use anything = not practical enough. Use your ideas but don't know what you sell = the bottom of the funnel, the commercial bridge, is missing. 'Figure out the gap first.. then make the next piece.'
+- Not everyone is at the same stage. If someone thinks their process is fine, a 20-minute tutorial won't move them. First show why it's worth changing, then the better way, then how to do it, then why they should trust you.
+- Top of the funnel is awareness. Reach new people and introduce the problem, the shift or the opportunity.
+- The middle is belief and trust. Show your thinking, proof, process, results and depth.
+- The bottom is the commercial connection. Show the offer, who it's for, results, testimonials and the next step.
+- Don't copy a fixed 60/30/10 split across the three stages. It depends on what you sell. A broad personal brand needs more top of funnel. A high-ticket offer sold to one specific ideal customer needs more middle and bottom.
+- Work out where your audience gets stuck. If they read but don't follow you, your positioning or promise is weak. If they follow but never use anything, you're not practical enough. If they use your ideas but don't know what you sell, the bottom of the funnel is missing: there's no bridge to your offer. Figure out the gap first, then make the next piece.
 
 ### Watch platforms and culture
 
-- 'PAC': platforms and culture. Trends are clues about what people want. The people who hate trends 'are either lazy or tired'.
-
-### Frameworks
-
-**Funnel by stage**
-
-1. Top: awareness, introduce the problem or shift
-2. Middle: belief and trust through thinking, proof and process
-3. Bottom: the offer, who it is for, results and next step
-4. Pick the ratio from what you sell, not a fixed formula
+- Keep an eye on platforms and culture. Trends are clues about what people want. The people who hate trends are either lazy or tired.
 
 ### Examples
 
-- **Hiring to meme:** A hiring breakdown, an agent tutorial, a 'super IC' article, a case study and a meme about giant GTM teams.
+- **One narrative, five pieces (made up):** Say your narrative is that small teams beat big ones. In one month you post a hiring breakdown, a tutorial on an AI tool, an article, a case study and a meme about giant sales teams.
   <br>*Why it works:* Different pieces, one conclusion.
 
 ### Common mistakes
 
 - Repeating the same sentence 100 times.
-- Stopping the message right when the market starts to notice it.
+- Stopping your message right when the market starts to notice it.
 - Making a tutorial for someone who doesn't yet think they need it.
-- Copying a fixed 60/30/10 ratio.
+- Copying a fixed 60/30/10 split.
 
 ### Try it
 
-Name one narrative to run for a month. List 4 different pieces of evidence that point to it, one for each stage.
-
-<details><summary><b>Check yourself (4 questions)</b></summary>
-
-**1. What does consistency mean here?**
-
-- a) Posting at the same time
-- b) 100 different pieces of evidence pointing toward the same conclusion
-- c) Repeating one sentence
-- d) Using the same image
-
-*Answer: b) 100 different pieces of evidence pointing toward the same conclusion.* It is not the same sentence 100 times.
-
-**2. What does a 'lightning strike' mean?**
-
-- a) Concentrate activity into a short window so real things land together
-- b) Spread posts over a year
-- c) Delete old posts
-- d) Post once and wait
-
-*Answer: a) Concentrate activity into a short window so real things land together.* The goal is not to fake momentum.
-
-**3. Readers read but don't follow. What is the likely gap?**
-
-- a) Posting too often
-- b) Weak positioning or promise
-- c) Too many offers
-- d) Too few ads
-
-*Answer: b) Weak positioning or promise.* Follow but never use anything = not practical enough.
-
-**4. Which funnel ratio is recommended?**
-
-- a) None fixed, it depends on what you sell
-- b) 100/0/0
-- c) 60/30/10
-- d) 50/50/0
-
-*Answer: a) None fixed, it depends on what you sell.* Broad brands need more top, high-ticket needs more middle and bottom.
-
-</details>
+Name one narrative to run for a month. List 4 different pieces of evidence that point to it, one for each stage of the funnel plus one extra.
 
 [Back to the top of this module](#top) · [All modules](../README.md#contents)
 
@@ -2220,108 +1235,50 @@ Name one narrative to run for a month. List 4 different pieces of evidence that 
 
 *8 min read*
 
-> **The big idea:** A launch works when the right people understand the product, the team is ready to answer, and there is a plan for what comes next.
+> **The big idea:** A launch works when the right people understand your product, your team is ready to answer questions, and you have a plan for what comes next.
 
 ### Find the right people
 
-- People who deal with the problem daily, specialists who can explain what it changes for their field, and customers who can show results.
-- Read their posts and replies first. Who pays attention to them? What questions come up? Would that audience try the product? A big following helps, but you should be able to say why that audience would care.
+- Look for three kinds of people: people who deal with the problem every day, specialists who can explain what your product changes for their field, and customers who can show results.
+- Read their posts and replies first. Who pays attention to them? What questions come up? Would that audience try your product? A big following helps, but you should be able to say why that audience would care.
 
 ### The creator brief
 
-- Here's what the product does. Here's what you can test yourself. This is the part I think your audience would care about. Here's the evidence behind the claim. What's your take after trying it?
+- When you ask creators to share your product, send a short brief. Say what the product does, what they can test themselves, which part you think their audience would care about, and what evidence backs up your claim. Then ask for their take after trying it.
 - Get on a call if needed. Make paid partnerships clear. Let them use their own words. If everyone posts the same paragraph, you've lost the benefit.
 
 ### Work the response
 
-- Split conversations (own replies, quotes, comments under creators' posts). Agree who handles product questions and who handles business opportunities. Answer where people commented.
-- DM only with a clear reason and something relevant to what they said, after checking their profile. 'A like alone doesn't tell you what someone wants.'
-- Keep a shared doc of recurring questions, objections, product issues and unexpected use cases, with links and answers. Repeated questions become the FAQ. Confusing features need a walkthrough. When you fix something, go back and tell the person who raised it.
-- Share the strongest contributions with permission and credit: a customer demo can be your next post, a thoughtful objection can get a video response.
+- Split up the conversations: your own replies, quote posts, and comments under the creators' posts. Agree who handles product questions and who handles business opportunities. Answer where people commented.
+- Only DM with a clear reason and something relevant to what they said, after checking their profile. A like alone doesn't tell you what someone wants.
+- Keep a shared doc of recurring questions, objections, product issues and unexpected uses, with links and answers. Repeated questions become your FAQ. Confusing features need a walkthrough. When you fix something, go back and tell the person who raised it.
+- Share the strongest contributions, with permission and credit. A customer demo can become your next post, and a thoughtful objection can get a video response.
 
 ### Plan the next wave
 
-- Which posts and angles brought the right people? Look past views to trials, relevant DMs and sales calls. Ask prospects where they found you.
-- Book follow-ups with creators who brought useful conversations, with something new (a deeper walkthrough, a customer use case, an update answering their first post's questions).
-- Give recurring buyer use cases more space in demos and on the landing page.
+- Check which posts and angles brought the right people. Look past views to trials, relevant DMs and sales calls. Ask prospects where they found you.
+- Book follow-ups with the creators who brought useful conversations, and give them something new: a deeper walkthrough, a customer story, or an update that answers the questions from their first post.
+- If the same buyer use case keeps coming up, give it more space in your demos and on your landing page.
 
 ### Pre-launch checklist
 
-- A clear claim with evidence. Different angles suited to the sharers. Creators who understand the product and its audience. A team ready to answer and follow up. An easy way to try the product or make contact.
-
-### Frameworks
-
-**Simple creator brief**
-
-1. What the product does
-2. What you can test yourself
-3. The part your audience would care about
-4. The evidence behind the claim
-5. What is your take after trying it?
-
-**Pre-launch checklist**
-
-1. Clear claim with evidence
-2. Different angles for the sharers
-3. Creators who understand the audience
-4. Team ready to answer and follow up
-5. Easy way to try or contact
+- Before you launch, check five things. Do you have a clear claim with evidence? Do you have different angles suited to the different people sharing it? Do the creators understand the product and its audience? Is your team ready to answer and follow up? Is there an easy way to try the product or contact you?
 
 ### Examples
 
-- **The shared doc:** A team keeps recurring questions, objections, issues and use cases with links and answers.
-  <br>*Why it works:* Repeated questions become the FAQ.
+- **The shared doc:** A team keeps a shared document of recurring questions, objections, issues and use cases, with links and answers.
+  <br>*Why it works:* Repeated questions turn into the FAQ.
 
 ### Common mistakes
 
 - Everyone posting the same paragraph.
-- Answering with a generic DM after a like.
-- Ignoring questions that repeat.
+- Sending a generic DM after someone liked a post.
+- Ignoring questions that keep repeating.
 - Counting only views, not trials and sales calls.
 
 ### Try it
 
-Write a 5-line creator brief for a product you know. Then list which of the three kinds of creators you would pick first.
-
-<details><summary><b>Check yourself (4 questions)</b></summary>
-
-**1. What should you read before picking a creator?**
-
-- a) Their posts and replies
-- b) Only their follower count
-- c) Their bio
-- d) Their pinned post only
-
-*Answer: a) Their posts and replies.* Check who pays attention to them and what questions come up.
-
-**2. What should you look past views to see?**
-
-- a) Follower count
-- b) Retweets of your bio
-- c) Likes only
-- d) Trials, relevant DMs and sales calls
-
-*Answer: d) Trials, relevant DMs and sales calls.* Ask prospects where they found you.
-
-**3. What does a repeated question become?**
-
-- a) The FAQ
-- b) A new product
-- c) A refund
-- d) A DM template
-
-*Answer: a) The FAQ.* Repeated questions are logged and turned into the FAQ.
-
-**4. What is said about a like alone?**
-
-- a) It means they will share
-- b) It is a strong signal
-- c) It doesn't tell you what someone wants
-- d) It means they want to buy
-
-*Answer: c) It doesn't tell you what someone wants.* DM only with a clear reason and something relevant to what they said.
-
-</details>
+Write a 5-line creator brief for a product you know. Then say which of the three kinds of people (daily users, specialists, customers with results) you would approach first.
 
 [Back to the top of this module](#top) · [All modules](../README.md#contents)
 
@@ -2333,93 +1290,46 @@ Write a 5-line creator brief for a product you know. Then list which of the thre
 
 *9 min read*
 
-> **The big idea:** A company's social growth moves in phases, from founder-led to brand-led. A founder with no audience starts small, with one platform and the actual process.
+> **The big idea:** A company's social growth moves in phases, from founder-led to brand-led. A founder with no audience starts small, with one platform and by showing the real process.
 
-### Three phases of scaling content (all claims by one creator)
+### Three phases of scaling content
 
-- Phase 1 (0 to 1M views a month): founder-led content. Get a face of the brand who can make social-first product videos for X and Instagram (bonus if they can also scale paid UGC). Post 1 to 2 launch videos a week (product updates, simple LinkedIn posts or simple animations). The claim: if this doesn't get you to 1M impressions a month, something has gone terribly wrong. People prefer a personal page over a brand one.
-- Phase 2 (1 to 10M): scale winning channels ('stoking fires'). Thresholds from zero: LinkedIn above 10,000 average impressions per post, X 50k+ impressions per week, Instagram a growing baseline of several thousand views a video plus 1 to 2 outliers a month at 100k+.
-- Phase 2 hires: a Copywriter (runs LinkedIn and X, finds winning angles on LinkedIn and repurposes them natively for X, scales LinkedIn from 50 to 100k impressions a week to over 200k), a Short Form Editor (at least 10M+ organic short-form views, ideally 50M+, turns proven written content into short form, batches, targets 500k views a week on IG and 250k+ on X) and a Creative Director (elite at launches, on the pulse of culture, expensive but worth it).
-- Phase 2 AI workflow: record all the founder's meetings with a notetaker and auto-send raw transcripts (confidential parts removed) to the copywriter. The claim: the single most valuable workflow for scaling written impressions, and it feeds every founder channel. End of phase 2: about 10M views a month, with X carrying much of it.
-- Phase 3 (10 to 100M): 'crossing the chasm' from founder-led to brand-led. OpenAI, Anthropic and SpaceX make you think of Sam, Dario and Elon. Google, Microsoft and Apple make you think of products. It needs resources or deep talent, often both. The team grows from 3 or 4 people to 10 to 20, organized in pods that each obsess over one channel.
+- These phases come from one creator who works with startups, so treat the numbers as rough guides, not rules.
+- Phase 1, from 0 to 1 million views a month, is founder-led content. Find a face for the brand who can make social-first product videos for X and Instagram (a bonus if they can also make paid user-style videos). Post 1 to 2 launch videos a week: product updates, simple LinkedIn posts or simple animations. The claim is that if this doesn't get you to 1 million impressions a month, something has gone badly wrong. People prefer a personal page over a brand page.
+- Phase 2, from 1 to 10 million, is scaling the channels that already win. Rough thresholds: LinkedIn above 10,000 average impressions per post, X above 50,000 impressions per week, and Instagram with a growing baseline of several thousand views a video plus 1 to 2 outliers a month at 100,000 or more.
+- Phase 2 hires: a copywriter who runs LinkedIn and X, finds winning angles on LinkedIn and rewrites them natively for X (scaling LinkedIn from 50,000 to 100,000 impressions a week to over 200,000). A short-form editor who has produced at least 10 million organic short-form views, ideally 50 million or more, who turns proven written content into short video, batches it, and targets 500,000 views a week on Instagram and 250,000 or more on X. And a creative director who is elite at launches and on the pulse of culture, expensive but worth it.
+- Phase 2 AI workflow: record all of the founder's meetings with a notetaking tool and automatically send the raw transcripts (with confidential parts removed) to the copywriter. The creator calls this the most valuable workflow for scaling written impressions, and it feeds every founder channel. A startup used this. By the end of phase 2 you reach about 10 million views a month, with X carrying much of it.
+- Phase 3, from 10 to 100 million, is crossing from founder-led to brand-led. OpenAI, Anthropic and SpaceX make people think of their founders. Google, Microsoft and Apple make people think of their products. This phase needs resources or deep talent, often both. The team grows from 3 or 4 people to 10 to 20, organized in pods that each obsess over one channel.
 
 ### Founders with zero distribution
 
-- Make content about the problem, not your product. Spend at least 60 minutes a day on organic content.
-- Post the actual process (what broke, what you learned, what you're testing). Nobody cares about launch updates.
-- One platform first (ideally X or YouTube). Add short form after 2 to 3 months by cutting it from your long form.
-- Split time 50/50 between building and distributing. Most founders are at 95/5.
-- Founder pillars: document WHAT you're doing, HOW it solves a pain point, WHERE people can get it. Share real numbers (revenue, users, churn). Show your face: 'nobody connects with a penguin PFP'.
+- Make content about the problem you solve, not your product. Spend at least 60 minutes a day on organic content.
+- Post the actual process: what broke, what you learned, what you're testing. Nobody cares about launch updates.
+- Start with one platform, ideally X or YouTube. Add short video after 2 to 3 months by cutting it from your long-form content.
+- Split your time 50/50 between building and distributing. Most founders are at 95/5.
+- Three things to document: what you're doing, how it solves a pain point, and where people can get it. Share real numbers like revenue, users and churn (people who leave). Show your face, because nobody connects with a cartoon profile picture.
 
 ### Micro versus big creators
 
-- The vehicle to your first \$10k a month isn't the vehicle to \$100k+. Micro creators who only post for their offer stay in a 'hustle loop' of closing sales every day.
-- Big creators go broader because top of funnel gives them access (private rounds, advisory roles). The advice: offer content for the sale, plus 'trickle in' broad content to grow.
-- A note on the role: the social media manager is 'one of the most valuable players', essentially the chief distribution officer, distributing content across every platform flawlessly, often 7 days a week. Don't treat it as a simple VA job.
-
-### Frameworks
-
-**Domschats' phases**
-
-1. Phase 1 (0 to 1M): founder-led, 1 to 2 launch videos a week
-2. Phase 2 (1 to 10M): scale winning channels, hire a copywriter, short-form editor and creative director
-3. Phase 3 (10 to 100M): move to brand-led with channel pods
+- The approach that gets you to your first \$10,000 a month isn't the one that gets you to \$100,000 or more. Micro creators who only post for their offer can get stuck in a hustle loop of closing sales every day.
+- Big creators go broader, because attention at the top of the funnel opens doors like private investment rounds and advisory roles. The advice: make content for the sale, and also trickle in broader content to grow.
+- A note on the social media manager role. It is one of the most valuable roles on a team, essentially a chief distribution officer who spreads content across every platform flawlessly, often 7 days a week. Don't treat it as a simple assistant job.
 
 ### Examples
 
-- **Wispr's meeting workflow:** Record all the founder's meetings with a notetaker, auto-send raw transcripts to the copywriter.
-  <br>*Why it works:* It's called the most valuable workflow for scaling written impressions.
+- **A meeting-to-content workflow:** A startup records all of the founder's meetings with a notetaking tool and automatically sends the raw transcripts to the copywriter.
+  <br>*Why it works:* It is called the most valuable workflow for scaling written impressions.
 
 ### Common mistakes
 
 - Posting launch updates nobody cares about.
-- Splitting time 95/5 between building and distributing.
+- Splitting your time 95/5 between building and distributing.
 - Hiding behind a logo with no face.
 - Staying in a hustle loop of daily sales.
 
 ### Try it
 
-If you work on a company, write which of Domschats' three phases it is in and what the next hire or workflow would be.
-
-<details><summary><b>Check yourself (4 questions)</b></summary>
-
-**1. In this view, what does phase 1 need?**
-
-- a) A big ad budget
-- b) Only a logo
-- c) A 20-person team
-- d) A founder-led face of the brand
-
-*Answer: d) A founder-led face of the brand.* Phase 1 is founder-led content for X and Instagram.
-
-**2. What is the 'most valuable workflow' described?**
-
-- a) Buying followers
-- b) Recording the founder's meetings and sending transcripts to the copywriter
-- c) Posting 24 times a day
-- d) Sending cold emails
-
-*Answer: b) Recording the founder's meetings and sending transcripts to the copywriter.* It feeds every founder channel, with confidential parts removed.
-
-**3. What split do most founders have between building and distributing?**
-
-- a) 70/30
-- b) 80/20
-- c) 95/5
-- d) 50/50
-
-*Answer: c) 95/5.* 50/50 is recommended.
-
-**4. What does phase 3 need?**
-
-- a) Hiring only one editor
-- b) Moving from founder-led to brand-led
-- c) Dropping X
-- d) Stopping posting
-
-*Answer: b) Moving from founder-led to brand-led.* OpenAI makes you think of Sam, Google makes you think of a search bar.
-
-</details>
+If you work on a company, write down which of the three phases it is in and what the next hire or workflow would be.
 
 [Back to the top of this module](#top) · [All modules](../README.md#contents)
 
@@ -2431,49 +1341,40 @@ If you work on a company, write which of Domschats' three phases it is in and wh
 
 *9 min read*
 
-> **The big idea:** Go to market comes first. If the offer is fuzzy, channels just spread the fuzzy version faster. How you sell picks the channels.
+> **The big idea:** Go to market means working out how you will reach and sell to buyers, and it comes first. If the offer is fuzzy, channels just spread the fuzzy version faster. How you sell decides which channels to use.
 
 ### Start with the offer
 
-- Write what you sell and what counts as a win (signup, booked call, purchase). If the offer is fuzzy, channels 'just spread the fuzzy version faster'.
-- How you sell picks channels: a product that sells itself through a free trial or plan needs content, SEO and a great first experience. A person who closes on a call needs outbound, ads and direct outreach.
+- Write down what you sell and what counts as a win, such as a signup, a booked call or a purchase. If the offer is fuzzy, channels just spread the fuzzy version faster.
+- How you sell picks your channels. A product that sells itself through a free trial or free plan needs content, SEO (getting found on Google) and a great first experience. A product that is sold by someone closing on a call needs outbound (reaching out to people first), ads and direct outreach.
 
 ### Research, then pick two or three
 
-- Research the competitors buyers compare you with: their pages, prices, offers and repeated claims. Look at posts and ads in the niche with real engagement. Note the doubts and words buyers use in comments.
-- Make one note per competitor and one on how you're different. Check that note line by line yourself, because every agent reads it.
-- Pick two or three channels where buyers already spend time and forget the rest for now. 'A lazy brief gets you confident work in the wrong direction.'
+- Research the competitors that buyers compare you with: their pages, prices, offers and repeated claims. Look at posts and ads in the niche that get real engagement. Note the doubts and words buyers use in comments.
+- Write one note per competitor and one on how you're different. Check that note line by line yourself, because every AI assistant you use will read it and build on it.
+- Pick two or three channels where buyers already spend time and forget the rest for now. A lazy brief gets you confident work in the wrong direction.
 - Judge every channel on sales and signups, never views.
 
-### Three playbooks
+### Two playbooks
 
-- SaaS: with a free trial, content, SEO and trial emails come first. With calls, outbound first then the page. Show the product doing one job for one user type. Connect payment and product analytics to see who uses and who leaves.
-- Ecommerce: UGC and Meta ads first, because people buy what they can see. The store is the source of truth. Do SEO on product pages already showing in Google. Put one trusted revenue number in the brief.
+- Software sold by subscription (SaaS): if you offer a free trial, start with content, SEO and trial emails. If you sell through calls, start with outbound and then the page. Show the product doing one job for one type of user. Connect your payment and product tools so you can see who uses it and who leaves.
+- Ecommerce: start with user-style videos (UGC, content that looks made by customers) and Meta ads (Facebook and Instagram), because people buy what they can see. Treat your store's data as the source of truth. Do SEO on product pages that already show up in Google. Give one trusted revenue number in your brief.
 
 ### Landing pages and lead capture
 
-- Keep it small: one page that sells one thing to one kind of buyer, plus one page that sends people to it. An agent writes from the positioning note and collected buyer doubts. Rewrite the headline yourself.
-- After signup, speed is everything: the form notifies the system, you get a ping, the lead lands in a CRM or sheet, a welcome email goes right away, and follow-ups take over.
-- SaaS free-trial sequence: a personal welcome from the founder, a quick 'need help?' email, three emails each showing one way to use the product, and a last email that changes depending on whether they paid.
+- Keep it small: one page that sells one thing to one kind of buyer, plus one page that sends people to it. An AI assistant can write it from your positioning note and the buyer doubts you collected. Rewrite the headline yourself.
+- After signup, speed is everything. The form notifies your system, you get a ping, the lead lands in a CRM (a tool that stores your contacts) or a sheet, a welcome email goes out right away, and follow-ups take over.
+- A sequence for a SaaS free trial: a personal welcome from the founder, a quick "need help?" email, three emails that each show one way to use the product, and a last email that changes depending on whether they paid.
 
-### First weeks
+### The first weeks
 
-- Week 1: folder, interview, brief, GTM research, tools connected with approval rules. Week 2: landing page and email sequence. Week 3: first channel.
-- Then add one channel at a time, only when the last passes the test: 'did it do its job this morning without me asking'.
-
-### Frameworks
-
-**The first weeks**
-
-1. Week 1: interview, brief, research, tools
-2. Week 2: landing page and email sequence
-3. Week 3: first channel
-4. Then one channel at a time, only when the last one works unprompted
+- Week 1: set up a folder, do an interview about your offer, write the brief, do the go-to-market research, and connect your tools with rules about what needs your approval. Week 2: build the landing page and email sequence. Week 3: start the first channel.
+- Then add one channel at a time, only when the last one passes this test: did it do its job this morning without me asking?
 
 ### Examples
 
-- **Playbook for courses:** X and YouTube long form first; each winning post gets a freebie to grow the email list; paid product after the free one.
-  <br>*Why it works:* How you sell picks the order.
+- **A playbook for courses:** Start with X and long-form YouTube. Every winning post gets a freebie that grows the email list. The paid product comes after the free one.
+  <br>*Why it works:* How you sell decides the order.
 
 ### Common mistakes
 
@@ -2486,46 +1387,6 @@ If you work on a company, write which of Domschats' three phases it is in and wh
 
 Write one line: what you sell and what counts as a win. Then name two channels where buyers already spend time.
 
-<details><summary><b>Check yourself (4 questions)</b></summary>
-
-**1. What comes first in go to market?**
-
-- a) Go to market
-- b) SEO
-- c) A new logo
-- d) Ads
-
-*Answer: a) Go to market.* If the offer is fuzzy, channels spread the fuzzy version faster.
-
-**2. How should you judge each channel?**
-
-- a) On followers
-- b) On sales and signups, never views
-- c) On views
-- d) On likes
-
-*Answer: b) On sales and signups, never views.* Views are not the test.
-
-**3. In the SaaS free-trial case, what comes first?**
-
-- a) Outbound calls
-- b) Content, SEO and trial emails
-- c) Paid ads
-- d) Affiliates
-
-*Answer: b) Content, SEO and trial emails.* With a free trial the product sells itself through the first experience.
-
-**4. What is the test for adding a channel?**
-
-- a) The last one did its job without me asking
-- b) It got most views
-- c) A friend uses it
-- d) It is trending
-
-*Answer: a) The last one did its job without me asking.* Add one channel at a time.
-
-</details>
-
 [Back to the top of this module](#top) · [All modules](../README.md#contents)
 
 ---
@@ -2536,98 +1397,42 @@ Write one line: what you sell and what counts as a win. Then name two channels w
 
 *9 min read*
 
-> **The big idea:** Each of these channels works only after the page and emails convert. Keep it small, track one thing, and keep humans on budget and strategy.
+> **The big idea:** Each of these channels only works after your page and emails convert. Keep it small, track one thing, and keep humans in charge of budget and strategy.
 
 ### Outbound email
 
-- Workflow: find and filter prospects, send through a sending tool, run a short sequence, sync replies to a CRM.
+- Outbound email means emailing people who haven't asked to hear from you. The workflow: find and filter prospects, send through a sending tool, run a short sequence of emails, and sync replies to a CRM (a tool that stores your contacts).
 - First lines get read when you write right after something happened at the company: they raised money, posted a job for the role you replace, hired a new head of marketing, or their website hasn't changed in ages. The daily job is to find the reason, note it, and write a first line about them.
-- Deliverability: SPF, DKIM and DMARC on every sending domain. A real one-click unsubscribe. Warm new inboxes at least 2 weeks. About 30 emails a day per inbox, and grow volume slowly. Stop following up the moment someone replies or bounces. Check Google Postmaster Tools daily and send less if things look bad.
-- Legal: every cold email needs your real address and a respected unsubscribe. One creator claims this is US law even for business emails.
+- Deliverability means making sure your emails reach the inbox. Set up SPF, DKIM and DMARC on every sending domain (three technical settings that prove your email is real). Add a real one-click unsubscribe. Warm up new inboxes for at least 2 weeks. Send about 30 emails a day per inbox, and grow volume slowly. Stop following up the moment someone replies or the email bounces. Check Google Postmaster Tools daily, and send less if things look bad.
+- Legal: every cold email needs your real address and a working unsubscribe. One creator claims this is US law even for business emails.
 
 ### SEO
 
-- Find ONE page where ranking higher would make money. A whole-site audit gives a pile of small problems and no priority.
-- Check: can Google find and read it, does it answer what people searched, is it better than what ranks above, and does it push toward buying or signing up. Search now means Google plus AI answer tools that cite sites, and the basics work for both.
-- Weekly loop: pull search numbers and sales, compare with last week, suggest ONE change on ONE page, approve, wait a week. It's slow but the only way to know what worked.
+- SEO means making your pages show up when people search. Find ONE page where ranking higher would make you money. A whole-site audit gives you a pile of small problems and no priority.
+- Check four things: can Google find and read the page, does it answer what people searched for, is it better than what ranks above it, and does it push people toward buying or signing up. Search now means Google plus AI answer tools that cite sites, and the basics work for both.
+- Weekly loop: pull your search numbers and sales, compare with last week, suggest ONE change on ONE page, approve it, and wait a week. It's slow, but it's the only way to know what worked.
 
 ### Ads
 
-- Open ads last, after the page and emails prove they convert. Paying for traffic to a page that doesn't sell loses money faster.
-- Guardrails: new campaigns are created paused. A daily check flags losers. The agent can pause a loser but never raise a budget. Budget and strategy stay human. Pick ONE source of truth when platforms disagree. No wild promises or fake reviews, because platforms can shut accounts without warning.
-- AI UGC compliance: a fake person praising your product can count as a fake review (FTC). Label AI content where platforms ask.
-
-### Frameworks
-
-**Weekly SEO loop**
-
-1. Pull search numbers and sales
-2. Compare with last week
-3. Suggest ONE change on ONE page
-4. Approve and wait a week
-
-**Ads guardrails**
-
-1. Create campaigns paused
-2. Daily check flags losers
-3. Agent can pause but never raise a budget
-4. Budget and strategy stay human
+- Open ads last, after your page and emails prove they convert. Paying for traffic to a page that doesn't sell loses money faster.
+- Guardrails if an AI assistant helps run your ads: new campaigns are created paused. A daily check flags losers. The assistant can pause a loser but never raise a budget. Budget and strategy stay human. Pick ONE source of truth for results when platforms disagree. Don't make wild promises or use fake reviews, because platforms can shut accounts without warning.
+- Compliance for AI-made user-style videos: a fake person praising your product can count as a fake review under US advertising rules (the FTC). Label AI content where platforms ask you to.
 
 ### Examples
 
-- **A first line:** Write right after they raised money, posted a job for the role you replace, or hired a new head of marketing.
+- **A first line that gets read:** Write right after a company raised money, posted a job for the role you replace, or hired a new head of marketing.
   <br>*Why it works:* A specific reason makes a first line worth reading.
 
 ### Common mistakes
 
 - Whole-site SEO audits with no priority.
-- Sending 30+ emails a day on a cold inbox.
-- Letting an agent raise ad budgets.
+- Sending 30 or more emails a day from a cold inbox.
+- Letting an AI assistant raise ad budgets.
 - Fake reviews or a fake person praising the product.
 
 ### Try it
 
-Pick one page that could make money. Write the 4 checks and the one change you would test for a week.
-
-<details><summary><b>Check yourself (4 questions)</b></summary>
-
-**1. What is said about when to open ads?**
-
-- a) First
-- b) Never
-- c) Only on weekends
-- d) Last, after the page and emails convert
-
-*Answer: d) Last, after the page and emails convert.* Paying for traffic to a page that doesn't sell loses money faster.
-
-**2. What can an agent do with a losing ad?**
-
-- a) Raise the budget
-- b) Copy it to all accounts
-- c) Rewrite the strategy
-- d) Pause it but never raise a budget
-
-*Answer: d) Pause it but never raise a budget.* Budget and strategy stay human.
-
-**3. What should you change in the weekly SEO loop?**
-
-- a) ONE thing on ONE page
-- b) Only the logo
-- c) Everything on the site
-- d) Ten pages at once
-
-*Answer: a) ONE thing on ONE page.* It is slow but the only way to know what worked.
-
-**4. How many emails a day per inbox are suggested?**
-
-- a) About 3,000
-- b) Unlimited
-- c) About 30
-- d) About 300
-
-*Answer: c) About 30.* Grow volume slowly and warm inboxes at least 2 weeks.
-
-</details>
+Pick one page that could make money. Write down the 4 SEO checks and the one change you would test for a week.
 
 [Back to the top of this module](#top) · [All modules](../README.md#contents)
 
@@ -2639,150 +1444,24 @@ Pick one page that could make money. Write the 4 checks and the one change you w
 
 The whole module on one page.
 
-- Posting alone isn't growth. Get eyes on the work.
-- Use rented platforms to find people, owned channels to keep them, earned channels for mindshare.
+- Posting alone isn't growth. Get people to see your work.
+- Use rented platforms (like X or YouTube) to find people, owned channels (like email) to keep them, and earned channels (like podcasts) to get your name known.
 - Start with 1 to 2 platforms and master one first.
-- Reply with your own experience, not a repeat of the post.
-- Quote to add something, not to say 'great post'.
+- Reply with your own experience, not a repeat of the original post.
+- Quote a post to add something new, not to say "great post".
 - Credit and tag the people whose ideas you use.
-- Repurpose winners on a 60-day rhythm and double down when something pops.
-- Post consistently and judge only after enough reps (one creator used 100).
-- Pick a sub-niche and commit for about a year.
-- Write the bio for the reader: 'I write about X for Y'.
-- Copy a viral format, never the content.
-- Check every piece for a bullseye signal, trust, a ramp and an offer.
-- Ask 'would someone pay \$10,000 for this?' before posting.
-- Never boost the organic account that works.
+- Repost your winners every 60 days or so, and double down when something pops.
+- Post consistently and judge only after enough reps (one creator committed to 100).
+- Pick a sub-niche and commit to it for about a year.
+- Write your bio for the reader: "I write about X for Y".
+- Copy what makes a viral post work, never its content.
+- Check every piece for four things: it speaks to the right person, it builds trust, it has a next step, and it has an offer.
+- Before posting, ask: would someone pay \$10,000 for this?
+- Never boost posts from the organic account that works.
 - Judge channels on sales and signups, never views.
 - Start an email list on day one.
-- Give a clear next step, one video or one link.
-- Ask for the sale often enough to matter.
-
-<a id="flashcards"></a>
-
-## Flashcards
-
-Read the question, answer it in your head, then open it.
-
-<details><summary>The one principle of social growth</summary>
-
-Get your content in front of people and shared by people with bigger audiences. Posting alone does nothing.
-
-</details>
-
-<details><summary>Rented, owned, earned</summary>
-
-Rented = platforms (reach), owned = newsletter or community (trust), earned = collabs and podcasts (mindshare).
-
-</details>
-
-<details><summary>Waterfall versus lake</summary>
-
-Waterfall clips one piece for every platform. Lake makes dedicated content for primary platforms, then moves the best performers to others.
-
-</details>
-
-<details><summary>The 4 Rs</summary>
-
-Repost, re-edit, re-record, repurpose.
-
-</details>
-
-<details><summary>The growth phases</summary>
-
-Establishment (30 to 50 pieces), improvements, optimization.
-
-</details>
-
-<details><summary>Two graphs</summary>
-
-Graph 1 takes longer breaks and loops. Graph 2 posts through the plateau and things click around month 2 to 3.
-
-</details>
-
-<details><summary>100 reps</summary>
-
-Committed to 100 newsletters and 100 YouTube videos before judging.
-
-</details>
-
-<details><summary>Bio versions</summary>
-
-V1 'I write about X for Y'. V2 'on a mission to help Y get Z'. Plus 1 line of credibility.
-
-</details>
-
-<details><summary>The biggest lever</summary>
-
-Copy the viral format of the moment, never the content, and bend it to your niche.
-
-</details>
-
-<details><summary>Category</summary>
-
-Get known for ONE thing, own a word and repeat formats past the point of boredom.
-
-</details>
-
-<details><summary>The 226M article</summary>
-
-Time-bound promise, against the season, a full system, a new concept, and a greatest-hits album of proven ideas.
-
-</details>
-
-<details><summary>Attention conversion funnel</summary>
-
-Bullseye signal, trust bank, clear ramp, aligned offer. They multiply.
-
-</details>
-
-<details><summary>Buyer triangle</summary>
-
-Pain point, your solution is better or faster, you're the one to trust.
-
-</details>
-
-<details><summary>Affluence paradox</summary>
-
-Chasing millions of views attracts beginners. A specific affluent audience means fewer views and more cash.
-
-</details>
-
-<details><summary>Promotion math</summary>
-
-At 7 posts a week one promo is 14% of content. At 90 posts a month with 4 promos it is about 4%.
-
-</details>
-
-<details><summary>Consistency</summary>
-
-100 different pieces of evidence pointing toward the same conclusion.
-
-</details>
-
-<details><summary>Domschats: phase 1</summary>
-
-0 to 1M views a month, founder-led, 1 to 2 launch videos a week.
-
-</details>
-
-<details><summary>Go to market</summary>
-
-Offer first. How you sell picks channels. Judge on sales and signups, never views.
-
-</details>
-
-<details><summary>Boosting posts</summary>
-
-Never boost the organic account that works. Boost winners from a separate ad account.
-
-</details>
-
-<details><summary>'You can't lose if you don't quit'</summary>
-
-Compounding only shows up if you keep going. Quit and you restart from zero.
-
-</details>
+- Give one clear next step, one video or one link.
+- Ask for the sale often enough that it counts.
 
 ---
 

@@ -2,9 +2,9 @@
 
 # Module 10: Money and careers in content
 
-*Attention is not income until trust, an offer and a simple path to buy are in place.*
+*Attention only becomes income when people trust you, you have something to sell, and buying is easy.*
 
-This module shows how creators turn attention into money. Money follows trust, so you give value first and sell later. One small path is a \$10 product, a 4-call micro service, a questionnaire and a good conversation. Funnels, offers and sales pages come next, and careers and hiring are covered too. Most numbers here are the creators' own claims.
+This module shows how creators turn attention into money. People pay those they trust, so you give value first and sell later. You will learn a simple first path: a \$10 product, a pack of 4 coaching calls, a short questionnaire and a friendly conversation. Then come funnels, offers and sales pages, and finally careers in content and how companies hire. Most numbers here are what individual creators say about their own results, so treat them as examples, not promises.
 
 **17 lessons · about 147 minutes of reading**
 
@@ -19,16 +19,16 @@ This module shows how creators turn attention into money. Money follows trust, s
 7. [Getting your first client by hand](#m10-l7)
 8. [Sales conversations, follow-up and the email list](#m10-l8)
 9. [The funnel: from attention to a sale](#m10-l9)
-10. [Building an offer from zero and a 90-day plan](#m10-l10)
+10. [Building an offer from zero, and a 90-day plan](#m10-l10)
 11. [Sales page structure and guarantees](#m10-l11)
-12. [Careers in content: advocating for your work and hiring](#m10-l12)
-13. [A selling system: customers, trust and owned audience](#m10-l13)
-14. [CTAs, offers and big moments](#m10-l14)
+12. [Careers in content: showing your value, and hiring](#m10-l12)
+13. [A selling system: customers, trust and an audience you own](#m10-l13)
+14. [Calls to action, offers and big moments](#m10-l14)
 15. [A career path: becoming the person brands hire](#m10-l15)
 16. [A career path: becoming a creative director](#m10-l16)
-17. [Career principles and one creative director's path](#m10-l17)
+17. [Career principles for getting ahead](#m10-l17)
 
-At the end: [Cheat sheet](#cheat-sheet) · [Flashcards](#flashcards)
+At the end: [Cheat sheet](#cheat-sheet)
 
 ---
 
@@ -38,108 +38,68 @@ At the end: [Cheat sheet](#cheat-sheet) · [Flashcards](#flashcards)
 
 *7 min read*
 
-> **The big idea:** Content is a free traffic source, and money follows trust. The business model is simple: attention from content, plus something you sell from what you know.
+> **The big idea:** Content brings you attention for free, and people pay people they trust. So the whole business is simple: get attention with content, build trust, then sell something made from what you already know.
 
 ### The whole business in one line
 
-- The simple model: social media as the traffic source (it is where attention is, and it is free) plus a micro product or service built from your own knowledge so you can make money fast. "That's the entire business."
-- A personal brand is not a business, it is a traffic source. Founders use it to get users for a startup, e-commerce brands use it to sell products.
-- There are three levers you control directly: how good your content is, how often you promote, and how good your offer is.
-- Other money that comes from organic content: sponsorships, platform revenue, partnerships, hiring (great people want to work for brands they follow) and fundraising (investors notice founders with distribution).
-- One investor's angle: his audience gives his fund an edge, because he can amplify the companies he backs (fundraise announcements, big feature launches). His own claim: it is 80/20, only a few companies use everything he offers.
+- The simple model has two parts. Part one is social media, because that is where attention is and it costs nothing. Part two is a small product or service built from your own knowledge, so you can start earning fast. That is the entire business.
+- Your personal brand is not the business. It is the way people find the business. A founder uses it to get users for a startup. A store owner uses it to sell products.
+- You control three things directly: how good your content is, how often you promote your offer, and how good the offer is. When money is slow, one of these three is the weak spot.
+- Content can also bring in other kinds of money: sponsorships, payments from the platform, partnerships, great hires (good people want to work for brands they follow) and investors (they notice founders who already have an audience).
+- An audience can also be an advantage in investing. An investor with a big following can promote the companies he backs, for example when they announce a funding round or launch a feature. He says it is 80/20: only a few of those companies use everything he offers.
 
-### Money is a measure of trust
+### Money follows trust
 
-- Your content and the quality of your ideas over a long time are what make people trust you, and money follows that trust. Forget your niche, bio and banner at first, plenty of people with no bio do fine.
-- The trust matrix: growth (doing what works to attract people), authenticity (your core beliefs) and authority (showing your expertise).
-- A "holy trinity" overlaps with it: raw ability, then provability (results in public), then likeability.
-- Optimizing for trust (setting expectations by naming painful problems, then meeting them) is what makes an audience believe you will deliver on an offer you mention off the free platform. The picture is the Costco sample: like the sample, buy the pack.
-- "Why they watch is why they buy". The reason people consume your content is the same reason they will pay you.
+- People pay you because they trust you, and they trust you because of your content and the quality of your ideas over a long time. At the start, don't worry about your niche, bio or banner. Plenty of people with a blank bio do fine.
+- Trust has three parts. Growth means doing what works to attract people. Authenticity means sharing what you truly believe. Authority means showing you know your stuff. You need all three.
+- Another way to say it: first you need real skill, then you need proof of it in public (results people can see), then people need to like you.
+- You build trust by naming a painful problem and then solving it, again and again. After a while your audience believes you will also deliver when you offer something paid. Think of a free sample at a warehouse store: if the sample is good, you buy the whole pack.
+- Why people watch you is why they will buy from you. If they follow you for tips on getting clients, they will pay for something that helps them get clients.
 
-### Why one-person businesses now
+### Why one-person businesses work now
 
-- One creator calls it micro-entrepreneurship: one founder, a laptop, an audience, AI and a high-value skill stack making \$100k to \$1M a year. He cites two well-known creators making \$3M to \$5M a year as one-person businesses, and says he makes 6 figures a year himself (his claims).
-- Three reasons for it: real risk barely exists (worst case you lose \$500 or get another job, "if you're not going to die, then it's not that risky"), opportunity is everywhere (every unmet desire is a business, and desires never run out), and one person now does the work of a whole team, while digital products cost nothing to copy and deliver instantly, so margins are high.
-- The quotes used for it: Sam Altman on the betting pool for the first one-person billion-dollar company; Naval: "Someday, I hope, there will be almost 7B companies"; Alan Watts: "Smart people get paid to be themselves".
-- The "soft rich" idea: one creator says he felt richer as one person (or one person plus an editor) than when he ran 2 teams, a software company and an e-commerce company. His claim: \$1M a year as one person selling knowledge feels far richer than \$10M with a team, because nearly every dollar is profit.
+- One creator calls this micro-entrepreneurship: one person with a laptop, an audience, AI tools and a valuable skill earning somewhere between \$100,000 and \$1M a year. He says he earns six figures this way, and that two well-known creators earn \$3M to \$5M a year as one-person businesses. These are their own numbers, not checked.
+- There are three reasons it works now. First, the risk is small: at worst you lose a few hundred dollars or go back to a job. Second, there are endless chances, because every unmet need is a possible business. Third, one person can now do the work of a team, and a digital product costs nothing to copy or deliver, so most of the money is profit.
+- The same creator says earning \$1M a year alone from selling knowledge feels richer than earning \$10M with a team, because you keep nearly every dollar. He ran two teams, a software company and an online store before going back to working alone with one editor. This is his own view, not a rule.
 
-### Two money games
+### Two ways to earn from content
 
-- Content money splits into two games: advertising (brand deals, which need a personal brand) and conversion (selling your own thing).
-- One creator's claim: content helps you do coaching, sell books, win design clients, scale UGC or agency businesses, sell digital products and raise money, but only if you build the skill of making content that consistently spreads.
-- In a crowded niche, an audience that follows your journey starts asking how to do what you do, which opens teaching as a way to make money.
-- An example of a different model: Bloom Energy stood out by selling a physical product at Target instead of the usual info, consulting or agency offer.
+- Advertising: other companies pay you to show their product to your audience (brand deals). This needs an audience that knows you.
+- Conversion: you sell your own thing to people who follow you. This is where most of the upside is.
+- Content can help you sell coaching, books, design work or digital products, or run an agency, but only if you get good at making content that spreads.
+- Say you post about your journey in a crowded niche. After a while, followers start asking how you do it. That question is your opening to teach, and teaching can be paid.
+- You don't have to sell information. One energy company stood out by selling a physical product in a big store instead of the usual courses and consulting.
 
 ### Frameworks
 
 **The simple model**
 
-1. Traffic: post on social media, where attention is free
+1. Attention: post on social media, where attention is free
 2. Offer: a small product or service built from what you already know
-3. Levers: content quality, how often you promote, offer quality
+3. Your 3 controls: content quality, how often you promote, offer quality
 
-**Trust matrix**
+**The 3 parts of trust**
 
 1. Growth: do what works to attract people
-2. Authenticity: share your core beliefs
-3. Authority: show your expertise
+2. Authenticity: share what you truly believe
+3. Authority: show you know your stuff
 
 ### Examples
 
-- **Soft rich:** One creator ran two teams, a software company and an e-commerce company, then went back to being one person (plus an editor) selling knowledge. He says he had more money to spend as a solo creator.
-  <br>*Why it works:* A knowledge business keeps nearly every dollar as profit, so revenue size is not the same as how rich you feel.
-- **The Costco sample:** Free content is the sample. When the sample solves a real problem, people trust that the full pack (the paid offer) will too.
-  <br>*Why it works:* Trust is built by setting an expectation and meeting it, again and again.
+- **The free sample:** Picture a free sample at a warehouse store. If it tastes great, you trust the full pack will too. Your free posts work the same way: when a post solves a real problem, people trust your paid offer will solve one too.
+  <br>*Why it works:* Trust grows when you promise something and then deliver, again and again.
+- **Selling knowledge alone:** A creator who once ran two teams, a software company and an online store went back to working alone with one editor, selling what he knows. He says he felt richer, because almost every dollar stayed with him.
+  <br>*Why it works:* Big revenue and feeling rich are different things. A small knowledge business keeps most of what it earns.
 
 ### Common mistakes
 
-- Thinking you need a big team or a complex model to make money from content
+- Thinking you need a big team or a complicated model to earn from content
 - Polishing your bio and banner before you have built any trust
-- Chasing attention without anything to sell, so the trust never turns into income
+- Chasing attention with nothing to sell, so the trust never turns into income
 
 ### Try it
 
-Write your own version of the simple model in three lines: where your traffic comes from, what you could sell from knowledge you already have, and which of the three levers (content, promotion, offer) is weakest today.
-
-<details><summary><b>Check yourself (4 questions)</b></summary>
-
-**1. In the simple model, what is a personal brand?**
-
-- a) A logo and colour set
-- b) A traffic source
-- c) A paid community
-- d) The business itself
-
-*Answer: b) A traffic source.* A personal brand is not a business, it is a traffic source that feeds a product, service or startup.
-
-**2. Which three levers do you directly control?**
-
-- a) Algorithm, timing and hashtags
-- b) Ad budget, team size, website
-- c) Content quality, how often you promote, offer quality
-- d) Followers, likes and reposts
-
-*Answer: c) Content quality, how often you promote, offer quality.* Those three are fully in your hands. The rest are results of them.
-
-**3. What does "why they watch is why they buy" mean?**
-
-- a) Viewers never become buyers
-- b) People only buy after watching ads
-- c) The reason people consume your content is the reason they will pay you
-- d) Watch time decides your price
-
-*Answer: c) The reason people consume your content is the reason they will pay you.* The content and the offer should solve the same problem, so the audience you attract is the audience that buys.
-
-**4. Why can \$1M solo feel richer than \$10M with a team?**
-
-- a) Teams are illegal
-- b) Taxes are lower
-- c) Nearly every dollar is profit in a one-person knowledge business
-- d) Solo creators get more views
-
-*Answer: c) Nearly every dollar is profit in a one-person knowledge business.* The "soft rich" point is about margin: no big team and no heavy costs.
-
-</details>
+Write your own version of the simple model in three lines: where your attention comes from, what you could sell from knowledge you already have, and which of your three controls (content, promotion, offer) is weakest today.
 
 [Back to the top of this module](#top) · [All modules](../README.md#contents)
 
@@ -151,123 +111,84 @@ Write your own version of the simple model in three lines: where your traffic co
 
 *8 min read*
 
-> **The big idea:** There are many ways to make money from an audience, and they all work. One useful way to see them is three levels, and the most money is in selling your own thing.
+> **The big idea:** Almost every way of earning from an audience works. A helpful way to compare them is three levels: platform money, selling other people's products, and selling your own. Selling your own has the highest ceiling.
 
 ### The money ladder: 3 levels
 
-- Level 1, platform revenue: AdSense, CPMs and RPMs, often \$1K to \$10K a month to start. The problem with it: \$1M needs 50 to 100 million views, and the platform can cut you off ("you're a slave to the machine").
-- Level 2, selling other people's stuff: brand deals, affiliates, UGC. The problem: your audience's trust gets spent on someone else's product. A sponsor pays you \$10K while making far more from your attention.
-- Level 3, selling your own: products, offers, coaching. You own the customer. It is very competitive, so the offer and the content have to be good.
-- The math on 1 million views (one creator's estimate): level 1 is about \$15,000, level 2 about \$100K to \$150K, level 3 is a \$2,000 product sold to 500 people, which is \$1M.
+- Level 1 is platform money: ad payouts from a platform like YouTube. It is easy to start and often brings \$1,000 to \$10,000 a month. The problem is scale. Reaching \$1M takes 50 to 100 million views, and the platform can cut you off whenever it wants.
+- Level 2 is selling other people's products: brand deals, affiliate links and making videos for brands. The problem is that you spend your audience's trust on someone else's product. A sponsor may pay you \$10,000 and earn far more from the attention you gave them.
+- Level 3 is selling your own: products, offers, coaching. You own the customer and keep the profit. It is competitive, so both the offer and the content have to be good.
+- Here is the same attention at each level, as one creator estimates it. 1 million views earns about \$15,000 from platform ads, about \$100,000 to \$150,000 from brand deals, and \$1M if you sell a \$2,000 product to just 500 of those viewers.
 
 ### The million-dollar offer math
 
-- \$1,000 x 1,000 people, \$3,000 x 334 people, or \$25,000 x 40 people all make \$1M. You do not need a big audience.
-- A small niche gives small views but can bring the same 15 clients. "Views are not the goal, dollars are."
+- \$1,000 x 1,000 people makes \$1M. So does \$3,000 x 334 people, or \$25,000 x 40 people. You don't need a huge audience, you need the right people and a price that fits what you deliver.
+- A small niche gets fewer views but can still bring the same 15 clients. Views are not the goal, dollars are.
 
 ### Every model works
 
-- "The best way to monetize is any way. They literally all work": ebooks, templates, cohorts, coaching, paid newsletters, sponsorships, freelancing and physical products.
-- A product ladder: free content, then \$0 to \$50 (a guide or template), then \$50 to \$500, then \$500 to \$5K, then big ticket. Start with free plus ONE paid step, add the next step only when the one below is full. Ship at 85%.
-- One order that works: contact info in the bio, then an email list and simple landing pages, then services, then low-ticket teaching, then done-for-you high ticket.
-- A lesson for artists: most artists make money with a bank of tutorials plus premium tutorials as a course. Start with the low-hanging fruit product to free up time to grow.
+- Ebooks, templates, cohort courses, coaching, paid newsletters, sponsorships, freelancing and physical products all work. Pick the one that fits you and start.
+- Build a product ladder, one step at a time: free content, then a \$0 to \$50 product (a guide or template), then \$50 to \$500, then \$500 to \$5,000, then a big-ticket offer. Start with free content plus ONE paid step. Add the next step only when the one below is selling well. Launch at 85% ready, you can improve it later.
+- Another order that works: put your contact info in your bio, build an email list with a simple landing page, offer services, then low-price teaching, then a premium done-for-you service.
+- An example for artists: most make money with a bank of tutorials, plus premium tutorials sold as a course. Start with the easiest product first, so it frees up time to grow.
 
-### Sponsors and platform money (one creator's claims)
+### Sponsors and platform money
 
-- One creator says at about 1,500 followers several sponsors reached out, about \$1,500 a month for a few posts. Elsewhere he says sponsors reached out under 2,000 followers.
-- The "Sponsorship Hunter" idea: track which brands pay creators in your niche and which campaign sites they use. His claim: \$1,000 to \$5,000+ a month even with a small following.
-- He says X pays small accounts through its creator revenue program, and that his company makes "multi 6-figs/month from sponsors alone" (his claim).
-- The "set up as a service" route: build useful systems for yourself first, document them publicly, then sell setups, audits, templates and workshops. He says he got leads just from posting his own content system.
+- Sponsors can come early. One creator says several brands reached out when he had about 1,500 to 2,000 followers, paying about \$1,500 a month for a few posts. That is one person's experience, so don't count on it.
+- A simple way to find sponsors: keep a list of which brands pay creators in your niche and which sites they use to find creators. He claims this can bring \$1,000 to \$5,000 a month even with a small following.
+- X also pays small accounts through its creator revenue program, according to the same creator. He says his company makes multiple six figures a month from sponsors alone.
+- Another route is to sell what you built for yourself. Build useful systems for your own use, share them in public, then sell setups, audits, templates and workshops. He says he got clients just by posting his own content system.
 
 ### Pick your money model before your view strategy
 
-- If ad revenue (AdSense, sponsorships, affiliates) is your main money, be a view maximizer within reason. If you sell a niche product or course, aim for targeted views: 2 to 3 million targeted views can beat 10 million broad ones for the business.
-- Data from one YouTube-focused researcher suggests broad viral audiences may convert sponsorships worse.
-- For a product seller, new viewers from broad videos are often still in the market, just not your exact customer.
+- If your main money is ads, sponsorships or affiliate links, you want as many views as you reasonably can.
+- If you sell a niche product or course, you want targeted views. 2 to 3 million views from the right people can beat 10 million views from anyone.
+- One YouTube researcher found that broad viral audiences may be worth less to sponsors.
+- For a product seller, viewers from a broad video are often still potential buyers, just not your exact customer. They may become customers later.
 
-### Paid for viewers, not views
+### You get paid for viewers, not views
 
-- The niche test has three parts: something you have a real passion, experience or advantage in, a market of viewers not being served as well as they could be, and finances that make it viable. Start by writing a big list of your passions, skills and life experiences, then run each through the other two.
-- Demand: don't rely on search tools, use your eyes. Are other channels covering similar topics with real audiences? Can you serve those viewers better, or bring something new?
-- Money: 'we get paid for viewers'. Rough examples: 1M views in gaming in India might be \$100, 1M views in US finance might be \$20,000.
-- Traits of high-value niches: Western and especially US audiences, older audiences, niches with lots of products and marketing, and longer videos (more ads). Golf ticks all of them. You shouldn't pick on money alone, but it rules a lot out.
+- To choose a niche, check three things. Do you have real passion, experience or an advantage in it? Is there a group of viewers who are not served as well as they could be? Can you make money from it? Start by writing a big list of your passions, skills and life experiences, then test each one against the other two questions.
+- To check demand, don't rely on search tools, use your eyes. Are other channels covering similar topics with real audiences? Could you serve those viewers better, or bring something new?
+- To check money, remember that views are worth different amounts. As a rough example, 1M views on a gaming video in India might earn \$100, while 1M views on a US finance video might earn \$20,000.
+- High-value niches tend to have a Western audience (especially the US), older viewers, lots of products and marketing, and longer videos with more ads. Golf ticks all of these. Don't pick a niche on money alone, but money helps you rule things out.
 
 ### Frameworks
 
 **The 3-level money ladder**
 
-1. Level 1, platform revenue: easy to start, needs huge views, platform controls it
-2. Level 2, other people's products: brand deals, affiliates, UGC, spends your audience's trust
+1. Level 1, platform money: easy to start, needs huge views, the platform controls it
+2. Level 2, other people's products: brand deals and affiliates, spends your audience's trust
 3. Level 3, your own offer: you own the customer, highest upside
 
-**Product ladder**
+**The product ladder**
 
 1. Free content
-2. \$0 to \$50: guide or template
+2. \$0 to \$50: a guide or template
 3. \$50 to \$500
-4. \$500 to \$5K
-5. Big ticket
-6. Rule: start with free plus one paid step, add a step only when the one below is full
+4. \$500 to \$5,000
+5. Big-ticket offer
+6. Rule: start with free plus one paid step, and add a step only when the one below is selling well
 
 ### Examples
 
-- **1 million views three ways:** Platform revenue on 1 million views is about \$15,000. Brand deals on the same views maybe \$100K to \$150K. A \$2,000 product sold to 500 of those viewers is \$1M.
+- **1 million views, three ways:** One creator's estimate: platform ads on 1 million views pay about \$15,000. Brand deals on the same views pay maybe \$100,000 to \$150,000. A \$2,000 product sold to 500 of those viewers makes \$1M.
   <br>*Why it works:* The same attention is worth far more when you sell your own offer.
 
 ### Common mistakes
 
-- Relying only on platform revenue, which needs huge views and can be cut off
+- Relying only on platform money, which needs huge views and can be cut off
 - Spending your audience's trust on sponsors whose products you would not sell yourself
 - Building the whole product ladder at once instead of one step at a time
 - Chasing broad views when you sell a niche offer
 
 ### Where the sources disagree
 
-One view ranks selling other people's products (level 2) below your own offer because it spends trust on someone else. Another treats sponsorships as a good early money source, even at a small following. Both agree your own offer has the highest ceiling.
+Some creators rank sponsorships below selling your own offer, because they spend your audience's trust on someone else's product. Others see sponsorships as a good early income, even with a small following. Both agree your own offer has the highest ceiling.
 
 ### Try it
 
-Write down which of the three levels you earn from now (or would first). Then do the million-dollar math for one offer: pick a price and work out how many buyers you need.
-
-<details><summary><b>Check yourself (4 questions)</b></summary>
-
-**1. What is the main problem with level 1, platform revenue?**
-
-- a) It is illegal for small creators
-- b) It needs huge views and the platform can cut you off
-- c) Sponsors dislike it
-- d) It only works on X
-
-*Answer: b) It needs huge views and the platform can cut you off.* \$1M from ad revenue needs 50 to 100 million views and you depend on the machine.
-
-**2. Why do brand deals rank below your own offer?**
-
-- a) They need a team
-- b) They pay nothing
-- c) They only work on YouTube
-- d) They spend your audience's trust on someone else's product
-
-*Answer: d) They spend your audience's trust on someone else's product.* The sponsor pays you once while making far more from the attention you built.
-
-**3. What is the rule for building a product ladder?**
-
-- a) Only sell big ticket
-- b) Never sell under \$500
-- c) Launch every price point on day one
-- d) Start with free plus one paid step, and add the next only when the one below is full
-
-*Answer: d) Start with free plus one paid step, and add the next only when the one below is full.* Grow the ladder one rung at a time and ship at 85%.
-
-**4. Who should aim for targeted views over maximum views?**
-
-- a) Someone selling a niche product or course
-- b) Someone living on AdSense
-- c) Every creator always
-- d) Nobody
-
-*Answer: a) Someone selling a niche product or course.* If your money is a niche product, 2 to 3 million targeted views can beat 10 million broad ones.
-
-</details>
+Write down which of the three levels you earn from now, or would start with. Then do the million-dollar math for one offer: pick a price and work out how many buyers you need to reach \$1M.
 
 [Back to the top of this module](#top) · [All modules](../README.md#contents)
 
@@ -279,100 +200,59 @@ Write down which of the three levels you earn from now (or would first). Then do
 
 *7 min read*
 
-> **The big idea:** Most creators say selling too early is the big mistake. Give so much value that people ask you to sell, then make the ask much smaller than what you gave.
+> **The big idea:** Selling too early is one of the most common mistakes. Give so much value that people ask you what you sell, and keep your ask much smaller than what you gave.
 
-### Don't monetize too early
+### Don't sell too early
 
-- The big mistake to avoid: selling a course on day one means you have not given enough yet. Post for at least 6 months before you offer anything.
-- One creator went from 0 to about 50K followers selling nothing. People asked to pay him for consulting, then he built an AI tool (Topic Finder) to make money.
-- He had "lady in the red dress moments" (offers for consulting, coaching, a cohort) and said no, because they would distract from his mission and the law of reciprocity would work against him.
-- Build goodwill so the ask can be 10x bigger later. "Goodwill compounds." Your ask should always be much smaller than what you give. It protects your brand.
+- If you launch a course on day one, you have not given people enough reasons to trust you yet. One creator's advice is to post for at least 6 months before you offer anything.
+- That creator grew from 0 to about 50,000 followers without selling. People started asking to pay him for consulting. Only then did he build a paid AI tool.
+- Along the way he turned down offers for consulting, coaching and a group course, because they would pull him away from his main goal.
+- Giving builds goodwill, and goodwill adds up. People feel they owe you something, so a bigger ask later feels fair. Keep your ask smaller than what you have given. It protects your brand.
 
 ### Jab, jab, jab, right hook
 
-- The idea from a well-known business book: if every post is a sales pitch (the right hook), people learn to duck. Free tips are the jabs that set up the sale. "If your content is completely selfish... it's not going to work."
-- One version: give, give, give, and when they expect the ask, give again. Give until they ask you to sell something.
+- This idea comes from a well-known business book, and it borrows from boxing. If every post is a sales pitch (the right hook), people learn to duck. Free tips are the jabs that set up the sale.
+- Give, give, give. When your audience expects the ask, give again. Keep giving until they ask you what you sell. If your content is completely selfish, it won't work.
 
-### People try to sell too early
+### Match your content to the stage of trust
 
-- "People try to sell too early." Map your pillars to the funnel and do not sell before you have built trust.
-- A funnel when you have no clients yet: top = your topic from your own lived results, middle = fix the most common problems of your ideal client, bottom = a walkthrough or case study of your own brand.
-- Also don't build a brand on a hollow base. Proof comes first.
+- Before you have any clients, plan your content in three layers. The top layer is your topic, taught from results you got yourself. The middle layer fixes the most common problems of your ideal client. The bottom layer is a walkthrough or case study of your own brand, which is your proof.
+- Don't sell until trust is built. Also don't build a brand on a hollow base: get real proof first, then talk about it.
 
 ### Set honest timelines
 
-- One timeline: 30 days = "I can do this", 100 days = it's a habit, 365 days = expect the first money, year 2 = you know enough to make a plan, year 3 = stick to it, 5 years = "you can do anything".
-- One brand coach tells clients to expect no meaningful outcome for the first 36 months. Most people burn out from wrong expectations, not a bad strategy. The ones who win stick with it without early feedback.
-- "Not posting long enough" is a top mistake when building an audience of buyers. The widely quoted 7-11-4 rule (7 hours, 11 touchpoints, 4 places before someone buys) is a marketing rule of thumb, not hard data.
+- One way to picture it: after 30 days you think "I can do this". After 100 days it is a habit. After 365 days you can expect the first real money. In year 2 you know enough to make a plan, in year 3 you stick to it, and after 5 years you can do almost anything.
+- One brand coach tells clients to expect no meaningful results for the first 36 months. Most people quit because of wrong expectations, not a bad strategy. The ones who win keep going with no early feedback.
+- Not posting long enough is a top mistake when you build an audience of buyers. A popular rule of thumb says someone needs about 7 hours of exposure, 11 touchpoints and 4 places before buying. It is a rule of thumb, not hard data.
 
 ### Frameworks
 
 **Jab, jab, jab, right hook**
 
 1. Jab: give a useful free tip
-2. Jab: give again
+2. Jab: give another
 3. Jab: give again, even when they expect the ask
 4. Right hook: make a small ask, much smaller than what you gave
 
 ### Examples
 
-- **0 to 50K selling nothing:** One creator built his Instagram to about 50K (his number) without selling. People started asking to pay him for consulting. Only then did he build a paid AI tool.
-  <br>*Why it works:* He let demand come to him, so the first offer was something people had already asked for.
+- **0 to 50,000 without selling:** One creator grew his Instagram to about 50,000 followers (his number) without selling anything. People started asking to pay him for consulting, so his first paid product was something people had already asked for.
+  <br>*Why it works:* He let demand come to him, which made the first offer an easy sell.
 
 ### Common mistakes
 
 - Selling a course on day one before you have given enough
-- Making every post a pitch, so people learn to duck
+- Making every post a pitch, so people learn to ignore you
 - Expecting money in the first months and quitting when it does not come
-- Saying yes to every shiny offer that pulls you away from your main mission
+- Saying yes to every shiny offer that pulls you away from your main goal
 
 ### Where the sources disagree
 
-Timing differs a lot. One creator says post at least 6 months before you sell anything, and a brand coach tells clients to expect little for 36 months. Others say build a \$10 first product within a week to test demand, and one 90-day plan launches a service offer from day 21. Common ground: the early product is a small test, and giving value comes first either way.
+Timing differs. Some creators say post for at least 6 months before you sell anything, and one brand coach says to expect little for 36 months. Others say build a \$10 first product within a week to test demand, and one 90-day plan launches a service from day 21. They agree on two things: the first product is a small test, and giving value comes first either way.
 
 ### Try it
 
-Count your last 10 posts: how many gave something away and how many asked for something? Write the next 3 posts as pure jabs, each one teaching a single useful thing with no ask.
-
-<details><summary><b>Check yourself (4 questions)</b></summary>
-
-**1. How long should you post before offering anything, in the "give first" view?**
-
-- a) 1 week
-- b) 36 months
-- c) At least 6 months
-- d) Never sell
-
-*Answer: c) At least 6 months.* Selling on day one means you have not given enough. At least 6 months is the suggestion.
-
-**2. In the jab, jab, jab, right hook idea, what are the jabs?**
-
-- a) Angry replies
-- b) Free value that sets up the sale
-- c) Discount codes
-- d) Paid ads
-
-*Answer: b) Free value that sets up the sale.* The jabs are the giving. If every post is a right hook, people learn to duck.
-
-**3. What burns most people out?**
-
-- a) A bad strategy
-- b) Too many followers
-- c) Posting too little
-- d) Wrong expectations about how fast results come
-
-*Answer: d) Wrong expectations about how fast results come.* Clients are told to expect no meaningful outcome for 36 months, so they do not quit too early.
-
-**4. According to one timeline, when should you expect the first money?**
-
-- a) 30 days
-- b) After 5 years
-- c) 100 days
-- d) Around 365 days
-
-*Answer: d) Around 365 days.* The timeline: 30 days for belief, 100 days for habit, about a year for the first money.
-
-</details>
+Look at your last 10 posts: how many gave something away and how many asked for something? Write your next 3 posts as pure jabs, each teaching one useful thing with no ask.
 
 [Back to the top of this module](#top) · [All modules](../README.md#contents)
 
@@ -384,115 +264,74 @@ Count your last 10 posts: how many gave something away and how many asked for so
 
 *8 min read*
 
-> **The big idea:** Information is now cheap, so give your best ideas away for free. People pay for help applying them, and the free work is what convinces them.
+> **The big idea:** Information is cheap now, so give your best ideas away for free. People pay for help applying them, and your free work is what convinces them to pay.
 
-### Information free, implementation paid
+### Information is free, implementation is paid
 
-- Information is a commodity now, anyone can repeat advice with ChatGPT or Claude. What is yours is experience, perspective and contrarian takes.
-- The line: "Information should be free, implementation should be paid" and "people don't pay for information, they pay for implementation".
-- Give away your internal processes. People who gatekeep blend in, and if you keep the good stuff behind closed doors, people will not see you as the authority.
-- If people see how good your free stuff is, they wonder how good the paid stuff is. It feels backwards and awkward, do it anyway.
-- Tell people to steal your frameworks and teach them to their teams and clients. In return they point to you as the expert. "If you're playing short-term games, you will only win short-term prizes."
-- One creator's claim: post 3 to 5 videos of your best frameworks and watch inbound clients come in.
+- Anyone can repeat advice now with ChatGPT or Claude. What AI can't copy is your own experience, your perspective and your unusual opinions. That is what makes you worth following.
+- People don't pay for information. They pay for someone to help them actually do it: to apply it, adapt it to their case and get it done.
+- So give away your inside processes. People who guard their best stuff blend in, and people won't see them as the authority.
+- When people see how good your free work is, they wonder how good the paid work must be. It feels backwards and a bit scary. Do it anyway.
+- Say it out loud: steal my frameworks, teach them to your team and your clients. The people who use them will point back to you as the expert. Playing for short-term wins only gets you short-term prizes.
+- One creator says that posting 3 to 5 videos of your best frameworks is enough to start bringing in clients. That is his claim, so test it yourself.
 
 ### The reciprocity engine
 
-- The fastest-growing creators of the last decade give it all away free and sell the implementation. One name for it is a "reciprocity engine".
-- The same line in three versions: "your product shouldn't help more people than your content", "your media should help way more people than your product ever will", "your marketing should help more people than your product or service ever will".
-- "Share the knowledge, sell the personalization". One creator almost sold his 6 hour 22 minute course for about \$1M, posted it free instead, and met three dream brands within 7 days. He now tries to push what is acceptable to release free.
+- Reciprocity means that when someone gives you something, you want to give back. Many of the fastest-growing creators of the last decade give everything away and sell the done-with-you or done-for-you version. One name for this is a reciprocity engine.
+- The rule behind it: your free content should help more people than your product ever will. If the free content is great, the paid product feels like an easy next step.
+- Share the knowledge, sell the personalization. One creator nearly sold a 6 hour 22 minute course for about \$1M. He posted it for free instead, and within 7 days he met three dream brands. Since then he keeps pushing how much he is willing to release for free.
 
-### Give away the tactics
+### Give away the tactics too
 
-- Many creators hold back detailed tactics because they fear giving away the secret sauce of their paid product.
-- The view: detailed, data-backed steps get people results, and results make them obsessed and coming back.
-- The claim: level 3 obsessed viewers will watch and buy almost anything you offer.
+- Many creators hold back detailed tactics because they fear giving away the secret sauce of the paid product.
+- The better view is that detailed, data-backed steps get people real results, and people who get results become obsessed and keep coming back.
+- People who reach that point will watch and buy almost anything you offer.
 
-### Sell by suggestion, not claims
+### Sell by suggestion, not by claims
 
-- Saying "I'm the best, your system is broken, buy mine" bounces off. Showing "the five best content strategies I used to grow these businesses to over 20 million a year" lets viewers reach the same conclusion alone.
-- People trust conclusions they reach themselves.
-- The 3 levels of obsession: level 1, signal (more of your posts are worth their time than anyone else's: relevant, non-obvious, validated); level 2, belief (change how they see something with a before/after, a relatable character, or small effort for a big result); level 3, action (hard numbers plus steps so small they cannot get them wrong, so they act, get a result and credit you forever).
-- A 5-point checklist for every piece: relevant to the ideal viewer, small effort big reward, non-obvious, proven, tactically doable. "Get the proof first, then make the content from it."
+- Saying "I'm the best, your system is broken, buy mine" bounces off people. Showing "the five best content strategies I used to grow these businesses to over \$20 million a year" lets viewers reach the same conclusion on their own. People trust conclusions they reach themselves.
+- To make viewers obsessed, aim for 3 levels. Level 1 is signal: more of your posts are worth their time than anyone else's, because they are relevant, not obvious and proven. Level 2 is belief: change how they see something, with a before and after, a character they relate to, or a small effort that gives a big result. Level 3 is action: give hard numbers and steps so small they can't get them wrong, so they act, get a result and credit you for it.
+- Check every piece with 5 questions. Is it relevant to your ideal viewer? Is it small effort for a big reward? Is it not obvious? Is it proven? Can they actually do it? Get the proof first, then make the content from it.
 
 ### Courses get better with feedback
 
-- Courses have a scam stigma, but a \$150 course from someone with skin in the game teaches practical skills faster than theory-based university courses.
-- Their weakness: courses are static and buyers cannot get feedback.
-- The fix: add an AI trained on your knowledge, frameworks and voice. It raises perceived value and helps buyers apply it, which means better results, better testimonials and more buyers.
+- Courses have a bad reputation, but a \$150 course from someone who has done the thing can teach practical skills faster than theory-heavy university classes.
+- Their weakness is that courses are fixed. Buyers can't ask questions or get feedback.
+- A fix: add an AI trained on your knowledge, frameworks and voice, so buyers can ask it questions while they work. It makes the course feel more valuable, helps buyers apply it, and leads to better results, better testimonials and more buyers.
 
 ### Frameworks
 
 **3 levels of obsession**
 
 1. Signal: your posts are more worth their time than anyone else's
-2. Belief: change how they see something (before/after, relatable character, small effort big result)
+2. Belief: change how they see something (before and after, a relatable character, small effort for a big result)
 3. Action: hard numbers and tiny steps, so they get a result and credit you
 
-**5-point content checklist**
+**5 questions for every piece of content**
 
-1. Relevant to the ideal viewer
-2. Small effort, big reward
-3. Non-obvious
-4. Proven
-5. Tactically doable
+1. Is it relevant to your ideal viewer?
+2. Is it small effort for a big reward?
+3. Is it not obvious?
+4. Is it proven?
+5. Can they actually do it?
 
 ### Examples
 
-- **The free course:** One creator had a 6 hour 22 minute course he could have sold for close to \$1M. He posted it for free. Within 7 days he met three dream brands.
-  <br>*Why it works:* The free course showed what working with him is like, and the paid part became the personal help.
-- **Steal my frameworks:** One creator tells viewers to take his frameworks and teach them to their teams and clients.
-  <br>*Why it works:* The people who use them point back to him as the expert, which brings inbound clients.
+- **The free course:** One creator had a 6 hour 22 minute course he could have sold for close to \$1M. He posted it for free instead, and within 7 days he met three dream brands.
+  <br>*Why it works:* The free course showed what working with him is like, so the paid work became the personal help.
+- **Steal my frameworks:** Say you teach a 5-step method for writing hooks. Instead of locking it in a paid course, you post all 5 steps. Someone teaches it to their team and says where they learned it. Their team follows you, and a few ask you to help them apply it.
+  <br>*Why it works:* This example is made up to show the idea. Free sharing spreads your name, and the paid part is the personal help.
 
 ### Common mistakes
 
-- Gatekeeping your best ideas, so you blend in and never look like the authority
-- Claiming you are the best instead of showing proof and letting people conclude it
+- Guarding your best ideas, so you blend in and never look like the authority
+- Claiming you are the best instead of showing proof and letting people reach that conclusion
 - Holding back detailed tactics out of fear
-- Selling a static course with no way for buyers to get feedback
+- Selling a fixed course with no way for buyers to get feedback
 
 ### Try it
 
-Pick the one framework or process you would normally keep for paying clients. Write it out as a free post with every step. Then write one line on what the paid version adds (personal help, done for you, feedback).
-
-<details><summary><b>Check yourself (4 questions)</b></summary>
-
-**1. What do people actually pay for?**
-
-- a) Logos
-- b) Followers
-- c) Information
-- d) Implementation
-
-*Answer: d) Implementation.* Information is a commodity. People pay for help applying it.
-
-**2. What is the rule for free versus paid?**
-
-- a) Charge for every tip
-- b) Never post courses
-- c) Share the knowledge, sell the personalization
-- d) Sell the knowledge, share the personalization
-
-*Answer: c) Share the knowledge, sell the personalization.* The course was given away free and the personal, tailored help is what is sold.
-
-**3. Why is showing proof better than saying "I'm the best"?**
-
-- a) Proof gets fewer views
-- b) Claims are banned
-- c) It is shorter
-- d) People trust conclusions they reach themselves
-
-*Answer: d) People trust conclusions they reach themselves.* Selling by suggestion lets the viewer decide you are the best, which they believe more.
-
-**4. What can be added to courses to fix their main weakness?**
-
-- a) A shorter refund window
-- b) More videos
-- c) A higher price
-- d) An AI trained on your knowledge so buyers get feedback
-
-*Answer: d) An AI trained on your knowledge so buyers get feedback.* Courses are static. An AI helper lets buyers apply them, which brings better results and testimonials.
-
-</details>
+Pick the one framework or process you would normally keep for paying clients. Write it out as a free post with every step. Then write one line on what the paid version adds, such as personal help, done for you or feedback.
 
 [Back to the top of this module](#top) · [All modules](../README.md#contents)
 
@@ -504,58 +343,58 @@ Pick the one framework or process you would normally keep for paying clients. Wr
 
 *8 min read*
 
-> **The big idea:** Your first product should take no more than a week to build and cost about \$10. The goal is not money. It is to learn whether anyone will pay for your idea.
+> **The big idea:** Your first product should take no more than a week to build and cost about \$10. The goal is not money. It is to find out whether anyone will pay for your idea.
 
 ### What the first product is for
 
-- Your first product should take no longer than a week to build. You probably already have one lying around.
-- The goal is to validate an idea worth paying for, not to make big money. Charge about \$10.
-- The test: if conversion is 2.5% or higher, consider a fuller product. That way you do not build something nobody wants.
-- A lesson for artists: most artists sell a bank of tutorials and a premium tutorial course. One creator says if he had copied the artist who inspired him, he would have made a course on creating his top images. Start with the low-hanging fruit product to free up time to grow.
+- Your first product should take a week or less to build. You may already have something lying around that you can use.
+- Its job is to test whether your idea is worth paying for, not to make big money. Charge about \$10.
+- Here is how to read the result. If 2.5% or more of the people who see your offer buy it, consider building a fuller product. If fewer buy, you learned that cheaply, before spending months on something nobody wants.
+- An example for artists: most artists sell a bank of tutorials plus a premium tutorial course. Start with the easiest product to make, which frees up time to grow.
 
 ### The \$10 resume case
 
-- An example: a TikTok career advice creator (who later founded a creator platform) kept getting asked how he got his Goldman Sachs job.
-- He sold his resume as a \$10 template and made thousands. As it was told: 'He didn't overcomplicate it.'
-- The career example in the newsletter version: \$10 for your resume with a breakdown of how it worked.
+- A career advice creator on TikTok kept getting asked how he landed a job at Goldman Sachs. He sold his resume as a \$10 template, and made thousands. He didn't overcomplicate it.
+- A newsletter version of the same idea: sell your resume for \$10 along with a breakdown of why it worked.
+- This is his own account, but the lesson holds: when people keep asking you the same question, the answer can be your first product.
 
 ### Ideas for a first product
 
-- Record a 30 to 60 minute training on one impactful thing.
-- Turn an old asset that got you a desirable result into a template.
-- Turn a well-received post into a short guide or template.
-- The article version, the micro product: turn a valuable newsletter on a validated topic into a template, prompt or written guide that helps people implement it. Charge around \$19. The goal is not revenue yet, because the audience is small.
-- Source material: knowledge in your notes, Google Drive, books you have read, content you have written. For beginners, validated content others have written in your niche, used to brainstorm your own idea (not stealing).
+- Record a 30 to 60 minute training on one important thing.
+- Turn an old file that got you a result you wanted into a template.
+- Turn a post that people loved into a short guide or template.
+- Turn a valuable newsletter on a topic you know people care about into a template, prompt or written guide that helps them put it into practice. Charge around \$19. At this stage the audience is small, so the goal is learning, not revenue.
+- Look for material in your own notes, your Google Drive, books you've read and content you've written. If you're a beginner, you can read what others have written on your topic to spark your own idea, but make it yours. Don't copy.
 
-### How to choose what to sell: pain, passion, process
+### How to choose what to sell: pain, passion or process
 
-- Do not worry about product type yet. Start with one of three things.
-- Pain: a pain in your life you have solved that others can benefit from (health, wealth, relationships, happiness), no matter how small.
-- Passion: an interest that adds to your quality of life and could add to someone else's. An example: a philosopher turned a paid Substack into a philosophy school. 'You can monetize anything.'
-- Process: a routine that brings a specific result (a morning productivity routine, a writing system, a nutrition method), even if only slightly unique.
-- 'You don't start with a fully chiseled block of marble. You start with the ugly block' and refine it.
+- Don't worry about the format yet. Start with one of three things.
+- Pain: a problem in your life that you solved and others can learn from. It could be about health, money, relationships or happiness, and it can be small.
+- Passion: an interest that improves your life and could improve someone else's. For example, one philosopher turned a paid newsletter into a philosophy school. You can make money from almost anything.
+- Process: a routine that gets a specific result, like a morning productivity routine, a writing system or a nutrition method, even if it is only slightly different from others.
+- Your first version will be rough, like an ugly block of marble. Start with it and refine it as you go.
 
 ### Frameworks
 
 **The \$10 first-product test**
 
-1. Pick something you already have: a resume, a template, a training, a well-received post
+1. Pick something you already have: a resume, a template, a training, a post people loved
 2. Turn it into a small product you can build in a week
 3. Charge about \$10
-4. Watch conversion: 2.5% or higher means consider a fuller product
+4. Watch the buy rate: 2.5% or more means consider a fuller product
 5. Build bigger only after people have shown they will pay
 
-**Pain, passion, process**
+**Pain, passion or process**
 
-1. Pain: a problem you solved that others have
+1. Pain: a problem you solved that others still have
 2. Passion: an interest that improves life
-3. Process: a routine that brings a specific result
-4. Pick the one that feels easiest to teach, then refine the ugly block
+3. Process: a routine that gets a specific result
+4. Pick the one that feels easiest to teach, then refine it as you go
 
 ### Examples
 
-- **The \$10 resume:** A career advice creator kept hearing how he got his Goldman Sachs job, so he sold his resume as a \$10 template.
-  <br>*Why it works:* It is told as proof that you should not overcomplicate the first product. It is the creator's own account.
+- **The \$10 resume:** A career advice creator kept hearing the same question: how did you get a job at Goldman Sachs? So he sold his resume as a \$10 template.
+  <br>*Why it works:* It shows you shouldn't overcomplicate your first product. This is the creator's own account.
 
 ### Common mistakes
 
@@ -565,47 +404,7 @@ Pick the one framework or process you would normally keep for paying clients. Wr
 
 ### Try it
 
-List 3 things people ask you about or things you already own that gave you a result. Pick one and describe the \$10 version in one sentence.
-
-<details><summary><b>Check yourself (4 questions)</b></summary>
-
-**1. How long should the first product take to build, at most?**
-
-- a) A month
-- b) A day
-- c) A week
-- d) Three months
-
-*Answer: c) A week.* No longer than a week.
-
-**2. What is the purpose of the first product?**
-
-- a) Make big money
-- b) Build a brand logo
-- c) Validate an idea worth paying for
-- d) Get sponsors
-
-*Answer: c) Validate an idea worth paying for.* The goal is validation, not income.
-
-**3. At what conversion rate should you consider a fuller product?**
-
-- a) 2.5% or higher
-- b) 1%
-- c) 0.5%
-- d) 10%
-
-*Answer: a) 2.5% or higher.* 2.5% or higher is the signal.
-
-**4. What did the career creator sell for about \$10, in the story?**
-
-- a) A coaching call
-- b) An ebook on TikTok
-- c) His resume as a template
-- d) A course
-
-*Answer: c) His resume as a template.* He sold the resume that got him the Goldman Sachs job.
-
-</details>
+List 3 things people ask you about, or things you already own that got you a result. Pick one and describe the \$10 version in one sentence.
 
 [Back to the top of this module](#top) · [All modules](../README.md#contents)
 
@@ -617,117 +416,77 @@ List 3 things people ask you about or things you already own that gave you a res
 
 *9 min read*
 
-> **The big idea:** The micro service is a pack of about 4 one-on-one calls that help one person get one specific result in a month, for \$500 to \$1,000. You can start today with no website.
+> **The big idea:** A micro service is a pack of about 4 one-on-one calls that helps one person reach one specific result in a month, for \$500 to \$1,000. You can start today with no website.
 
 ### What it is and why 4 calls
 
-- A pack of about 4 one-on-one calls, once a week for a month. Walk them through steps, give homework, fix what they got stuck on. Charge \$500 to \$1,000.
-- It is the middle ground for people not ready for a full coaching program who do not want to sell \$100 to \$200 single calls. \$1,000 is about what an online personal trainer costs.
-- The price is a test point. 5 people at \$1,000 is a first \$5K month and proof to raise the price or build something bigger.
-- Why 4, not 1: you can start today with no website, logo or curriculum. One call is a pep talk, four is enough to change something. Selling 4 takes no more work than selling 1, for 4x the money. You hear pain points firsthand, so whatever you build next is better: 'Your coaching notes become your course.'
-- If they get enough help, many want 4 more calls: \$2,000 instead of \$1,000.
+- It is a pack of about 4 one-on-one calls, once a week for a month. On each call you walk the person through steps, give homework and fix whatever they got stuck on. You charge \$500 to \$1,000.
+- It sits between two things. Some people aren't ready for a full coaching program. And you probably don't want to sell single \$100 to \$200 calls. For comparison, \$1,000 is about what an online personal trainer costs.
+- The price is also a test. 5 people at \$1,000 is a \$5,000 first month, and proof that you can raise the price or build something bigger.
+- Why 4 and not 1? You can start today with no website, logo or course. One call is a pep talk, but four calls is enough to change something. Selling 4 takes no more work than selling 1, for 4 times the money. You also hear people's problems firsthand, so whatever you build next is better. Your coaching notes can become your course.
+- If people get enough help, many will want 4 more calls. That is \$2,000 instead of \$1,000.
 
-### Do not wait until you have everything
+### Don't wait until you have everything
 
-- The mistake list: freelancers, coaches and consultants think they need everything first, like a landing page, brand colours and a 12-module program.
-- You only need to teach what you know. Being 1 to 2 steps ahead is enough.
+- Freelancers, coaches and consultants often think they need everything first: a landing page, brand colours, a 12-module program.
+- You don't. You only need to teach what you know. Being 1 or 2 steps ahead of your student is enough.
 
-### Two routes
+### Two routes: skill or life result
 
-- Tutorial (skill-based): a skill people pay freelancers for, such as web design, graphic design, coding, writing, video editing or lead gen. Teach it instead of doing it.
-- 'Done for you' is small and competitive. 'Teach me' is massive: people wanting a skill, solo owners who cannot hire, career changers. Example: build their first website or write their first 4 newsletters in 4 calls.
-- Coaching (interest-based): an outcome in life, such as fitness, nutrition, sleep, productivity, mental health, relationships, money, spirituality or direction. An example: a 'BTC Coach' who teaches Bitcoin because he thinks it is worth knowing.
-- 'You can monetize anything that improves someone's life.'
+- Skill route: pick a skill people pay freelancers for, like web design, graphic design, coding, writing, video editing or finding leads. Teach it instead of doing it for them.
+- Done-for-you is a small, crowded market. Teach-me is much bigger: people who want the skill, solo business owners who can't hire, and people changing careers. For example, you could help someone build their first website, or write their first 4 newsletters, in 4 calls.
+- Life route: help with a result in someone's life, like fitness, nutrition, sleep, productivity, mental health, relationships, money, spirituality or direction. For example, a coach who teaches Bitcoin because he thinks everyone should understand it.
+- You can charge for almost anything that improves someone's life.
 
-### The 7 parts of a micro service
+### How to design the 4 calls, in 7 parts
 
-- 1\. Your story (the questions to answer for it come from a separate story module).
-- 2\. Where they are now: the average day of the person you can help most, what frustrates them, what they have tried, what happens if nothing changes.
-- 3\. Where they want to be in 1 month: specific and believable. Not 'master web design' (6 months) but 'build your first website in 30 days'. Not 'get fit' but 'lose your first 10 pounds and build a training routine you actually stick to'.
-- 4\. The steps: dump every step without organizing. Brainstorming and grouping at the same time leaves you with nothing. A web design raw list: set up hosting, connect domain, learn design basics, choose template, pick brand colours and fonts, write copy per page, structure pages, put copy on page, launch.
-- Then group the steps into 4 calls. More steps, charge more. Fewer steps, do 2 calls and charge less. For fuzzy steps, read the bestselling books on the topic ('most coaching programs are just a book taught one-on-one') and buy 3 to 5 products already selling to your audience so you miss nothing.
-- 5\. A name: for example 'The Web Design Starter Pack', 'The 30 Day Reset', 'The Creator Magnet'. 'Systems sell', and a name makes steps feel like a system.
-- 6\. Homework: a short task list after each call, like a personal trainer. They note where they got stuck and bring it next time.
-- 7\. Onboarding: know their starting point first (a fitness coach asks weight and measurements). Send a few questions or add a 'call zero' kickoff, which makes it 5 calls.
+- 1\. Your story. Why are you the right person to teach this? (The Storytelling module helps you write it.)
+- 2\. Where they are now. Picture the average day of the person you can help most. What frustrates them? What have they tried? What happens if nothing changes?
+- 3\. Where they want to be in 1 month. Make it specific and believable. Not "master web design", which takes 6 months, but "build your first website in 30 days". Not "get fit", but "lose your first 10 pounds and build a training routine you actually stick to".
+- 4\. The steps. First write down every step in any order, without organizing. If you brainstorm and group at the same time, you end up with nothing. For example, a raw list for web design: set up hosting, connect a domain, learn design basics, choose a template, pick brand colours and fonts, write the copy for each page, plan the page structure, put the copy on the pages, launch.
+- Then group the steps into 4 calls. If you have more steps, charge more. If you have fewer, do 2 calls and charge less. If some steps are fuzzy, read the bestselling books on the topic, since most coaching programs are just a book taught one-on-one. You can also buy 3 to 5 products that already sell to your audience, so you don't miss anything.
+- 5\. A name. For example "The Web Design Starter Pack", "The 30 Day Reset" or "The Creator Magnet". A name makes your steps feel like a system, and systems sell.
+- 6\. Homework. Give a short task list after each call, like a personal trainer would. They note where they got stuck and bring it to the next call.
+- 7\. Onboarding. Learn their starting point first, the way a fitness coach asks for weight and measurements. Send a few questions, or add a "call zero" kickoff, which makes it 5 calls.
 
 ### How each call runs
 
-- Every call after onboarding has 3 parts. Last week's tasks (how did it go, where were they stuck). Pain points (work through them and teach as you go). Next steps (what to do this week).
-- Calls run 30 to 60 minutes, sometimes longer.
+- After onboarding, every call has 3 parts. First, last week's tasks: how did it go, and where were they stuck? Second, their problems: work through them and teach as you go. Third, next steps: what they should do this week.
+- Calls usually run 30 to 60 minutes, sometimes longer.
 
 ### Frameworks
 
-**The micro service**
+**The 7 parts of a micro service**
 
-1. Your story
+1. Your story: why you are the right person to teach this
 2. Where they are now
-3. Where they want to be in 1 month (specific, believable)
-4. Dump all the steps, then group into 4 calls
-5. Give it a name that sounds like a system
+3. Where they want to be in 1 month (specific and believable)
+4. All the steps, dumped first, then grouped into 4 calls
+5. A name that makes it sound like a system
 6. Homework after every call
 7. Onboarding questions or a call zero
 
 **The 3-part coaching call**
 
 1. Last week's tasks
-2. Pain points
+2. Their problems
 3. Next steps
 
 ### Examples
 
-- **Web design in 4 calls:** Raw steps: hosting, domain, design basics, template, brand colours and fonts, copy per page, page structure, copy on page, launch. Grouped into 4 weekly calls.
-  <br>*Why it works:* An example from one coach. Outcome stated as 'build your first website in 30 days', not 'master web design'.
+- **Web design in 4 calls:** Raw steps: hosting, domain, design basics, template, brand colours and fonts, copy for each page, page structure, copy on the pages, launch. Group them into 4 weekly calls. The promise is "build your first website in 30 days", not "master web design".
+  <br>*Why it works:* A clear, small, one-month result is easier to sell than a big vague one.
 
 ### Common mistakes
 
 - Waiting for a landing page, brand colours and a 12-module program
-- Promising a vague or six-month outcome
+- Promising a vague result or one that takes six months
 - Brainstorming and organizing the steps at the same time
 - Selling single \$100 to \$200 calls instead of a pack
 
 ### Try it
 
-Write the one-month outcome of a micro service in one specific, believable sentence, then dump every step to get there without grouping.
-
-<details><summary><b>Check yourself (4 questions)</b></summary>
-
-**1. How many calls are in the micro service, and over how long?**
-
-- a) 12 calls over 3 months
-- b) 1 call in a day
-- c) About 4 calls, once a week for a month
-- d) 10 calls in a week
-
-*Answer: c) About 4 calls, once a week for a month.* About 4 weekly one-on-one calls over a month.
-
-**2. What is said about 'done for you' versus 'teach me'?**
-
-- a) Neither sells
-- b) Done for you is massive
-- c) Teach me is massive, done for you is small and competitive
-- d) Both are equally small
-
-*Answer: c) Teach me is massive, done for you is small and competitive.* Teach the skill instead of doing it.
-
-**3. Why dump all steps before grouping?**
-
-- a) It saves money
-- b) Brainstorming and grouping at once leaves you with nothing
-- c) Calls are shorter
-- d) Clients like long lists
-
-*Answer: b) Brainstorming and grouping at once leaves you with nothing.* Separate the two jobs.
-
-**4. What are the 3 parts of every call after onboarding?**
-
-- a) Intro, pitch, close
-- b) Warm up, lecture, quiz
-- c) Goals, price, contract
-- d) Last week's tasks, pain points, next steps
-
-*Answer: d) Last week's tasks, pain points, next steps.* Tasks, pain points, next steps.
-
-</details>
+Write the one-month result of your micro service in one specific, believable sentence. Then list every step to get there without grouping them.
 
 [Back to the top of this module](#top) · [All modules](../README.md#contents)
 
@@ -739,113 +498,68 @@ Write the one-month outcome of a micro service in one specific, believable sente
 
 *9 min read*
 
-> **The big idea:** With a small audience, do it by hand: posts, a newsletter, a questionnaire, DMs, then a link to pay. No sales page needed, because your content already did the convincing.
+> **The big idea:** With a small audience, sell by hand: posts, a newsletter, a short questionnaire, DMs, then a link to pay. You don't need a sales page, because your content has already done the convincing.
 
-### The flow (no sales page)
+### The 5 steps (no sales page)
 
-- With a small or no audience, do it by hand. That is how you learn to sell and learn what customers want. Over time content takes over.
-- Step 1: social posts targeting the pain points your service solves (these open conversations).
-- Step 2: a newsletter proving you know your stuff, going deeper on those pain points.
-- Step 3: a questionnaire where people raise their hand.
-- Step 4: DMs with people who fill it out, reply to the newsletter or engage with posts.
-- Step 5: the link to pay.
-- Why no sales page: the old advice was built for paid ads and SEO, where cold strangers need long sales pages. 'Your content already did the convincing', you only need to find out who is interested.
+- With a small audience or none, do it by hand. That is how you learn to sell and how you learn what customers really want. Over time your content takes over more of the work.
+- Step 1: post about the problems your service solves. These posts start conversations.
+- Step 2: send a newsletter that proves you know your stuff and goes deeper on those problems.
+- Step 3: share a short questionnaire where interested people raise their hand.
+- Step 4: message the people who fill it out, reply to your newsletter or engage with your posts.
+- Step 5: send the link to pay.
+- Why no sales page? The old advice was made for paid ads and search traffic, where cold strangers need a long page to be convinced. Your readers already know you. Your content did the convincing, so you only need to find out who is interested.
 
 ### The questionnaire
 
-- Three jobs: it filters out tire kickers, makes people aware of their own pain, and lowers pressure. 'Fill out this quick form to see if I can help' is easier than 'book a sales call', and it catches quiet interested people who would never book a call.
-- Header template: 'If you struggle with: [pain point] [pain point] [pain point]. Fill out the questionnaire below. If I think I can help, I'll reach out with a few more questions.'
-- Pick 5 to 8 questions: social media handle (important, it is how you DM them); what do you do for work; where are you now with the topic (revenue, fitness, skill level); where do you want to be in your timeframe; what are you struggling with most (multiple choice); how long have you been trying to get the result; 1 to 10, how serious are you; if we are a fit, are you ready to move forward or do you need someone else's approval.
-- 'What are you struggling with most' as multiple choice, using your offer's pain points, is the most important question.
+- It does three jobs. It filters out people who are just browsing. It makes people notice their own problem. And it lowers the pressure: "fill out this quick form to see if I can help" is easier to say yes to than "book a sales call". It also catches shy people who would never book a call.
+- Start with a short header: "If you struggle with: [problem] [problem] [problem]. Fill out the questionnaire below. If I think I can help, I'll reach out with a few more questions."
+- Then ask 5 to 8 questions. Their social media handle (important, because that is how you message them). What they do for work. Where they are now with your topic (income, fitness, skill level). Where they want to be in their timeframe. What they struggle with most, as multiple choice. How long they have been trying to get the result. How serious they are, from 1 to 10. And if you are a fit, whether they are ready to move forward or need someone else's approval.
+- "What are you struggling with most?" is the most important question. Make it multiple choice, and use the problems your offer solves as the options.
 
 ### Put it everywhere, every day
 
-- Link in bio. The middle and end of every newsletter. The end of posts and threads targeting your offer's pain points.
-- Inside your micro product too. 'Someone who paid you \$19 is far more likely to pay you \$1,000.'
-- Promote your product or service once a day. It is one of two daily levers; the other is validated content.
-- 'Most people mention their offer once a month and wonder why no one buys.'
-
-### The model behind it
-
-- The simple model: social media as a traffic source (where attention is, and free) plus a micro product or service from your own knowledge, so you monetize fast. 'That's the entire business.'
-- The levers you directly control: how good your content is, how often you promote, how good your offer is.
+- Put the link in your bio, in the middle and at the end of every newsletter, and at the end of posts and threads about the problems your offer solves.
+- Put it inside your small paid product too. Someone who paid you \$19 is far more likely to pay you \$1,000 than a stranger.
+- Promote your product or service once a day. This is one of your two daily jobs. The other is posting content that is proven to work.
+- Most people mention their offer once a month and then wonder why nobody buys.
 
 ### Frameworks
 
-**Hand-sold first client flow**
+**The hand-sold first client flow**
 
-1. Posts on the pain points
-2. Newsletter that goes deeper
-3. Questionnaire to raise a hand
-4. DMs with those who respond
-5. Link to pay
+1. Posts about the problems you solve
+2. A newsletter that goes deeper
+3. A questionnaire so people can raise their hand
+4. DMs with the people who respond
+5. A link to pay
 
-**Questionnaire questions**
+**The questionnaire questions**
 
-1. Handle
+1. Social media handle
 2. Work
 3. Where are you now
 4. Where do you want to be
 5. Biggest struggle (multiple choice)
-6. How long trying
-7. Seriousness 1 to 10
-8. Ready to move forward or need approval
+6. How long have you been trying
+7. How serious are you, 1 to 10
+8. Ready to move forward, or need approval from someone else
 
 ### Examples
 
-- **Questionnaire header:** If you struggle with: [pain point] [pain point] [pain point]. Fill out the questionnaire below. If I think I can help, I'll reach out with a few more questions.
-  <br>*Why it works:* A template, word for word in structure.
+- **A questionnaire header:** If you struggle with: [problem] [problem] [problem]. Fill out the questionnaire below. If I think I can help, I'll reach out with a few more questions.
+  <br>*Why it works:* Fill in the brackets with the problems your offer solves.
 
 ### Common mistakes
 
 - Building a long sales page before anyone is interested
 - Mentioning your offer once a month
-- Skipping the social handle question, which you need for DMs
-- Asking for a sales call instead of a low-pressure form
+- Skipping the social handle question, which you need to send DMs
+- Asking for a sales call instead of offering a low-pressure form
 
 ### Try it
 
-Write the header and the multiple-choice 'biggest struggle' question for your questionnaire using three pain points.
-
-<details><summary><b>Check yourself (4 questions)</b></summary>
-
-**1. Why do you not need a sales page at first?**
-
-- a) Pages are illegal
-- b) Your content already did the convincing
-- c) Nobody reads them
-- d) They are too expensive
-
-*Answer: b) Your content already did the convincing.* Long sales pages are for cold strangers from ads or SEO.
-
-**2. Which questionnaire question is the most important?**
-
-- a) Your age
-- b) Your handle
-- c) Your budget
-- d) What are you struggling with most (multiple choice)
-
-*Answer: d) What are you struggling with most (multiple choice).* It uses your offer's pain points.
-
-**3. How often should you promote your offer?**
-
-- a) Only at launch
-- b) Once a day, every day
-- c) Once a week
-- d) Once a month
-
-*Answer: b) Once a day, every day.* One of two daily levers.
-
-**4. What is the first step of the hand-sold flow?**
-
-- a) DMs
-- b) Posts targeting the pain points
-- c) Link to pay
-- d) The questionnaire
-
-*Answer: b) Posts targeting the pain points.* Posts open the conversations.
-
-</details>
+Write the header and the multiple-choice "biggest struggle" question for your questionnaire, using three problems your offer solves.
 
 [Back to the top of this module](#top) · [All modules](../README.md#contents)
 
@@ -857,104 +571,65 @@ Write the header and the multiple-choice 'biggest struggle' question for your qu
 
 *8 min read*
 
-> **The big idea:** You do not need scripts. You need a good conversation in 4 steps, and a follow-up, because most people never follow up. Email is where most of the money is made.
+> **The big idea:** You don't need a sales script. You need a friendly conversation in 4 steps, plus a follow-up, because most people never follow up. And email is where most of the money is made.
 
 ### Where conversations come from
 
-- People who reply to posts, repost you, reply to your newsletter, DM you, and most of all fill out the questionnaire.
+- People who reply to your posts, repost you, reply to your newsletter or DM you. Most of all, people who fill out your questionnaire.
 
-### The 4 steps
+### The 4 steps of a sales conversation
 
-- 1\. Ask about their goal. People love talking about what they are working on. Openers by source. Questionnaire: 'got your response, can you tell me more about your goals with [topic]?' Post reply: 'picking up from your reply on my post since it's easier to keep track here, are you working on anything with [topic]?' Newsletter reply: answer what they said, then ask what they are working on and stuck on.
-- 2\. Give an expert-level tip they have not heard. If you have not helped anyone yet, share how you got the result yourself.
-- 3\. Soft promote: mention casually that you help people 1:1 over 4 calls, with a concrete outcome. 'No pressure. No countdown timer.'
-- 4\. Follow up with value. 'This is where the money is made, because most people never follow up.' If no reply, wait 2 to 3 days and send something useful for their goal (a video, post or thread) with 'thought of you'. Still nothing: once more the next week. Then let it go. 'A surprising number' come back.
+- Step 1: ask about their goal. People love talking about what they are working on. Open based on where they came from. If they filled out the questionnaire: "Got your response, can you tell me more about your goals with [topic]?" If they replied to a post: "Picking up from your reply on my post, since it's easier to keep track here. Are you working on anything with [topic]?" If they replied to your newsletter: answer what they said, then ask what they are working on and where they are stuck.
+- Step 2: give a tip they haven't heard before. Make it something an expert would say. If you haven't helped anyone yet, share how you got the result yourself.
+- Step 3: mention your offer softly. Say casually that you help people one-on-one over 4 calls, and name the result they would get. No pressure, no countdown timer.
+- Step 4: follow up with something useful. This is where the money is made, because most people never follow up. If they don't reply, wait 2 to 3 days and send something useful for their goal, like a video, post or thread, with a note like "thought of you". If there is still no reply, try once more the next week. Then let it go. A surprising number of people come back.
 
 ### The close
 
-- Answer their questions, then send the sign-up page with 'no rush'. 'If they want to buy, they will.' Not everyone will, and that is fine.
+- Answer their questions, then send the sign-up page and say there is no rush. If they want to buy, they will. Not everyone will, and that is fine.
 
-### The math (one creator's claim)
+### What the numbers could look like
 
-- In a month: posts get 1,000 to 5,000 impressions ('any beginner can do this'), 30 to 40 people fill out the questionnaire, and you message 20 to 30 more who engaged.
-- It is hard to believe you could not get 5 people to pay \$1,000. That is \$5K in a month, solo, with no website, team or ad budget.
-- Time: 1 to 2 hours a day to write posts, promote the questionnaire, check applications and start 3 to 5 conversations.
-- Give it 2 to 3 months. Even one sale proves demand. Then raise the price, turn the calls into a course, or build the product you want.
-- Label: these numbers are a creator's claims, not measured results.
+- This is one creator's own estimate, not measured results. In a month, your posts get 1,000 to 5,000 views each, 30 to 40 people fill out the questionnaire, and you message 20 to 30 more people who engaged with your content.
+- From that many conversations, it is hard to imagine you couldn't get 5 people to pay \$1,000. That is \$5,000 in a month, working alone, with no website, team or ad budget.
+- The time it takes: 1 to 2 hours a day to write posts, promote the questionnaire, read applications and start 3 to 5 conversations.
+- Give it 2 to 3 months. Even one sale proves people want it. Then you can raise the price, turn the calls into a course, or build the product you really want.
 
-### Email list as the money channel
+### The email list: where the money is
 
-- Social media captures attention from a broad audience. People who want more get nurtured on your email list, which is where you make most of your money. 'Email is not even close to dead.'
-- Why a newsletter instead of a podcast or YouTube as the long-form channel: those need audio or video equipment and more skills, and you will have to build an email list anyway to talk to people off social media.
+- Social media catches attention from a broad audience. People who want more join your email list, and that is where you make most of your money. Email is not even close to dead.
+- Why choose a newsletter as your long-form channel instead of a podcast or YouTube? A podcast or video needs audio or video equipment and more skills. And you will have to build an email list anyway, so you can talk to people away from social media.
 
 ### Frameworks
 
 **The 4-step sales conversation**
 
 1. Ask about their goal
-2. Give an expert-level tip
-3. Soft promote the 4-call service
-4. Follow up with value (2 to 3 days, then next week, then let go)
+2. Give a tip they haven't heard
+3. Mention the 4-call service softly
+4. Follow up with value: after 2 to 3 days, then once more the next week, then let it go
 
 ### Examples
 
-- **Post-reply opener:** Picking up from your reply on my post since it's easier to keep track here, are you working on anything with [topic]?
-  <br>*Why it works:* One of three openers, by source.
+- **An opener for someone who replied to a post:** Picking up from your reply on my post, since it's easier to keep track here. Are you working on anything with [topic]?
+  <br>*Why it works:* Swap [topic] for your subject. It is friendly and asks about them first.
+- **A follow-up with value:** Say someone told you they struggle to get their first newsletter subscribers, and then went quiet. Three days later you send a post you wrote on that exact problem, with "thought of you".
+  <br>*Why it works:* This example is made up. A useful follow-up shows you listened. "Just checking in" shows nothing.
 
 ### Common mistakes
 
 - Pitching in the first message
 - Using countdown timers and pressure
 - Never following up
-- Following up with 'just checking in' instead of something useful
+- Following up with "just checking in" instead of something useful
 
 ### Where the sources disagree
 
-The math says 5 people at \$1,000 is easy for a beginner. It is the creator's own claim and no data is given. Treat the numbers as an example of the maths, not a promise. The same creator also says to give it 2 to 3 months.
+The creator says 5 people at \$1,000 is easy for a beginner, but gives no data. Treat the numbers as an example of the math, not a promise. The same creator says to give it 2 to 3 months.
 
 ### Try it
 
-Write your opener for a questionnaire response and one useful follow-up with 'thought of you' for a person who did not reply.
-
-<details><summary><b>Check yourself (4 questions)</b></summary>
-
-**1. What is step 1 of the sales conversation?**
-
-- a) Send the link
-- b) Give a discount
-- c) Pitch the price
-- d) Ask about their goal
-
-*Answer: d) Ask about their goal.* People love talking about what they are working on.
-
-**2. When is the money made?**
-
-- a) At the first message
-- b) On the sales page
-- c) At the questionnaire
-- d) In the follow-up
-
-*Answer: d) In the follow-up.* Most people never follow up.
-
-**3. If someone does not reply, what is suggested?**
-
-- a) Delete them
-- b) Wait 2 to 3 days, send something useful, once more next week, then let go
-- c) Send 10 messages a day
-- d) Offer a discount
-
-*Answer: b) Wait 2 to 3 days, send something useful, once more next week, then let go.* Two light follow-ups with value.
-
-**4. Where is most of the money made?**
-
-- a) Podcasts
-- b) The email list
-- c) Social media
-- d) Ads
-
-*Answer: b) The email list.* Social captures, email nurtures and sells.
-
-</details>
+Write your opener for someone who filled out the questionnaire. Then write one useful follow-up, with "thought of you", for someone who didn't reply.
 
 [Back to the top of this module](#top) · [All modules](../README.md#contents)
 
@@ -966,143 +641,103 @@ Write your opener for a questionnaire response and one useful follow-up with 'th
 
 *10 min read*
 
-> **The big idea:** Every post should have a job: new eyeballs, trust, or a sale. Content splits into top, middle and bottom of the funnel, and there are ways to link content to revenue.
+> **The big idea:** Every post should have one job: bring new people, build trust, or make a sale. Sorting your content into top, middle and bottom of the funnel makes sure you do all three.
 
-### The funnel: TOF, MOF, BOF
+### The funnel: top, middle and bottom
 
-- TOF (top) = get discovered: broad, shareable, trends, outlier formats, short-form.
-- MOF (middle) = build trust: how-tos, long-form, tutorials, case studies, behind the scenes.
-- BOF (bottom) = convert: demos, results and testimonials, offers, lead magnets, FAQs.
-- A starting mix: about 60% TOF, 30% MOF, 10% BOF. A crash course version: TOF 60 to 70%, trust and personal 30%, conversion 10%.
-- Change it to fit. A finance news account might be 90%+ TOF. A product page on Instagram might be 90%+ BOF. A high-ticket offer to a very specific buyer leans MOF and BOF.
-- Every post should have a job: new eyeballs, trust, or a sale.
+- A funnel is the path from a stranger to a customer. Content fits into three parts of it.
+- Top of the funnel is about being discovered. Content here is broad and easy to share: trends, formats that already went viral, short videos.
+- Middle of the funnel is about building trust. Content here teaches and shows your work: how-tos, long posts or videos, tutorials, case studies, behind the scenes.
+- Bottom of the funnel is about making the sale. Content here shows demos, results, testimonials, offers, free downloads and answers to common questions.
+- A good starting mix is about 60% top, 30% middle and 10% bottom. Another version of the same idea is 60 to 70% top, 30% trust and personal, 10% selling.
+- Change it to fit your business. A finance news account may be 90% or more top of funnel. A product page on Instagram may be 90% or more bottom. A high-priced offer for a very specific buyer leans on the middle and bottom.
+- Before you post, ask which job it does: bring new eyes, build trust, or make a sale.
 
-### Pillars times funnel
+### Combine your topics with the funnel
 
-- Pick 3 to 5 pillars at the overlap of what your audience cares about, what you are credible on, and what connects to what you sell.
-- Give each pillar a TOF, MOF and BOF version. A finance example: TOF 'how to invest in 2027 (full guide)', MOF 'beginner's guide to building a portfolio', BOF 'case study of my \$1M portfolio client' plus a free template into the offer.
+- Pick 3 to 5 topics (content pillars) where three things overlap: what your audience cares about, what you are credible on, and what connects to what you sell.
+- Then write a top, middle and bottom version of each topic. Finance example: top is "how to invest in 2027 (full guide)", middle is "a beginner's guide to building a portfolio", bottom is "a case study of my \$1M portfolio client", plus a free template that leads into your offer.
 
-### Content that sells (MOF and BOF)
+### Content that sells (middle and bottom)
 
-- The list: case studies ('how I helped [client] go from X to Y'), results (screenshots, numbers, before and after), behind the scenes of delivering, frameworks (your process, packaged so people want help with it), and lessons (mistakes so they do not make them).
-- Your profile is your sales page: audit the bio, pinned post, banner and link like a conversion expert.
-- Soft CTAs at the end of your best posts, for example: 'I break this down in my newsletter (link in bio)', 'DM me system and I'll send you the template', 'we help brands do this, link in bio'.
-- If people love your work but do not know what you sell, the commercial bridge is missing. Bottom-of-funnel content shows the offer, who it is for, results, testimonials and what to do next.
+- Case studies: "how I helped [client] go from X to Y". Results: screenshots, numbers, before and after. Behind the scenes of how you deliver. Frameworks: your process, packaged so people want your help with it. Lessons: mistakes you made, so your audience doesn't repeat them.
+- Your profile is your sales page. Check your bio, pinned post, banner and link the way a conversion expert would: does a visitor know what you do and what to do next?
+- End your best posts with a soft call to action, for example: "I break this down in my newsletter (link in bio)", "DM me system and I'll send you the template", or "we help brands do this, link in bio".
+- If people love your work but don't know what you sell, you are missing the bridge to your offer. Bottom-of-funnel content shows the offer, who it is for, the results, testimonials and what to do next.
 
 ### The 4 stages: a slippery slope
 
-- Build it to feel like a slippery slope from attention to transaction. When it is right, people say 'I don't know how I got on this sales call but your process is smooth.' A smooth process signals great delivery.
-- Awareness: YouTube, Instagram, X, LinkedIn. Create content that solves the problems customers told you about (survey them). How-to content converts best.
-- Interest: CTAs and lead magnets. A core CTA under every video leads to a lead magnet tied to that video (a deep work video offers a deep work checklist). Capture email and phone number.
-- Consideration: build a richer relationship, best done with a newsletter. Most people convert 'sometime between today and 2 years from now'.
-- Decision: a sales call or landing page. Give all the right information, link the content they watched to the offer, make it easy to say yes.
-- Ultimate metric: profit per month driven by content.
+- Build your system so it feels like a slippery slope from attention to sale. When it works, people say "I don't know how I got on this sales call, but your process is smooth." A smooth process also signals that you deliver well.
+- Awareness: people find you on YouTube, Instagram, X or LinkedIn. Make content that solves the problems your customers told you about (ask them in a survey). How-to content converts best.
+- Interest: add a call to action under every piece of content that leads to a free download tied to that content. A video on deep work could offer a deep work checklist. Collect their email address, and phone number if you can.
+- Consideration: build a deeper relationship, best done with a newsletter. Most people buy sometime between today and 2 years from now, so stay in touch.
+- Decision: a sales call or landing page. Give them all the information they need, connect the content they watched to the offer, and make it easy to say yes.
+- The ultimate number to track is the profit each month that your content drives.
 
 ### Trust sells the offer
 
-- Optimize for trust by setting and meeting expectations and solving painful problems. Then the audience believes you will deliver on an offer you mention off the free platform. The analogy: Costco samples. Target the ideal customer's problems, not just the current audience's.
-- Virality can grow the audience while sales fall (the client who went wide: views and subscribers up, sales down). Attention does not equal belief you can teach (a singer with a huge following is an example).
-- A download paired with a video raises the odds viewers take action (one brand coach uses it as lead capture).
-- The hook formula works for pure B2B lead generation (a real estate mortgage example). Teacher format is best for building authority to sell expertise. Experimenter is good for B2B tool and product demos. Boring industries (dentists, life insurance, cemeteries, cleaning businesses) can use the illusion of novelty to get traffic and turn it into leads. These are one creator's claims.
-- Salesy signals: fake urgency feels like selling and kills trust. The town crier tone triggers 'being sold to' suspicion. The gossip whisperer shares instead of sells.
+- Set expectations, meet them, and solve painful problems. Then your audience believes you will deliver on an offer you mention outside the free platform. Think of free samples at a warehouse store: you try one, then buy the pack. Aim at your ideal customer's problems, not just whoever follows you today.
+- Going viral can grow your audience while sales fall. One client went wide: views and followers went up, and sales went down. Attention is not the same as people believing you can teach them. A singer with a huge following doesn't automatically sell music lessons.
+- Pairing a video with a free download makes viewers more likely to act. One brand coach uses it to collect emails.
+- One creator says the hook formulas work for B2B lead generation, with a mortgage example. He says the teacher format is best for building authority when you sell expertise, and the experimenter format is good for B2B tool and product demos. He also says boring industries like dentists, life insurance, cemeteries and cleaning businesses can make their content feel new to get traffic and turn it into leads. These are his claims, so test them.
+- Avoid two tones that kill trust. Fake urgency feels like selling. A town-crier voice ("Hear ye, hear ye, buy now!") makes people suspect they are being sold to. A softer tone, like sharing a secret with a friend, feels like sharing instead of selling.
 
-### Funnels by business type, and a famous merch plug
+### Funnels by business type
 
-- Courses and communities: a free checklist or free community first, paid product after. A freebie on every post that does well, to grow the email list. Affiliates once it sells.
-- An AI character account: connect niche and messaging to a lead magnet, an email list and an offer. Ask what the same person would come back to the character for tomorrow.
-- For teams: put tracking in place with marketing and sales so organic content can be traced to sales (the documentary that sold out a month of seminars). Work toward tracking qualified leads from an Instagram video to the closed sale. Misaligned incentives (rewarding views, punishing low conversions) cause burnout. The goal is profit from the ideal customer.
-- A contrarian example: standing out with a physical product (Bloom Energy at Target) instead of the usual info, consulting or agency model.
-- MrBeast's merch plug: say it is exclusive ('our first and maybe only merch drop of the entire year'), add an extra incentive (buy any item and get a link to an unreleased video), make the drop time-specific (seven days). One YouTube analyst called it 'textbook sales'.
-- One investor's audience gives his fund an edge, because he can amplify portfolio companies. His claim: it is 80/20, few companies take up everything you offer.
+- Courses and communities: offer a free checklist or free community first, then the paid product. Add a free download to every post that does well, to grow your email list. Add affiliates once it sells.
+- An account run by an AI character: connect the niche and message to a free download, an email list and an offer. Ask yourself what the same person would come back to this character for tomorrow.
+- For companies: set up tracking with marketing and sales so organic content can be traced to sales. Aim to follow a lead from one Instagram video all the way to a closed sale. If you reward the team only for views and punish low conversion, they burn out. The goal is profit from your ideal customer.
+- You can also stand out by selling a physical product instead of the usual information, consulting or agency offer. One energy company did this with a product in a big retail store.
+- MrBeast's merch plug is a good model. He said it was exclusive ("our first and maybe only merch drop of the entire year"), added an extra reason to buy (buy any item and get a link to an unreleased video), and gave it a deadline (seven days). One YouTube analyst called it textbook sales.
 
 ### From audience to income
 
-- In saturated niches, an audience that follows your journey asks how to do what you do. That opens teaching as a way to earn.
-- One creator's claim: content helps you do coaching, sell books, get design clients, scale UGC or agency businesses, sell digital products and raise money. The condition: only if you build the skill to consistently go viral. These are his claims.
+- In a crowded niche, an audience that follows your journey will start asking how you do what you do. That opens teaching as a way to earn.
+- One creator says content can help you sell coaching and books, win design clients, grow a video or agency business, sell digital products and raise money, but only if you build the skill of making content that spreads again and again.
 
 ### Frameworks
 
-**TOF, MOF, BOF**
+**Top, middle and bottom of the funnel**
 
-1. TOF: get discovered (about 60%)
-2. MOF: build trust (about 30%)
-3. BOF: convert (about 10%)
+1. Top: get discovered (about 60%)
+2. Middle: build trust (about 30%)
+3. Bottom: make the sale (about 10%)
 4. Adjust the mix to your business, and give every post one job
 
-**Awareness, Interest, Consideration, Decision**
+**The 4 stages from stranger to customer**
 
-1. Awareness: content that solves surveyed problems
-2. Interest: CTA and a lead magnet tied to the content
-3. Consideration: newsletter relationship
-4. Decision: sales call or landing page that links the content to the offer
+1. Awareness: content that solves problems your customers named
+2. Interest: a call to action and a free download tied to the content
+3. Consideration: a newsletter that builds the relationship
+4. Decision: a sales call or landing page that links the content to the offer
 
-**Pillars times funnel**
+**Topics combined with the funnel**
 
-1. Pick 3 to 5 pillars at the overlap of audience interest, credibility and your offer
-2. Write a TOF, MOF and BOF version of each pillar
-3. Add a free template or lead magnet into the offer
+1. Pick 3 to 5 topics where audience interest, your credibility and your offer overlap
+2. Write a top, middle and bottom version of each
+3. Add a free template that leads into the offer
 
 ### Examples
 
-- **Finance pillar:** TOF: how to invest in 2027 (full guide). MOF: beginner's guide to building a portfolio. BOF: case study of my \$1M portfolio client, plus a free template.
-  <br>*Why it works:* One creator's own example.
-- **MrBeast merch plug:** Exclusive, an extra incentive, a time limit of seven days.
-  <br>*Why it works:* Called textbook sales.
+- **One finance topic at all three levels:** Top: how to invest in 2027 (full guide). Middle: a beginner's guide to building a portfolio. Bottom: a case study of my \$1M portfolio client, plus a free template.
+  <br>*Why it works:* One topic, three jobs: discovery, trust, then a path to the offer.
+- **MrBeast's merch plug:** He made it exclusive (the only merch drop of the year), added a bonus (a link to an unreleased video with any purchase) and set a deadline (seven days).
+  <br>*Why it works:* A real offer with a real reason to act now. No fake urgency needed.
 
 ### Common mistakes
 
 - Posting only top-of-funnel content and never showing what you sell
 - Chasing views while sales fall
-- Fake urgency and the town crier tone
-- Rewarding the team only for views
+- Fake urgency and the town-crier tone
+- Rewarding a team only for views
 
 ### Where the sources disagree
 
-Mix of funnel content. One view starts at 60% TOF, 30% MOF, 10% BOF but says to change it: a finance news account may be 90%+ TOF and a product page 90%+ BOF. Another adds a warning that more reach does not always mean more sales.
+One view starts at 60% top, 30% middle and 10% bottom, then says to adjust: a finance news account may be 90% top, and a product page 90% bottom. Another adds a warning that more reach does not always mean more sales.
 
 ### Try it
 
-Take one pillar and write its TOF, MOF and BOF post titles.
-
-<details><summary><b>Check yourself (4 questions)</b></summary>
-
-**1. What is a good starting mix of TOF, MOF and BOF?**
-
-- a) 60, 30, 10
-- b) 33, 33, 33
-- c) 90, 5, 5
-- d) 10, 30, 60
-
-*Answer: a) 60, 30, 10.* About 60% TOF, 30% MOF, 10% BOF, to be adjusted.
-
-**2. What should be tied to every video CTA?**
-
-- a) A discount
-- b) A lead magnet tied directly to that video
-- c) A podcast
-- d) A merch link
-
-*Answer: b) A lead magnet tied directly to that video.* For example a deep work video offers a deep work checklist.
-
-**3. What can happen when you chase virality?**
-
-- a) Sales always rise
-- b) Audience can grow while sales fall
-- c) Nothing
-- d) Trust rises
-
-*Answer: b) Audience can grow while sales fall.* The client who went wide saw views up and sales down.
-
-**4. Which is part of MrBeast's merch plug?**
-
-- a) A long sales page
-- b) Unlimited stock
-- c) A time-specific drop and an extra incentive
-- d) A free product
-
-*Answer: c) A time-specific drop and an extra incentive.* Exclusive, extra incentive, seven days.
-
-</details>
+Take one topic you post about and write its top, middle and bottom post titles.
 
 [Back to the top of this module](#top) · [All modules](../README.md#contents)
 
@@ -1110,130 +745,93 @@ Take one pillar and write its TOF, MOF and BOF post titles.
 
 <a id="m10-l10"></a>
 
-## 10.10 Building an offer from zero and a 90-day plan
+## 10.10 Building an offer from zero, and a 90-day plan
 
 *10 min read*
 
-> **The big idea:** There are 7 steps to a digital product and a 5-post way to validate an offer, plus a 90-day plan. Both teach specificity: one dream customer and one clear promise.
+> **The big idea:** A good offer has one dream customer and one specific promise. There are 7 steps to a digital product, a way to test an offer with 5 posts, and a 90-day plan.
 
 ### 7 steps to a digital product
 
-- One creator's claim: \$150,000 in 1.5 years with this process.
-- 1\. Sell your sawdust: the easiest product is the one you already use without noticing. 'The creator economy is simply a system's economy.' Examples: a producer's drum kit, an editor's presets, an email marketer's way of writing emails, a writer's idea process, an athlete's pre-game routine, a finance person's budgeting system. Existing lessons and materials can become the product.
-- 2\. Create your Dream Customer: 'If you're selling to everyone, you're selling to no one.' Even 'sell to your previous self' needs an avatar, because there are many past versions of you. One creator's versions: broke college student 4 years ago; struggling to build an audience 3 years ago; \$4,000 a month ghostwriter who hated it 2 years ago; had an offer but inconsistent sales last year. Each has different problems, skills and buying power.
-- 3\. Write your promise: 'Specificity sells.' Not 'Grow an audience' but 'Grow by 1,000 followers per month using a named framework'. Promise formula: 'Helping [WHO] go from [HELL] to [HEAVEN] so they can [BENEFIT(s)]'.
-- 4\. Create your curriculum: from the promise, list 3 to 5 major milestones (modules), then 3 to 5 action steps per milestone (lessons). Overdeliver means deliver on the promise and nothing more. Overwhelm means doing too much.
-- 5\. Become your own case study (covered in the module on proof).
-- 6\. Write your sales page (next lesson).
-- 7\. Send traffic.
+- One creator says this process earned him \$150,000 in 1.5 years. That is his own claim, but the steps are sound.
+- Step 1: sell your sawdust. Sawdust is the leftover of your own work: the thing you use all the time and don't see as valuable. A music producer's drum kit, an editor's presets, an email marketer's way of writing emails, a writer's process for finding ideas, an athlete's pre-game routine, someone's budgeting system. The creator economy is really an economy of systems. Lessons and materials you already have can become the product.
+- Step 2: create your dream customer. If you're selling to everyone, you're selling to no one. Even "sell to your past self" needs a clear person, because you have many past selves. One creator's examples: a broke college student 4 years ago, someone struggling to build an audience 3 years ago, a ghostwriter earning \$4,000 a month who hated it 2 years ago, someone with an offer but few sales last year. Each one has different problems, skills and budget.
+- Step 3: write your promise. Specific promises sell. Not "grow an audience" but "grow by 1,000 followers a month using a named framework". Use this formula: "Helping [WHO] go from [HELL] to [HEAVEN] so they can [BENEFIT]." Hell is their painful starting point, and heaven is the result they want.
+- Step 4: create your curriculum. From your promise, list 3 to 5 big milestones (these become modules), then 3 to 5 action steps for each milestone (these become lessons). Deliver on the promise and nothing more. Adding too much overwhelms the buyer.
+- Step 5: become your own case study. The Proof module covers how.
+- Step 6: write your sales page. The next lesson covers how.
+- Step 7: send traffic to it.
 
 ### Building an offer from zero
 
-- 1\. Uncover your skills (AI interviews you one question at a time).
-- 2\. Find demand: what people in your niche complain about and ask for, plus your own DMs and replies.
-- 3\. Package it: name, who it is for, outcome, format, launch price, one-paragraph pitch.
-- 4\. Validate THEN sell, with 5 posts: a problem post, a poll, a behind-the-scenes post, a waitlist post and a soft pre-sell.
+- 1\. Find your skills. An AI can interview you, one question at a time, to help you spot what you know.
+- 2\. Find demand. Look at what people in your niche complain about and ask for, plus your own DMs and replies.
+- 3\. Package it. Write down the name, who it is for, the result, the format, a launch price and a one-paragraph pitch.
+- 4\. Test first, then sell, with 5 posts. A post about the problem. A poll. A behind-the-scenes post. A waitlist post. A soft pre-sell. If people respond, build it. If they don't, you learned that before spending months.
 
-### A 90-day plan to \$10k a month
+### A 90-day plan to \$10,000 a month
 
-- Days 1 to 3: list 3 to 5 skills and overlap one with a hot niche, set up the profile, pick one platform.
-- Days 4 to 20: post 3 to 6 times a day, value only, video AND written, share proof.
-- Days 21 to 75: launch a service offer, one offer post a day, soft CTAs, 100 qualified outreach messages a day with free value upfront (a Loom). Every client win becomes a case study. If no clients: work free or add a guarantee.
-- Days 76 to 90: raise prices, double down on the formats that drove DMs and profile visits, start a newsletter.
-- This plan is a creator's own claim and target.
+- This plan is one creator's own target, not a promise. Use it as a structure.
+- Days 1 to 3: list 3 to 5 skills and pick one that overlaps with a hot niche. Set up your profile and pick one platform.
+- Days 4 to 20: post 3 to 6 times a day. Give only value, in video and in writing, and share proof.
+- Days 21 to 75: launch a service offer. Post about the offer once a day with soft calls to action. Send 100 messages a day to qualified people, with free value upfront, like a short recorded video reviewing their work. Turn every client win into a case study. If you can't find clients, work for free or add a guarantee.
+- Days 76 to 90: raise your prices, do more of the formats that brought DMs and profile visits, and start a newsletter.
 
-### Selling with no clients yet, and perception of effort
+### Selling with no clients yet
 
-- Perception of effort: do the work upfront. An audit plus 4 redesigned thumbnails beats a generic 'I can help you grow' DM '10 times out of 10'.
-- Em dashes in a DM can be 'an instant write-off' for some people.
-- Treat clients as your boss. Agencies get a bad name for pumping out volume without thinking like that.
+- Show effort upfront. Do some of the work before you ask. An audit plus 4 redesigned thumbnails beats a generic "I can help you grow" message, according to one creator, 10 times out of 10.
+- Small details matter in DMs. Some people see an em dash in a message as an instant sign of AI and write you off.
+- Treat clients as your boss. Agencies get a bad name for pumping out volume without thinking like this.
 
 ### Frameworks
 
-**7 steps to a digital product**
+**The 7 steps to a digital product**
 
-1. Sell your sawdust
-2. Create your Dream Customer
+1. Sell your sawdust: the thing you already do without noticing
+2. Create your dream customer
 3. Write your promise
 4. Create your curriculum
 5. Become your own case study
 6. Write your sales page
 7. Send traffic
 
-**Promise formula**
+**The promise formula**
 
 1. Helping [WHO]
-2. go from [HELL] to [HEAVEN]
-3. so they can [BENEFIT(s)]
+2. go from [HELL, their painful starting point]
+3. to [HEAVEN, the result they want]
+4. so they can [BENEFIT]
 
-**Validate then sell: 5 posts**
+**Test before you sell: 5 posts**
 
-1. Problem post
-2. Poll
-3. Behind-the-scenes post
-4. Waitlist post
-5. Soft pre-sell
+1. A post about the problem
+2. A poll
+3. A behind-the-scenes post
+4. A waitlist post
+5. A soft pre-sell
 
 ### Examples
 
-- **Specific promise:** Not 'Grow an audience' but 'Grow by 1,000 followers per month using a named framework'.
-  <br>*Why it works:* An example of specificity.
+- **A specific promise:** Not "grow an audience" but "grow by 1,000 followers per month using a named framework".
+  <br>*Why it works:* A clear number and method make the promise believable and easy to want.
+- **The promise formula filled in:** Say you teach resumes: "Helping recent graduates go from getting no replies to getting interviews, so they can start their first job faster."
+  <br>*Why it works:* This example is made up to show how the formula works.
 
 ### Common mistakes
 
 - Selling to everyone
 - A vague promise
 - Overwhelming the buyer with too much
-- Selling before validating
-- A generic DM with no work done upfront
+- Selling before you test
+- Sending a generic DM with no work done upfront
 
 ### Where the sources disagree
 
-One view says the best first product comes from your own sawdust and a clear avatar. Another says to start even smaller, a \$10 product in a week. Both agree: validate before you build big.
+Some creators say your first product should come from your own sawdust and a clear dream customer. Others say to start even smaller, with a \$10 product built in a week. Both agree you should test before you build big.
 
 ### Try it
 
-Fill in the promise formula with one WHO, one HELL, one HEAVEN and one benefit.
-
-<details><summary><b>Check yourself (4 questions)</b></summary>
-
-**1. What does 'sell your sawdust' mean?**
-
-- a) Sell leftover materials
-- b) Sell to everyone
-- c) Sell at a discount
-- d) Sell what you already use without noticing
-
-*Answer: d) Sell what you already use without noticing.* The easiest product is something you already do.
-
-**2. Which is the promise formula?**
-
-- a) Grow fast
-- b) Learn everything about X
-- c) Buy now, save more
-- d) Helping WHO go from HELL to HEAVEN so they can BENEFIT
-
-*Answer: d) Helping WHO go from HELL to HEAVEN so they can BENEFIT.* It names who, the before, the after and the benefit.
-
-**3. What are the 5 validation posts?**
-
-- a) Hook, body, CTA, reply, repost
-- b) Problem, poll, behind the scenes, waitlist, soft pre-sell
-- c) Meme, quote, thread, video, ad
-- d) Intro, offer, discount, deadline, close
-
-*Answer: b) Problem, poll, behind the scenes, waitlist, soft pre-sell.* Validate THEN sell.
-
-**4. What beats a generic 'I can help you grow' DM?**
-
-- a) A longer DM
-- b) A phone call
-- c) A discount
-- d) Doing the work upfront, like an audit and 4 redesigned thumbnails
-
-*Answer: d) Doing the work upfront, like an audit and 4 redesigned thumbnails.* Perception of effort.
-
-</details>
+Fill in the promise formula with one who, one hell, one heaven and one benefit.
 
 [Back to the top of this module](#top) · [All modules](../README.md#contents)
 
@@ -1245,31 +843,31 @@ Fill in the promise formula with one WHO, one HELL, one HEAVEN and one benefit.
 
 *7 min read*
 
-> **The big idea:** A good sales page has 9 parts, from the promise to a FAQ. The headline and subheadline matter most, and proof is non-negotiable: if you have none, go generate some.
+> **The big idea:** A good sales page has 9 parts, from the promise to a FAQ. The headline and subheadline matter most, and proof is a must. If you have none, go create some.
 
-### The 9 parts
+### The 9 parts of a sales page
 
-- 1\. The Promise: headline and subheadline are the two most important pieces. Good headlines sell the outcome, not the product. The subheadline adds the timeframe, the unique mechanism, numbers and social proof. Skip the mechanism if you do not have a name for it.
-- 2\. The Problem (the lead): do not state the problem, then 'Keep reading if you're...' plus a pile of bullets hoping one sticks. That shows you do not know your avatar. Call out the avatar's specific problem and make a promise.
-- 3\. The Process: why your way is different and better. Lead with your story of how you found the solution. Add an illustration if you can.
-- 4\. Features and Benefits: bullet points per module, each one = what they will learn plus the benefit (the opposite of pain points).
-- 5\. Proof: social proof if you have it, otherwise yourself as the case study (one creator's first Substack cohort sold all 20 spots on that). No proof? Go generate some, for yourself or others.
+- 1\. The promise. The headline and subheadline are the two most important pieces. A good headline sells the result, not the product. The subheadline adds the timeframe, your unique method, numbers and proof. Skip the method if you don't have a name for it yet.
+- 2\. The problem. Don't just state the problem and write "keep reading if you're..." followed by a pile of bullet points, hoping one fits. That shows you don't know your customer. Instead, call out your ideal customer's specific problem and make a promise to solve it.
+- 3\. The process. Explain why your way is different and better. Start with your own story of how you found the solution. Add an illustration if you can.
+- 4\. Features and benefits. For each module, write a bullet with what they will learn plus the benefit they get. The benefit is the opposite of their pain.
+- 5\. Proof. Use proof from customers if you have it. If not, use yourself as the case study. One creator's first cohort sold all 20 spots this way. If you have no proof, go create some, for yourself or for others.
 - 6\. Price.
-- 7\. Guarantee and refunds: makes the offer easy to buy and shows confidence. One creator's claim: 200+ customers, \$100,000+ revenue, 2 refund requests.
-- 8\. Call to action recap: restate the promise, show proof, mention the price, the cost of not acting (hell), the cost of acting (heaven), then a price card listing everything included.
-- 9\. FAQ (most people skim to it): what the product is; who it is for; when they can expect results; objections 1 to 3 with answers; what if they do not get results (refund policy). End with one more buy button.
+- 7\. Guarantee and refunds. A guarantee makes the offer easier to buy and shows you are confident. One creator says he had 200+ customers, \$100,000+ in revenue and only 2 refund requests. That is his own claim, but it shows that few people use a guarantee when the product is good.
+- 8\. A closing recap. Restate the promise, show proof, mention the price, the cost of not acting (the painful situation they stay in), the cost of acting (the result they want), then a price card listing everything included.
+- 9\. A FAQ, because most people skim down to it. Answer: what is the product, who is it for, when can they expect results, the top 1 to 3 objections with answers, and what happens if they don't get results (your refund policy). End with one more buy button.
 
-### Courses and why they get a bad name
+### Why courses get a bad name
 
-- Courses carry a scam stigma, but a \$150 course from someone with skin in the game teaches practical skills faster than theory-based university courses.
+- Courses have a scam reputation, because some people sell them without ever having done the thing. A \$150 course from someone who has done it can teach practical skills faster than theory-heavy university classes. A clear promise, real proof and a guarantee are how you show yours isn't one of those.
 
-### When a sales page is not needed
+### When you don't need a sales page
 
-- When you hand-sell to a small audience, no sales page is needed because your content already did the convincing. Use a page when you are sending traffic from ads or search to cold strangers (see the earlier lesson).
+- If you hand-sell to a small audience, you don't need a sales page, because your content already did the convincing. Use a page when you send traffic from ads or search to cold strangers, who need the full story. See the lesson on getting your first client by hand.
 
 ### Frameworks
 
-**Sales page in 9 parts**
+**The 9 parts of a sales page**
 
 1. Promise
 2. Problem
@@ -1278,65 +876,25 @@ Fill in the promise formula with one WHO, one HELL, one HEAVEN and one benefit.
 5. Proof
 6. Price
 7. Guarantee
-8. CTA recap
+8. Closing recap
 9. FAQ
 
 ### Examples
 
-- **Refund claim:** 200+ customers, \$100,000+ revenue and only 2 refund requests.
-  <br>*Why it works:* A creator's own claim, shown as support for offering a guarantee.
+- **A headline that sells the result:** Say you teach resumes. A weak headline: "My Resume Template Pack". A stronger one: "Get more interview replies in 30 days with a resume that recruiters read to the end."
+  <br>*Why it works:* This example is made up. The strong headline names the result and the timeframe, not the product.
 
 ### Common mistakes
 
-- Headlines that sell the product, not the outcome
-- Listing the problem and hoping a bullet sticks
+- Headlines that sell the product, not the result
+- Listing the problem and hoping a bullet point fits
 - Pages with no proof
 - Skipping the guarantee
 - Ending the FAQ without a buy button
 
 ### Try it
 
-Write a headline that sells an outcome and a subheadline that adds the timeframe and one number.
-
-<details><summary><b>Check yourself (4 questions)</b></summary>
-
-**1. Which are the two most important pieces of the sales page?**
-
-- a) FAQ and CTA
-- b) Headline and subheadline
-- c) Price and guarantee
-- d) Proof and process
-
-*Answer: b) Headline and subheadline.* They sit in the Promise part.
-
-**2. What do good headlines sell?**
-
-- a) The brand
-- b) The product
-- c) The outcome
-- d) The price
-
-*Answer: c) The outcome.* Outcome, not product.
-
-**3. What should you do if you have no proof?**
-
-- a) Use stock reviews
-- b) Skip it
-- c) Go generate some, for yourself or others
-- d) Lower the price
-
-*Answer: c) Go generate some, for yourself or others.* Become your own case study.
-
-**4. What should the FAQ end with?**
-
-- a) A disclaimer
-- b) Nothing
-- c) One more buy button
-- d) A poll
-
-*Answer: c) One more buy button.* Most people skim to the FAQ.
-
-</details>
+Write a headline that sells a result, and a subheadline that adds the timeframe and one number.
 
 [Back to the top of this module](#top) · [All modules](../README.md#contents)
 
@@ -1344,128 +902,84 @@ Write a headline that sells an outcome and a subheadline that adds the timeframe
 
 <a id="m10-l12"></a>
 
-## 10.12 Careers in content: advocating for your work and hiring
+## 10.12 Careers in content: showing your value, and hiring
 
 *9 min read*
 
-> **The big idea:** Creatives who cannot explain their value in business terms hit a cap on what they earn. Founders can hire content people in smart ways, and those people can learn how to work with founders.
+> **The big idea:** Creative people who can't explain their value in business terms hit a ceiling on what they earn. Founders can hire content people in smart ways, and content people can learn how to work well with founders.
 
-### Teach creatives to advocate for their work
+### Teach creatives to show their value
 
-- Many creatives cannot communicate their value in business terms, so they struggle to get buy-in for projects, promotions or raises.
-- If execs cannot see how your work drives revenue, 'there is a cap to what you will be able to earn'. An untrained, hard-working team gets frustrated and leaves. Execs ask 'why would we compensate you when we can't see how it drives revenue?' Businesses decide on economics, not feelings.
-- How to teach it: a formal 20 to 30 minute group training (keep it simple, because complex means less execution), plus informal 1:1 conversations on how to share work.
-- Instead of 'look how cool this edit is', report data: 2.5x or 3x outlier versus the average video on TikTok or LinkedIn, engagement, average view duration, leads, qualified leads that converted.
-- Best case: the leader advocates for them and they advocate for themselves, 'a double win'. It is a skill that lets them earn more wherever they go.
-- A claim: communication beats raw creative skill for career outcomes. 'Creative is a commodity.'
-- Two-track career ladders (individual contributor levels versus management) give creatives a path to raises without forcing them into management.
+- Many creative people can't explain their value in business terms, so they struggle to get support for projects, promotions or raises.
+- If executives can't see how your work brings in revenue, there is a cap on what you can earn. Executives ask: why would we pay you more when we can't see how your work drives revenue? Businesses decide on numbers, not feelings.
+- If you lead a team, teach this. Run a short group training of 20 to 30 minutes and keep it simple, because a complicated method gets used less. Add informal one-on-one chats about how to share their work.
+- Instead of "look how cool this edit is", report data. How many times better than the average video did it do on TikTok or LinkedIn (say 2.5x or 3x)? What was the engagement and the average watch time? How many leads came in, and how many of them turned into customers?
+- The best case is a double win: the leader speaks up for their people, and they can speak up for themselves. It is a skill that helps them earn more wherever they go.
+- One view is that communication matters more than raw creative skill for career results, because creative skill alone is common.
+- Give creatives two career paths, one for individual experts and one for managers. That way they can get raises without being forced to manage people.
 
 ### How founders should hire content people
 
-- One creator's claims: 'Head of Content is the most in-demand role in all of tech right now' (68k views on the post). 'If you can only hire ONE marketing role, it should be Head of X'. AI collapsed a 10-person team into one, and full-stack content people can charge 2 to 5x.
-- Hire from X: look for people already posting (1 to 30k followers) and up-and-coming creators.
-- Incentives to offer: find out what they want, stable income, equity, full creative control, a team, support for their own brand, performance bonuses.
-- Red flags: never been a Head of Content before, AI slop work. Look for high-quality thinking.
-- Offering a good creator \$5 to 7k a month only attracts weaker people, because good ones earn more alone. Offer a 2-week paid trial and a retainer instead.
+- One creator says Head of Content is the most in-demand role in tech right now. His post on it got 68,000 views. He also says that if you can only hire one marketing person, it should be your Head of Content, and that AI has shrunk a 10-person team into one person who does it all and can charge 2 to 5 times more. These are his claims.
+- Hire from X. Look for people who already post, with 1,000 to 30,000 followers, and for rising creators.
+- Find out what they want and offer it: stable income, equity, full creative control, a team, support for their own personal brand, or bonuses tied to results.
+- Watch for red flags. Has the person never done the job before? Is their work generic AI-written filler? Look for high-quality thinking.
+- If you offer a good creator only \$5,000 to \$7,000 a month, you will mostly attract weaker people, because good ones earn more on their own. Offer a 2-week paid trial and a retainer instead.
 
 ### How to work with a founder
 
-- Find the real goal behind 'growth'. It is often 'I want to be seen as the authority'.
-- Protect their time: 'take 90 to 95% of the content workload off them so they can run the business'.
-- Push back with data when needed.
-- Treat clients as your boss.
+- Find the real goal behind "I want growth". It is often "I want to be seen as the authority".
+- Protect their time. Take 90 to 95% of the content work off them, so they can run the business.
+- Push back with data when you need to.
+- Treat your client as your boss.
 
 ### Roles companies hire for
 
-- Roles companies hire for in organic growth: face of the brand, copywriter or Head of Content, short-form editor (a track record of 10M to 50M+ views), creative director.
-- High agency over credentials. The best hires are often unqualified on paper.
+- In organic growth, companies hire for these roles: the face of the brand, a copywriter or Head of Content, a short-video editor (ideally with a track record of 10 to 50 million views), and a creative director.
+- Companies value people who take action on their own over people with the right credentials. The best hires are often unqualified on paper.
 
-### Money claims and market notes (one creator's claims)
+### Money and market claims
 
-- Sponsors reached out to him under 2,000 followers.
-- '\$3k a month within 30 days' from bot consulting, and '\$5 to 15k a day' from a webinar.
-- His company makes 'multi 6-figs/month from sponsors alone', and he expects new Grok Bot workflows to grow that 2 to 3x.
-- X pays small accounts through 'Original Creator Rewards'.
-- Copywriters and young content or marketing talent are in demand across AI and fintech.
-- 'The next wave of millionaires will be 20 to 26 year old cracked marketers'.
-- A market signal (one creator's claim): PayPal's CEO advertised a head of content role at about \$180,000 a year.
-- Treat all of these as claims, not measured facts.
+- None of this is checked. It is what one creator says about his own work, so use it as a rough idea of what is possible, not as a promise.
+- He says sponsors contacted him before he had 2,000 followers, that bot consulting brought him \$3,000 a month within 30 days, and that one webinar brought \$5,000 to \$15,000 a day.
+- He says his company makes multiple six figures a month from sponsors alone, and that X pays small accounts through its creator rewards program.
+- He says copywriters and young content or marketing talent are in demand across AI and fintech, and that the next wave of millionaires will be cracked 20 to 26 year old marketers. As a market signal, he says PayPal's CEO advertised a head of content role at about \$180,000 a year.
 
 ### Frameworks
 
 **Report with data, not taste**
 
-1. Show the outlier multiple against the average video
-2. Show engagement and average view duration
-3. Show leads and qualified leads that converted
-4. Link the work to revenue so execs can justify raises
+1. Show how far above the average video it performed
+2. Show engagement and average watch time
+3. Show leads, and how many became customers
+4. Link the work to revenue, so executives can justify a raise
 
-**How to report to a founder**
+**How to work with a founder**
 
-1. Find the real goal behind growth
-2. Take 90 to 95% of the workload off them
+1. Find the real goal behind "growth"
+2. Take 90 to 95% of the content work off them
 3. Push back with data when needed
 
 ### Examples
 
-- **Edit report:** Instead of 'look how cool this edit is', say it ran 2.5x or 3x above the average video and brought qualified leads.
-  <br>*Why it works:* An example of advocating with data.
+- **A data-based edit report:** Instead of "look how cool this edit is", say: "this video got 3x the views of our average video and brought in 12 leads."
+  <br>*Why it works:* The numbers here are made up. Real numbers let executives see what your work is worth.
 
 ### Common mistakes
 
 - Showing work without showing how it drives revenue
-- Making a complex training that nobody executes
+- Running a complicated training that nobody uses
 - Forcing creatives into management to get a raise
-- Hiring on credentials instead of high-quality thinking
+- Hiring on credentials instead of quality of thinking
 - Offering good creators a mediocre fixed salary
 
 ### Where the sources disagree
 
-What matters more for a content career? One view claims communication beats raw creative skill ('creative is a commodity'). Another says high agency matters more than credentials. Both agree: how you think and show value beats paper qualifications.
+Some say communication matters more than raw creative skill for a content career. Others say acting on your own matters more than credentials. Both agree that how you think and show your value beats qualifications on paper.
 
 ### Try it
 
-Take one piece of your work and write the 3 numbers you would show an exec instead of saying it looks good.
-
-<details><summary><b>Check yourself (4 questions)</b></summary>
-
-**1. What caps a creative's earnings?**
-
-- a) Too many followers
-- b) Execs not seeing how the work drives revenue
-- c) Weak tools
-- d) Short videos
-
-*Answer: b) Execs not seeing how the work drives revenue.* Businesses decide on economics.
-
-**2. How long should a formal advocacy training be?**
-
-- a) A full week
-- b) 5 minutes
-- c) 3 hours
-- d) 20 to 30 minutes
-
-*Answer: d) 20 to 30 minutes.* Keep it simple so people actually do it.
-
-**3. Where should founders look first when hiring content people?**
-
-- a) People already posting on X (1 to 30k followers)
-- b) Job boards only
-- c) University grads
-- d) Agencies
-
-*Answer: a) People already posting on X (1 to 30k followers).* Hire from X.
-
-**4. What is suggested instead of offering a creator \$5 to 7k a month?**
-
-- a) A 2-week paid trial and a retainer
-- b) A bigger bonus only
-- c) Nothing
-- d) Free work
-
-*Answer: a) A 2-week paid trial and a retainer.* Good creators earn more alone.
-
-</details>
+Take one piece of your work and write the 3 numbers you would show an executive instead of saying it looks good.
 
 [Back to the top of this module](#top) · [All modules](../README.md#contents)
 
@@ -1473,67 +987,67 @@ Take one piece of your work and write the 3 numbers you would show an exec inste
 
 <a id="m10-l13"></a>
 
-## 10.13 A selling system: customers, trust and owned audience
+## 10.13 A selling system: customers, trust and an audience you own
 
 *10 min read*
 
-> **The big idea:** Views do not equal money. Create customers with free content, make content for buyers, track revenue per follower, and move people to an audience you own.
+> **The big idea:** Views are not money. Use free content to create customers, make content for buyers, track revenue per follower, and move people onto an audience you own.
 
-### Create a customer, don't just capture one
+### Create a customer, don't just catch one
 
-- One creator calls this his most controversial take: your free content can take someone from not knowing they have a problem all the way to ready to buy.
-- His story: a friend was a broke 19-year-old on his couch making \$2,000 a month, watching a business creator's videos. The friend grew to multiple six figures a month and later bought that creator's \$5K, \$35K and \$135K programs. This is the creator's own account.
-- The Happy Meal and McDonald's play parks: built to create future customers, not only serve today's.
+- One creator calls this his most controversial idea: free content can take someone from not knowing they have a problem all the way to being ready to buy.
+- He tells of a friend who was broke and making \$2,000 a month, watching a business creator's free videos. The friend grew to multiple six figures a month and later bought that creator's \$5,000, \$35,000 and \$135,000 programs. This is the creator's own account.
+- Think of a fast-food kids' meal or a play area at a burger restaurant. Both are built to create future customers, not only to serve today's. Your free content can do the same.
 
-### Make content for buyers, not viewers
+### Make content for buyers, not just viewers
 
-- Views do not equal money. Some people with a million followers are broke.
-- One creator (about 60K on Instagram, his number) says he attracts high-level buyers by talking about 'nuanced observable problems' that pull the right people and repel the wrong ones.
-- Build your ideal customer profile with hopes, dreams, fears and blockers. One business coaching company's ICP is 'Frustrated Fred': hopes for more money, dreams of time freedom ('buy back your time'), fears that growing the business kills his free time, blocked by the belief that scaling means a bad life at home.
-- That is why the founder posts about his personal life, not only business: it speaks to Fred's dream and his blocker.
-- Proof and dramatic demonstrations sell. Proof is what makes people listen in the first place. Showing the founder building AI companies in real time 'builds trust and then gets people to buy'.
+- Views don't equal money. Some people with a million followers are broke.
+- One creator with about 60,000 followers on Instagram says he attracts high-level buyers by talking about specific, observable problems that pull the right people in and push the wrong people away.
+- Describe your ideal customer with their hopes, dreams, fears and blockers. One business coaching company calls its ideal customer "Frustrated Fred". He hopes for more money. He dreams of time freedom, buying back his time. He fears that growing his business will kill his free time. And he is blocked by the belief that scaling means a bad life at home.
+- That is why the founder also posts about his personal life, not only business. It speaks to Fred's dream and to what blocks him.
+- Proof and dramatic demonstrations sell. Proof is what makes people listen in the first place. Showing a founder building AI companies in real time builds trust, and trust gets people to buy.
 
 ### Track money, not just views
 
-- Revenue per follower: total top-line revenue last month divided by followers added last month. It is an efficiency number: did we add the right people?
-- Aim for the minimum views that bring in revenue. 'Getting views and not making money is just a waste of time.'
-- Track leads (earned to owned traffic) and revenue daily. Most people never track whether a viewer downloaded the lead magnet. Without revenue numbers you cannot know if content is paying off.
+- Revenue per follower: take last month's total revenue and divide it by the followers you added last month. It tells you whether you attracted the right people.
+- Aim for the fewest views that still bring revenue. Getting views and not making money is a waste of time.
+- Track leads and revenue every day. A lead here means someone who moved from social media to your own list. Most people never check whether a viewer downloaded the free resource. Without revenue numbers, you can't know whether your content pays off.
 
-### Own your audience: owned versus earned media
+### Own your audience
 
-- Earned media is YouTube, Instagram, Facebook, TikTok (rented). Owned media is the email list, SMS list and sometimes physical addresses.
-- 'If Instagram and Facebook go down tomorrow, who can you actually contact?' People lose Instagram accounts overnight (banned for sending too many messages). The big mistake is celebrating followers and never collecting emails or phone numbers.
-- How: a lead magnet (free resource) wherever people find you, behind a form, ideally with a few qualifying questions so you can segment the list. One example is an 'executive assistant playbook'. Capture email or SMS, sell later.
-- Move a follower to owned media as soon as possible.
+- Earned media means platforms like YouTube, Instagram, Facebook and TikTok. You don't control them, you are renting space. Owned media is your email list, your text message list, and sometimes physical addresses.
+- Ask yourself: if Instagram and Facebook go down tomorrow, who can I actually contact? People lose accounts overnight, for example after being banned for sending too many messages. The big mistake is celebrating followers and never collecting emails or phone numbers.
+- How to do it: offer a free resource wherever people find you, behind a form. Ideally ask a few qualifying questions so you can sort your list into groups. One example is an executive assistant playbook. Collect their email or phone number, and sell later.
+- Move followers onto owned media as soon as possible.
 
-### Separate media from marketing (at 3M+)
+### Separate media from marketing (at 3 million followers or more)
 
-- Media optimizes for audience growth, marketing turns the audience into customers. 'Media is planting the seeds, marketing is harvesting.' Marketing is the bridge between media and sales.
-- Split the KPIs. Media: views and followers. Marketing: cost per lead, conversion rate and revenue per follower.
-- You will not build a team of 17 people if you are not making money off your personal brand.
+- Media is about growing the audience. Marketing is about turning the audience into customers. Media plants the seeds, and marketing harvests them. Marketing is the bridge between media and sales.
+- Track different numbers for each. For media: views and followers. For marketing: cost per lead, how many people convert, and revenue per follower.
+- You won't be able to build a team of 17 people if your personal brand isn't making money.
 
 ### Make other people rich
 
-- 'Almost every millionaire I know simply made OTHER people rich'. Create value instead of extracting it.
-- Sit in on sales calls to learn which messaging actually moves people. Pay to play early on: work for free, or pay people better than you, to learn faster.
+- One creator says almost every millionaire he knows simply made other people rich. They created value instead of extracting it.
+- Sit in on sales calls to learn which words really move people. Early on, pay to play: work for free, or pay people better than you, to learn faster.
 
 ### Frameworks
 
 **Revenue per follower**
 
-1. Take total top-line revenue last month
-2. Divide by followers added last month
-3. Read it as: did we add the right people?
+1. Take last month's total revenue
+2. Divide it by the followers you added last month
+3. Read it as: did I attract the right people?
 
-**Media versus marketing KPIs**
+**Media numbers versus marketing numbers**
 
-1. Media: views, followers
-2. Marketing: cost per lead, conversion rate, revenue per follower
+1. Media: views and followers
+2. Marketing: cost per lead, conversion rate and revenue per follower
 
 ### Examples
 
-- **Frustrated Fred:** Hopes for more money, dreams of time freedom, fears growth kills his free time, blocked by the belief that scaling means a bad life at home.
-  <br>*Why it works:* A business coaching company's ICP.
+- **"Frustrated Fred":** He hopes for more money, dreams of time freedom, fears that growth will kill his free time, and is blocked by the belief that scaling means a bad life at home.
+  <br>*Why it works:* This is how one business coaching company describes its ideal customer. A profile this specific tells you what to post about.
 
 ### Common mistakes
 
@@ -1543,47 +1057,7 @@ Take one piece of your work and write the 3 numbers you would show an exec inste
 
 ### Try it
 
-Write your ideal customer in four lines: hopes, dreams, fears, blockers. Then name one lead magnet that captures their email.
-
-<details><summary><b>Check yourself (4 questions)</b></summary>
-
-**1. What is revenue per follower?**
-
-- a) Views divided by posts
-- b) Likes per post
-- c) Followers divided by revenue
-- d) Last month's revenue divided by followers added last month
-
-*Answer: d) Last month's revenue divided by followers added last month.* An efficiency number.
-
-**2. What is owned media?**
-
-- a) Instagram
-- b) TikTok
-- c) YouTube
-- d) Email and SMS lists
-
-*Answer: d) Email and SMS lists.* Earned media is rented.
-
-**3. Who is Frustrated Fred?**
-
-- a) A business coaching company's ideal customer profile
-- b) A software tool
-- c) A creator
-- d) A competitor
-
-*Answer: a) A business coaching company's ideal customer profile.* An example of an ICP.
-
-**4. Which KPI belongs to marketing, not media?**
-
-- a) Followers
-- b) Views
-- c) Likes
-- d) Cost per lead
-
-*Answer: d) Cost per lead.* Media tracks views and followers.
-
-</details>
+Write your ideal customer in four lines: hopes, dreams, fears and blockers. Then name one free resource that would make them give you their email.
 
 [Back to the top of this module](#top) · [All modules](../README.md#contents)
 
@@ -1591,82 +1065,82 @@ Write your ideal customer in four lines: hopes, dreams, fears, blockers. Then na
 
 <a id="m10-l14"></a>
 
-## 10.14 CTAs, offers and big moments
+## 10.14 Calls to action, offers and big moments
 
 *10 min read*
 
-> **The big idea:** Tell people what to do next and match the CTA to the funnel stage. Also decide where to put the CTA, how to scale the ask with trust, and when to sell in big moments.
+> **The big idea:** Tell people what to do next, and match your ask to how much they trust you. Also decide where the ask goes in a video, and when to sell in big moments.
 
 ### Tell people what to do
 
-- From a copywriting article: 'you need to DIRECT people on what to do next'. Want a follow, ask. Want comments, ask a question.
-- CTA by action, examples (paraphrased). Reply: 'which one do you disagree with?'. Share: 'send this to a friend who's building a brand'. Follow: 'follow for daily posts on [topic]'. Save: 'bookmark this for your next post'. Click: 'full breakdown in the article below'. Buy: 'DM me [word] and I'll send you the details'.
-- Match the CTA to the funnel. TOF: ask for a follow or share (they do not know you). MOF: a reply, save or click (they trust you a bit). BOF: the sale, DM or sign-up (they are ready).
-- Tips: put your CTA in the replies of your best post, add CTAs early in a post when attention is highest, keep them specific and low effort, tease what is next, and ask readers for something (advice, what they want next).
+- A call to action (CTA) is the line that tells people what to do next. People won't act unless you direct them. If you want a follow, ask for one. If you want comments, ask a question.
+- Ideas by action. Reply: "which one do you disagree with?" Share: "send this to a friend who's building a brand". Follow: "follow for daily posts on [topic]". Save: "bookmark this for your next post". Click: "full breakdown in the article below". Buy: "DM me [word] and I'll send you the details".
+- Match the ask to the stage. For people who don't know you yet, ask for a follow or share. For people who trust you a bit, ask for a reply, save or click. For people who are ready, ask for the sale, a DM or a sign-up.
+- Tips: put your CTA in the replies of your best post. Add a CTA early in a post when attention is highest. Keep it specific and low effort. Tease what is next. And ask readers for something, like advice or what they want next.
 
 ### Rating an offer from 3/10 to 10/10
 
-- 3/10: 'get abs' (a clear outcome).
-- 5/10: 'get abs in 90 days' (a timeline).
-- 7/10: '...or your money back' (risk reversal, a guarantee).
-- 9/10: '...with the X40 training system' (a named unique mechanism).
-- 10/10: '...only 10 spots left' (scarcity and urgency).
+- 3/10: "get abs". It has a clear result.
+- 5/10: "get abs in 90 days". Now it has a timeline.
+- 7/10: "...or your money back". Now it has a guarantee, so the buyer takes no risk.
+- 9/10: "...with the X40 training system". Now it has a named method, which makes it feel unique.
+- 10/10: "...only 10 spots left". Now there is a real reason to act now.
 
 ### Where the CTA goes
 
-- Every video should have a free resource. Do not send people straight to a call page. 'I don't think you should get married on the first day.'
-- Put the CTA at least 30% into the video, not only at the end. The numbers: average retention is about 25 to 30%, so 60 to 75% never see an end CTA. At the 30% mark about 50 to 60% are still watching. One creator says it doubles opt-ins.
-- Make it the first link in the description, not buried under 15. Remind them once at the end. The claim: plus 10 to 20% opt-ins.
+- Every video should offer a free resource. Don't send people straight to a call page. You shouldn't get married on the first day.
+- Put the CTA at least 30% of the way into the video, not only at the end. The average viewer watches only 25 to 30% of a video, so 60 to 75% never see an end CTA. At the 30% mark, about 50 to 60% are still watching. One creator says this doubles sign-ups.
+- Make your link the first one in the description, not buried under 15 others. Remind people once more at the end. The same creator says this adds another 10 to 20% in sign-ups.
 
-### Scale the ask with the trust
+### Make the ask as big as the trust
 
-- No 'comment COACH to work with me' in a YouTube video yet. It is too big an ask.
-- A ladder: free resource, then newsletter, then a DM on Instagram, then a conversation that qualifies them, then a 15 to 30 minute sales call, then the program.
-- Get them a result before they buy: send a prospect a Loom or a PDF an hour or two before a sales call. Buyers at one business coaching company often feel they got so much free value from the founder they 'have to' pay him. 'Karmic debt will catch up' with those who give as little as possible.
+- Don't say "comment COACH to work with me" in a YouTube video from a new viewer. That is too big an ask.
+- Build a ladder: a free resource, then a newsletter, then a DM on Instagram, then a conversation to see if they fit, then a 15 to 30 minute sales call, then the program.
+- Get them a result before they buy. Send a prospect a short recorded video or a PDF an hour or two before a sales call. Buyers at one business coaching company often feel they got so much free value from the founder that they feel they should pay him back. People who give as little as possible usually pay for it later.
 
 ### Sell in big moments
 
-- Emailing an ask 3 times a week burns goodwill. 'Diamonds are just coal under pressure', so compress demand into a short window.
-- A challenge: one creator says another creator made over \$7M in a week with a 'yap challenge', built on a unique mechanism (yapping). His claim.
-- A webinar or VSL: one agency owner runs them about 1 to 4 times a month. Demo what you are great at, then make an offer to 20 to 200 people at once instead of 250 sales calls.
-- A launch event: once a year, hyped for 6 to 8 weeks. One business author sold 20,000 copies of his book in early 2023 with under 100K followers. A creator's claim.
+- Emailing an ask 3 times a week burns goodwill. Instead, squeeze demand into a short window, because diamonds are just coal under pressure.
+- A challenge: one creator says another creator made over \$7M in a week with a challenge built around a unique idea. That is a claim, but the lesson is that one big, focused moment can sell more than months of small asks.
+- A webinar or a video sales letter (a long video that makes one offer): one agency owner runs these 1 to 4 times a month. You show what you are great at, then make an offer to 20 to 200 people at once, instead of holding 250 sales calls.
+- A launch event: once a year, build hype for 6 to 8 weeks. One business author says he sold 20,000 copies of his book in early 2023 with under 100,000 followers. We can't check that, but the method is sound: build up to one big moment.
 
-### How one creator runs his own CTAs (to study, not copy)
+### How one creator runs his CTAs (to study, not copy)
 
-- Every video has one keyword lead magnet: 'find me on Instagram, message me the word \_\_\_'. It is free, needs no opt-in, and pulls YouTube viewers to Instagram.
-- Each matches the video: SOP for hiring a content manager, YouTube for a scripting template, topic for a topic GPT, scorecard for a metrics sheet. Others: 'offer', 'GPT', a custom GPT.
-- Tease it in the hook, say it near the start or in the middle, and repeat it at the end.
+- Every video has one free resource tied to a keyword. He says "find me on Instagram and message me the word \_\_\_". It is free, needs no sign-up form, and moves YouTube viewers to Instagram.
+- The keyword matches the video. For a video on hiring a content manager the word is SOP, for a scripting template it is YouTube, for a topic-finding GPT it is topic, for a metrics sheet it is scorecard.
+- Tease the resource in the hook, say it near the start or the middle, and repeat it at the end.
 - End every video by recommending one video to watch next, framed as the next step.
 
 ### Frameworks
 
-**CTA matched to funnel**
+**Match the ask to the funnel stage**
 
-1. TOF: follow or share
-2. MOF: reply, save or click
-3. BOF: DM, sign-up or buy
+1. They don't know you: follow or share
+2. They trust you a bit: reply, save or click
+3. They are ready: DM, sign-up or buy
 
-**Offer rating 3 to 10**
+**Rating an offer from 3 to 10**
 
-1. Clear outcome
-2. Timeline
-3. Money-back guarantee
-4. Named unique mechanism
-5. Scarcity and urgency
+1. A clear result
+2. A timeline
+3. A money-back guarantee
+4. A named method
+5. A limited number of spots
 
-**Ask ladder**
+**The ask ladder**
 
 1. Free resource
 2. Newsletter
 3. DM
-4. Qualifying conversation
+4. A conversation to see if they fit
 5. 15 to 30 minute sales call
 6. Program
 
 ### Examples
 
-- **Offer upgrade:** Get abs. Get abs in 90 days. ...or your money back. ...with the X40 training system. ...only 10 spots left.
-  <br>*Why it works:* An example of moving an offer from 3/10 to 10/10.
+- **Upgrading an offer:** Get abs. Get abs in 90 days. Get abs in 90 days or your money back. Get abs in 90 days or your money back with the X40 training system. Only 10 spots left.
+  <br>*Why it works:* Each step adds one thing: a timeline, a guarantee, a named method, then a limited number of spots.
 
 ### Common mistakes
 
@@ -1677,47 +1151,7 @@ Write your ideal customer in four lines: hopes, dreams, fears, blockers. Then na
 
 ### Try it
 
-Rewrite one offer through the 5 steps from 3/10 to 10/10, one step at a time.
-
-<details><summary><b>Check yourself (4 questions)</b></summary>
-
-**1. Where should the CTA go in a video?**
-
-- a) Only at the end
-- b) At least 30% in, plus a reminder at the end
-- c) In the title
-- d) Never
-
-*Answer: b) At least 30% in, plus a reminder at the end.* Many viewers leave before the end.
-
-**2. Which CTA type pairs with TOF?**
-
-- a) Buy
-- b) DM me
-- c) Sign up
-- d) A follow or share
-
-*Answer: d) A follow or share.* They do not know you yet.
-
-**3. What takes an offer from 5/10 to 7/10 in the rating?**
-
-- a) Risk reversal, a guarantee
-- b) A timeline
-- c) A name
-- d) Scarcity
-
-*Answer: a) Risk reversal, a guarantee.* Money back.
-
-**4. Why send a Loom before a sales call?**
-
-- a) To record the call
-- b) To raise the price
-- c) To save time
-- d) To get them a result and build reciprocity
-
-*Answer: d) To get them a result and build reciprocity.* Buyers feel they have to pay.
-
-</details>
+Take one of your offers and upgrade it step by step from 3/10 to 10/10, adding one thing at a time.
 
 [Back to the top of this module](#top) · [All modules](../README.md#contents)
 
@@ -1729,102 +1163,63 @@ Rewrite one offer through the 5 steps from 3/10 to 10/10, one step at a time.
 
 *9 min read*
 
-> **The big idea:** A 5-step path goes from breaking in to landing the role, and takeaways and hiring lists show what companies actually look for.
+> **The big idea:** There is a 5-step path from breaking in to landing a content role. Along the way, learn what companies really look for when they hire.
 
-### 5 steps
+### The 5 steps
 
-- 1\. Break in: build your own account (one creator blew up on Instagram at 16) and study 5 to 10 creators you admire, OR join a media company. List 100 creators or brands (smaller, fast-growing ones), do the work upfront (rewrite posts, clip videos, redesign a thumbnail). Never send a bloated portfolio, AI messages or fake credentials.
-- 2\. Master one hard skill: copywriting (one creator's route), video editing, design or production. Hundreds of reps, study the top 1%, get feedback from people better than you. Many good ones on X with 0 to 10k followers answer DMs.
-- 3\. Become T-shaped: one deep skill plus fluency in packaging, distribution, data, other formats, strategy (funnels) and AI tools.
-- 4\. Leadership and ops: run lean, give feedback, write SOPs, build a pipeline dashboard, hire for traits, protect the quality bar.
-- 5\. Land the role: get promoted, create the role (pitch a founder who posts inconsistently), or get headhunted through your own personal brand.
+- 1\. Break in. Either build your own account (one creator blew up on Instagram at 16) and study 5 to 10 creators you admire, or join a media company. Make a list of 100 creators or brands, ideally smaller, fast-growing ones. Do some of the work before you ask: rewrite one of their posts, clip a video, redesign a thumbnail. Don't send a bloated portfolio, AI-written messages or fake credentials.
+- 2\. Master one hard skill, such as copywriting, video editing, design or production. Do hundreds of reps, study the top 1%, and get feedback from people better than you. Many good people on X with 0 to 10,000 followers will answer your DMs.
+- 3\. Become T-shaped. That means one deep skill, plus working knowledge of the things around it: packaging, distribution, data, other formats, strategy (how content leads to sales) and AI tools.
+- 4\. Learn to lead and run things. Work lean, give feedback, write step-by-step guides for repeated tasks, build a dashboard to track your pipeline, hire for personality traits, and protect the quality bar.
+- 5\. Land the role. You can get promoted, create the role yourself (for example, pitch a founder who posts inconsistently), or get headhunted because of your own personal brand.
 
 ### 10 takeaways from a content lead
 
-- The job is creative skills plus operational skills.
-- Do not send a CV. Audit their channel instead.
-- Do not build a brand on a hollow base.
-- Map pillars to the funnel and do not sell too early.
+- The job needs both creative skills and operational skills (planning, tracking, running a team).
+- Don't send a CV. Audit their channel instead.
+- Don't build a brand on a hollow base. Build real proof first.
+- Plan your topics around the funnel, and don't sell too early.
 - Master one platform first.
-- One hub (Notion) plus Slack plus WhatsApp.
-- Use AI for Claude Skills, research and ideas.
-- The traits are high agency and curiosity.
+- Keep your work in one hub (a notes and project tool), plus a team chat app.
+- Use AI for research, ideas and reusable instructions.
+- The traits that matter are taking action on your own and curiosity.
 - Think audience first.
-- Do NOT farm virality.
+- Don't farm virality. Chasing views for their own sake leads nowhere.
 
-### Landing a \$100k+ content job
+### Landing a \$100,000+ content job
 
-- List 50 to 100 creators you could genuinely help. Find someone on their content team. Send an audit and strategy doc, NOT a resume. Repeat 1,000 times. This is one creator's claim.
+- One creator's method: list 50 to 100 creators or brands you could genuinely help. Find someone on their content team. Send them an audit and a strategy doc, not a resume. Repeat this up to 1,000 times. This is his own claim, so treat it as a method to test.
 
 ### What to look for when hiring creatives
 
-- Curiosity, former athletes, micro creators on X (1 to 30k), YouTubers under about 10k subs, reply-guys who add value, people who grew their own Instagram, ex-founders, ex-journalists, great writing, on-camera skills, community managers, micro Substack writers.
+- If you are the one hiring, here is where to look. People who are curious. Former athletes. Small creators on X (1,000 to 30,000 followers). YouTubers under about 10,000 subscribers. People who reply to posts and add real value. People who grew their own Instagram. Former founders and former journalists. Great writers. People good on camera. Community managers. Small newsletter writers.
+- This is also a list for you: if you fit one of these, say so when you pitch.
 
 ### Frameworks
 
-**Career path in 5 steps**
+**The 5 steps to a content role**
 
 1. Break in
 2. Master one hard skill
-3. Become T-shaped
-4. Leadership and ops
+3. Become T-shaped: one deep skill plus working knowledge around it
+4. Learn to lead and run things
 5. Land the role
 
 ### Examples
 
-- **Audit, not a CV:** List 50 to 100 creators, find someone on the team, send an audit and strategy doc, repeat.
-  <br>*Why it works:* One creator's method for a \$100k+ job. His claim.
+- **An audit, not a CV:** Say you want to work with a fitness creator. You find the person who runs their content, and send a 1-page audit: three posts you would rewrite, with your versions. You don't attach a resume.
+  <br>*Why it works:* This example is made up. It shows the idea of doing the work first, so they can see your skill.
 
 ### Common mistakes
 
 - Sending a bloated portfolio or a CV
-- Using AI messages or fake credentials
+- Using AI-written messages or fake credentials
 - Building a brand on a hollow base
-- Spreading across many platforms
+- Spreading yourself across many platforms
 
 ### Try it
 
-List 10 creators or brands you could help and write one specific audit point for each.
-
-<details><summary><b>Check yourself (4 questions)</b></summary>
-
-**1. What should you send instead of a resume?**
-
-- a) A reference
-- b) An audit and strategy doc
-- c) A video
-- d) A portfolio
-
-*Answer: b) An audit and strategy doc.* Show the work upfront.
-
-**2. What does T-shaped mean in this path?**
-
-- a) One deep skill plus fluency in related areas
-- b) Only management
-- c) Only strategy
-- d) Many shallow skills
-
-*Answer: a) One deep skill plus fluency in related areas.* Depth plus breadth.
-
-**3. Which is one of the 10 takeaways?**
-
-- a) Build on a hollow base
-- b) Use five platforms
-- c) Master one platform first
-- d) Farm virality
-
-*Answer: c) Master one platform first.* Focus first.
-
-**4. Where can good mentors be found?**
-
-- a) On X with 0 to 10k followers, answering DMs
-- b) Only in universities
-- c) Only at agencies
-- d) Nowhere
-
-*Answer: a) On X with 0 to 10k followers, answering DMs.* Get feedback from people better than you.
-
-</details>
+List 10 creators or brands you could help, and write one specific audit point for each.
 
 [Back to the top of this module](#top) · [All modules](../README.md#contents)
 
@@ -1836,37 +1231,36 @@ List 10 creators or brands you could help and write one specific audit point for
 
 *8 min read*
 
-> **The big idea:** A creative director turns ideas into projects with deadlines and is accountable for the result. It is mostly managing people and projects, built on 5 skills.
+> **The big idea:** A creative director turns ideas into projects with deadlines and is responsible for the result. The job is mostly managing people and projects, and it rests on 5 skills.
 
 ### What a creative director is
 
-- 'Creative' means generating ideas or media. 'Director' means managing projects, people and departments.
-- So it is someone who turns an idea into a project with a timeline and deadlines, accountable for the outcome (like Christopher Nolan or Martin Scorsese for a film).
-- Not someone scrolling TikTok for ideas. 'Not that much of a creative role', mostly managing people and projects.
+- "Creative" means coming up with ideas or media. "Director" means managing projects, people and departments.
+- So a creative director turns an idea into a project with a timeline and deadlines, and is responsible for the outcome. Think of a film director like Christopher Nolan or Martin Scorsese.
+- It is not someone scrolling TikTok for ideas. It is not that creative a role. It is mostly managing people and projects.
 
 ### The ladder
 
-- Individual contributor (drives outcomes alone, the front line), then manager (people report to you, get here as early as you can), then director (more capabilities, more control).
+- You start as an individual contributor: you deliver results alone, on the front line. Next you become a manager: people report to you, and you should try to get here as early as you can. Last comes director: more skills, more control.
 
 ### The 5 skills
 
-- 1\. A high-income creative skill (editing, videography, copywriting, ads, design), ideally mastered over 10,000 hours. One creative director's path: video editor, videography, copywriting, each skill feeding the next. A director should be able to do the team's work and jump in when things break.
-- 2\. Data analytics: collect, clean, decide.
-- 3\. Project management: half of the job.
-- 4\. Leadership: be someone worth following. Directors who do not work well with people get trapped doing all the work alone. He credits the 17-person team, not himself, for the brand's growth.
-- 5\. Ownership: move from a renter frame to an owner frame. Big brands will not trust you with their reputation otherwise. He owns every outcome on the brand he works for, even when editing or design breaks.
+- 1\. A high-income creative skill, such as editing, videography, copywriting, ads or design, ideally mastered over about 10,000 hours. One creative director went from video editor to videography to copywriting, each skill feeding the next. A director should be able to do the team's work and jump in when something breaks.
+- 2\. Data analytics: collect the numbers, clean them up, and make decisions from them.
+- 3\. Project management. This is half of the job.
+- 4\. Leadership: be someone worth following. Directors who don't work well with people get trapped doing all the work alone. The same director credits his 17-person team, not himself, for his brand's growth.
+- 5\. Ownership: move from thinking like a renter to thinking like an owner. Big brands won't trust you with their reputation if you don't. He owns every outcome on the brand he works for, even when the editing or design breaks.
 
-### Then get results, and the job itself
+### The job itself
 
-- The 5M process: map, model, make, multiply, measure.
-- The job is the content manager's 5 jobs: ideation, capture, production, distribution, analytics. Later it is building channel owners, artifacts and principles so the team runs without you.
-- It is the hardest thing you will do. Big personal brands have high standards, so work the extra hours. One creative director says the opportunities on the other side of leaning into the hard in the last 2 years have been 'absolutely insane'.
+- The daily work covers a content manager's 5 jobs: coming up with ideas, capturing footage, producing, distributing and analyzing results. Over time, the work becomes building channel owners, reusable templates and principles, so the team runs without you.
+- It is the hardest thing you will do. Big personal brands have high standards, so expect to work extra hours. This creative director says the opportunities that came from leaning into the hard part over the last 2 years have been absolutely insane.
 
 ### Proof, team and hiring
 
-- Keep building your own proof: grow your own brand as a second case study so your credibility does not depend on one client story.
-- Shine light on the team: the founder encourages the team to grow their own brands, which is part of why good people stay.
-- The hiring side: founders get stuck because they cannot find someone to trust, and the best teams are 'built, not bought'. A hiring SOP helps founders who want to hire a content manager or creative director.
+- Keep building your own proof. Grow your own brand as a second case study, so your credibility doesn't depend on one client's story.
+- Give the team the spotlight. The founder he works for encourages the team to grow their own brands, which is part of why good people stay.
+- On the hiring side, founders get stuck because they can't find someone to trust. The best teams are built, not bought. A step-by-step guide for hiring helps founders who want to hire a content manager or creative director.
 
 ### Frameworks
 
@@ -1876,9 +1270,9 @@ List 10 creators or brands you could help and write one specific audit point for
 2. Manager (get here early)
 3. Director
 
-**The 5 skills**
+**The 5 skills of a creative director**
 
-1. High-income creative skill
+1. A high-income creative skill
 2. Data analytics
 3. Project management
 4. Leadership
@@ -1886,58 +1280,18 @@ List 10 creators or brands you could help and write one specific audit point for
 
 ### Examples
 
-- **Skill stacking:** Video editor, then videography, then copywriting, each feeding the next.
-  <br>*Why it works:* One creative director's own path.
+- **Stacking skills:** One creative director started as a video editor, added videography, then added copywriting. Each skill made the next easier to learn and made him more useful to the team.
+  <br>*Why it works:* Stacking skills lets you do more of the team's work yourself, which is what a director needs.
 
 ### Common mistakes
 
 - Thinking the role is just having ideas
 - Doing all the work alone instead of leading
-- Renter frame instead of owner frame
+- Thinking like a renter instead of an owner
 
 ### Try it
 
-Score yourself 1 to 10 on the 5 skills and pick the lowest to work on first.
-
-<details><summary><b>Check yourself (4 questions)</b></summary>
-
-**1. What does 'director' mean in this definition?**
-
-- a) Gets the credit
-- b) Manages projects, people and departments
-- c) Posts daily
-- d) Edits videos
-
-*Answer: b) Manages projects, people and departments.* Accountable for the outcome.
-
-**2. Which is NOT one of the 5 skills?**
-
-- a) Going viral
-- b) Data analytics
-- c) Project management
-- d) Ownership
-
-*Answer: a) Going viral.* The five are skill, data, project management, leadership, ownership.
-
-**3. How much of the job is project management?**
-
-- a) Half
-- b) All
-- c) A tenth
-- d) None
-
-*Answer: a) Half.* Half.
-
-**4. What does the ownership skill change?**
-
-- a) Your team size
-- b) Your salary
-- c) Your title
-- d) From a renter frame to an owner frame
-
-*Answer: d) From a renter frame to an owner frame.* Brands trust owners.
-
-</details>
+Score yourself from 1 to 10 on the 5 skills, then pick the lowest one to work on first.
 
 [Back to the top of this module](#top) · [All modules](../README.md#contents)
 
@@ -1945,128 +1299,82 @@ Score yourself 1 to 10 on the 5 skills and pick the lowest to work on first.
 
 <a id="m10-l17"></a>
 
-## 10.17 Career principles and one creative director's path
+## 10.17 Career principles for getting ahead
 
 *10 min read*
 
-> **The big idea:** One creative director's path goes from a 13-year-old with a camera to the top job, and the principles behind it: courage, reputation, focus, learning before earning, and breaking false ceilings.
+> **The big idea:** A creative director who rose fast in a big personal brand shares the principles behind it: courage, protecting your reputation, focus, learning before earning, and breaking through false limits.
 
-### The path (his own account; ages differ a little between videos)
+### The short version of his path
 
-- 13: filming himself on an iPhone, 'a kid with a camera and a laptop with absolutely no skill'.
-- 14: his dad shows him a business creator's YouTube.
-- 16: meets the creator's videographer, subcontracts for him, learns video editing ('a high income skill').
-- 18: the videographer leaves. He applies, sends a 1-minute test video, gets the full-time job. He then keeps his head down and builds reputation inside the company.
-- 20 to 22: builds the media team inside the creator's ecosystem, turns down poaching offers monthly.
-- 22: in 2023, after the creator's book launch, he is asked to go all in on content. He moves 4,000 km, sleeps in the creator's basement for a month and sets up a studio. The media company starts in the mechanical room with one editor and grows to a 17-person team.
-- 23 to 24: the creator's brand grows from about 1M to 3M+ in one year, then 3M to 9M+ the next (his numbers). The creator gives him a Porsche GT4.
-- He picked one skill (videography) and stayed in it almost 10 years. Videographer, video editor, manager, then creative director after about 6 years at the company.
-- 'He hired me as a kid that had no idea what he was doing, but I was really hungry and he invested in me.'
+- This is his own account. He started as a teenager with a camera and no skill, learned video editing as a high-income skill, and got a full-time job at 18 after sending a 1-minute test video. He kept his head down and built a reputation inside the company.
+- He then helped build the media team from one editor into a 17-person team, and became creative director after about 6 years. He stayed in one skill, videography, for almost 10 years.
+- His summary: he was hired as a kid with no idea what he was doing, but he was hungry, and the boss invested in him. The rest of this lesson is the principles behind it.
 
-### Courage in spite of competence
+### Courage matters more than skill
 
-- He was not the best editor. He showed up every day and worked hardest.
-- In the final interview the creator said 'You're young.' He, shaking, asked 'Is that going to be a problem?' He decided to act like a 30-year-old.
-- Ask what the person on the other side of the interview values. Often it is courage and hunger over skill.
-- As a hiring manager (50+ hires, his claim): '97% of the time' he takes the second or third most skilled person with the most drive, because he thinks they have a higher ceiling.
+- He says he was not the best editor. He showed up every day and worked harder than anyone.
+- In his final interview, the founder said "you're young". He asked, shaking, whether that would be a problem, and decided to act like a 30-year-old.
+- Ask what the person on the other side of the interview values. Often it is courage and hunger, more than skill.
+- As a hiring manager, he says he has made over 50 hires and 97% of the time picks the second or third most skilled person who has the most drive, because he thinks they have a higher ceiling. That is his own claim.
 
 ### Protect your reputation
 
-- Reputation follows you across cities and countries. Doing something shady 'will close doors behind your back that you didn't even know were open'.
-- The reference check story: he texted a candidate's old employer, who asked to talk by phone instead. His take: 'That's all I need to know.' If it was good, they would have texted it.
-- Be early, do what you say, be reliable, answer calls and texts, be proactive without being asked. 'How you do anything is how you do everything.'
-- Under promise, over deliver. Early on, your reputation is all you have. At 18 to 22, focus on one skill and get really good at it.
+- Reputation follows you across cities and countries. Doing something shady will close doors behind your back that you didn't even know were open.
+- He once texted a candidate's old employer for a reference. The employer asked to talk by phone instead. His take: that is all I need to know, because if it were good news they would have just texted it.
+- Be early, do what you say, be reliable, answer calls and texts, and be proactive without being asked. How you do anything is how you do everything.
+- Under-promise and over-deliver. Early in your career, your reputation is all you have. In your late teens and early twenties, focus on one skill and get really good at it.
 
-### Diversity is distraction in disguise
+### Too many options is distraction in disguise
 
-- Ignore 'the lady in the red dress' (The Matrix): the shiny offers.
-- Pick the best employer you can, someone you admire, then do not bounce around. Compounding takes 10 to 30 years, not 1 to 5. 'The grass is greener where you water it.'
-- Ask: 'what opportunity would make all of these other opportunities irrelevant?' Put all your time on that.
-- Proximity to greatness: people ask why he still works for the same creator after 10 years. His answer: decades next to that creator teach him more than going solo. Successful people want to help young people, so use it.
-- Main quest versus side quests: his main quest is making the creator the biggest personal brand in business. His own brand, Instagram, YouTube and the gym are side quests that support it.
+- Ignore shiny offers. In the film The Matrix, a woman in a red dress distracts the hero from his mission. A shiny offer works the same way.
+- Pick the best employer you can, someone you admire, and don't bounce around. Compounding takes 10 to 30 years, not 1 to 5. The grass is greener where you water it.
+- Ask: what one opportunity would make all my other opportunities irrelevant? Put all your time into that.
+- Be close to greatness. People ask why he still works for the same founder after 10 years. His answer: decades next to that founder teach him more than going solo would. Successful people like to help young people, so use that.
+- Know your main quest and your side quests. His main quest is helping his boss become the biggest personal brand in business. His own brand, Instagram, YouTube and the gym are side quests that support it.
 
-### Learn, don't earn: make other people rich first
+### Learn before you earn: make other people rich first
 
-- A famous actor's line about life's seasons: learn, then earn, then return.
-- 'You're going to have to make someone a million dollars to get 100k.' He tells employers he wants to be 'chronically underpaid', the most value for the least money, and says he gets rich as a result.
-- Reinvest instead of inflating: at 21 his boss offered a raise of \$2,000 to \$4,000 a month and he asked to use it to hire someone instead (an editor, a copywriter). When the boss offered raises of \$5 to 15K, he hired another person for the team to make the pie bigger. More results now means more money later.
-- The snowball: take a chunk out and it stops collecting snow. People who cash out early go 0 to 1 again and again, never 1 to 2 to 4 to 8.
-- Be long-term greedy: pick equity or pay tied to results over a bigger salary today.
+- A famous actor described life as seasons: learn, then earn, then return.
+- You have to make someone a million dollars to get \$100,000. He tells employers he wants to be chronically underpaid, giving the most value for the least money, and says he gets rich as a result.
+- Reinvest instead of raising your lifestyle. At 21, his boss offered him a raise of \$2,000 to \$4,000 a month. He asked to use that money to hire someone instead, like an editor or a copywriter. When the boss later offered raises of \$5,000 to \$15,000, he hired another person to make the pie bigger. More results now means more money later.
+- Think of a snowball. If you take a chunk out, it stops collecting snow. People who cash out early start from zero again and again, instead of growing from 1 to 2 to 4 to 8.
+- Be greedy for the long term. Choose ownership or pay tied to results over a bigger salary today.
 
-### Break false ceilings, and ask for what you want
+### Break through false limits, and ask for what you want
 
-- A friend who 'hit capacity' was not overworked. He was working on the wrong things.
-- To go from 3M to 9M+ he had to hand off what he held onto. He deleted Premiere Pro from his computer to stop editing ('you can't see the trees if you're still in the weeds').
-- Early career: say yes to everything. Season of scale: say no to everything except the one thing, focus on leading indicators and what only you can do.
-- Ask for what you want: a teammate who joined at 16 has more responsibility at 19 than the 30, 40 and 50 year olds, because he kept asking for more and handled it.
+- A friend who said he had hit capacity was not overworked. He was working on the wrong things.
+- To grow his boss's brand from 3 million to 9 million followers, he had to hand off what he was holding onto. He deleted his editing software from his computer so he would stop editing. You can't see the trees if you're still in the weeds.
+- Early in your career, say yes to everything. Once you are scaling, say no to everything except the one thing. Focus on the signs that predict results, and on what only you can do.
+- Ask for what you want. A teammate who joined at 16 has more responsibility at 19 than people aged 30, 40 and 50, because he kept asking for more and handled it.
 
 ### Frameworks
 
 **Learn, earn, return**
 
 1. Learn: make other people rich first
-2. Earn: be long-term greedy, equity or results-based pay
+2. Earn: be greedy for the long term, choose ownership or pay tied to results
 3. Return: give back
 
 ### Examples
 
-- **Reinvest the raise:** At 21, offered a raise of \$2,000 to \$4,000 a month, he asked to use it to hire an editor or copywriter instead.
-  <br>*Why it works:* An example of making the pie bigger. His own account.
+- **Reinvest the raise:** Offered a raise of \$2,000 to \$4,000 a month, he asked to spend it on hiring an editor or copywriter instead. The team grew, results grew, and later raises were bigger.
+  <br>*Why it works:* This is making the pie bigger instead of taking a bigger slice. It is his own account.
 
 ### Common mistakes
 
 - Bouncing between employers
 - Cashing out early
 - Holding on to tasks when it is time to scale
-- Chasing the lady in the red dress
+- Chasing every shiny offer
 
 ### Where the sources disagree
 
-Career route. One view says to stay with one great employer for 10 to 30 years of compounding. Another says to build your own account or join a media company, then get promoted, create a role or get headhunted. Both agree: focus on one skill and build real proof.
+Some say to stay with one great employer for 10 to 30 years and let your skills compound. Others say to build your own account or join a media company, then get promoted, create a role or get headhunted. Both agree you should focus on one skill and build real proof.
 
 ### Try it
 
-Name your main quest in one sentence and list the side quests that should support it.
-
-<details><summary><b>Check yourself (4 questions)</b></summary>
-
-**1. What did he do after the final interview comment 'You're young'?**
-
-- a) Left
-- b) Decided to act like a 30-year-old
-- c) Lied about his age
-- d) Asked for more money
-
-*Answer: b) Decided to act like a 30-year-old.* Courage in spite of competence.
-
-**2. What does 'lady in the red dress' mean?**
-
-- a) Shiny offers that distract
-- b) A mentor
-- c) A client
-- d) A skill
-
-*Answer: a) Shiny offers that distract.* Diversity is distraction in disguise.
-
-**3. What did he do with a raise offer?**
-
-- a) Took it
-- b) Bought a car
-- c) Used it to hire someone for the team
-- d) Quit
-
-*Answer: c) Used it to hire someone for the team.* Reinvest instead of inflating.
-
-**4. How long does compounding take?**
-
-- a) 1 year
-- b) 10 to 30 years
-- c) 6 months
-- d) 1 to 5 years
-
-*Answer: b) 10 to 30 years.* So do not bounce around.
-
-</details>
+Name your main quest in one sentence, and list the side quests that should support it.
 
 [Back to the top of this module](#top) · [All modules](../README.md#contents)
 
@@ -2078,182 +1386,26 @@ Name your main quest in one sentence and list the side quests that should suppor
 
 The whole module on one page.
 
-- Build the first product in a week and charge about \$10
-- 2.5% conversion or higher: consider a fuller product
-- Sell a micro service of 4 calls for \$500 to \$1,000
-- State the one-month outcome specifically
-- Dump the steps first, then group them into calls
-- Use a questionnaire to find who is interested, no sales page needed at first
-- Promote your offer once a day
-- Ask, give a tip, soft promote, follow up
-- Follow up in 2 to 3 days with something useful, then once more
-- Use email as the money channel
-- Give every post a job: eyeballs, trust or a sale
-- Start near 60% TOF, 30% MOF, 10% BOF and adjust
-- Tie each CTA to a lead magnet from that content
-- Optimize for trust before you sell
-- No fake urgency, no town crier tone
-- Validate with 5 posts, then sell
-- Write a specific promise for one dream customer
-- Report revenue-linked data, not taste
-- Put the CTA at least 30% into the video
-- Match the CTA to the funnel stage
-
-<a id="flashcards"></a>
-
-## Flashcards
-
-Read the question, answer it in your head, then open it.
-
-<details><summary>The simple model</summary>
-
-Social media as a free traffic source plus a micro product or service from your own knowledge.
-
-</details>
-
-<details><summary>First product rules</summary>
-
-Takes a week or less to build, costs about \$10, and exists to validate an idea.
-
-</details>
-
-<details><summary>Conversion signal</summary>
-
-2.5% or higher means consider a fuller product.
-
-</details>
-
-<details><summary>The resume template story</summary>
-
-A career creator sold his Goldman Sachs resume as a \$10 template and made thousands.
-
-</details>
-
-<details><summary>Pain, passion, process</summary>
-
-Three ways to choose what to sell.
-
-</details>
-
-<details><summary>The micro service</summary>
-
-About 4 weekly one-on-one calls for one specific result, \$500 to \$1,000.
-
-</details>
-
-<details><summary>Why 4 calls, not 1</summary>
-
-Start today, enough to change something, 4x the money, and your coaching notes become your course.
-
-</details>
-
-<details><summary>The 7 parts of a micro service</summary>
-
-Story, where they are now, where they want to be in 1 month, steps, name, homework, onboarding.
-
-</details>
-
-<details><summary>The no-sales-page flow</summary>
-
-Posts, newsletter, questionnaire, DMs, link to pay.
-
-</details>
-
-<details><summary>Most important questionnaire question</summary>
-
-What are you struggling with most (multiple choice using your offer's pain points).
-
-</details>
-
-<details><summary>The 4-step sales conversation</summary>
-
-Ask about their goal, give an expert tip, soft promote, follow up with value.
-
-</details>
-
-<details><summary>Where the money is made</summary>
-
-In the follow-up, because most people never follow up.
-
-</details>
-
-<details><summary>A funnel mix</summary>
-
-About 60% TOF, 30% MOF, 10% BOF, adjusted to the business.
-
-</details>
-
-<details><summary>TOF, MOF, BOF</summary>
-
-Get discovered, build trust, convert.
-
-</details>
-
-<details><summary>The 4 stages</summary>
-
-Awareness, interest, consideration, decision.
-
-</details>
-
-<details><summary>Soft CTA examples</summary>
-
-Newsletter in bio, DM a word to get a template, link in bio.
-
-</details>
-
-<details><summary>Trust and offers</summary>
-
-Setting and meeting expectations makes the audience believe you will deliver an offer off the platform. Costco sample analogy.
-
-</details>
-
-<details><summary>Salesy signals</summary>
-
-Fake urgency and a town crier tone kill trust. The gossip whisperer shares instead of sells.
-
-</details>
-
-<details><summary>The promise formula</summary>
-
-Helping WHO go from HELL to HEAVEN so they can BENEFIT.
-
-</details>
-
-<details><summary>The 7 steps</summary>
-
-Sawdust, dream customer, promise, curriculum, own case study, sales page, traffic.
-
-</details>
-
-<details><summary>The 5 validation posts</summary>
-
-Problem, poll, behind the scenes, waitlist, soft pre-sell.
-
-</details>
-
-<details><summary>Sales page parts</summary>
-
-Promise, problem, process, features and benefits, proof, price, guarantee, CTA recap, FAQ.
-
-</details>
-
-<details><summary>Career growth</summary>
-
-Report data that shows revenue, because execs decide on economics, not feelings.
-
-</details>
-
-<details><summary>Perception of effort</summary>
-
-Do the work upfront, like an audit and redesigned thumbnails, instead of a generic DM.
-
-</details>
-
-<details><summary>The 3 money levels</summary>
-
-Platform revenue, selling other people's stuff, selling your own.
-
-</details>
+- Build your first product in a week and charge about \$10, just to test if people will pay.
+- If 2.5% or more of the people who see it buy, consider building a fuller product.
+- Sell a pack of 4 coaching calls for \$500 to \$1,000.
+- State the result they get in one month, and make it specific and believable.
+- Write down every step first, then group the steps into 4 calls.
+- Use a short questionnaire to find interested people. You don't need a sales page at first.
+- Promote your offer once a day.
+- In conversations: ask about their goal, give a tip, mention your offer softly, then follow up.
+- If they don't reply, follow up after 2 to 3 days with something useful, then once more the next week.
+- Use email as your main money channel, because you own that audience.
+- Give every post one job: bring new people, build trust, or make a sale.
+- A starting mix is about 60% top of the funnel, 30% middle and 10% bottom. Adjust it to your business.
+- Tie each call to action to a free download that matches the content.
+- Build trust before you sell.
+- Don't use fake urgency or a shouting, sales-pitch tone.
+- Test an offer with 5 posts before you build it.
+- Write one specific promise for one dream customer.
+- If you work in content, show your value with numbers tied to revenue, not with taste.
+- Put the call to action at least 30% of the way into a video, not only at the end.
+- Match the ask to how much they trust you: follow, then reply or save, then buy.
 
 ---
 

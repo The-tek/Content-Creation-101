@@ -2,136 +2,94 @@
 
 # Module 4: Psychology and attention
 
-*People scroll on autopilot, so learn what stops them, what makes them care and what makes them act.*
+*People scroll on autopilot, so learn what makes them stop, what makes them care and what makes them act.*
 
-This module covers the psychology creators use to win attention. You learn how the brain tunes out the familiar, why curiosity, anticipation and new angles make people stop and stay, and what the real studies say behind the popular claims. It then moves to emotion, trust, identity, influence and persuasion, and ends with one creator's reading of how X scores attention. Throughout, creators' claims are labelled as their claims, and real studies keep their caveats.
+This module explains the psychology behind getting attention. You'll learn how the brain tunes out the familiar, why curiosity, anticipation and fresh angles make people stop and stay, and what the real studies behind popular claims actually say. Then it moves on to emotion, trust, identity, influence and persuasion, and ends with one creator's reading of how X scores attention. Creators' claims are labelled as claims, and real studies keep their limits.
 
 **15 lessons · about 134 minutes of reading**
 
 ## In this module
 
-1. [The autopilot scroll and the freeze point](#m4-l1)
+1. [Why people stop scrolling, and why they stay](#m4-l1)
 2. [The attention span myth](#m4-l2)
-3. [Dopamine is the prediction chemical](#m4-l3)
-4. [The dopamine ladder](#m4-l4)
+3. [Dopamine: why not knowing the ending keeps people watching](#m4-l3)
+4. [The 6 steps from first glance to loyal viewer](#m4-l4)
 5. [Curiosity: the gap and the open loop](#m4-l5)
 6. [Novelty: why the brain stops for new things](#m4-l6)
 7. [Making old ideas feel new](#m4-l7)
-8. [Emotion: clicks, shares and pain](#m4-l8)
+8. [Emotion: what drives clicks, shares and action](#m4-l8)
 9. [Association, familiarity and liking](#m4-l9)
 10. [Trust, weakness and proof](#m4-l10)
-11. [Identity, sharing, enemies and disagreement](#m4-l11)
-12. [Influence: the seven Rs and persuading the non-interested](#m4-l12)
+11. [Identity, sharing, shared enemies and disagreement](#m4-l11)
+12. [Influence: the 7 R's, and persuading people who aren't looking](#m4-l12)
 13. [Persuasion shortcuts, certainty and the pull of a plan](#m4-l13)
-14. [Faces, stimulus and what people remember](#m4-l14)
-15. [How X reads attention: one creator's algorithm reading](#m4-l15)
+14. [Faces, constant change, and what people remember](#m4-l14)
+15. [How X reads attention: one creator's reading of the algorithm](#m4-l15)
 
-At the end: [Cheat sheet](#cheat-sheet) · [Flashcards](#flashcards)
+At the end: [Cheat sheet](#cheat-sheet)
 
 ---
 
 <a id="m4-l1"></a>
 
-## 4.1 The autopilot scroll and the freeze point
+## 4.1 Why people stop scrolling, and why they stay
 
 *8 min read*
 
-> **The big idea:** People scroll on autopilot and judge in milliseconds. Your first job is to cause an involuntary 'wait, what was that?' and then make the piece easy enough to understand that they stay.
+> **The big idea:** People scroll on autopilot and judge what they see in a fraction of a second. Your first job is to make them stop. Your second job is to make the post so easy to understand that they stay.
 
-### The feed is a highway, the thumb is on autopilot
+### The feed is a highway and the thumb is on autopilot
 
-- Swiping is muscle memory. People swipe until something hits the 'hmm, interesting' trigger. Often they swipe past, then swipe back, which one creator calls a strong signal to the algorithm.
-- Interrupt theory: a hook has to cause a 'freeze point'. The neuroscience term is the orienting response, the involuntary 'wait, what was that?' you would have if you saw a wolf in your backyard.
-- Science check: the orienting response is a real, well studied reflex (Sokolov, 1960s). The way it is applied to hooks is one creator's own model.
-- While scrolling, the brain subconsciously tunes out anything familiar and only stops on new things (more in the novelty lesson).
-- To freeze someone, the hook must answer 2 questions fast: what is this about (subject) and what do I get if I keep watching (stakes).
+- Swiping becomes muscle memory. People keep flicking until something makes them think "hmm, what's that?" Sometimes they swipe past, then swipe back. That swipe back is a strong sign that the post caught them.
+- Your hook has to cause what we can call a freeze point: the tiny involuntary "wait, what was that?" you would feel if you suddenly saw a wolf in your backyard. Scientists call this the orienting response. It is a real, well-studied reflex from the 1960s. Applying it to hooks is just a useful way of thinking about it, not proven science.
+- The brain tunes out anything it already knows while you scroll, and only stops on something new. (The novelty lesson later in this module explains this.)
+- To freeze someone, your first line has to answer 2 questions fast. What is this about? And what do I get if I keep reading or watching? Those are the subject and the stakes.
 
 ### How fast people judge
 
-- People vastly overestimate how long viewers look at a thumbnail. One claim, from watching people scroll and some tests (it is not scientific): well under a second, milliseconds.
-- The brain has two stages of processing. The first is rapid, subconscious 'bottom-up processing', about 200 milliseconds, that catches vivid colour and motion before it understands anything.
-- Attention arrives visual first, then audio, then visual again. Viewers see, then hear, then look back to confirm. A creator's claim: the eyes process 10 to 100 times more per second than the ears, so the visual is the most important part of the hook.
-- People read faster than they can hear or understand a full scene, which is why on-screen text hooks are so powerful.
+- Most creators think viewers look at a thumbnail or first line for seconds. In reality it is much closer to a fraction of a second. One creator reached this by watching people scroll and running informal tests, so treat it as a rough guide, not a lab result.
+- The brain processes in 2 steps. The first is a very fast, automatic pass of about 200 milliseconds that picks up bright colour and movement before you understand anything. Understanding comes after.
+- Attention usually goes in this order: you see, then you hear, then you look back to check what you saw. One creator claims the eyes take in 10 to 100 times more information per second than the ears. Whatever the exact number, the picture is the most important part of the hook.
+- People can also read faster than they can listen to and understand a whole scene. That is why a line of text on screen works so well as a hook.
 
-### Capture, hold, deliver value
+### Capture, hold, deliver
 
-- Every piece of writing must capture attention, hold it and deliver value on it. You cannot write whatever you want and expect that.
-- 'Transfer your consciousness to your reader.' Ask: will they read this, keep reading, or click off? Be persuasive everywhere: DMs, replies, quote posts, emails, videos.
-- People scan, they don't read. Your job is to make the post feel effortless so they commit to it. 'If a post looks too daunting, people will scroll away.'
-- Make it easy to consume. Scannable, concise, simple enough 'that a 10 y/o can understand'. Bullets, infographics, short copy.
-- Content is an exchange of value. You give value, they give attention, likes and impressions.
+- Everything you publish has to do 3 things: capture attention, hold it, and give value in return. You can't just write what you like and expect people to stay.
+- Before you post, imagine being the reader. Will I read this? Will I keep reading? Or will I click away? Do the same in DMs, replies, quote posts, emails and videos.
+- People scan, they don't read. If a post looks heavy, they scroll on. So make it look effortless: short lines, simple words, bullets, a clear image. Aim for something a 10-year-old could follow.
+- Think of content as a trade. You give value, and people give you their attention, likes and views.
 
-### Comprehension is the hidden hook
+### Being understood is the hidden hook
 
-- You cannot hook someone who does not fully understand. Misaligned visuals and unclear words cause comprehension loss, and people leave.
-- Anticipation only works if viewers are clear on the facts. They cannot guess an answer to something they do not understand.
-- One model gives comprehension the biggest weight of 4 content levers: direction 30%, comprehension 40%, effectiveness 20%, likability 10% (its own weights). 'If they don't get it, nothing else counts.'
-- You cannot control how people apply your advice. The one thing you control is clarity, how easy the action steps are to understand. Put your effort there.
+- You can't hook someone who doesn't fully understand you. If the picture says one thing and the words say another, or the wording is unclear, people feel lost and leave.
+- Curiosity only works when people understand the facts. They can't guess an answer to something they don't follow.
+- One model of content ranks 4 things by importance: direction (30%), understanding (40%), effectiveness (20%) and likability (10%). Those weights are that model's own, not a proven rule, but the point is useful: "if they don't get it, nothing else counts".
+- You can't control what people do with your advice. You can control how clear it is. Put your effort there.
 
 ### Frameworks
 
-**The 4 S's of a freeze-point hook**
+**The 4 S's of a hook that stops people**
 
-1. Subject: crystal clear who or what it is about
-2. Stakes: a reason to care (for education, the outcome they want: views, clients, money, time)
-3. Speed: subject and stakes in as few words as possible, 'compression, not velocity' (8 words beat 28)
-4. Super clear: only one possible reading, no wordplay
+1. Subject: it is clear who or what the hook is about.
+2. Stakes: it gives a reason to care, like the result they want (views, clients, money, time).
+3. Speed: subject and stakes in as few words as possible. Fewer words wins, so 8 words beat 28.
+4. Super clear: only one way to read it, no wordplay.
 
 ### Examples
 
-- **'1,000 hooks' study:** A first frame showed a lean person and planted the question 'how does she stay lean eating carbs?'. The creator blurred the blueberries so nobody could guess the drink from the first frame.
-  <br>*Why it works:* If the viewer can solve the puzzle from frame one, there is no reason to keep watching. The question stops the autopilot, the hidden clue keeps them.
+- **The blurred blueberries:** A creator studied 1,000 hooks. In one video the first frame showed a lean person, and the text asked "how does she stay lean eating carbs?" The creator blurred the blueberries in her drink, so nobody could guess what she was drinking just from that frame.
+  <br>*Why it works:* The question stops the scroll, and the hidden clue gives people a reason to keep watching. If they could solve it from the first frame, they would leave.
 
 ### Common mistakes
 
-- Assuming people look at a thumbnail or first line for seconds. The claim is that it is milliseconds.
-- Polishing words while the visual says something else, which costs comprehension.
-- Posts that look too dense to start.
-- Unclear or clever wording that can be read two ways.
+- Assuming people look at your thumbnail or first line for seconds. It is a fraction of a second.
+- Polishing the words while the picture says something different. Mixed messages make people lose the thread.
+- Posts that look too dense to start reading.
+- Clever wording that can be read two ways.
 
 ### Try it
 
-Take 5 posts or videos you made. Look at each first frame or first line for one second only, then look away. Write down what it was about and why you would keep going. If you cannot answer both in one second, rewrite the opening so subject and stakes land first.
-
-<details><summary><b>Check yourself (4 questions)</b></summary>
-
-**1. What must a hook answer to cause a freeze point?**
-
-- a) What it is about and what I get if I keep watching
-- b) Who made it and when
-- c) Whether it is trending
-- d) How long it is and where it was filmed
-
-*Answer: a) What it is about and what I get if I keep watching.* The 4 S's start with subject and stakes: what is this about, and what is in it for me.
-
-**2. Why is the visual called the most important part of a video hook?**
-
-- a) Because viewers see first, then hear, then look back to confirm
-- b) Because text is ignored
-- c) Because sound is muted on every platform
-- d) Because algorithms only read images
-
-*Answer: a) Because viewers see first, then hear, then look back to confirm.* Attention arrives visual, then audio, then visual. The first, fast pass is visual.
-
-**3. Which lever is weighted highest, at 40%?**
-
-- a) Direction
-- b) Comprehension
-- c) Effectiveness
-- d) Likability
-
-*Answer: b) Comprehension.* Comprehension is 40% because if people do not understand, nothing else counts.
-
-**4. What is the 'orienting response'?**
-
-- a) A made-up marketing term
-- b) A real reflex: the involuntary 'wait, what was that?'
-- c) An algorithm ranking signal
-- d) A way to orient the camera
-
-*Answer: b) A real reflex: the involuntary 'wait, what was that?'.* It is a well studied reflex (Sokolov). Applying it to hooks is one creator's model.
-
-</details>
+Pick 5 of your own posts or videos. Look at the first frame or first line for one second only, then look away. Write down what it was about and why you would keep going. If you can't answer both, rewrite the opening so the subject and the stakes come first.
 
 [Back to the top of this module](#top) · [All modules](../README.md#contents)
 
@@ -143,74 +101,43 @@ Take 5 posts or videos you made. Look at each first frame or first line for one 
 
 *5 min read*
 
-> **The big idea:** The famous '8-second goldfish attention span' has no research behind it. People do not have shorter attention spans, they have more options and less patience for boring content.
+> **The big idea:** You have probably heard that people now have an 8-second attention span, shorter than a goldfish. There is no research behind that. People can still focus. They just have endless choices and no patience for boring content.
 
 ### Where the goldfish stat came from
 
-- The stat came from a 2015 Microsoft Canada report that credited a website called Statistic Brain.
-- A BBC journalist traced it and found no research behind it.
-- A 2022 King's College London survey found half of UK adults still believe it.
+- It appeared in a 2015 report from Microsoft Canada, which said the source was a website called Statistic Brain.
+- A BBC journalist later traced it and found no study behind it.
+- A 2022 survey from King's College London found that half of UK adults still believe it.
 
 ### What actually changed
 
-- So the honest version: people do not have short attention spans, they have short patience for boring content. This is why every expert says the hook decides.
-- The 'attention capacity' angle fits this: the brain holds only so much at once, which is why compression (fewer words) helps.
-- Most people on social media are not intentionally trying to learn. If they were, they would search for a video, course or article. They are discovering, so you have to earn their attention.
+- The honest version is this: people don't have short attention spans, they have short patience for boring things. That's why the hook decides so much.
+- The brain can only hold so much at once. That's why using fewer words helps: there is less to carry.
+- Most people on social media aren't trying to learn anything. If they were, they would search for a video, course or article. They are just browsing, so you have to earn their attention before you can teach.
 
 ### Long content still works when it is not slow
 
-- 'Your content isn't too long, it's too slow.' Pack the most value into the shortest time. Sometimes that is 90 seconds, sometimes a 6-hour course.
-- One creator's most viewed X article (226M views, the creator's own number) was 5,000 to 6,000 words, which shows people will read long when it is worth it.
+- "Your content isn't too long, it's too slow." Pack as much value as you can into the time you use. Sometimes that's a 90-second video, sometimes a 6-hour course.
+- One creator says their most viewed article on X got 226 million views and was 5,000 to 6,000 words long. That's the creator's own number, but it fits the point: people will read a lot when it's worth it.
 
 ### Examples
 
-- **The goldfish stat:** Microsoft Canada, 2015: humans have an 8-second attention span, shorter than a goldfish. Source given: Statistic Brain. A BBC journalist found no study behind it.
-  <br>*Why it works:* A great example of a 'fact' that spread because it was a good story. Check any stat before you repeat it.
+- **The goldfish stat:** The claim: humans have an 8-second attention span, shorter than a goldfish. A 2015 Microsoft Canada report said so, quoting a website. A BBC journalist then found no study behind it.
+  <br>*Why it works:* It spread because it made a good story, not because it was true. Check any stat before you repeat it.
 
 ### Common mistakes
 
-- Repeating the 8-second goldfish stat as fact.
-- Blaming the audience's attention span instead of a slow or boring opening.
-- Thinking short always beats long. The problem is slow, not long.
+- Repeating the 8-second goldfish stat as if it were fact.
+- Blaming your audience's attention span when your opening is slow or boring.
+- Thinking short always beats long. Slow is the problem, not long.
 
 ### Where the sources disagree
 
-Some creators say attention 'sped up' from time compression. The research summarised in the insights bank says attention capacity has not changed and competition has. Both lead to the same advice: get to the value fast.
+Some creators say attention has sped up because we all got used to fast content. Others point to research saying attention itself hasn't changed, there is just far more competition for it. Both lead to the same advice: get to the value fast.
 
 ### Try it
 
-Find one claim about attention or psychology you have heard creators repeat. Spend 10 minutes searching for the original source. Write one line: is it a real study, one study, or no study?
-
-<details><summary><b>Check yourself (3 questions)</b></summary>
-
-**1. Where did the '8-second attention span' stat come from?**
-
-- a) A creator's video
-- b) A 2015 Microsoft Canada report citing a website called Statistic Brain
-- c) A 2022 King's College London experiment
-- d) A Harvard brain scan study
-
-*Answer: b) A 2015 Microsoft Canada report citing a website called Statistic Brain.* The report credited Statistic Brain. A BBC journalist found no research behind it.
-
-**2. What do attention researchers like Michael Posner say?**
-
-- a) Attention depends only on age
-- b) Goldfish have long attention spans
-- c) There is no evidence human attention has changed since the late 1800s
-- d) Attention dropped 50% since 2000
-
-*Answer: c) There is no evidence human attention has changed since the late 1800s.* No evidence that human attention capacity has changed.
-
-**3. What is the more accurate reason people leave content fast?**
-
-- a) Algorithms hide long posts
-- b) Their brains shrank
-- c) Competition: endless options and low patience for boring content
-- d) Phones are too small
-
-*Answer: c) Competition: endless options and low patience for boring content.* Same advice (hook fast), but the reason is competition, not capacity.
-
-</details>
+Find one claim about attention or psychology that you have heard creators repeat. Spend 10 minutes looking for the original source. Then write one line: is it a real study, a single study, or no study at all?
 
 [Back to the top of this module](#top) · [All modules](../README.md#contents)
 
@@ -218,100 +145,59 @@ Find one claim about attention or psychology you have heard creators repeat. Spe
 
 <a id="m4-l3"></a>
 
-## 4.3 Dopamine is the prediction chemical
+## 4.3 Dopamine: why not knowing the ending keeps people watching
 
 *7 min read*
 
-> **The big idea:** Dopamine fires when people anticipate a reward, not when they get it. Uncertainty is what makes content addictive, and the real science (Schultz 1997) supports the shape of this idea.
+> **The big idea:** Dopamine is often called the pleasure chemical. A better description is that it is about anticipating a reward. Not knowing what comes next is what makes content hard to put down. Real research backs the basic idea, though not every claim creators make about it.
 
-### The prediction chemical
+### Dopamine is about anticipation
 
-- Most people think dopamine is the pleasure chemical. One framing: it is the prediction chemical. It fires when you anticipate a reward, not when you get it.
-- Blackjack: the tension while you decide hit or stay and wonder what the dealer hides is the dopamine. Not the win or the loss.
-- 'This is why nobody feels happy the second after they accomplish a goal. The anticipation is the high.'
-- Vending machine vs slot machine: the same action (put money in), a different response in the brain. The only difference is uncertainty. A vending machine gives the same thing every time, so no surprise and no dopamine.
-- A big open question gives a steady low drip. A prediction error (a head fake) gives the biggest spike, in proportion to the surprise.
+- Most people think dopamine is the feel-good chemical you get when you win. One better framing: it fires when you expect a reward, not when you get it.
+- Think of blackjack. The excitement comes while you decide whether to hit or stay and wonder what the dealer is hiding. It is not the win or the loss itself.
+- That is why nobody feels happiest the second after they reach a goal. The anticipation was the high.
+- Compare a vending machine with a slot machine. You do the same thing with both: put money in. A vending machine gives you the same snack every time, so there is no surprise. A slot machine might give you nothing or a jackpot. The only difference is uncertainty, and that is what hooks people.
+- In content, a big open question gives a steady, low pull. A twist that breaks what people expected gives the biggest spike, and the bigger the surprise, the bigger the spike.
 
-### The real science
+### What the real science says
 
-- Schultz, Dayan and Montague 1997 (Science): dopamine neurons signal prediction errors. Once a reward is predictable, they fire at the cue that predicts it, not at the reward itself. They dip when an expected reward does not come.
-- So the 'anticipation' rung and 'keep them guessing' have a real basis.
-- Caveat: this is monkey neuron research about learning. Do not say 'dopamine makes people addicted to your video'.
-- Gruber, Gelman and Ranganath 2014 (Neuron) also found reward areas (midbrain, nucleus accumbens) active during high curiosity. Press called it 'dopamine', but the study measured brain areas linked to dopamine, not dopamine itself.
+- A 1997 study published in the journal Science recorded dopamine cells in monkeys. Once a reward became predictable, the cells fired when the signal for the reward appeared, not when the reward arrived. If an expected reward failed to show up, activity dropped. So the idea that anticipation drives attention and that surprise is powerful has a real base.
+- Be careful with the wording. That research was on monkey brain cells and about learning. Don't say "dopamine makes people addicted to your video", because nobody has shown that.
+- A 2014 brain-scan study found that reward areas of the brain were more active when people were very curious about a question. Newspapers reported this as "dopamine", but the study measured brain areas linked to dopamine, not dopamine itself.
 
 ### Using it: the addiction loop
 
-- The 'addiction loop' is built on this: stakes, big question, head fake, re-hook.
-- Stakes: a character to root for, something at risk, and urgency ('I had 48 hours to fix the ad budget or blow it'). Nobody has to die, it just has to matter to your viewer.
-- Big question: give just enough detail to guess. 'Something crazy happened' is too vague to guess, so there is nothing to surprise against.
-- Head fake: break their prediction, but it must click in hindsight. Random is confusing, logical but unexpected is the hit (the dragon was not guarding the tower, it was chained to it, and the clues were there).
-- Re-hook: close one loop and open the next in the same breath. Casinos track 'time per hand'. Connector phrases: 'which would have been great, except...', 'but here's the problem with that', 'and that's when I realized'.
+- You can build a piece of content around 4 steps: stakes, a big question, a twist, and a re-hook.
+- Stakes: give people someone to root for, something at risk, and a deadline. For example: "I had 48 hours to fix the ad budget or lose it." Nobody has to die. It just has to feel important to your viewer.
+- Big question: give just enough detail that people can guess the answer. "Something crazy happened" is too vague to guess, so there is nothing to be surprised by.
+- Twist: break what they predicted, but make sure it makes sense in hindsight. Random is confusing. Surprising but logical is what works. In the story below, the dragon was not guarding the tower, it was chained to it, and the clues were there all along.
+- Re-hook: close one question and open the next in the same breath. Casinos track "time per hand" for the same reason. Phrases that help: "which would have been great, except...", "but here's the problem with that", "and that's when I realized".
 
 ### Frameworks
 
 **The addiction loop**
 
-1. Stakes: someone to root for, something at risk, urgency
-2. Big question: enough detail that the viewer can guess
-3. Head fake: break the prediction in a way that makes sense looking back
-4. Re-hook: close the loop and open the next one in the same breath
+1. Stakes: someone to root for, something at risk, a deadline.
+2. Big question: enough detail that the viewer can guess.
+3. Twist: break the prediction in a way that makes sense looking back.
+4. Re-hook: close the question and open the next one at once.
 
 ### Examples
 
-- **Vending machine vs slot machine:** You put money into both. One always gives the same snack. The other might give nothing or a jackpot.
-  <br>*Why it works:* Only the slot machine is addictive, and the only difference is uncertainty. Content that is fully predictable is a vending machine.
-- **The prince and the dragon:** Told flat: prince, tower, dragon, princess saved. Told with the loop: the dragon was not guarding the tower, it was chained to it. It pulled back, it looked scared.
-  <br>*Why it works:* The twist is surprising but logical in hindsight, so it gives the spike without confusion.
+- **Vending machine vs slot machine:** You put money into both. One always gives the same snack. The other might give you nothing or a jackpot.
+  <br>*Why it works:* Only the slot machine is addictive, and the only difference is uncertainty. Content you can fully predict is a vending machine.
+- **The prince and the dragon:** Told flat: a prince goes to a tower, fights a dragon and saves the princess. Told with the loop: the dragon was not guarding the tower, it was chained to it. It pulled back and looked scared.
+  <br>*Why it works:* The twist is surprising but logical looking back, so it gives a spike without confusing anyone.
 
 ### Common mistakes
 
-- Saying 'dopamine makes people addicted to your video'. The research does not support that wording.
-- Questions too vague to guess ('something crazy happened').
-- Random twists that do not make sense looking back. They confuse instead of surprise.
+- Saying "dopamine makes people addicted to your video". The research doesn't support that.
+- Questions too vague to guess, like "something crazy happened".
+- Random twists that don't make sense afterwards. They confuse people instead of surprising them.
 
 ### Try it
 
-Take a story you plan to tell. Write the question the viewer will have, what they will probably guess, and one head fake that is surprising but makes sense looking back. Then write one connector line that opens the next question.
-
-<details><summary><b>Check yourself (4 questions)</b></summary>
-
-**1. In the vending vs slot machine example, what is the only difference?**
-
-- a) Uncertainty
-- b) The size of the reward
-- c) The colour
-- d) The price
-
-*Answer: a) Uncertainty.* Same action, but only the slot machine is uncertain, and that is what drives the response.
-
-**2. What did Schultz, Dayan and Montague (1997) find?**
-
-- a) Dopamine neurons signal prediction errors and shift to the cue once a reward is predictable
-- b) Dopamine neurons fire most when a reward is eaten
-- c) Dopamine has no link to reward
-- d) People get addicted to videos
-
-*Answer: a) Dopamine neurons signal prediction errors and shift to the cue once a reward is predictable.* Once a reward is predictable, firing moves to the cue. They dip when an expected reward does not come.
-
-**3. What makes a head fake work instead of confusing people?**
-
-- a) It is revealed in the first second
-- b) It breaks the prediction but makes sense in hindsight
-- c) It is completely random
-- d) It has no clues
-
-*Answer: b) It breaks the prediction but makes sense in hindsight.* Random is confusing, logical but unexpected is the hit.
-
-**4. Which caveat goes with the Schultz study?**
-
-- a) It is monkey neuron research about learning
-- b) It was retracted
-- c) It was done on social media users
-- d) It only measured happiness
-
-*Answer: a) It is monkey neuron research about learning.* It supports the shape of the idea, not claims about addiction to videos.
-
-</details>
+Take a story you plan to tell. Write down the question the viewer will have, what they will probably guess, and one twist that is surprising but makes sense in hindsight. Then write one connecting line that opens the next question.
 
 [Back to the top of this module](#top) · [All modules](../README.md#contents)
 
@@ -319,107 +205,67 @@ Take a story you plan to tell. Write the question the viewer will have, what the
 
 <a id="m4-l4"></a>
 
-## 4.4 The dopamine ladder
+## 4.4 The 6 steps from first glance to loyal viewer
 
 *10 min read*
 
-> **The big idea:** Six rungs describe a viewer's journey from a split-second pause to seeing you as a reliable source of value. Rungs 1 to 4 are the message, rungs 5 and 6 are the messenger.
+> **The big idea:** A viewer goes through 6 steps, from a split-second pause to seeing you as someone who reliably helps them. The first 4 are about your message. The last 2 are about you as a person.
 
-### Rung 1, stimulation (first 1 to 2 seconds)
+### Step 1: stimulation (the first 1 to 2 seconds)
 
-- A visual stun gun, like a deer noticing movement and locking in. Colours, motion, brightness and contrast different from what the viewer usually sees make them pause for a split second, enough to earn rung 2.
-- A demo: eight blurred 9x16 images. Most people's eyes go to the two with the most motion, colour and brightness. You cannot override it. Proof: watch social media in greyscale and it is less interesting.
-- The mechanism is the fast 'bottom-up processing' pass (about 200 ms) that notices before it understands.
-- If everyone copies the same look, viewers get numb to it, so develop your own visuals, palette, motion and style.
-- It is the weakest and shortest release, but without focus nothing else matters. Same for short and long form.
+- This is a visual jolt, like a deer noticing movement and freezing. Colours, motion, brightness and contrast that differ from what the viewer usually sees make them pause for a split second. That's enough to earn step 2.
+- A simple test: blur 8 vertical images side by side. Most people's eyes go to the 2 with the most motion, colour and brightness. You can't override that. Try watching social media in greyscale and you'll see it get less interesting.
+- This works because the brain's first, fast pass (about 200 milliseconds) notices things before it understands them.
+- If everyone copies the same look, viewers go numb to it. Build your own colours, motion and style.
+- It is the weakest and shortest reward, but without it nothing else gets a chance. It applies to short and long content alike.
 
-### Rungs 2 to 4, the message
+### Steps 2 to 4: the message
 
-- Captivation: an open question pops into the viewer's head. The brain is a problem-solving machine evolved to tackle open, complex questions. Bigger and less obvious means more pull, but only if it is relevant (an alien question does not hook someone who does not care about aliens).
-- Anticipation: the viewer guesses the answer, 'a mystery novel playing out in their head in real time'. Peak dopamine is just before the answer. Feed facts that bring them closer, then 'yank it away and head fake them in another direction', or answer and pop a second question. One creator calls it 'the edging of the storytelling world'.
-- They can only anticipate if they are clear on the facts. Rogue details or facts they cannot understand make them bounce.
-- Validation: close the loop with a non-obvious answer. In entertainment, resolve it (no cliffhanger ending). In education, actually give the tip with concrete value. Leaving it open leaves them unsatisfied.
-- A makeup example: an attractive person with a moving red and orange graphic made the viewer pause (stimulation won), but 'here's how you do your makeup for the holidays' raised questions the viewer did not care about, so they left (captivation lost).
+- Step 2, captivation: a question pops into the viewer's head. The brain is a problem-solving machine, so open questions pull at it. A bigger, less obvious question pulls harder, but only if it's relevant to them. A question about aliens won't hook someone who doesn't care about aliens.
+- Step 3, anticipation: the viewer starts guessing the answer, like a mystery novel playing out in their head. The pull is strongest just before the answer arrives. Give facts that bring them closer, then pull the rug and send them in a new direction, or answer and immediately raise a second question. One creator calls this the edging of storytelling.
+- They can only guess if they understand the facts. Odd details or things they can't follow make them leave.
+- Step 4, validation: close the question with an answer they didn't expect. In entertainment, resolve the story instead of ending on a cliffhanger. In teaching, actually give the tip, with real value. Leaving it open leaves people unsatisfied.
+- Example of failing at step 2: a video had an attractive person and a moving red and orange graphic, so people paused (step 1 won). But the line "here's how you do your makeup for the holidays" raised questions the viewer didn't care about, so they left.
 
-### Rungs 5 and 6, the messenger
+### Steps 5 and 6: you as the messenger
 
-- Affection: the viewer starts liking and trusting the person, and gives you 'a longer leash' than a stranger. Likability carries from video to video as long as they recognise you.
-- 4 likability levers: attractiveness (subconscious), overall vibe (dress, posture, how you carry yourself), smiling (joy transfers through the lens), and the strongest, actually solving their problem. Do not force it.
-- Revelation: the viewer realises you will be a continued source of value. Then just seeing your name or face makes them want to watch. This is the Pavlovian response (the bell alone made Pavlov's dog's mouth water), or 'king status in attention land'.
-- Education reaches rung 6 far more easily than entertainment, which competes with Netflix, the NFL and MrBeast. If the viewer deeply struggles with your topic, a couple of pieces can take them from rung 1 to 6. A nice-to-have topic takes many more.
-- Faceless content can reach rungs 1 to 4 easily but struggles with 5 and 6, because there is no person to like.
+- Step 5, affection: the viewer starts to like and trust you, and gives you more patience than a stranger would get. Likability carries from video to video, as long as people recognise you.
+- 4 things build likability: how you look (partly subconscious), your overall vibe (clothes, posture, how you carry yourself), smiling (joy comes through the camera), and the strongest one, actually solving their problem. Don't force it.
+- Step 6, revelation: the viewer realises you'll keep giving them value. Now just seeing your name or face makes them want to watch. It's the same reflex as Pavlov's dog, whose mouth watered at the sound of a bell.
+- Teaching reaches step 6 far more easily than entertainment, which has to compete with Netflix, sports and MrBeast. If the viewer truly struggles with your topic, a couple of pieces can take them from step 1 to step 6. A topic that is only nice to have takes many more.
+- Content with no face can reach steps 1 to 4 easily, but it's hard to reach 5 and 6, because there is no person to like.
 
-### Science check
+### What is real and what is marketing
 
-- What is real: anticipation and prediction drive dopamine signals (Schultz 1997), curiosity gaps pull (Loewenstein 1994), curious brains remember more (Gruber 2014), familiarity builds liking (Zajonc 1968). So the shape holds, the exact 'dopamine' wording is marketing.
-- Use it as a checklist: 'Are you driving the right curiosity? Are you driving the right dopamine releases?'
+- Real: anticipation and prediction drive dopamine signals, a gap in knowledge pulls people in (a 1994 study), curious brains remember more (a 2014 study), and seeing something often builds liking (a 1968 study). So the shape of the ladder holds. The exact use of the word "dopamine" is marketing.
+- Use the 6 steps as a checklist. For each piece, ask: am I creating the right curiosity? Does each step lead to the next?
 
 ### Frameworks
 
-**The dopamine ladder**
+**The 6 steps**
 
-1. Stimulation: colour, motion, contrast in the first 1 to 2 seconds
-2. Captivation: a relevant, non-obvious question forms in their head
-3. Anticipation: they guess, you bring them close, then head fake or open a new question
-4. Validation: close the loop with a non-obvious answer
-5. Affection: they like the messenger (looks, vibe, smile, solving their problem)
-6. Revelation: they see you as a reliable source of value, the Pavlovian response
+1. Stimulation: colour, motion and contrast in the first 1 to 2 seconds.
+2. Captivation: a relevant, non-obvious question forms in their head.
+3. Anticipation: they guess, you bring them close, then twist or open a new question.
+4. Validation: you close the question with an answer they didn't expect.
+5. Affection: they like you (look, vibe, smile, and solving their problem).
+6. Revelation: they see you as a reliable source of value and want to watch you by default.
 
 ### Examples
 
-- **Breakdown of a viral shoelace video:** Stimulation: a slight zoom and a car perspective you rarely see. Captivation: text 'Bro, what did I just witness?', then a shoelace stuck in a car door: 'Is she going to drive away?'. Anticipation: will he get dragged? Validation with a head fake: he falls as expected, then a hard cut shows him being dragged while singing and the song comes in.
-  <br>*Why it works:* Three or four rapid questions in a row, an answer plus a surprise, plus new questions. Affection and revelation would only build over several videos, and slower because it is entertainment.
+- **A viral shoelace video, step by step:** Stimulation: a slight zoom and an unusual view from inside a car. Captivation: the text "Bro, what did I just witness?" and a shoelace stuck in a car door, so you wonder if she will drive away. Anticipation: will he get dragged? Validation with a twist: he falls, as expected, then a hard cut shows him being dragged while singing, and the song starts.
+  <br>*Why it works:* It asks 3 or 4 quick questions in a row, answers one with a surprise, and opens new ones. Steps 5 and 6 only build over several videos, and slower for entertainment.
 
 ### Common mistakes
 
-- Winning stimulation but raising a question the viewer does not care about.
-- Copying the same look as everyone else until the feed is numb to it.
-- Ending on an open loop with no payoff.
-- Saying dopamine is measured at each rung.
+- Winning the first glance, then raising a question the viewer doesn't care about.
+- Copying the same look as everyone else until the feed goes numb to it.
+- Ending on an open question with no payoff.
+- Claiming dopamine is measured at each step. It isn't.
 
 ### Try it
 
-Pick one piece of educational content that hooked you. Write one line per rung: what stimulated you, the question you had, what you guessed, how it closed, what made you like the person, and whether you now look for their content. Then do the same for one of your own pieces and mark the weakest rung.
-
-<details><summary><b>Check yourself (4 questions)</b></summary>
-
-**1. Which rungs of the ladder are about the messenger?**
-
-- a) 1 and 2
-- b) 3 and 4
-- c) 1 and 6
-- d) 5 and 6
-
-*Answer: d) 5 and 6.* Rungs 1 to 4 are the message, 5 (affection) and 6 (revelation) are the messenger.
-
-**2. Where is peak dopamine in the anticipation rung?**
-
-- a) Just before the answer
-- b) During the call to action
-- c) After the video ends
-- d) At the very start
-
-*Answer: a) Just before the answer.* That is why you bring people close, then head fake or open a new question.
-
-**3. What is the strongest of the four likability levers?**
-
-- a) Actually solving their problem
-- b) Overall vibe
-- c) Smiling
-- d) Attractiveness
-
-*Answer: a) Actually solving their problem.* It works regardless of looks.
-
-**4. What does the science check say about the ladder?**
-
-- a) The shape is supported by real studies, but per-rung dopamine is a simplification
-- b) It only applies to entertainment
-- c) It has been disproven
-- d) Every rung was measured in a lab
-
-*Answer: a) The shape is supported by real studies, but per-rung dopamine is a simplification.* Schultz, Loewenstein, Gruber and Zajonc support the parts. Nobody measured dopamine per rung.
-
-</details>
+Pick one educational post or video that hooked you. Write one line per step: what caught your eye, what question you had, what you guessed, how it closed, what made you like the person, and whether you now look for their content. Then do the same for one of your own pieces and mark the weakest step.
 
 [Back to the top of this module](#top) · [All modules](../README.md#contents)
 
@@ -431,96 +277,56 @@ Pick one piece of educational content that hooked you. Write one line per rung: 
 
 *8 min read*
 
-> **The big idea:** Curiosity is the feeling of a missing piece. It needs some knowledge first, it keeps people to the end only while the loop stays open, and what you teach while people are curious sticks better.
+> **The big idea:** Curiosity is the feeling that one piece is missing. People need to know a little first, they stay to the end only while the question is still open, and what you teach while they are curious sticks better.
 
 ### The science of the gap
 
-- It needs some knowledge first. A gap that is too big or too small does not pull. Viewers must know enough to feel the missing piece, which is why 'this one detail about X' works better than 'a mystery'.
-- Gruber, Gelman and Ranganath 2014 (Neuron): when people were highly curious about a question, they remembered the answer better, and also remembered unrelated faces shown while they waited, right away and a day later.
-- Caveat on Gruber: the press called it dopamine. The study measured brain areas linked to dopamine (midbrain, nucleus accumbens).
+- A 1994 study found that curiosity needs some knowledge first. If the gap is too big (people know nothing) or too small (the answer is obvious), it doesn't pull. People need to know enough to feel the missing piece. That's why "this one detail about X" works better than "a mystery".
+- A 2014 study found that when people were very curious about a question, they remembered the answer better. They also remembered unrelated faces shown while they waited for the answer, right away and a day later.
+- Be careful with the headline version. Newspapers called it dopamine, but the study measured brain areas linked to dopamine, not dopamine itself.
 
 ### Keep the loop open
 
-- Open loops: keep them open as long as possible, and open a new one when you close one.
-- Questions make people stay until the end to get the answer.
-- Paying off the topic too early kills anticipation. Viewers scroll once they get what they came for. An example: a short about 'MrBeast's secret to success' that reveals it at second 5, so everyone leaves.
-- If the viewer can solve the puzzle from the first frame (visible blueberries), there is no reason to keep watching. Hide or blur the clue.
-- An intrigue detail in a thumbnail, like a figure parachuting onto the island, leaves you wondering 'who is that, and will they land?'.
-- Non-linear timelines create unpredictability and curiosity, and weird details pique curiosity.
+- An open loop is a question you have raised and not yet answered. Keep it open as long as you can, and when you close one, open a new one.
+- Questions make people stay to the end to get the answer.
+- Paying off the topic too early kills the pull. Viewers leave once they get what they came for. For example, a short about "MrBeast's secret to success" revealed the secret at second 5, so everyone left.
+- If the viewer can solve the puzzle from the first frame, there is no reason to keep watching. Hide the clue or blur it.
+- A single intriguing detail can do it. One MrBeast thumbnail showed a small figure parachuting toward an island. You wonder who that is and whether they will land.
+- Jumbling the order of events creates unpredictability, and odd details make people curious.
 
 ### Road maps and promises
 
-- Road mapping: early on, show how many steps you will take them through. Blur the later ones so they wonder what is coming. Curiosity keeps them to the end.
-- The 'sacred timeline' (named after the show Loki): every piece has a promise. Anything that drifts from it, like an unrelated story in a 'how to make money in 2026' video, gets cut because it confuses people.
-- Repeat the promise every 30 seconds to a minute so nobody wonders why they clicked.
-- One creator diagnosed a retention drop at 0:18: the video started explaining instead of moving the story forward, the shot never changed, and the open loop had already been resolved. Keep visual and story tension going through the explanation.
+- Road map: early on, show how many steps you'll take them through, and blur the later ones so they wonder what's coming. Curiosity keeps them watching.
+- Treat the promise of your title as a fixed line. Everything in the piece has to serve it. If you promise "how to make money in 2026" and add an unrelated story, cut it, because it confuses people.
+- Repeat the promise every 30 seconds to a minute, so nobody wonders why they clicked.
+- One creator looked at a drop in viewers at 0:18 of a video. It started explaining instead of moving the story forward, the shot never changed, and the question had already been answered. Keep both the visuals and the story moving through the explanation.
 
 ### Frameworks
 
-**Curiosity loop**
+**The curiosity loop**
 
-1. Question: plant a specific question they care about
-2. Context: give enough facts that they can guess
-3. New question: as you answer, open the next one
+1. Question: plant a specific question they care about.
+2. Context: give enough facts that they can guess.
+3. New question: as you answer, open the next one.
 
 ### Examples
 
-- **A 'viral shorts' mistake:** A short titled around 'MrBeast's secret to success' gave the secret at second 5.
-  <br>*Why it works:* Once the payoff is out, the reason to watch is gone. The answer goes at the end.
-- **MrBeast's island thumbnail:** A small figure parachutes down toward the island.
-  <br>*Why it works:* One intrigue detail makes viewers ask who it is and whether they will land.
+- **Giving away the answer at second 5:** A short with a title built around "MrBeast's secret to success" gave the secret away at second 5.
+  <br>*Why it works:* Once the payoff is out, the reason to stay is gone. Put the answer at the end.
+- **The island thumbnail:** A MrBeast thumbnail showed a small figure parachuting down toward an island.
+  <br>*Why it works:* One intriguing detail makes people ask who it is and whether they will land.
 
 ### Common mistakes
 
-- A gap too big (no context) or too small (obvious) to pull (Loewenstein).
+- A gap that is too big (no context) or too small (obvious) to pull anyone.
 - Paying off the topic too early.
 - Showing the answer in the first frame.
-- Drifting from the promise, breaking the sacred timeline.
-- Explaining with a static shot after the loop is already closed.
+- Drifting away from the promise in your title.
+- Explaining over a static shot after the question is already answered.
 
 ### Try it
 
-Rewrite one hook two ways: once as 'a mystery' with no context, once as 'this one detail about X' with enough context to guess. Then list where in the piece you close the loop and where you open the next one.
-
-<details><summary><b>Check yourself (4 questions)</b></summary>
-
-**1. According to Loewenstein, what kind of gap pulls best?**
-
-- a) The biggest possible gap
-- b) No gap at all
-- c) A gap where people already know enough to feel the missing piece
-- d) A gap about a random topic
-
-*Answer: c) A gap where people already know enough to feel the missing piece.* Too big or too small does not pull. Some knowledge first.
-
-**2. What did Gruber et al. (2014) find besides better memory of answers?**
-
-- a) Only children were affected
-- b) Curiosity reduced learning
-- c) People forgot everything else
-- d) People also remembered unrelated faces shown while they were curious
-
-*Answer: d) People also remembered unrelated faces shown while they were curious.* Memory improved for the surrounding material too, right away and a day later.
-
-**3. What is the 'sacred timeline'?**
-
-- a) Posting at the same time daily
-- b) A video editing tool
-- c) A posting schedule
-- d) Keeping everything in a piece tied to its promise
-
-*Answer: d) Keeping everything in a piece tied to its promise.* Anything that drifts from the promise confuses people, so it gets cut.
-
-**4. Why would a creator blur the blueberries in the first frame?**
-
-- a) Because of colour contrast
-- b) To look more professional
-- c) Copyright
-- d) So viewers could not solve the puzzle from the first frame
-
-*Answer: d) So viewers could not solve the puzzle from the first frame.* If the clue is visible, there is no reason to keep watching.
-
-</details>
+Rewrite one hook two ways: once as a vague mystery with no context, and once as "this one detail about X" with enough context to guess. Then note where in your piece you close the question and where you open the next one.
 
 [Back to the top of this module](#top) · [All modules](../README.md#contents)
 
@@ -532,95 +338,55 @@ Rewrite one hook two ways: once as 'a mystery' with no context, once as 'this on
 
 *8 min read*
 
-> **The big idea:** The brain tunes out what it already knows and stops on what is new. But new only registers against the old, and too much unfamiliar makes people feel lost, so wrap the new inside the known.
+> **The big idea:** The brain tunes out what it already knows and stops on what is new. But new only stands out against the old, and too much that's unfamiliar makes people feel lost. So wrap the new inside something they know.
 
 ### The brain filters out the familiar
 
-- Illusion of novelty: while scrolling, the brain is on autopilot and subconsciously tunes out anything familiar. It stops only on new things.
-- The brain cannot tell something is new without comparing it to the old. Novelty is a comparison.
-- When the brain believes it might be wrong, it freezes and pauses to recalibrate. That gap creates intrigue.
-- Recency bias: the more recent something feels, the more the brain insists on paying attention.
-- Self-identification: we trust versions of ourselves getting the result more than third-party claims.
+- While you scroll, the brain runs on autopilot and ignores anything familiar. It only stops for something new.
+- But the brain can't tell something is new without comparing it to the old. Newness is always a comparison.
+- When the brain suspects it might be wrong about something, it freezes for a moment to recalibrate. That small gap creates intrigue.
+- The more recent something feels, the more attention the brain gives it. That's why "just happened" and "this week" work.
+- People also trust a version of themselves getting a result more than a stranger's claim. Showing someone like the viewer succeed is stronger than telling them it works.
 
 ### The purple cow and the island
 
-- When driving you do not notice 90% of the cows and cars, but you would notice a purple cow from far away. Your video needs some uniqueness to stand out, and specificity and numbers help.
-- Unique novelty value is trait 2 of viral videos. The video feels 'like its own island', not 'another screaming into the void idea'.
-- An unusual subject is uniqueness. A young girl (about 17 or 18) who figured out something hard in a space described as male dominated and older, or 'old man gives advice' videos. You do not usually see that in your feed.
-- A novel perspective or big idea, an explanation that is not normal, gives readers 'a dopamine hit' and advances their understanding. That is why consuming content matters to them.
-- Thumbnails and scenes should be striking but believable (more in the trust lesson).
+- When you drive, you don't notice 90% of the cows and cars. But you'd spot a purple cow from far away. Your content needs some uniqueness to stand out, and specific details and numbers help.
+- Good videos feel like their own island, not like one more voice shouting into the void.
+- An unusual person can be the novelty. Think of a 17-year-old who has figured out something hard in a field full of older men, or an old man giving advice on a young person's topic. You don't often see that in your feed.
+- A fresh viewpoint or a big idea explained in a way people haven't heard gives them a small thrill and moves their understanding forward. That's why they consume content at all.
+- Thumbnails and scenes should be striking but believable. The trust lesson covers this.
 
 ### Comfort with the known
 
-- Hearing something familiar unlocks subconscious comfort. Too much unfamiliar makes people feel dumb, and they leave. Wrap the unknown in the known (showing a known face or brand is called 'cult hopping').
-- People like hearing about what they already care about, but are open to new perspectives that promise a benefit or a pain solved.
-- The brain is designed to constantly think about the future, which is why 'fortune teller' hooks work.
-- Embedded beliefs as stun guns: using something the viewer already subconsciously believes ('lists of viral hooks aren't the answer') makes an interjection stop them.
-- Theory people cannot see does worse than examples, stories and analogies that connect the unknown to something they already know. Make ideas 'observable'.
+- Hearing something familiar makes people feel comfortable. Too much that's unfamiliar makes them feel dumb, and they leave. So wrap the unknown in something known, such as a familiar face or brand.
+- People like hearing about what they already care about, but they're open to new viewpoints that promise a benefit or solve a pain.
+- The brain is built to think about the future, which is why hooks that predict what's coming work well.
+- You can start from something the viewer already half believes. A line like "lists of viral hooks aren't the answer" stops people who have privately thought the same.
+- Theory people can't picture does worse than examples, stories and comparisons that connect the unknown to something they already know. Make your ideas something people can see.
 
 ### The curse of knowledge
 
-- When we know something, we assume everyone knows it. Niche creators go ever more specific to show viewers new things, and forget that simpler framings that seem obvious to them may expand reach.
-- One creator applies it to himself: after 10 to 15 years he forgets how many skills a beginner has to learn at once.
-- 'Good content isn't saying new things to old people. It's saying old things to new people.' People mostly need reminding, not teaching.
+- Once you know something, you assume everyone does. Niche creators keep getting more specific to show viewers something new, and forget that simpler, more basic versions of their ideas, which feel obvious to them, could reach far more people.
+- One creator says that after 10 to 15 years in the field he forgets how many skills a beginner has to learn at once.
+- "Good content isn't saying new things to old people. It's saying old things to new people." Most people need reminding more than teaching.
 
 ### Examples
 
-- **The purple cow:** On a drive you ignore almost every cow, but a purple one you would spot from far away.
-  <br>*Why it works:* Some uniqueness is needed to stand out in a feed full of the same thing.
-- **A teenager in a male dominated field:** A teenager cracking short-form strategy in a field described as older and male dominated.
-  <br>*Why it works:* An unusual messenger is novelty on its own.
+- **The purple cow:** On a drive you ignore almost every cow, but a purple one you'd spot from far away.
+  <br>*Why it works:* You need some uniqueness to stand out in a feed full of the same thing.
+- **A teenager in a field of older men:** Imagine a teenager explaining short-form video strategy in a field known for being older and male.
+  <br>*Why it works:* An unusual person can be novelty on its own.
 
 ### Common mistakes
 
-- Content so familiar the brain filters it out.
-- Content so unfamiliar viewers feel dumb and leave.
-- Getting so niche you forget what beginners do not know (curse of knowledge).
+- Content so familiar that the brain filters it out.
+- Content so unfamiliar that viewers feel dumb and leave.
+- Getting so niche that you forget what beginners don't know (the curse of knowledge).
 - Pure theory with no example people can picture.
 
 ### Try it
 
-Take one idea you think is obvious in your field. Write it for a total beginner, wrapped in something they already know (an everyday object, a famous brand, a common belief). Then add one specific number or detail that makes it a purple cow.
-
-<details><summary><b>Check yourself (4 questions)</b></summary>
-
-**1. Why is novelty a comparison?**
-
-- a) Algorithms compare posts
-- b) It is not, novelty is absolute
-- c) Viewers compare creators
-- d) The brain can only tell something is new by comparing it to the old
-
-*Answer: d) The brain can only tell something is new by comparing it to the old.* New only registers against what is already known.
-
-**2. What happens when there is too much unfamiliar?**
-
-- a) People feel dumb and leave
-- b) Retention doubles
-- c) The algorithm boosts it
-- d) Viewers share more
-
-*Answer: a) People feel dumb and leave.* Wrap the unknown in the known.
-
-**3. What does the curse of knowledge warn niche creators about?**
-
-- a) Posting too often
-- b) Being too broad
-- c) Using too many thumbnails
-- d) Forgetting that simpler framings that seem obvious to them may expand reach
-
-*Answer: d) Forgetting that simpler framings that seem obvious to them may expand reach.* Experts assume everyone knows what they know.
-
-**4. Which line fits the idea that people mostly need reminding?**
-
-- a) Specific numbers always win
-- b) Only post new research
-- c) Good content is saying old things to new people
-- d) Never repeat yourself
-
-*Answer: c) Good content is saying old things to new people.* People mostly need reminding, not teaching.
-
-</details>
+Take one idea you think is obvious in your field. Write it for a complete beginner, wrapped in something they already know, like an everyday object, a famous brand or a common belief. Then add one specific number or detail that makes it a purple cow.
 
 [Back to the top of this module](#top) · [All modules](../README.md#contents)
 
@@ -632,115 +398,75 @@ Take one idea you think is obvious in your field. Write it for a total beginner,
 
 *8 min read*
 
-> **The big idea:** Almost everything has been said. Several creators teach the same move: take a proven, old truth and make it feel new through a new angle, a name, a definition or better packaging.
+> **The big idea:** Almost everything has already been said. The move that works is to take a proven, old truth and make it feel new with a fresh angle, a name, a definition or better packaging.
 
-### The 4 N filter
+### A 4-question filter for ideas
 
-- Run every idea through 4 N's: net new, non-obvious, nuanced, observable. Obvious ideas get scrolled past.
-- 'Your market isn't saturated, your message is just too generic.' One creator says their own growth came from non-obvious ideas.
-- Net new can just be framing: one business YouTuber did not say 'here's how to delegate', he named it the buyback principle ('buy back your time').
-- Observable: examples, stories and analogies beat theory people cannot see.
-- The easiest way to grow is to take fundamental truths (things that get a result regardless of outside factors) and repackage them in a new way.
+- Before you use an idea, check it against 4 questions. Is it new to them, even if only in how it's framed? Is it non-obvious, meaning not what they'd guess? Is it nuanced, more than the generic version? Is it observable, something they can picture through an example, story or comparison? Obvious ideas get scrolled past.
+- "Your market isn't saturated, your message is just too generic." One creator says their own growth came from non-obvious ideas.
+- New can just mean new framing. Say a YouTuber wants to teach delegating. Instead of "here's how to delegate", he names it the buyback principle: you buy back your time.
+- Examples, stories and comparisons beat theory that people can't see.
+- The easiest way to grow is to take fundamental truths, things that work whatever the outside conditions, and repackage them in a new way.
 
-### Name things: unique mechanisms
+### Give your ideas a name
 
-- Put familiar words together into a 'familiar but unknown' term, then explain it. People lean in and ask 'what is that?'.
-- 'Unique mechanism' is itself one. Examples: the 4 C's, a hook-explain-illustrate-teach framework, the '10-80-10 rule' (makes old advice about delegating outcomes sound new), the X40 system.
-- Names create what one creator calls a 'V-bomb' (viral word of mouth): people talk about you without you.
-- Your job is not saying new things. It is making old things sound new.
-- Define the key words in your content ('brand is repeated association') so people see you as the authority. Another creator teaches the same move as 'redefine terms' with an operational definition.
+- Join familiar words into a term people haven't heard, then explain it. They lean in and ask "what is that?"
+- Examples: the 4 C's, a hook-explain-illustrate-teach framework, the "10-80-10 rule" (which makes old advice about delegating outcomes sound new), a named step-by-step system. Each is a label on top of an idea that already existed.
+- A name can start word of mouth: people talk about you without you being there.
+- Your job is not to say new things. It's to make old things sound new.
+- Define the key words in your content, for example "brand is repeated association". People then see you as the authority on the topic.
 
-### The illusion of novelty
+### The illusion of novelty: 5 moves
 
-- Addictive content = relevant + new + interesting. For boring topics you build the 'new'.
-- New reveal + outcome: an old topic, a new angle, tied to what they want ('drinking water at the right TIME gives you more energy than your morning coffee').
-- Contrast framing: put it against what they already believe ('you've been told 8 glasses a day your whole life...'). It must be a true opposite, not a random comparison.
-- Urgency, only if real: 'this only became possible a few weeks ago'. Fake urgency kills trust.
-- Bullseye proof: best is someone exactly like the viewer got the result, middle is 'a lot of people like you', lowest is a study or stat (it works, but people wonder 'was it people like me?').
-- Protect the illusion: never undercut yourself ('of course, this is just circadian biology, known for decades'). Deliver it like a whispered secret, not a town crier ('not many people know this yet...').
-- The reveal at the end: the name 'illusion of novelty' is made up. It is old persuasion psychology in a new wrapper, and that is the point. Naming an old idea makes it feel new.
+- Content people can't stop watching is relevant, new and interesting. For a boring topic, you build the "new" part yourself. Here are 5 ways.
+- 1\. New reveal plus outcome. Take an old topic, add a fresh angle, and tie it to what they want. For example: "drinking water at the right time gives you more energy than your morning coffee."
+- 2\. Contrast with what they believe. "You've been told 8 glasses a day your whole life..." The contrast has to be a true opposite, not a random comparison.
+- 3\. Urgency, only if it's real. "This only became possible a few weeks ago." Fake urgency destroys trust.
+- 4\. Proof close to the viewer. The best proof is someone exactly like them who got the result. Next best is "a lot of people like you". Weakest is a study or statistic. It still works, but people wonder "was it people like me?"
+- 5\. Don't undercut yourself. Never say "of course, this is just basic biology, known for decades". Deliver it like a shared secret, not like a town crier shouting. "Not many people know this yet..."
+- The name "illusion of novelty" was made up by the creator who teaches it, and the creator says so. It's old persuasion psychology in a new wrapper, and that's the point: naming an old idea makes it feel new.
 
 ### Packaging over secrets
 
-- One creator admits their own viral article was 'not completely mind-blowing, relatively common knowledge, it's all about the formatting and the presentation to a specific audience'.
-- 4 kinds of value: teach, solve, save time, or make people money (directly or by upskilling them).
-- Contrast re-agitates pain: framing a known A against an unknown B makes B trigger the leftover pain from A failing. The comparison re-agitates the pain and creates curiosity.
+- One creator admits their own viral article was "not completely mind-blowing, relatively common knowledge, it's all about the formatting and the presentation to a specific audience".
+- There are 4 kinds of value you can give: teach something, solve a problem, save time, or help people make money (directly or by building their skills).
+- Contrast also brings back pain. If you set something people know (A) against something they don't (B), B reminds them of how A let them down. That comparison creates curiosity.
 
 ### Frameworks
 
-**The 4 N filter**
+**The 4-question idea filter**
 
-1. Net new: new to them, even if just new framing
-2. Non-obvious: not what they would guess
-3. Nuanced: more than the generic version
-4. Observable: shown with examples, stories, analogies
+1. New to them: even if it's only new framing.
+2. Non-obvious: not what they would guess.
+3. Nuanced: more than the generic version.
+4. Observable: shown through examples, stories or comparisons.
 
-**The illusion of novelty**
+**The 5 moves of the illusion of novelty**
 
-1. New reveal + outcome: new angle tied to what they want
-2. Contrast framing: against what they already believe, a true opposite
-3. Urgency: only if real
-4. Bullseye proof: someone like them got the result
-5. Protect the illusion: no undercutting, deliver like a secret
+1. New reveal plus outcome: a fresh angle tied to what they want.
+2. Contrast: against what they already believe, a true opposite.
+3. Urgency: only if it's real.
+4. Proof from someone like them.
+5. Don't undercut yourself: deliver it like a secret.
 
 ### Examples
 
-- **Naming the buyback principle:** Instead of 'here's how to delegate', one business YouTuber named it the buyback principle, and added a '10-80-10 rule' for delegating outcomes.
+- **Naming the buyback principle:** One business YouTuber turned "here's how to delegate" into the buyback principle, and added a "10-80-10 rule" for delegating outcomes.
   <br>*Why it works:* Old advice with a name sounds new and spreads by word of mouth.
-- **'Illusion of novelty' reveal:** At the end of the video the creator admits the name being taught is made up and the ideas are old persuasion psychology.
-  <br>*Why it works:* Proves the point: naming makes old ideas feel new.
+- **The name that was made up:** A creator taught the "illusion of novelty", and at the end revealed that the name was invented and the ideas were old persuasion psychology.
+  <br>*Why it works:* It proves the point: giving an old idea a name makes it feel new.
 
 ### Common mistakes
 
-- Generic messages in a 'saturated' market.
+- Generic messages in a market you call saturated.
 - Fake urgency.
-- Undercutting your own point ('of course, this is well known').
-- A town-crier, salesy delivery instead of a shared secret.
-- Naming things you do not actually teach (only name what you already teach).
+- Undercutting your own point ("of course, this is well known").
+- A salesy, town-crier delivery instead of a shared secret.
+- Naming things you don't actually teach. Only name what you really teach.
 
 ### Try it
 
-List 3 things you teach that feel obvious to you. For each, write a 2 to 4 word name that joins familiar words, a one-line operational definition, and one contrast with what people already believe.
-
-<details><summary><b>Check yourself (4 questions)</b></summary>
-
-**1. What are the 4 N's?**
-
-- a) New, now, needed, nice
-- b) Niche, narrow, novel, numbered
-- c) None of these
-- d) Net new, non-obvious, nuanced, observable
-
-*Answer: d) Net new, non-obvious, nuanced, observable.* Every idea goes through them; obvious ideas get scrolled past.
-
-**2. In the bullseye proof, which proof is weakest?**
-
-- a) A study or stat
-- b) A lot of people like you
-- c) Someone exactly like the viewer
-- d) None, all are equal
-
-*Answer: a) A study or stat.* Studies work, but people wonder if it applies to people like them.
-
-**3. What is revealed at the end of the illusion of novelty video?**
-
-- a) The name is made up and the ideas are old
-- b) It only works on TikTok
-- c) The creator uses AI
-- d) The data was fake
-
-*Answer: a) The name is made up and the ideas are old.* Naming an old idea makes it feel new.
-
-**4. What did one creator say about their own viral article?**
-
-- a) It was a lucky accident
-- b) It was common knowledge, but formatting and presentation to a specific audience made it work
-- c) It was paid promotion
-- d) It used secret info
-
-*Answer: b) It was common knowledge, but formatting and presentation to a specific audience made it work.* You need the right package for the right reader, not secret info.
-
-</details>
+List 3 things you teach that feel obvious to you. For each one, write a name of 2 to 4 words that joins familiar words, a one-line definition, and one contrast with what people already believe.
 
 [Back to the top of this module](#top) · [All modules](../README.md#contents)
 
@@ -748,114 +474,73 @@ List 3 things you teach that feel obvious to you. For each, write a 2 to 4 word 
 
 <a id="m4-l8"></a>
 
-## 4.8 Emotion: clicks, shares and pain
+## 4.8 Emotion: what drives clicks, shares and action
 
 *9 min read*
 
-> **The big idea:** Different emotions do different jobs. Real studies show negative and sad words lift clicks, while high-arousal emotions like awe, anger and anxiety drive shares. Creators add that pain, hopes and fears decide what people act on.
+> **The big idea:** Different emotions do different jobs. Studies show negative and sad words lift clicks, while strong emotions like awe, anger and anxiety drive shares. Creators add that pain, hopes and fears decide what people act on.
 
-### The studies: clicks vs shares
+### The studies: clicks versus shares
 
-- Clicks: Robertson et al. 2023 (Nature Human Behaviour) studied about 105,000 headline variations on Upworthy (22,743 tests). For an average headline, each extra negative word raised click-through by 2.3%. Sadness drove clicks the most.
-- Shares: Berger and Milkman 2012 (Journal of Marketing Research) studied about 7,000 New York Times articles. High-arousal emotions got shared: awe (positive), anger and anxiety (negative).
-- Sadness, a low-arousal emotion, made articles less likely to be shared. Positive content was more viral than negative overall.
-- The practical reading: a sad hook can get the click, but awe or a bit of anger gets the share. Pick the emotion for the job (views vs spreading).
+- Clicks: a 2023 study looked at about 105,000 headline variations from Upworthy (22,743 tests). For an average headline, each extra negative word raised the click rate by 2.3%. Sadness pulled clicks the most.
+- Shares: a 2012 study looked at about 7,000 New York Times articles. The ones people shared most triggered strong emotions: awe (a positive one), and anger and anxiety (negative ones).
+- Sadness, a low-energy emotion, made articles less likely to be shared. Overall, positive content spread more than negative.
+- In practice: a sad hook can win the click, but awe or a bit of anger wins the share. Pick the emotion for the job, views or spreading.
 
-### Emotion in words
+### Emotion in your words
 
-- Keywords are words that trigger emotion, in relatable phrasing, how you would talk to a friend. 'Break your shitty habits' beats 'develop better habits'.
-- Emotion is contagious.
-- Raw thoughts and shown emotions make stories relatable.
-- One creator has posted pieces he thought exceptional and well researched that had a tiny potential audience and went nowhere, and 'fortune cookie' broad pieces that people loved because they connected on an emotional level. He counts both as great.
-- Most of the time he knows before posting whether a topic has broad resonance or is niche. A few surprised him.
+- Use words that trigger emotion, in the way you'd talk to a friend. "Break your shitty habits" beats "develop better habits".
+- Emotion is contagious. Raw thoughts and visible feelings make a story relatable.
+- One creator has posted pieces he thought were excellent and well researched, with a tiny potential audience, and they went nowhere. He has also posted broad, fortune-cookie style pieces that people loved because they felt something. He counts both as good work.
+- He says he usually knows before posting whether a topic will have broad appeal or stay niche, though a few surprised him.
 
-### Hopes, dreams, fears, blockers
+### Hopes, dreams, fears and blockers
 
-- 4 emotions sit behind every title and every buyer. Hopes (what they want short term, about 90 days), dreams (long term, 5 to 10 years), fears (what scares them), blockers (limiting beliefs that stop them acting).
-- Decide which one a piece should hit. Same topic (making money): hope angle 'how to make \$1M in 2026', fear angle 'you'll never be rich until you understand this'.
-- On one big business creator's channels, hopes and dreams titles tend to do better than fears and blockers. Aspirational beats fearful there. Know your audience before choosing.
-- Self-articulation: say what people think but cannot put into words. Best compliment: 'you literally read my mind'. One creator stopped a business owner opening with 'if you want to build a bigger team'. Most owners want more money and impact. Lead with that outcome, hiring is the method inside.
+- Behind every title, and every buyer, sit 4 things. Hopes are what they want in the short term, about 90 days. Dreams are long-term wants, 5 to 10 years out. Fears are what scares them. Blockers are beliefs that stop them acting.
+- Decide which one a piece should hit. On the topic of making money, a hope angle is "how to make \$1M in 2026" and a fear angle is "you'll never be rich until you understand this".
+- On one big business creator's channels, hope and dream titles tend to do better than fear and blocker titles. Know your own audience before choosing.
+- Say what people think but can't put into words. The best compliment is "you literally read my mind". For example, one creator stopped a business owner from opening with "if you want to build a bigger team". Most owners don't want a team, they want more money and more impact. Lead with that result, and hiring is just the method inside.
 
 ### Pain and the one-step-away rule
 
-- Accept the pain. The 4 core pains are money, time, health and access.
-- Go one step away from the real pain so you do not trip their BS detector. One creator's videos about 'making money' flop, while the videos about 'growing faster' crush, because viewers make the leap to money themselves.
-- 'Twist the knife': name the frustration bluntly. Talk to an audience of one (one hook used 'you' 9 times and 'I' 0 times). Show the gap between where they are and where they want to be.
-- Nice-to-have vs need-to-have. '3 trends in skincare' is nice to have, 'if you struggle with acne, try these 3 things' is need to have.
-- Pain point posts make people feel seen immediately.
+- Talk about real pain. The 4 core pains are money, time, health and access.
+- Don't hit the pain head on. Go one step away so you don't set off people's alarm for being sold to. One creator's videos about "making money" flop, while videos about "growing faster" do very well, because viewers make the jump to money themselves.
+- Name the frustration plainly and talk to one person. One hook used "you" 9 times and "I" 0 times. Show the gap between where they are and where they want to be.
+- Nice to have versus need to have. "3 trends in skincare" is nice to have. "If you struggle with acne, try these 3 things" is need to have.
+- Posts about a pain point make people feel seen right away.
 
 ### Frameworks
 
 **Hopes, dreams, fears, blockers**
 
-1. Hopes: short-term wants, about 90 days
-2. Dreams: long-term, 5 to 10 years
-3. Fears: what scares them
-4. Blockers: limiting beliefs that stop action
+1. Hopes: short-term wants, about 90 days.
+2. Dreams: long-term wants, 5 to 10 years.
+3. Fears: what scares them.
+4. Blockers: beliefs that stop them acting.
 
 ### Examples
 
-- **Robertson et al. 2023, Upworthy:** Across 22,743 headline tests, each extra negative word raised click-through by 2.3% for an average headline.
-  <br>*Why it works:* Negativity and sadness pull clicks, but that does not mean they get shared.
-- **Berger and Milkman 2012, New York Times:** About 7,000 articles: awe, anger and anxiety got shared, sadness got shared less, positive beat negative overall.
-  <br>*Why it works:* Shares come from high-arousal emotions.
-- **One step away:** Videos about 'making money' flopped, videos about 'growing faster' did well.
-  <br>*Why it works:* Viewers make the leap to money on their own, so the BS detector stays off.
+- **Headlines on Upworthy:** Across 22,743 headline tests, each extra negative word raised the click rate by 2.3% for an average headline.
+  <br>*Why it works:* Negativity and sadness pull clicks, but that doesn't mean they get shared.
+- **Articles in the New York Times:** Among about 7,000 articles, awe, anger and anxiety got shared the most. Sadness got shared less. Positive content beat negative overall.
+  <br>*Why it works:* Shares come from emotions with high energy.
+- **One step away from the pain:** One creator's videos about "making money" flopped, while videos about "growing faster" did well.
+  <br>*Why it works:* Viewers make the jump to money on their own, so the pitch alarm stays off.
 
 ### Common mistakes
 
-- Using sadness when you want shares (Berger and Milkman).
+- Using sadness when you want shares.
 - Hitting the core pain so directly that it sounds like a pitch.
-- Jargon with zero emotion ('yield a positive ROI').
-- Picking fear by default when the audience responds to hope.
+- Jargon with no emotion, like "yield a positive ROI".
+- Using fear by default when your audience responds to hope.
 
 ### Where the sources disagree
 
-Studies say negative words lift clicks, but positive content was more viral overall, and one creator reports aspirational titles beat fearful ones on a big business channel. Another warns that negativity can collect reports and 'not interested'. So: negativity may win a click, but positive, high-arousal emotion tends to win spread.
+Studies say negative words lift clicks, yet positive content spread more overall, and one creator reports that hopeful titles beat fearful ones on a big business channel. Another warns that negativity can collect reports and "not interested" taps. So negativity may win a click, but positive, high-energy emotion tends to win the spread.
 
 ### Try it
 
-Take one topic and write 4 hooks: one each for a hope, a dream, a fear and a blocker. Then mark which emotion each would trigger (awe, anger, anxiety, sadness) and whether it is built for clicks or for shares.
-
-<details><summary><b>Check yourself (4 questions)</b></summary>
-
-**1. In Berger and Milkman (2012), which emotion made articles less likely to be shared?**
-
-- a) Awe
-- b) Anger
-- c) Sadness
-- d) Anxiety
-
-*Answer: c) Sadness.* Sadness is low arousal. High-arousal emotions got shared.
-
-**2. What did Robertson et al. (2023) find on Upworthy?**
-
-- a) Each extra negative word raised click-through by 2.3% for an average headline
-- b) Emojis drove clicks
-- c) Headlines did not matter
-- d) Positive words doubled clicks
-
-*Answer: a) Each extra negative word raised click-through by 2.3% for an average headline.* Sadness drove clicks the most.
-
-**3. What does 'one step away' mean?**
-
-- a) Post one day after the trend
-- b) Cut one word from the hook
-- c) Talk about the pain right next to the core pain so viewers make the leap themselves
-- d) Use one emoji
-
-*Answer: c) Talk about the pain right next to the core pain so viewers make the leap themselves.* 'Growing faster' instead of 'making money' avoids tripping the BS detector.
-
-**4. Which pair tended to win on one big business creator's channels?**
-
-- a) Anger and anxiety
-- b) Hopes and dreams
-- c) Sadness and awe
-- d) Fears and blockers
-
-*Answer: b) Hopes and dreams.* Aspirational beat fearful there, but know your audience first.
-
-</details>
+Take one topic and write 4 hooks: one for a hope, one for a dream, one for a fear and one for a blocker. Then mark which emotion each would trigger (awe, anger, anxiety or sadness) and whether it's built for clicks or for shares.
 
 [Back to the top of this module](#top) · [All modules](../README.md#contents)
 
@@ -867,88 +552,48 @@ Take one topic and write 4 hooks: one each for a hope, a dream, a fear and a blo
 
 *8 min read*
 
-> **The big idea:** People like and trust what they have seen many times, and they connect a name to a category without thinking. Repetition, borrowed associations and a recognisable look do this work.
+> **The big idea:** People like and trust what they've seen many times, and they connect a name to a category without thinking. Repetition, borrowed associations and a recognisable look do this work for you.
 
 ### Why association works
 
-- Reflexive association is when you hear a name and a category fires in your brain without thinking. It is built only by repeated exposure.
-- Borrowed association. Pairing with someone transfers the associations people already hold about them. Example: Nike borrowing Michael Jordan's 'greatness'.
-- Borrowed association works negatively too. Pairing with sketchy people creates a filter.
-- Objects stick in people's brains more than amorphous ideas.
-- Stickiness compounds with consecutive minutes watched.
-- High perceived taste makes people weight your opinion more.
+- When you hear a name and a category pops into your head without thinking, that's reflexive association. It only forms through repeated exposure.
+- You can borrow association. When you pair with someone, you take on what people already think about them. Nike pairing with Michael Jordan borrows his "greatness".
+- Borrowing works in the bad direction too. If you pair with people with a sketchy reputation, you get a filter on your audience, and probably not one you want.
+- Concrete things stick in people's minds more than vague ideas.
+- Stickiness also builds up over consecutive minutes of watching.
+- When people see you as having good taste, they give your opinion more weight.
 
-### Familiarity is a weapon
+### Familiarity is a tool
 
-- After buying a Jeep, one creator saw Jeeps everywhere. The reticular activating system looks for patterns it already knows.
-- One big business creator wears a blue shirt all the time so it becomes a visual hook in a row of thumbnails. Value once from 'the blue shirt guy' means a click next time. Another creator wears the same shirt in every video for the same reason.
+- After buying a Jeep, one creator saw Jeeps everywhere. The part of the brain that filters what to notice looks for patterns it already knows.
+- One big business creator wears a blue shirt all the time, so it becomes a visual hook in a row of thumbnails. If people got value once from "the blue shirt guy", they click next time. Another creator wears the same shirt in every video for the same reason.
 - Repeat a filming style, a way of speaking, even a hairstyle.
-- A test: 'you don't have a personal brand until somebody can dress as you at Halloween'. One creator's whole team dressed as their boss last Halloween.
-- Likability: be yourself. One creator wears the same black hoodie and cap every day.
+- One test: "you don't have a personal brand until somebody can dress as you at Halloween". One creator says their whole team dressed as their boss last Halloween.
+- Be yourself. One creator wears the same black hoodie and cap every day.
 
-### The science of seeing it often
+### The science of seeing something often
 
-- Zajonc 1968, the mere exposure effect: repeated exposure raises liking. Students liked faces more the more often they had seen them.
-- A large meta-analysis (Bornstein 1989, 208 experiments) supports it. Some replications failed.
-- The insights bank's reading: this is the science behind consistency and the same face or format every day. Trust and liking build with familiarity.
-- The comfort idea from the novelty lesson sits on the same base: the familiar feels safe.
+- A 1968 study found the mere exposure effect: the more often people saw something, the more they liked it. Students liked faces more the more often they had seen them.
+- A large review from 1989 of 208 experiments supports it, though some later attempts to repeat it failed.
+- This is the science behind showing up consistently with the same face or format. Trust and liking grow with familiarity.
+- It also explains the point from the novelty lesson: the familiar feels safe.
 
 ### Examples
 
-- **Borrowed association:** Nike pairs with Michael Jordan and takes on the 'greatness' people already link to him.
+- **Borrowed association:** Nike pairs with Michael Jordan and takes on the "greatness" people already link to him.
   <br>*Why it works:* The same transfer works the other way, so who you pair with also filters your audience.
 - **The blue shirt:** One big business creator wears one blue shirt all the time, and another creator wears the same shirt in every video.
   <br>*Why it works:* A repeated look becomes a hook in a row of thumbnails.
 
 ### Common mistakes
 
-- Changing look, style and voice every piece, so nothing can become familiar.
-- Pairing with people whose associations you would not want.
+- Changing look, style and voice with every piece, so nothing can become familiar.
+- Pairing with people whose reputation you wouldn't want.
 - Treating one exposure as enough. Reflexive association needs repetition.
 
 ### Try it
 
-Write the one-line category you want people to link to your name. Then list 3 things you could repeat in every piece (a look, a phrase, a format) so that link forms by repetition.
-
-<details><summary><b>Check yourself (4 questions)</b></summary>
-
-**1. How is reflexive association built?**
-
-- a) By paid ads
-- b) By one viral post
-- c) Only by repeated exposure
-- d) By long bios
-
-*Answer: c) Only by repeated exposure.* A name fires a category without thinking only after many exposures.
-
-**2. What is borrowed association?**
-
-- a) Pairing with someone to transfer the associations people hold about them
-- b) Copying a rival's posts
-- c) Quoting a study
-- d) Buying followers
-
-*Answer: a) Pairing with someone to transfer the associations people hold about them.* Nike borrowing Michael Jordan's greatness. It works negatively too.
-
-**3. What did Zajonc's 1968 study find?**
-
-- a) Only words work
-- b) Repeated exposure raises liking
-- c) Faces are ignored
-- d) Liking drops with repetition
-
-*Answer: b) Repeated exposure raises liking.* Students liked faces more the more often they had seen them.
-
-**4. What is the Halloween test?**
-
-- a) Post a spooky video
-- b) Post every day in October
-- c) You have no personal brand until somebody can dress as you
-- d) Use a costume logo
-
-*Answer: c) You have no personal brand until somebody can dress as you.* A brand is recognisable enough to copy as a costume.
-
-</details>
+Write the one-line category you want people to link to your name. Then list 3 things you could repeat in every piece, like a look, a phrase or a format, so that link forms through repetition.
 
 [Back to the top of this module](#top) · [All modules](../README.md#contents)
 
@@ -960,115 +605,75 @@ Write the one-line category you want people to link to your name. Then list 3 th
 
 *10 min read*
 
-> **The big idea:** Skepticism is at an all time high. Trust comes from real weakness, proof that fits the viewer, keeping your promise and work that feels like a person made it.
+> **The big idea:** People are more sceptical than ever. Trust comes from real weaknesses, proof that fits the viewer, keeping your promises, and work that clearly has a person behind it.
 
-### Trust in a skeptical world
+### Trust in a sceptical world
 
-- Skepticism is at an all time high.
-- We trust and root for people with real weaknesses. Nobody trusts the person posturing as perfect.
-- People are trained to distrust tones that feel salesy. Fake urgency destroys trust. A lowered, secret-sharing tone creates intrigue.
-- Trust is delivering on your promise. 'Stop chasing views and start building trust.' If you promise the best tactics, deliver them. Optimise for information density over viral reach.
-- People feel it when you are not interested. They can tell when you chase trends or force a topic. Your excitement is part of why it works.
+- Scepticism is at an all-time high. People are trained to distrust anything that feels salesy.
+- We trust and root for people with real weaknesses. Nobody trusts someone who poses as perfect.
+- Fake urgency destroys trust. A lowered, secret-sharing tone creates intrigue instead.
+- Trust means delivering on your promise. "Stop chasing views and start building trust." If you promise the best tactics, give them. Aim for lots of useful detail, not just viral reach.
+- People can feel when you aren't interested. They can tell when you chase trends or force a topic. Your real excitement is part of why content works.
 
 ### The pratfall effect, the real version
 
-- Aronson 1966: a quiz candidate who answered 92% right and then spilled coffee was rated the most likable of all 4 versions.
-- The same spill made the average candidate (30% right) less likable.
+- In a 1966 study, a quiz contestant who answered 92% of questions right and then spilled coffee was rated the most likable of 4 versions.
+- The same spill made an average contestant (30% right) less likable.
 - So a mistake makes you more likable only if you are already good. Most people get this wrong.
-- Caveat from the insights bank: 48 male students, 1966.
+- Caveat: the study used 48 male students, in 1966.
 
-### Trust and likability checkpoints
+### Winning trust in the first 30 seconds
 
-- Checkpoint 2, trust within 10 to 30 seconds. Strongest to weakest proof: a result for someone like them, your own result, a big following or cosign, 'I was where you are', common ground, a polished setup. Flash proof (screenshots) fast.
-- Checkpoint 4, likability: energy up 50% (record one line at a time so your energy never trails off), simple words (say it twice, once simpler), be yourself.
-- Trust, the gut: the anti-sale (tell people when it is not for them), do not waste their time with fake small talk, similarity, give before you ask.
-- A similarity example: Burger 2004, a shared birthday raised yes from 34% to 62%.
+- People decide whether to trust you within 10 to 30 seconds. Proof, from strongest to weakest: a result for someone like them, your own result, a big following or an endorsement, "I was where you are", common ground, a polished setup. Flash proof such as screenshots quickly.
+- To be likable: raise your energy by about 50% (record one line at a time so your energy never fades), use simple words (say it twice, once more simply), and be yourself.
+- Trust also comes from the gut. Tell people when something isn't for them. Don't waste their time with fake small talk. Show what you have in common. Give before you ask.
+- Similarity works. In a 2004 study, a shared birthday raised the rate of people saying yes from 34% to 62%.
 
 ### Believable, not fake
 
-- Show something 'on the verge of believable'. Not misleading, an exaggeration of the real thing. Adding gold or a diamond-encrusted detail to 'the world's most expensive saw' is not clickbait because it is still the most expensive saw.
-- Over-saturating the island thumbnail would make it brighter but less realistic. MrBeast avoids things that look overly fake.
-- MrBeast limits videos to 1080p so they do not feel too produced. 'It always has to feel like a YouTube video.'
-- Clickbait is not that effective. A hook that lies loses viewers right after.
-- Power of suggestion: direct influence hits a guard, suggestion goes around it. Commands feel like homework. Conclusions people reach on their own create faster trust.
+- Aim for something on the verge of believable. That's not misleading, it's an exaggeration of something real. Adding gold or a diamond-encrusted detail to "the world's most expensive saw" isn't clickbait, because it really is the most expensive saw.
+- MrBeast avoids things that look overly fake. Making the island thumbnail even brighter would make it less realistic.
+- He limits videos to 1080p so they don't feel too produced. "It always has to feel like a YouTube video."
+- Clickbait isn't that effective. A hook that lies loses viewers right after.
+- Suggestion goes around people's guard, while direct influence hits it. Commands feel like homework. Conclusions people reach on their own create trust faster.
 
 ### People reject work with nobody behind it
 
-- People reject work that feels like nobody was behind it, even when it is objectively better. One creator cites an NYU and Emory study: 19% better click-through, but 33% lower purchase likelihood once people knew it was AI (that citation was not checked here).
-- Audiences feel craft in their scroll speed. 'They slow down for craft. They blow past defaults.'
-- Telltale AI defaults: LinkedIn posts that read like a mid-level marketing prompt, landing pages with the same hero gradient, Inter font and 'revolutionize your workflow' headline, blog posts that cover every angle and say nothing. Content that is technically correct, well structured and generic, 'all the right notes and none of the right emotions'.
-- Show yourself doing the thing you do better than anyone (dramatic demonstrations). A story: people feared elevators until the inventor cut the cable before a New York crowd and the safety brake stopped it.
-- Modern versions: a creator makes 'meta' content showing how the videos are made, and a business creator is shown building AI companies in real time. It builds trust and then gets people to buy.
+- People tend to reject work that feels like nobody was behind it, even when it's objectively better. One creator cites a university study: ads were 19% better at getting clicks, but people were 33% less likely to buy once they knew AI made them. We haven't checked that citation.
+- Audiences feel craft in how fast they scroll. "They slow down for craft. They blow past defaults."
+- Signs of AI defaults: LinkedIn posts that read like a prompt from a mid-level marketer, landing pages with the same gradient, font and "revolutionize your workflow" headline, and blog posts that cover every angle and say nothing. They're technically correct and well structured, but generic: "all the right notes and none of the right emotions".
+- Show yourself doing the thing you do better than anyone, in a dramatic demonstration. In a famous story, people feared elevators until the inventor cut the cable in front of a New York crowd and the safety brake held.
+- Modern versions: a creator makes "behind the scenes" content showing how their videos are made, and a business creator is shown building AI companies in real time. It builds trust, and trust leads to sales.
 
 ### Frameworks
 
-**Trust proof ladder (strongest to weakest)**
+**The proof ladder (strongest to weakest)**
 
-1. A result for someone like them
-2. Your own result
-3. A big following or cosign
-4. 'I was where you are'
-5. Common ground
-6. A polished setup
+1. A result for someone like them.
+2. Your own result.
+3. A big following or endorsement.
+4. "I was where you are."
+5. Common ground.
+6. A polished setup.
 
 ### Examples
 
-- **Aronson 1966, the coffee spill:** A candidate who got 92% right and spilled coffee was the most likable. An average candidate (30% right) who spilled it was liked less.
-  <br>*Why it works:* Flaws help only when competence is already clear.
-- **The elevator:** The inventor cut the elevator cable in front of a New York crowd and the safety brake stopped it.
-  <br>*Why it works:* Showing the thing working beats claiming it works.
+- **The coffee spill:** In a 1966 study, a contestant who got 92% right and spilled coffee was the most likable. An average contestant (30% right) who spilled it was liked less.
+  <br>*Why it works:* Flaws help only when your ability is already clear.
+- **The elevator:** The inventor cut the elevator cable in front of a New York crowd, and the safety brake stopped it.
+  <br>*Why it works:* Showing it working beats claiming it works.
 
 ### Common mistakes
 
 - Posing as perfect.
-- Admitting flaws before proving you are good.
-- A salesy, town-crier tone and fake urgency.
+- Admitting flaws before you've proved you're good.
+- A salesy tone and fake urgency.
 - Hooks that lie, so people leave right after.
 - Generic, default-looking output that feels like nobody made it.
 
 ### Try it
 
-Take one claim you make in your content. Write which proof from the trust ladder you could show for it, and one real weakness or mistake you could mention only after the proof.
-
-<details><summary><b>Check yourself (4 questions)</b></summary>
-
-**1. In Aronson 1966, when did a mistake make someone more likable?**
-
-- a) Only when the person was already very competent
-- b) Never
-- c) Always
-- d) Only for average people
-
-*Answer: a) Only when the person was already very competent.* The 92% candidate gained likability, the 30% candidate lost it.
-
-**2. Which is the strongest proof in the trust ladder?**
-
-- a) A result for someone like them
-- b) A big following
-- c) A polished setup
-- d) Common ground
-
-*Answer: a) A result for someone like them.* A result for someone like the viewer beats all the rest.
-
-**3. What is said about clickbait?**
-
-- a) It is the best tactic
-- b) It only works on YouTube
-- c) It is not that effective because a lying hook loses viewers right after
-- d) It needs numbers
-
-*Answer: c) It is not that effective because a lying hook loses viewers right after.* Exaggerate the real thing, do not invent it.
-
-**4. What is trust?**
-
-- a) A big follower count
-- b) Using proof screenshots
-- c) Posting daily
-- d) Delivering on your promise
-
-*Answer: d) Delivering on your promise.* Optimise for information density over viral reach.
-
-</details>
+Take one claim you make in your content. Write down which proof from the ladder you could show for it, and one real weakness or mistake you could mention only after the proof.
 
 [Back to the top of this module](#top) · [All modules](../README.md#contents)
 
@@ -1076,47 +681,47 @@ Take one claim you make in your content. Write which proof from the trust ladder
 
 <a id="m4-l11"></a>
 
-## 4.11 Identity, sharing, enemies and disagreement
+## 4.11 Identity, sharing, shared enemies and disagreement
 
 *10 min read*
 
-> **The big idea:** People share to say who they are, bond over what they stand against, and follow people who pick a side. A share is a label, so make content people want to be seen with, and handle the hate that comes with it.
+> **The big idea:** People share to show who they are, bond over what they stand against, and follow people who pick a side. A share is a label, so make content people want to be seen with, and be ready for the pushback that comes with taking a stand.
 
 ### Why people repost
 
-- People repost what they want their audience and friends to see that they agree with or resonate with. Nobody reposts something they do not want friends to see them liking.
-- Content has to be something people want to identify with or be known for. Before posting ask: will people share it? Why should they? Do I identify with what I say? Is it polarising enough to spark discussion?
-- A share says 'this is me too'. Make content people want to be seen with.
-- Examples: a 'looker vs supporter' video ('social media will expose your friendships') was shared by people signalling they value supporters over lookers. A video about not glorifying entrepreneurship spreads because sharers signal that they work hard and sacrifice.
-- People quote when it backs up something they have been saying, or they know a detail the author missed. They have a reason to show it to their followers.
-- The best share loops make the sharer look smart, interesting, successful or more self-aware. An example: Hyperorganic's creator wrap-up turns a creator's own data into a visual summary of what they are known for and their top posts, so the output is about them.
-- Ask before posting: would someone send this to a friend, bookmark it or reply to it?
+- People repost things they want their friends and followers to see them agree with. Nobody shares something they'd be embarrassed to be linked to.
+- So your content has to be something people want to be known for. Before you post, ask: will people share this? Why would they? Do I stand behind what I'm saying? Is it bold enough to spark discussion?
+- A share says "this is me too". Make content people want to be seen with.
+- Example: a video saying "social media will expose your friendships", about people who show up to watch versus people who actually support you, was shared by people signalling that they value supporters. A video about not glorifying entrepreneurship spreads because sharers signal that they work hard and sacrifice.
+- People quote a post when it backs up something they've been saying, or when they know a detail the author missed. They have a reason to show it to their followers.
+- The best things to share make the sharer look smart, interesting, successful or self-aware. For example, a tool that turns a creator's own data into a summary of what they're known for and their top posts makes the output about the person, so they want to post it.
+- Before posting, ask: would someone send this to a friend, bookmark it or reply to it?
 
-### Shared enemies and interest stacking
+### Shared enemies and stacked interests
 
-- Humans tend to bond more over a shared enemy than a shared love. A named enemy makes people self-select in or out.
-- Interest stacking. The more things stacked in common, the closer someone moves on the relationship sphere, from acquaintance to friend to best friend or spouse.
-- 'The common enemy factor', the number one lever for fast growth in one creator's words: humans are tribal and rally against a common enemy or a common behaviour. 'If you can't spot it, it might be you.'
-- One creator's enemy: the idea that you need fancy cameras, lights and gear. The creator admits that video was shot on an expensive camera, and the Instagram is iPhone only.
-- An example: a boss vs leader carousel, where people piled on their own bad boss in the comments. Reported numbers: over 10 million impressions, and in another account 10M views and over 1M likes (the creator's own numbers).
-- It is not about being controversial. Pick one hill and line everything up behind it.
+- People tend to bond more over a shared enemy than a shared love. A named enemy makes people sort themselves in or out.
+- The more things two people have in common, the closer they get, from acquaintance to friend to best friend. That's interest stacking.
+- One creator calls the common enemy the number one lever for fast growth. Humans are tribal and rally against a common enemy or a common bad habit.
+- Example enemy: the idea that you need fancy cameras, lights and gear. The creator admits that one video was shot on an expensive camera, though the Instagram account is iPhone only.
+- Example: a carousel about boss versus leader got people piling on their own bad boss in the comments. The creator reports over 10 million impressions on it, and 10 million views and over 1 million likes on another account. Those are the creator's own numbers.
+- This isn't about being controversial. Pick one hill and line everything up behind it. The enemy should be a belief or behaviour, never a person.
 
-### Confidence, polarisation and the 95/5 ratio
+### Confidence and the 95/5 target
 
-- Nobody wants to follow someone who does not sound confident or cannot choose a side. Stand firm but be willing to change your mind. You will get hate like everyone else.
-- Giving people reasons to heavily disagree gives others reasons to heavily agree.
-- If everyone agrees with you, you are not saying anything. It is not a contrarian take if you do not stand against something.
-- A target: about 95% positive and 5% negative comments. At 50/50, tone the take down or pick another. 'You don't want to be controversial', but some people should disagree.
+- Nobody wants to follow someone who sounds unsure or won't pick a side. Stand firm, but be willing to change your mind. You'll get hate like everyone else does.
+- Giving people reasons to strongly disagree also gives others reasons to strongly agree.
+- If everyone agrees with you, you aren't really saying anything. A take isn't contrarian unless it stands against something.
+- A target to aim for: about 95% positive and 5% negative comments. At 50/50, tone the take down or choose another one. "You don't want to be controversial", but some people should disagree.
 
 ### Living with comments and fear
 
-- One creator, at 16, ran a YouTube show interviewing pro bodybuilders and powerlifters. Trolls picked on the awkwardness, which built thick skin but pushed the creator behind the camera. 'The internet is an absolutely brutal place.'
-- Tactic 1: do not put much weight on positive comments. Getting too high on positives makes you vulnerable to negatives, because then the only way to go is low.
-- Tactic 2, the 8 Mile move: Eminem's character lists every diss his opponent could use, which takes the power away from anyone else. Call out your own weak points first.
-- Common fears: pressure, mental noise, being misunderstood, being cringe, becoming 'someone the algorithm loves' but you do not want to be.
-- After a flop, in a team, nobody remembers it 30 seconds after scrolling past. 13 likes or 13 million, 'they're not remembering it'.
+- One creator, at 16, ran a YouTube show interviewing pro bodybuilders. Trolls mocked his awkwardness. It gave him thick skin, but it also pushed him behind the camera for years. "The internet is an absolutely brutal place."
+- Tactic 1: don't put much weight on positive comments. If you get high on praise, you become vulnerable to criticism, because the only way left is down.
+- Tactic 2: call out your own weak points first. In the film 8 Mile, the rapper lists every insult his opponent could use against him, so nobody has anything left to say.
+- Common fears: pressure, mental noise, being misunderstood, being cringe, and becoming someone the algorithm loves but you don't want to be.
+- After a flop, remember that nobody recalls it 30 seconds after scrolling past. 13 likes or 13 million, people aren't remembering it.
 - Negativity bias: a thread can get a hundred positive replies and one anonymous negative one is all you think about. One creator's thread on principles for a future child got a great response, but 2 to 3% took offence and the creator felt down for a day.
-- Avoid negativity so you do not collect reports. The algorithm reading is in the last lesson.
+- Avoid negativity that gets you reported. The last lesson in this module explains why.
 
 ### Frameworks
 
@@ -1124,71 +729,31 @@ Take one claim you make in your content. Write which proof from the trust ladder
 
 1. Will people share it?
 2. Why should they?
-3. Do I identify with anything I am saying?
-4. Is it polarising enough to spark discussion and comments?
+3. Do I stand behind what I'm saying?
+4. Is it bold enough to spark discussion and comments?
 
 ### Examples
 
-- **Boss vs leader carousel:** A carousel got people piling on their own bad boss in the comments, over 10 million impressions by the creator's count.
-  <br>*Why it works:* A common enemy gave people something to rally against. The numbers are the creator's own.
-- **Looker vs supporter:** A video saying social media will expose your friendships was shared by people signalling they value supporters over lookers.
+- **Boss versus leader carousel:** A carousel got people piling on their own bad boss in the comments. The creator reports over 10 million impressions.
+  <br>*Why it works:* A shared enemy gave people something to rally against. The numbers are the creator's own.
+- **Supporters versus lookers:** A video saying social media will expose your friendships was shared by people showing they value people who actually support them.
   <br>*Why it works:* The share is a label for the sharer.
 
 ### Common mistakes
 
 - Making content nobody wants to be seen sharing.
 - Sitting on the fence so nobody can agree or disagree.
-- Getting high on positive comments, which makes negatives hurt more.
+- Getting high on positive comments, which makes negative ones hurt more.
 - Going for 50/50 controversy instead of picking one hill.
 - Fearing that one flop is remembered. Nobody remembers it.
 
 ### Where the sources disagree
 
-Some creators say make it polarising enough to spark discussion. Others say avoid negativity so you do not collect reports, and that you do not want to be controversial. They agree on a limit: take a real stand on one idea, not an attack that makes people block or report you. One guide is about 95% positive and 5% negative comments.
+Some creators say to make your content bold enough to spark discussion. Others say to avoid negativity so you don't collect reports, and that you don't want to be controversial. They agree on a limit: take a real stand on one idea, not an attack that makes people block or report you. A common aim is about 95% positive comments and 5% negative.
 
 ### Try it
 
-Write the one 'enemy' your content stands against (a belief or behaviour, not a person). Then draft the post and ask the four share questions. Mark who would proudly share it and what it says about them.
-
-<details><summary><b>Check yourself (4 questions)</b></summary>
-
-**1. What does a share or repost really say?**
-
-- a) This is me too, I am like this
-- b) I want to buy
-- c) Thanks for the help
-- d) I did not read it
-
-*Answer: a) This is me too, I am like this.* People share to label themselves, not to help you.
-
-**2. What is the 8 Mile move?**
-
-- a) Quit after a bad comment
-- b) Reply to every troll
-- c) Call out your own weak points first
-- d) Delete negative posts
-
-*Answer: c) Call out your own weak points first.* Eminem lists every diss first, which takes the power from anyone else.
-
-**3. What comment ratio is a good aim?**
-
-- a) 50% positive, 50% negative
-- b) About 95% positive, 5% negative
-- c) 70% positive, 30% negative
-- d) 100% positive
-
-*Answer: b) About 95% positive, 5% negative.* At 50/50, tone the take down or pick another.
-
-**4. What do humans tend to bond over more?**
-
-- a) A shared love
-- b) A shared enemy
-- c) A shared job
-- d) A shared city
-
-*Answer: b) A shared enemy.* A named enemy also makes people self-select in or out.
-
-</details>
+Write the one enemy your content stands against, a belief or behaviour and not a person. Then draft a post and ask the 4 share questions. Note who would proudly share it and what sharing it says about them.
 
 [Back to the top of this module](#top) · [All modules](../README.md#contents)
 
@@ -1196,114 +761,74 @@ Write the one 'enemy' your content stands against (a belief or behaviour, not a 
 
 <a id="m4-l12"></a>
 
-## 4.12 Influence: the seven Rs and persuading the non-interested
+## 4.12 Influence: the 7 R's, and persuading people who aren't looking
 
 *11 min read*
 
-> **The big idea:** Views are not influence. Seven Rs describe what lets you move people to act, and on social media you persuade people who were not looking for you, so you frame ideas broad and desirable.
+> **The big idea:** Views are not influence. Influence is what lets you move people to act. On social media you're persuading people who weren't looking for you, so frame ideas broadly and make them desirable. The 7 R's describe what builds influence.
 
-### The seven Rs of influence
+### The 7 R's of influence
 
-- Influence is 'the power that makes someone do something'. Some creators have more followers than a big business creator but cannot get anyone to buy or care.
-- 1\. Reputation: positive or negative, it decides if you can influence at all. Keep doing what you said you would.
-- 2\. Relationship: the closer the relationship, the more people listen (a dad's advice vs a stranger's). 'Post and ghost' creators who never reply to comments or DMs have no influence. Long-form video builds relationships faster than 30-second clips.
-- 3\. Resources: people listen to people who have what they want (time, money, followers). Show them. One big business creator's content shows the creator with their family because they control their time: they work 30 to 40 hours a week, not 80.
-- 4\. Reach: 100 x 0 is still 0. Influence needs scale. Two tactics: pick good topics and be consistent (one creator has posted 1 video a day since Nov 22, 2025).
-- 5\. Resemblance: people follow people like them, in looks and interests. A husband and wife teach the same thing, and her audience is much more female. Joe Rogan shares his odd interests. One creator got interested in a stranger in the sauna because he was a videographer too.
-- 6\. Reasonability: the size of the ask must fit the trust you have built. 'Like this video' vs 'your credit card digits'. Do not 'get married on the first date'.
-- 7\. Reciprocity: the more you give, the more people give back. Restaurants add a mint to the bill, which one creator claims raises tips 10 to 20%.
-- Big idea from R7: 'your marketing should help more people than your product or service ever will'.
+- Influence is "the power that makes someone do something". Some creators have more followers than a big business creator but can't get anyone to buy or care. That gap is influence.
+- 1\. Reputation. Positive or negative, it decides whether you can influence people at all. Keep doing what you said you'd do.
+- 2\. Relationship. The closer the relationship, the more people listen, like a dad's advice versus a stranger's. Creators who post and then never reply to comments or DMs have no influence. Long videos build relationships faster than 30-second clips.
+- 3\. Resources. People listen to people who have what they want, like time, money or an audience. Show it. One big business creator's content shows him with his family, because he controls his time and works 30 to 40 hours a week, not 80.
+- 4\. Reach. 100 times 0 is still 0. Influence needs scale. Two tactics: pick good topics and be consistent. One creator has posted 1 video a day since November 22, 2025.
+- 5\. Resemblance. People follow people like them, in looks and interests. A husband and wife teach the same thing, but her audience is much more female. One creator got interested in a stranger in a sauna because he was also a videographer.
+- 6\. Reasonability. The size of your ask has to fit the trust you've built. "Like this video" is fine. "Give me your credit card number" is not. Don't get married on the first date.
+- 7\. Reciprocity. The more you give, the more people give back. Restaurants put a mint on the bill, which one creator claims raises tips by 10 to 20%.
+- The big idea from the last R: "your marketing should help more people than your product or service ever will".
 
-### Persuade the non-interested
+### Persuading people who aren't looking
 
-- Do not open with instructions like how to pick topics or write a bio. That is boring and will not reach new people.
-- Research the five levels of awareness in marketing and know which level you are speaking to. A product buyer is at a high awareness level, so inside a product you skip the broad intro and go straight to details. On social media nobody is looking for that, they are discovering.
-- Social media is for attention capture, not value. Your product is the value.
-- Be persuasive in every situation, DMs, replies, quote posts, emails and videos.
+- Don't open with instructions like how to pick topics or write a bio. That's boring and won't reach new people.
+- Marketers talk about 5 levels of awareness. Know which level you're speaking to. Someone ready to buy is highly aware, so inside a product you skip the broad intro and go straight to details. On social media nobody is searching for that. They're just browsing.
+- So use social media to capture attention, not to deliver the full value. Your product is where the value lives.
+- Be persuasive everywhere: DMs, replies, quote posts, emails and videos.
 
 ### Social proof and scale
 
-- The first followers are the hardest. No social proof, no authority, no content built up. People see 100 followers and assume a one-off post. They see 100,000 and follow without question even after a weak post.
-- 'Scale is undefeated'. As you get bigger it gets easier to grow. One creator's claim: the first 100K took 8 to 9 months, the latest 100K took about 45 to 50 days.
-- R4: reach multiplies influence, and consistency and good topics build it.
-- One creator's 'most controversial principle': abundance of content, scarcity of access. Free content for everyone, access for a few. Big creators put their team between them and the audience (30 to 60 minutes on stage, the rest is the team), which also builds the team's brand.
+- The first followers are the hardest. You have no social proof, no authority and no content yet. People see 100 followers and assume a one-off post. They see 100,000 and follow without question, even after a weak post.
+- "Scale is undefeated." The bigger you get, the easier growth becomes. One creator says the first 100,000 followers took 8 to 9 months, and the latest 100,000 took about 45 to 50 days.
+- Reach multiplies influence, and consistency and good topics build reach.
+- One creator's "most controversial principle" is abundance of content, scarcity of access: free content for everyone, personal access for a few. Big creators put their team between themselves and their audience. They give 30 to 60 minutes on stage and the team does the rest, which also builds the team's own brand.
 
 ### Frameworks
 
-**The seven Rs of influence**
+**The 7 R's of influence**
 
-1. Reputation: do what you said you would
-2. Relationship: reply, show up, use long-form to get close
-3. Resources: show what you have that they want
-4. Reach: good topics plus consistency
-5. Resemblance: people follow people like them
-6. Reasonability: match the ask to the trust
-7. Reciprocity: give first, help more people than your product does
+1. Reputation: do what you said you'd do.
+2. Relationship: reply, show up, and use long content to get close.
+3. Resources: show what you have that they want.
+4. Reach: good topics plus consistency.
+5. Resemblance: people follow people like them.
+6. Reasonability: match the ask to the trust.
+7. Reciprocity: give first, and help more people than your product does.
 
 ### Examples
 
-- **Resources:** One big business creator's content shows the creator with their family because they work 30 to 40 hours a week, not 80.
-  <br>*Why it works:* Showing the thing people want (time) makes them listen.
+- **Resources:** One big business creator's content shows him with his family, because he works 30 to 40 hours a week, not 80.
+  <br>*Why it works:* Showing the thing people want, here free time, makes them listen.
 - **Resemblance:** A husband and wife teach the same thing, yet her audience is much more female.
   <br>*Why it works:* Same message, different resemblance, different audience.
-- **First followers:** 100 followers reads as a one-off post, 100,000 gets followed even after a weak post.
+- **The first followers:** 100 followers reads as a one-off post. 100,000 gets followed even after a weak post.
   <br>*Why it works:* Social proof makes growth easier as you get bigger.
 
 ### Common mistakes
 
 - Chasing views without influence: people who follow but never act.
-- 'Post and ghost': never replying to comments or DMs.
-- Asking for too much too early, the 'married on the first date' ask.
-- Opening with how-to instructions for people who are not searching for them.
-- Treating social media as the place to sell value instead of capture attention.
+- Posting and ghosting, never replying to comments or DMs.
+- Asking for too much too early.
+- Opening with how-to instructions for people who aren't searching for them.
+- Using social media to sell the full value instead of capturing attention.
 
 ### Where the sources disagree
 
-One view: long-form video builds relationships faster than 30-second clips. Another: social media is for attention capture and the product is the value. Both can hold: short pieces capture, deeper pieces build the relationship. The tip numbers (mint tips 10 to 20%, schedule claims) and the growth timings are creators' own claims, not checked.
+Some creators say long videos build relationships faster than 30-second clips. Others say social media is for capturing attention and your product is where the value lives. Both can be true: short pieces capture people, deeper pieces build the relationship. The tip numbers (mint tips of 10 to 20%) and the growth timings are creators' own claims and haven't been checked.
 
 ### Try it
 
-Score yourself 1 to 5 on each of the seven Rs. Pick the lowest one and write one action for this week. Then rewrite one how-to opener as a broad, desirable idea for someone who is not looking for it.
-
-<details><summary><b>Check yourself (4 questions)</b></summary>
-
-**1. How is influence defined?**
-
-- a) Going viral
-- b) The power that makes someone do something
-- c) Having many followers
-- d) Being famous
-
-*Answer: b) The power that makes someone do something.* Some creators have more followers than others but cannot get anyone to buy or care.
-
-**2. What does 'Reasonability' mean in the seven Rs?**
-
-- a) Be logical
-- b) The size of the ask must fit the trust you have built
-- c) Be polite
-- d) Use data
-
-*Answer: b) The size of the ask must fit the trust you have built.* 'Like this video' vs 'your credit card digits'.
-
-**3. What is the problem with opening with instructions like how to pick topics?**
-
-- a) It is required
-- b) It is boring and will not reach new people
-- c) It only works on LinkedIn
-- d) It is best for new people
-
-*Answer: b) It is boring and will not reach new people.* Most people are discovering, not searching, so frame ideas broad and desirable.
-
-**4. What is 'abundance of content, scarcity of access'?**
-
-- a) Post a lot, answer no one
-- b) Free content for everyone, access for a few, with a team between you and the audience
-- c) Hide your best posts
-- d) Charge for all content
-
-*Answer: b) Free content for everyone, access for a few, with a team between you and the audience.* It is called the most controversial principle.
-
-</details>
+Score yourself from 1 to 5 on each of the 7 R's. Pick the lowest and write one action for this week. Then rewrite one how-to opener as a broad, desirable idea for someone who isn't looking for it.
 
 [Back to the top of this module](#top) · [All modules](../README.md#contents)
 
@@ -1315,114 +840,74 @@ Score yourself 1 to 5 on each of the seven Rs. Pick the lowest one and write one
 
 *11 min read*
 
-> **The big idea:** Under fast scrolling and selling, people use mental shortcuts. Authority, proof, anchors, concrete words and a clear plan help people say yes.
+> **The big idea:** When people scroll fast, or decide whether to buy, they use mental shortcuts instead of logic. Authority, proof, anchors, concrete words and a clear plan all help people say yes.
 
 ### Shortcuts, not logic
 
-- People use shortcuts instead of logic when asking 'is this good?'. Percentage figures that one creator marked as needing checking should be treated as that creator's own.
-- Authority: someone else calls you the expert. In one study a receptionist added 'Peter, our head of sales, has 20 years selling here', and appointments rose 20%.
-- Social proof with a number: the hotel towel study (Goldstein et al. 2008). '75% of guests reuse towels' beat 'save the environment'.
-- Scarcity said specifically: '4 slots, 2 are gone', never 'limited spots'.
-- Priming: a mattress site with clouds in the background made people care about comfort, with pennies they cared about price (Mandel and Johnson 2002, real).
+- When people ask themselves "is this good?", they use shortcuts instead of working it out. Some of the percentages below come from a creator who marked them as needing a check, so treat them as that creator's own figures.
+- Authority: when someone else calls you the expert, people believe it. In one study, a receptionist added "Peter, our head of sales, has 20 years of experience selling here", and appointments rose 20%.
+- Social proof with a number: in a 2008 hotel towel study, the message "75% of guests reuse towels" worked better than "save the environment".
+- Scarcity, said specifically: "4 slots, 2 are gone", never "limited spots".
+- Priming: in a 2002 study, a mattress website with clouds in the background made people care more about comfort, while pennies in the background made them care more about price.
 
 ### Numbers and language
 
-- Numbers need an anchor. Say the big number first, then 'compared to what' (fixing the roof costs 4k, not fixing it costs 40k), then say the price and stop. No list of reasons after it.
-- Cut soft words (kind of, I think). Cut 'very', 'really' and 'honestly'.
-- Make it concrete: 'there by Friday' beats 'fast delivery'. 'If you can't visualize it, they won't value it.'
-- Mirror people's exact words. A 2003 study: waitresses who repeated orders word for word got bigger tips (the percentage figures need checking).
+- A number needs an anchor. Say the big number first, then "compared to what" (fixing the roof costs 4k, not fixing it costs 40k), then say the price and stop. Don't add a list of reasons after it.
+- Cut soft words like "kind of" and "I think". Cut "very", "really" and "honestly".
+- Be concrete: "there by Friday" beats "fast delivery". "If you can't visualize it, they won't value it."
+- Mirror people's exact words. A 2003 study found that waitresses who repeated orders word for word got bigger tips. The size of the effect needs checking.
 
-### Certainty and belief shifting
+### Certainty and shifting beliefs
 
-- A \$1,000 mystery trip that could be terrible vs a \$10,000 fully planned trip to your favourite country. The second sells more because it is specific and reduces uncertainty. A promise should give people certainty of what they will buy.
-- Positioning: the highest-leverage work happens before people compare products. Shape how they understand the problem, the opportunity or the future.
-- A good questionnaire makes someone realise how stuck they are, which makes them want help. A multiple choice 'what are you struggling with most?' with your offer's pain points as options makes people think 'that's me', so it sells for you.
+- Compare a \$1,000 mystery trip that could be terrible with a \$10,000 fully planned trip to your favourite country. The second sells more, because it's specific and removes uncertainty. A promise should give people certainty about what they're buying.
+- The most valuable work happens before people compare products. Shape how they understand the problem, the opportunity or the future.
+- A good questionnaire makes someone realise how stuck they are, which makes them want help. A multiple-choice question like "what are you struggling with most?" with your offer's pain points as the options makes people think "that's me", so it sells for you.
 
-### Plan, attention and action checkpoints
+### A plan, attention and action
 
-- Checkpoint 3, a plan: show your way is different from what they have heard (contrast), then structure it ('6 checkpoints', '5 tips'). Structure makes people feel smart.
-- Checkpoint 5, hold attention: lead with the most valuable point, tease 'the best one is at the end', re-hook ('that was good, but if you don't fix THIS...'), vary sentence rhythm.
-- Checkpoint 6, the action: close the loop ('you now have everything, if you want it faster, here's the shortcut'), beat their expectations, recap what you covered.
-- Checkpoint 1, accept the pain, is in the emotion lesson. Checkpoints 2 and 4 are in the trust lesson.
+- The next 3 steps belong to a 6-step order for persuading someone. Step 1, accepting the pain, is in the emotion lesson. Steps 2 and 4, trust and likability, are in the trust lesson.
+- Step 3, a plan: show your way is different from what they've heard (contrast), then give it structure, like "6 steps" or "5 tips". Structure makes people feel smart.
+- Step 5, hold attention: lead with your most valuable point, tease that "the best one is at the end", re-hook ("that was good, but if you don't fix THIS..."), and vary the rhythm of your sentences.
+- Step 6, the action: close the loop ("you now have everything, but if you want it faster, here's the shortcut"), beat their expectations, and recap what you covered.
 
 ### Frameworks
 
 **The number rule**
 
-1. Say the big number first
-2. Say 'compared to what' (the cost of not acting)
-3. Say the price
-4. Stop, with no list of reasons after it
+1. Say the big number first.
+2. Say "compared to what", meaning the cost of not acting.
+3. Say the price.
+4. Stop. No list of reasons after it.
 
-**The 6 checkpoints (the full set)**
+**The 6 steps of persuading someone**
 
-1. Accept the pain
-2. Trust within 10 to 30 seconds
-3. A plan, shown as different and structured
-4. Likability
-5. Hold attention
-6. The action
+1. Accept the pain.
+2. Earn trust within 10 to 30 seconds.
+3. Show a plan, different and structured.
+4. Be likable.
+5. Hold attention.
+6. Make the action easy.
 
 ### Examples
 
-- **The 2008 hotel towel study:** '75% of guests reuse towels' beat 'save the environment'.
+- **The hotel towel study:** In 2008, "75% of guests reuse towels" got more people to reuse towels than "save the environment".
   <br>*Why it works:* A number about people like them beats a general appeal.
-- **Mystery trip vs planned trip:** A \$1,000 mystery trip vs a \$10,000 fully planned trip. The planned one sells more.
+- **Mystery trip versus planned trip:** A \$1,000 mystery trip versus a \$10,000 fully planned trip. The planned one sells more.
   <br>*Why it works:* Specific, certain promises sell.
-- **Mandel and Johnson 2002, mattress site:** Clouds in the background made people care about comfort, pennies made them care about price.
-  <br>*Why it works:* Small cues prime what people weigh.
+- **The mattress website:** A 2002 study found that clouds in the background made people care about comfort, and pennies made them care about price.
+  <br>*Why it works:* Small cues change what people weigh.
 
 ### Common mistakes
 
-- Vague scarcity like 'limited spots'.
+- Vague scarcity like "limited spots".
 - Listing reasons after saying the price.
 - Soft, filler words that weaken the claim.
-- A mystery promise with no certainty of what they get.
+- A mystery promise that doesn't say what they get.
 - Using unchecked percentages as fact.
 
 ### Try it
 
-Take one offer or claim and rewrite it with a specific number, a 'compared to what' anchor, one concrete detail and one authority line from someone else. Mark any number you have not verified.
-
-<details><summary><b>Check yourself (4 questions)</b></summary>
-
-**1. What do you do right after saying the price?**
-
-- a) Ask a question
-- b) List 5 reasons
-- c) Add a discount
-- d) Stop
-
-*Answer: d) Stop.* No list of reasons after the price.
-
-**2. Which scarcity line works best?**
-
-- a) While supplies last
-- b) 4 slots, 2 are gone
-- c) Hurry up
-- d) Limited spots
-
-*Answer: b) 4 slots, 2 are gone.* Specific scarcity works, vague does not.
-
-**3. Why did the planned \$10,000 trip sell more than the \$1,000 mystery trip?**
-
-- a) It was specific and reduced uncertainty
-- b) It was cheaper
-- c) It had better photos
-- d) It had a bigger discount
-
-*Answer: a) It was specific and reduced uncertainty.* A promise should give certainty of what people will buy.
-
-**4. What is checkpoint 3 of the 6 checkpoints?**
-
-- a) A plan, different and structured
-- b) Trust
-- c) The action
-- d) Accept the pain
-
-*Answer: a) A plan, different and structured.* Contrast first, then structure like '6 checkpoints'.
-
-</details>
+Take one offer or claim and rewrite it with a specific number, a "compared to what" anchor, one concrete detail and one authority line from someone else. Mark any number you haven't checked.
 
 [Back to the top of this module](#top) · [All modules](../README.md#contents)
 
@@ -1430,94 +915,54 @@ Take one offer or claim and rewrite it with a specific number, a 'compared to wh
 
 <a id="m4-l14"></a>
 
-## 4.14 Faces, stimulus and what people remember
+## 4.14 Faces, constant change, and what people remember
 
 *10 min read*
 
-> **The big idea:** People focus on faces and eyes, stay while something keeps changing, and remember the peak and the end. Progress, story and flow keep them going, and contrast makes the pain stick.
+> **The big idea:** People look at faces and eyes, stay while something keeps changing, and remember the best moment and the ending. Show progress, tell a story and keep things flowing, and use contrast to make the problem stick.
 
 ### Faces, eyes and scale
 
-- MrBeast's excited open-mouth smile appears on 76% of his videos in the last year (one analyst's count). It instantly gives emotion: he is excited, the viewer is excited.
-- The eyes are brightened in edits because eyes are the first thing we focus on in human faces.
-- Front-loading with stimulus, a visual change every 1.1 seconds in the first 20 seconds, makes it very hard to feel bored and get distracted. But it is not just lots of cuts and fast talking.
-- Scale wows the audience (establishing shots). MrBeast wants it to feel big because it is.
+- MrBeast's excited, open-mouth smile appears in 76% of his videos over the last year, by one analyst's count. It gives emotion instantly: he's excited, so the viewer is excited.
+- Editors brighten the eyes in his thumbnails, because eyes are the first thing we look at on a face.
+- MrBeast changes something on screen every 1.1 seconds in the first 20 seconds. That makes it hard to get bored or distracted. But it isn't just lots of cuts and fast talking, it has to be real new stimulus.
+- Scale impresses people, like wide establishing shots. MrBeast wants it to feel big because it is big.
 
-### Peak, end and progress
+### The peak, the end and progress
 
-- Kahneman et al. 1993: people chose to repeat 90 seconds of painfully cold water over 60 seconds, because the longer trial ended slightly warmer.
-- Redelmeier and Kahneman 1996: colonoscopy patients judged pain by the worst moment and the last moment. Length (4 to 69 minutes) did not matter.
-- The insights bank's reading: every video and post needs one high point and a strong last line. That matches MrBeast always ending high.
-- Nunes and Dreze 2006, the endowed progress effect (car-wash loyalty cards): Card A needed 8 stamps. Card B needed 10 with 2 already stamped, the same 8 purchases. 34% finished card B vs 19% card A.
+- A 1993 study had people put their hand in painfully cold water. They chose to repeat a 90-second trial over a 60-second one, because the longer trial ended slightly warmer.
+- A 1996 study of colonoscopy patients found they judged their pain by the worst moment and the last moment. How long it lasted (4 to 69 minutes) made no difference.
+- The lesson: every video and post needs one high point and a strong last line. MrBeast always ends high.
+- A 2006 study on car-wash loyalty cards found people finish what they've already started. Card A needed 8 stamps. Card B needed 10 stamps but came with 2 already stamped, so it was the same 8 purchases. 34% finished card B, against 19% for card A.
 - So showing progress keeps people going.
 
 ### What stories do to the brain
 
-- Stephens, Silbert and Hasson 2010 (PNAS): fMRI of a speaker telling a 15-minute story and 11 listeners. The listeners' brain activity coupled with the speaker's, and sometimes ran ahead of it (they predicted). More anticipation meant better understanding. The coupling disappeared when communication failed. Caveat: small sample.
-- The insights bank's reading: a founder story persuades better than a list of claims. It matches the advice to reframe advice through your story.
-- Non-linear timelines create unpredictability, curiosity and dopamine, weird details pique curiosity, and emotion is contagious.
+- A 2010 brain-scan study had a speaker tell a 15-minute story to 11 listeners. The listeners' brain activity lined up with the speaker's, and sometimes ran ahead of it, because they were predicting what came next. The more they anticipated, the better they understood. The link disappeared when communication failed. It was a small sample, so treat it as a hint, not proof.
+- The takeaway: a founder's story persuades better than a list of claims. Frame your advice through your own story.
+- Jumbled timelines create unpredictability and curiosity, odd details make people curious, and emotion is contagious.
 
-### Keeping flow through the explanation
+### Keeping people with you through the explanation
 
-- You can pair a download with a video to raise the odds people take action.
+- You can pair a download with a video, like a free template, to raise the odds that people take action.
 
 ### Examples
 
-- **Nunes and Dreze 2006, car-wash cards:** 8 stamps needed vs 10 stamps with 2 already stamped. 34% finished the second card vs 19% the first.
-  <br>*Why it works:* Same work, but a head start made people finish.
-- **Kahneman et al. 1993, cold water:** People chose to repeat the longer trial because it ended slightly warmer.
-  <br>*Why it works:* The end shapes the memory more than the length.
+- **Car-wash cards:** One card needed 8 stamps. The other needed 10 but started with 2 already stamped. 34% finished the second card, against 19% for the first.
+  <br>*Why it works:* It's the same work, but a head start made people finish.
+- **Cold water:** People chose to repeat the longer, 90-second trial because it ended slightly warmer.
+  <br>*Why it works:* The ending shapes the memory more than the length.
 
 ### Common mistakes
 
-- Ending flat after a good middle (peak-end rule).
-- Confusing fast cuts with real stimulus. It is not just cuts and fast talking.
-- Explaining with a static shot after the loop is closed.
-- Treating the small-sample studies (Stephens 2010, Aronson-style) as proven facts.
+- Ending flat after a good middle.
+- Confusing fast cuts with real stimulus.
+- Explaining over a static shot after the question is already answered.
+- Treating small studies, like the brain-scan one, as proven facts.
 
 ### Try it
 
-Take one piece and mark its high point and its last line. Then write one 'head start' you could give the viewer (a first step already done) and one place where you change the visual or open a new question while explaining.
-
-<details><summary><b>Check yourself (4 questions)</b></summary>
-
-**1. What does the peak-end rule say?**
-
-- a) Length decides the memory
-- b) People judge by the worst or best moment and the last moment
-- c) Only the start matters
-- d) Average moments matter most
-
-*Answer: b) People judge by the worst or best moment and the last moment.* Redelmeier and Kahneman 1996: length did not matter.
-
-**2. What did Nunes and Dreze 2006 find?**
-
-- a) 8-stamp card won
-- b) 10-stamp card with 2 stamped: 34% finished vs 19%
-- c) Loyalty cards do nothing
-- d) Both cards had the same result
-
-*Answer: b) 10-stamp card with 2 stamped: 34% finished vs 19%.* The endowed progress effect: a head start keeps people going.
-
-**3. Why are MrBeast's eyes brightened in edits?**
-
-- a) To hide edits
-- b) Brighter is always better
-- c) Eyes are the first thing we focus on in a face
-- d) For thumbnails only
-
-*Answer: c) Eyes are the first thing we focus on in a face.* It is one reason; the smile gives instant emotion too.
-
-**4. What went wrong at 0:18 in the retention-drop example?**
-
-- a) The title changed
-- b) Sound dropped
-- c) The video ended
-- d) It explained instead of moving the story, with no shot change
-
-*Answer: d) It explained instead of moving the story, with no shot change.* The open loop was already resolved and the shot never changed.
-
-</details>
+Take one piece and mark its high point and its last line. Then write one head start you could give the viewer, like a first step already done, and one place where you change the visual or open a new question while explaining.
 
 [Back to the top of this module](#top) · [All modules](../README.md#contents)
 
@@ -1525,58 +970,58 @@ Take one piece and mark its high point and its last line. Then write one 'head s
 
 <a id="m4-l15"></a>
 
-## 4.15 How X reads attention: one creator's algorithm reading
+## 4.15 How X reads attention: one creator's reading of the algorithm
 
 *11 min read*
 
-> **The big idea:** One creator reads the X algorithm as a system that predicts what each viewer will do and scores it. The main lesson: shares and replies count far more than likes, and negative feedback is brutal. This is that creator's reading, not checked here.
+> **The big idea:** One creator reads the X algorithm as a system that predicts what each viewer will do and scores it. The main lesson: shares and replies count far more than likes, and negative feedback is brutal. This is that creator's reading and we haven't checked it.
 
-### The Scout, the Judge and the Bouncer
+### The Scouts, the Judge and the Bouncer
 
-- The reading says an AI model predicts how likely each viewer is to take each action, and each action has a weight. It is a reading of the code, not checked by us.
-- The Scouts: when someone opens X, 3 algorithms grab posts the person might like. Thunder (people you follow, your 'bubble'), Phoenix (posts from people you do not follow yet, 'where the virality lies') and SimClusters (popular in your niche). A 4th smaller source, Popular Posts, is a shared list of popular recent posts.
-- The Judge: for every post and every viewer, a model (said to be built on the same architecture as Grok) predicts what the person will do and gives a weighted score.
-- The Bouncer: the highest scoring posts get one last filter, then land on the For You page.
-- SimClusters example: one creator's article about a content role went viral inside the tech startup, marketing and content niche, not the whole platform.
-- Filtered out: posts older than 48 hours, posts the viewer already saw, and replies and reposts from accounts they do not follow.
+- In this reading, an AI model predicts how likely each viewer is to take each action, and each action carries a weight. It is a reading of the code, which we haven't verified.
+- The Scouts: when someone opens X, 3 systems pull in posts they might like. One covers people you follow, your bubble. Another covers posts from people you don't follow yet, "where the virality lies". A third covers what's popular in your niche. A smaller fourth source is a shared list of popular recent posts.
+- The Judge: for every post and every viewer, a model, said to share its design with Grok, predicts what the person will do and gives a weighted score.
+- The Bouncer: the top-scoring posts go through one last filter, then land on the For You page.
+- Example of niche reach: one creator's article about a content role went viral inside the tech startup, marketing and content niche, not across the whole platform.
+- Filtered out: posts older than 48 hours, posts the viewer has already seen, and replies and reposts from accounts they don't follow.
 
 ### The weights
 
-- One Oct 27 and 28 list: copy link 20x, reply, quote and share via DM 5x, follow 4x, share 2x, repost 1x, like 0.5x. Reports, mutes, blocks and 'not interested' are very negative ('one report equals 350 likes').
-- The full table, called 'production defaults as of October 30, 2026': like 0.66 (was 0.5 in August), click into post 0.3, open link 0.2, dwell 0.05, photo expand 0.05, profile click 0.0, video quality view 0.0, not dwelled (scrolled past) -0.02, block author -31.2, not interested -52.3, mute author -58.8, report -234.0.
-- Takeaways: shares are king, replies and quotes count 7.5x a like, likes 'barely move the needle', negative feedback is 'absolutely brutal'.
-- Adjustments after the score: posting too much means not every post gets a chance, posts from accounts you do not follow get a discount, and small accounts get a boost on fresh posts (the creator says a first viral post came 3 days after starting).
-- New in October, a 'user debias' model: likes from people who like everything count less, engagement from picky people counts more. Engagement pods got weaker.
-- Posting too much in a row lowers reach, so spread posts out. The first ~2 hours of a post are everything.
+- One list from late October gave these weights: copy link 20x, reply, quote and share by DM 5x, follow 4x, share 2x, repost 1x, like 0.5x. Reports, mutes, blocks and "not interested" are very negative. One claim says one report equals 350 likes.
+- A fuller table, called "production defaults as of October 30, 2026", says: like 0.66 (it was 0.5 in August), click into post 0.3, open link 0.2, time spent reading 0.05, expand photo 0.05, profile click 0.0, quality video view 0.0, scrolled past quickly -0.02, block author -31.2, not interested -52.3, mute author -58.8, report -234.0.
+- Takeaways: shares are king, replies and quotes count about 7.5 times a like, likes barely move the needle, and negative feedback is brutal.
+- Adjustments after the score: posting too much in a row means not every post gets a chance, posts from accounts you don't follow get a discount, and small accounts get a boost on fresh posts. The creator says a first viral post came 3 days after starting.
+- New in October: a model that adjusts for people who like everything. Their likes count less, and engagement from picky people counts more. Engagement groups where people like each other's posts got weaker.
+- Spread your posts out, because posting too much in a row lowers reach. The first 2 hours or so of a post are what count most.
 
 ### Reputation, myths and quirks
 
-- Account reputation (the Bouncer): too many blocks and reports compared to likes can get an account labelled. A PageRank-style credibility score is based on who follows and engages with you: 'network quality matters (not just size)'. X tracks inauthentic behaviour over time. X's transparency tool shows labels that limit visibility, including posts marked as spam.
-- To stay safe: do not let AI write and post 100% of your copy, get Premium (and verify your ID if you are comfortable), and avoid content that gets you muted, blocked or reported.
-- Myths busted: 'profile clicks are a huge signal' (weighted 0 now, 'conversions are what count'), 'likes matter most' (one of the weakest positive signals), 'big accounts get guaranteed reach' (many big accounts have died over about 18 months), 'small accounts cannot go viral' (they get a cold-start boost), engagement groups do not work like they used to.
-- Quirks: each feed is built from about 2,000+ candidate posts, the model reads your last ~1,000 actions, it uses signals like installed apps, inferred gender and location (from IP), and the weights change often without announcement.
-- 'Algos are essentially games and math': an algorithm's job is to match content with the right people to keep them on the platform, so 'you can't just post whatever you want'. You reverse-engineer what gets pushed.
+- Your account has a reputation. Too many blocks and reports compared to likes can get an account labelled. A credibility score, based on who follows and engages with you, means the quality of your network counts, not just its size. X tracks fake behaviour over time. X's transparency tool shows labels that limit visibility, including posts marked as spam.
+- To stay safe: don't let AI write and post 100% of your copy, get Premium (and verify your ID if you're comfortable), and avoid content that gets you muted, blocked or reported.
+- Myths the creator says are busted: that profile clicks are a huge signal (weighted 0 now), that likes are the biggest signal (one of the weakest positive signals), that big accounts get guaranteed reach (many big accounts have lost reach over about 18 months), and that small accounts can't go viral (they get a boost when starting out). Engagement groups don't work like they used to.
+- Quirks: each feed is built from about 2,000 or more candidate posts, the model reads your last 1,000 or so actions, it uses signals like installed apps, inferred gender and location from your IP, and the weights change often without announcement.
+- "Algos are essentially games and math." The algorithm's job is to match content with the right people so they stay on the platform, so you can't just post anything. You work out what gets pushed.
 
 ### What to do
 
-- Make it bookmarkable, shareable and worth commenting on. Make it original and high-value. Avoid negativity so you do not collect reports. Use several formats.
-- The share test: before posting, ask would someone bookmark it, reply to it or send it to a friend.
-- People follow people: founder-led builds trust fastest.
-- A hard line: 'the algorithms are so good that if you're not getting traction, it's because your content's not good'. A strong claim, useful as motivation, not proven.
-- Mindset: when people say 'you can't do that', notice every doubt starts with 'you'. Think 'how can I make this work?'. Trying costs 30 minutes you would spend on Netflix anyway.
+- Make posts people will bookmark, share and comment on. Make them original and high value. Avoid negativity that collects reports. Use several formats.
+- The share test: before posting, ask whether someone would bookmark it, reply to it or send it to a friend.
+- People follow people, and founder-led content builds trust fastest.
+- One hard line from the creator: "the algorithms are so good that if you're not getting traction, it's because your content's not good". That's a strong claim, useful as motivation but not proven.
+- Mindset: when people say "you can't do that", notice that every doubt starts with "you". Ask "how can I make this work?" Trying costs 30 minutes you'd spend on Netflix anyway.
 
 ### Frameworks
 
-**The Scout, the Judge and the Bouncer**
+**The Scouts, the Judge and the Bouncer**
 
-1. Scouts: Thunder, Phoenix, SimClusters (and Popular Posts) pull candidate posts
-2. Judge: a model predicts each viewer's actions and gives a weighted score
-3. Bouncer: final filter, then the For You page
+1. Scouts: several systems pull in candidate posts.
+2. Judge: a model predicts each viewer's actions and gives a weighted score.
+3. Bouncer: a final filter, then the For You page.
 
 ### Examples
 
-- **SimClusters:** One creator's article about a content role went viral inside the tech startup, marketing and content niche, not the whole platform.
-  <br>*Why it works:* Niche reach through interest groups can be enough.
+- **Reach inside a niche:** One creator's article about a content role went viral inside the tech startup, marketing and content niche, not across the whole platform.
+  <br>*Why it works:* Reaching an interest group can be enough.
 
 ### Common mistakes
 
@@ -1588,51 +1033,11 @@ Take one piece and mark its high point and its last line. Then write one 'head s
 
 ### Where the sources disagree
 
-One view: the algorithm is so good that no traction means weak content. That is a strong claim, not proven. The same list also shows weights that changed (like 0.5 in August, 0.66 on October 30) and that X changes them without announcement. Treat the numbers as one reading at one point in time.
+One view: the algorithm is so good that no traction means weak content. That is a strong claim and isn't proven. The same list also shows weights that changed (like 0.5 in August, 0.66 on October 30) and says X changes them without announcement. Treat the numbers as one reading at one point in time.
 
 ### Try it
 
-Take one draft. Write the share test answers (would someone bookmark, reply to it, or send it to a friend, and why). Then check it for anything that could earn a mute, block or report.
-
-<details><summary><b>Check yourself (4 questions)</b></summary>
-
-**1. In the weight table, which gets the most negative weight?**
-
-- a) Not interested
-- b) Report
-- c) Block author
-- d) Mute author
-
-*Answer: b) Report.* Report is -234.0 in the table.
-
-**2. What are the 3 stages of how X picks posts called in this reading?**
-
-- a) Hook, Body, Close
-- b) Thunder, Phoenix, Grok
-- c) Pitch, Test, Ship
-- d) Scout, Judge, Bouncer
-
-*Answer: d) Scout, Judge, Bouncer.* Scouts gather, the Judge scores, the Bouncer does the final filter.
-
-**3. What are the takeaways about replies and quotes vs likes?**
-
-- a) They count 7.5x a like
-- b) They count half
-- c) They are ignored
-- d) They count the same
-
-*Answer: a) They count 7.5x a like.* Shares are king and likes barely move the needle, in this reading.
-
-**4. Which statement about these numbers is right?**
-
-- a) They are proven and fixed
-- b) They are from X's official docs
-- c) They are one creator's reading, checked by no one here, and X changes weights without announcement
-- d) They only apply to LinkedIn
-
-*Answer: c) They are one creator's reading, checked by no one here, and X changes weights without announcement.* The weights change often. The course has not verified them.
-
-</details>
+Take one draft. Write your answers to the share test: would someone bookmark it, reply to it or send it to a friend, and why? Then check it for anything that could get it muted, blocked or reported.
 
 [Back to the top of this module](#top) · [All modules](../README.md#contents)
 
@@ -1644,162 +1049,24 @@ Take one draft. Write the share test answers (would someone bookmark, reply to i
 
 The whole module on one page.
 
-- Judge your first line in one second: subject and stakes must both land.
-- Check any psychology stat for a real source before repeating it.
-- Plant a question people can guess, then close it with a non-obvious answer.
-- Open a new loop whenever you close one.
-- Do not pay off the topic too early.
-- Wrap the new in the known, and add a number or detail that makes it a purple cow.
+- Look at your first line for one second: the subject and the stakes should both be clear.
+- Check any psychology stat for a real source before you repeat it.
+- Plant a question people can guess at, then answer it with something they didn't expect.
+- Whenever you close one question, open a new one.
+- Don't give away the answer too early.
+- Wrap the new idea in something familiar, and add a number or detail that makes it stand out like a purple cow.
 - Give old truths a new name and a short definition.
-- Pick the emotion for the job: sad for clicks, awe or anger for shares.
-- Go one step away from the core pain so it does not sound like a pitch.
-- Show proof from someone like the viewer before you show a flaw.
+- Pick the emotion for the job: sadness for clicks, awe or anger for shares.
+- Go one step away from the core pain so it doesn't sound like a pitch.
+- Show proof from someone like the viewer before you mention a flaw.
 - Exaggerate the real thing, never invent it.
-- Repeat a look, voice and format so people recognise you.
+- Repeat a look, a voice and a format so people recognise you.
 - Make content people want to be seen sharing.
 - Stand against one thing and line everything up behind it.
-- Match the size of the ask to the trust you have built.
+- Match the size of your ask to the trust you've built.
 - Use specific numbers, specific scarcity and concrete words.
 - Give every piece one high point and a strong last line.
 - Treat algorithm weights as one creator's reading that can change.
-
-<a id="flashcards"></a>
-
-## Flashcards
-
-Read the question, answer it in your head, then open it.
-
-<details><summary>What is the freeze point?</summary>
-
-The involuntary 'wait, what was that?' a hook must cause. The hook answers subject and stakes fast.
-
-</details>
-
-<details><summary>Where did the 8-second goldfish stat come from?</summary>
-
-A 2015 Microsoft Canada report citing Statistic Brain. A BBC journalist found no research behind it.
-
-</details>
-
-<details><summary>How do some creators frame dopamine?</summary>
-
-The prediction chemical. It fires on anticipation of a reward, not on getting it.
-
-</details>
-
-<details><summary>What are the six dopamine ladder rungs?</summary>
-
-Stimulation, captivation, anticipation, validation, affection, revelation. 1 to 4 are the message, 5 and 6 the messenger.
-
-</details>
-
-<details><summary>Loewenstein's curiosity gap?</summary>
-
-Curiosity is a feeling of deprivation from a gap in what you know. It needs some knowledge first.
-
-</details>
-
-<details><summary>What did Gruber et al. 2014 find?</summary>
-
-Highly curious people remembered the answer better, and unrelated faces shown while they waited.
-
-</details>
-
-<details><summary>What is the 4 N filter?</summary>
-
-Net new, non-obvious, nuanced, observable.
-
-</details>
-
-<details><summary>What are hopes, dreams, fears and blockers?</summary>
-
-Hopes are 90-day wants, dreams are 5 to 10 years, fears scare them, blockers are limiting beliefs.
-
-</details>
-
-<details><summary>Clicks vs shares, per the studies?</summary>
-
-Negative and sad words lift clicks (Robertson 2023). High-arousal awe, anger and anxiety get shared (Berger and Milkman 2012).
-
-</details>
-
-<details><summary>What is the one step away rule?</summary>
-
-Talk about the pain next to the core pain, so viewers make the leap. 'Growing faster' beats 'making money'.
-
-</details>
-
-<details><summary>What is the pratfall effect, the real version?</summary>
-
-A mistake raises likability only when you are already competent (Aronson 1966).
-
-</details>
-
-<details><summary>What is borrowed association?</summary>
-
-Pairing with someone transfers the associations people hold about them (Nike and Michael Jordan).
-
-</details>
-
-<details><summary>Why do people share?</summary>
-
-To label themselves: 'this is me too'. Make content people want to be seen with.
-
-</details>
-
-<details><summary>What are the seven Rs of influence?</summary>
-
-Reputation, relationship, resources, reach, resemblance, reasonability, reciprocity.
-
-</details>
-
-<details><summary>How do you persuade the non-interested?</summary>
-
-Most people are not searching to learn, so frame ideas broad and desirable and know which awareness level you speak to.
-
-</details>
-
-<details><summary>What is the 8 Mile move?</summary>
-
-Call out your own weak points first, so no one else can use them against you.
-
-</details>
-
-<details><summary>What is the number rule?</summary>
-
-Say the big number, then 'compared to what', then the price, then stop.
-
-</details>
-
-<details><summary>What does the peak-end rule say?</summary>
-
-People judge an experience by its worst or best moment and its last moment, not its length.
-
-</details>
-
-<details><summary>What is the endowed progress effect?</summary>
-
-Cards with 2 of 10 stamps already given were finished 34% vs 19% for 8-stamp cards (Nunes and Dreze 2006).
-
-</details>
-
-<details><summary>What is a good target comment ratio?</summary>
-
-About 95% positive and 5% negative. At 50/50, tone it down or pick another take.
-
-</details>
-
-<details><summary>What are the Scout, Judge and Bouncer?</summary>
-
-Scouts pull candidate posts, the Judge scores each post per viewer, the Bouncer does the last filter.
-
-</details>
-
-<details><summary>What is the main weight takeaway?</summary>
-
-Shares are king, replies and quotes count 7.5x a like, negative feedback is brutal. It is one creator's reading, not verified.
-
-</details>
 
 ---
 

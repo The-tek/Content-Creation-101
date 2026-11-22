@@ -2,9 +2,9 @@
 
 # Module 11: Writing and copywriting
 
-*Write clear, specific, human words that make the right reader take the right action.*
+*Write clear, specific, human words that get the right reader to take the right action.*
 
-Good copywriting is getting the right person to take the right action, built on one reader, one idea, one takeaway and clarity over cleverness. The craft is simple words, active voice, specific numbers and the exact words your audience uses. Six persuasion elements and soft CTAs help, and voice is what cannot be copied, so write like you talk, speak to one person and keep AI from making you sound generic.
+Good copywriting gets the right person to take the right action. It rests on one reader, one idea and one takeaway per post, and on clear words over clever ones. You will learn how to use simple words, active voice, specific numbers and the exact phrases your audience uses, plus six checks for persuasive posts and soft calls to action. Your voice is the part nobody can copy, so write like you talk, speak to one person and don't let AI make you sound generic.
 
 **13 lessons · about 102 minutes of reading**
 
@@ -12,19 +12,19 @@ Good copywriting is getting the right person to take the right action, built on 
 
 1. [What good copy actually is](#m11-l1)
 2. [Clear over clever: smart ideas, simple words](#m11-l2)
-3. [The sentence clarity toolkit](#m11-l3)
+3. [Make every sentence clear](#m11-l3)
 4. [Every word earns its place](#m11-l4)
 5. [Be specific: numbers, names and proof](#m11-l5)
 6. [Use the words your audience already uses](#m11-l6)
 7. [Open, close and shape a post](#m11-l7)
-8. [Contrast, tension and honest tone](#m11-l8)
-9. [Persuasive copy: six elements and headlines](#m11-l9)
-10. [CTAs and persuasion in every format](#m11-l10)
+8. [Contrast, tension and an honest tone](#m11-l8)
+9. [Persuasive copy: six checks and better headlines](#m11-l9)
+10. [Calls to action and persuasion in every format](#m11-l10)
 11. [Voice: write like you talk](#m11-l11)
-12. [Speak to one person: spoken delivery](#m11-l12)
+12. [Speak to one person: how to talk on camera](#m11-l12)
 13. [Explain simply, and keep AI sounding human](#m11-l13)
 
-At the end: [Cheat sheet](#cheat-sheet) · [Flashcards](#flashcards)
+At the end: [Cheat sheet](#cheat-sheet)
 
 ---
 
@@ -34,98 +34,56 @@ At the end: [Cheat sheet](#cheat-sheet) · [Flashcards](#flashcards)
 
 *7 min read*
 
-> **The big idea:** Good copywriting is getting the right person to take the right action. Every post is built for one reader, one idea and one takeaway, and good copy starts with good thinking.
+> **The big idea:** Copywriting means writing words that get the right person to do the right thing. To do that, each post needs one reader, one idea and one takeaway, and all of it starts with clear thinking.
 
-### The definition
+### Good copy gets someone to act
 
-- "Good copywriting is getting the right person to take the right action." The action might be reading, replying, sharing, following or buying, but every post should be engineered to make someone do something.
-- "Good copywriting is good thinking." Good copy is concise, easy to understand, thought-provoking and built on a strong idea. Weak thinking cannot be fixed with nice words.
-- Writing teaches you systems for thinking and "how to actually make people feel ideas".
-- Copywriting is the missing skill: most brands on X are "doomed from the start", not because of their ideas, but because they cannot turn brilliant ideas into words people want to read.
-- X is "a copywriting Olympics": the people winning there are the best writers, so hold your posts to the bar of the best posts you have ever saved.
-- Persuasive content is content that captures attention, holds it and delivers value on it.
+- Good copywriting is getting the right person to take the right action. The action can be reading to the end, replying, sharing, following or buying. Before you post, ask what you want the reader to do.
+- Good copy starts with good thinking. If the idea is weak, nicer words won't save it. A strong idea in plain words beats a weak idea in fancy ones.
+- Many brands on X fail for a simple reason: they have good ideas but can't turn them into words people want to read. That is why writing is worth learning first.
+- X is crowded with good writers, so compare your post to the best posts you have ever saved, not to the average post.
 
 ### Write for one specific reader
 
-- Picture your ideal reader before you post and get as detailed as possible. What are they struggling with right now? Where do they consume content (is X even the place they are)? What value do they want? What are they feeling right now?
-- The lower in the funnel a post sits (top, middle or bottom), the more detailed your picture of the reader needs to be.
-- There is content that speaks to everyone and content that speaks to one person. Speak to one.
+- Before you post, picture the one person you are writing for. Ask what they are struggling with right now, where they read content (are they even on X?), what they want, and how they feel today.
+- The closer a post is to a sale, the more detailed your picture of the reader needs to be. A post that just attracts new people can be broad. A post that asks for a purchase must speak to a very specific person.
+- A post for everyone feels like it is for no one. Pick one person and write to them.
 
 ### One idea per post
 
-- "If you have three ideas, you have three posts." Multiple ideas generally confuse both the reader and the algorithm.
-- One specific idea per post, "if you need two, write two posts".
+- If you have three ideas, you have three posts. Two ideas in one post confuse the reader, and they also make it harder for the platform to know who to show the post to.
+- Example: a post about how to write hooks and also how to post at the best time should be two posts.
 
 ### Every post needs a takeaway
 
-- Ask yourself "What does someone walk away with?" Every post needs a concrete point and a takeaway.
-- Every content minute should be non-obvious and tactically implementable. The share of your content that does this is your "signal".
-- Nail these four fundamentals (a specific reader, one idea, a takeaway, clarity over cleverness) and you are already ahead of most people who post on X.
+- Ask yourself: what does someone walk away with? A takeaway is one concrete thing the reader can use or remember.
+- Aim for content where every line is something the reader didn't already know and could use today. The more of your content that does this, the more useful you are.
+- Get these four basics right (a specific reader, one idea, a takeaway, plain words) and your writing is already better than most of what gets posted.
 
 ### Frameworks
 
-**The 4 copy fundamentals**
+**The 4 basics of good copy**
 
-1. Write for a specific audience: their struggle, where they read, what value they want, what they feel right now
+1. Know your reader: what they struggle with, where they read, what they want and how they feel right now
 2. One idea per post: three ideas means three posts
-3. Every post needs a takeaway: what does someone walk away with?
-4. Clarity over cleverness: if a 12 year old can't read it, don't publish it
+3. A takeaway: say what the reader walks away with
+4. Plain words: if a 12 year old couldn't read it, rewrite it
 
 ### Examples
 
-- **A creator's own account:** One creator says this skill is what took them to 1B+ lifetime impressions and grew their own account from zero, with +9,000 followers and about 6M impressions in the first month.
-  <br>*Why it works:* These are the creator's own claims, used to argue that copywriting, not ideas, is the skill that decides growth.
+- **A post with two ideas:** Say you write: "Here's how to write better hooks. Also, post at 8am, it works best." The reader came for hooks and now has to care about timing too.
+  <br>*Why it works:* This is made up to show the problem. Split it into two posts, one about hooks and one about timing, and each becomes clearer.
 
 ### Common mistakes
 
-- Packing two or three ideas into one post, which confuses the reader and the algorithm
+- Putting two or three ideas in one post, which confuses the reader
 - Posting without knowing who the post is for
-- A post with no concrete point, so the reader walks away with nothing
-- Thinking nice wording can save a weak idea: good copy is good thinking first
+- Writing a post with no clear point, so the reader leaves with nothing
+- Hoping nice wording will fix a weak idea
 
 ### Try it
 
-Take your last three posts. For each one write: who exactly it was for (one sentence), the one idea, and what the reader walks away with. If any post had two ideas, split it into two drafts. If any had no takeaway, write the one line it was missing.
-
-<details><summary><b>Check yourself (4 questions)</b></summary>
-
-**1. How is good copywriting defined in this lesson?**
-
-- a) Writing that gets the most impressions
-- b) Getting the right person to take the right action
-- c) Writing with perfect grammar
-- d) Writing that sounds smart and original
-
-*Answer: b) Getting the right person to take the right action.* Every post exists to make a specific person do something: read, reply, share, follow or buy.
-
-**2. You have a draft that makes three separate points. What should you do?**
-
-- a) Post it as is, more value is better
-- b) Keep the strongest point and delete the rest forever
-- c) Turn it into three posts
-- d) Add a fourth point to make a list
-
-*Answer: c) Turn it into three posts.* "If you have three ideas, you have three posts." More than one idea confuses the reader and the algorithm.
-
-**3. Which question must every post answer?**
-
-- a) How many followers will this bring?
-- b) Does this sound clever?
-- c) Is this trending today?
-- d) What does someone walk away with?
-
-*Answer: d) What does someone walk away with?.* Every post needs a concrete point and takeaway.
-
-**4. Why is "good copywriting is good thinking" true?**
-
-- a) Because thinking is more fun than writing
-- b) Because readers only care about the writer's thoughts
-- c) Because long thoughtful posts do best
-- d) Because concise, clear copy has to be built on a strong idea first
-
-*Answer: d) Because concise, clear copy has to be built on a strong idea first.* The list of what good copy is ends with "built on a strong idea": the words can't fix a weak idea.
-
-</details>
+Take your last three posts. For each one, write down who it was for (one sentence), what the one idea was, and what the reader walks away with. If a post had two ideas, split it into two drafts. If it had no takeaway, write the line it was missing.
 
 [Back to the top of this module](#top) · [All modules](../README.md#contents)
 
@@ -137,110 +95,68 @@ Take your last three posts. For each one write: who exactly it was for (one sent
 
 *8 min read*
 
-> **The big idea:** Every source in this course agrees: if people don't understand it, nothing else counts. Keep the ideas smart but the words, sentences and formatting simple enough for a child to read.
+> **The big idea:** If people don't understand a post, nothing else about it works. Keep your ideas smart, but write the words, sentences and layout so simply that a child could follow.
 
-### The reading level rule
+### Write at a simple reading level
 
-- "If a 12 y/o can't read it, I'm not publishing." (An earlier version said 10 year old.) Your concepts don't need to be dumbed down, but your vocabulary, formatting and word choice do.
-- Use simple words, ideally a sixth grade reading level.
-- "Speak in seventh grade English. Don't use big terms." Then people apply it, get results and credit you.
-- Edit with three goals: fewer words, simpler, fifth grader language. "The best stories aren't the smartest. They're the stories people actually can understand."
-- Write at a 2nd to 8th grade reading level. One viral Clubhouse thread was written at a 2nd to 3rd grade level; a smarter founder's version of the same take was written at a 12th grade level and died.
+- A good test: if a 12 year old can't read it, don't publish it. Your ideas don't have to be simple, but your words, sentences and layout should be.
+- Aim for roughly a 6th grade reading level. Free reading level checkers online will score your text. Some people aim even lower, and that is fine.
+- Edit with three goals: fewer words, simpler words, and language a fifth grader would get. The best stories aren't the smartest ones. They're the ones people can actually understand.
+- Example: one viral thread was written at a 2nd to 3rd grade level. A smarter founder wrote the same take at a 12th grade level and almost nobody read it.
 
 ### Why simple wins
 
-- Good writing reduces friction for your reader. Make it as easy as possible to understand your point.
-- Comprehension gets the biggest weight of the four content levers: 40%. Shorter words, simpler sentences, bite-sized chunks. If they don't get it, nothing else counts.
-- It feels good to sound smart, but it doesn't help people. Content only a professor understands won't get views.
-- A true expert turns complex topics into simple principles. The beginner understands it for the first time, and the expert understands it more.
-- Mastering copywriting means explaining hard topics in few words.
-- On the curse of knowledge: simpler framings of things that seem obvious to experts expand your reach.
-- Complexity makes viewers check out. Simplify solutions all the way down so the most people can act. Don't confuse complex with valuable.
+- Good writing makes the reader's job easy. The less effort it takes to get your point, the more people finish and share it.
+- Understanding is the most important part of a post. If they don't get it, a great hook, a great design and great timing won't help.
+- Sounding smart feels good, but it doesn't help anyone. Content that only a professor understands won't spread.
+- A real expert turns a hard topic into a few simple rules. A beginner then understands it for the first time, and the expert understands it even better.
+- Watch out for the "curse of knowledge": once you know something well, it seems too obvious to explain. But the simple version of an obvious idea is often what reaches the most people.
+- Don't confuse complex with valuable. When a solution looks complicated, people give up. Simplify until the most people can act on it.
 
-### Clarity is the non-negotiable
+### Clarity comes first
 
-- In your messaging, clarity and consistency on your core contrarian beliefs are the only two non-optional things. Everything else is style.
-- In educational content you only control one thing, how clear the message is (how easy it is to understand the action steps). Put all your effort there.
-- Give "radically clear steps" from the problem to the solution. Make it as obvious as possible. A download can help.
-- On briefing teams: "The enemy of creativity is confusion."
-- On bios: "Clear, not clever."
+- Whatever style you choose, the reader must always be clear on what you believe and what to do next. Style is extra. Clarity is required.
+- In teaching content, the thing you control most is how easy the steps are to follow. Put most of your effort there.
+- Give very clear steps from the problem to the solution, so the path is obvious. A free download or checklist can make it even easier.
+- Confusion kills creativity. If you work with a team, give them a brief that nobody can misread.
+- The same goes for your bio: clear, not clever.
 
-### Say it twice
+### Say hard points twice
 
-- Say a hard point twice, once like you'd say it to a colleague, then again with a simple metaphor like you'd say it to a child ("600 mph = a plane driving on the road").
-- "Atomic shareability": shrink the idea so someone can repeat it after one read or watch. Paul Revere's "the British are coming" is a whole story in four words.
-- A story ladder has a "translator" level: a comprehension pass where you add a visual for every complex point or restate it as a simple metaphor.
+- When a point is hard, say it twice. First say it the way you would to a colleague, then again with a simple comparison a child would get. Example: "600 mph is like a plane driving on the road."
+- Make the idea small enough that someone can repeat it after one read. "The British are coming" tells a whole story in four words, which is why people passed it on.
+- When you plan a story, add a simplifying pass: for every complex point, add a picture or restate it as a simple comparison.
 
 ### Frameworks
 
-**The comprehension pass**
+**The simplifying pass**
 
-1. Read the draft as a beginner would
-2. Mark every complex point
-3. Give each one a visual, or say it a second time as a simple metaphor
-4. Shrink the core idea until someone could repeat it after one read
+1. Read your draft as a beginner would
+2. Mark every point that is hard to follow
+3. For each one, add a picture, or say it a second time as a simple comparison
+4. Shrink the main idea until someone could repeat it after reading it once
 
 ### Examples
 
-- **A viral Clubhouse thread:** A Clubhouse thread written at a 2nd to 3rd grade level went viral. A smart founder posted the same take written at a 12th grade level and it died. Phrases like "yield a positive ROI" are jargon with zero emotion.
-  <br>*Why it works:* Same idea, different reading level, different result. Simple words carry emotion; jargon carries none.
-- **Paul Revere:** "The British are coming."
-  <br>*Why it works:* Four words that anyone can repeat. It shows atomic shareability.
+- **Same take, two reading levels:** One thread, written in very simple words, went viral. A smart founder posted the same take in complicated words and it died. Phrases like "yield a positive ROI" are jargon with no feeling in them.
+  <br>*Why it works:* Same idea, different words, very different result. Simple words carry feeling. Jargon carries none.
+- **Four words that spread:** "The British are coming."
+  <br>*Why it works:* Anyone can repeat it after hearing it once. Aim for that with your main idea.
 
 ### Common mistakes
 
 - Writing to sound smart instead of to be understood
-- Thinking complex means valuable
+- Thinking complicated means valuable
 - Using jargon your reader doesn't know
-- Assuming something is too obvious to explain, the curse of knowledge
+- Skipping an explanation because it feels too obvious to you
 
 ### Where the sources disagree
 
-The sources agree on simple words but name different reading levels: some say 2nd to 8th grade, others 5th grade, 6th grade, 7th grade or a 10 to 12 year old. All of them mean the same thing: far simpler than most people write.
+Writers agree on simple words but suggest different reading levels: some say 2nd to 8th grade, others say 5th, 6th or 7th. They all mean the same thing: far simpler than most people write.
 
 ### Try it
 
-Take one paragraph you wrote recently. Paste it into any free reading level checker. Rewrite it until it scores at 6th grade or below without losing the idea. Then pick the hardest point in it and add a one-line metaphor a child would get.
-
-<details><summary><b>Check yourself (4 questions)</b></summary>
-
-**1. The 12-year-old rule means...**
-
-- a) Keep the ideas as smart as you like, but make the vocabulary, formatting and word choice simple
-- b) Write for children
-- c) Avoid numbers and data
-- d) Only write about simple topics
-
-*Answer: a) Keep the ideas as smart as you like, but make the vocabulary, formatting and word choice simple.* Concepts don't need to be dumbed down, only the words and formatting.
-
-**2. Among the four content levers, which one gets the biggest weight?**
-
-- a) Direction
-- b) Comprehension (40%)
-- c) Likability
-- d) Effectiveness
-
-*Answer: b) Comprehension (40%).* Comprehension is 40%: if they don't get it, nothing else counts.
-
-**3. What does a true expert do?**
-
-- a) Uses technical terms to show authority
-- b) Turns complex topics into simple principles that beginners and experts both learn from
-- c) Only talks to other experts
-- d) Avoids basics completely
-
-*Answer: b) Turns complex topics into simple principles that beginners and experts both learn from.* The beginner understands for the first time and the expert understands more.
-
-**4. The 'say it twice' technique is...**
-
-- a) Repeat the same sentence word for word
-- b) Write the hook twice and pick one
-- c) Say the point like to a colleague, then again with a simple metaphor like to a child
-- d) Post the same content two days in a row
-
-*Answer: c) Say the point like to a colleague, then again with a simple metaphor like to a child.* The second, simpler version catches everyone the first one lost.
-
-</details>
+Take one paragraph you wrote recently and paste it into a free reading level checker. Rewrite it until it scores 6th grade or lower without losing the idea. Then pick the hardest point in it and add a one-line comparison a child would understand.
 
 [Back to the top of this module](#top) · [All modules](../README.md#contents)
 
@@ -248,112 +164,71 @@ Take one paragraph you wrote recently. Paste it into any free reading level chec
 
 <a id="m11-l3"></a>
 
-## 11.3 The sentence clarity toolkit
+## 11.3 Make every sentence clear
 
 *7 min read*
 
-> **The big idea:** Confusion is one of the four things that kill a hook. The fix is plain craft: fewer words, active voice, better word order, no jargon, and a test that checks if a line can be read two ways.
+> **The big idea:** If a reader can't tell what your first line means, they leave. Clear sentences come from a few simple habits: fewer words, active voice, good word order, no jargon, and a quick test that checks whether a line can be read two ways.
 
-### Confusion kills
+### Why confusion costs you readers
 
-- The four hook killers are Delay, Confusion, Irrelevance and Disinterest. Confusion means the topic arrives on time, but the words or phrasing are unclear, so the viewer understands half and can't judge if it's for them.
-- The fix: become a better writer. Use fewer words, but enough that the viewer can't misunderstand.
-- Simple words, ideally a sixth grade reading level.
-- Direct active voice, not passive: "the dog jumped", not "the jump of the dog".
+- A hook (the first line of a post or video) can fail in four ways: it arrives too late, it is confusing, it isn't relevant to the reader, or it isn't interesting. Confusion means the topic shows up on time, but the words are hard to follow, so the reader gets half of it and can't tell if it's for them.
+- The fix is better writing. Use fewer words, but keep enough that nobody can misread you.
+- Use simple words, ideally at a 6th grade reading level.
+- Use active voice, where someone does something. "The dog jumped" is clear. "The jump of the dog" is slower to read.
 
-### Word order matters
+### Word order changes how clear a line is
 
-- Slightly different words and order raise the comprehension hit rate. Nothing new was added, it was only reordered and simplified.
+- The same facts in a different order can be much easier to get. Nothing new is added. You only reorder and simplify. Put the main point first and the detail after.
 
-### The misinterpretation test
+### The two-meanings test
 
-- Read the one or two key sentences in isolation and ask: is it possible for the reader to understand this the wrong way? Is there more than one way these sentences could be read?
-- If yes, rewrite to remove the other paths until only one reading is left.
-- The "super clear" rule for hooks: only one possible reading, no wordplay.
-- Revise until it's the clearest, most concise version, and read it out loud five times.
+- Take your one or two most important sentences and read them on their own. Ask: could someone understand this the wrong way? Is there more than one way to read it?
+- If yes, rewrite it until only one reading is left. Skip wordplay and double meanings in key lines.
+- Then read it out loud a few times. If you stumble, your reader will too.
 
 ### Jargon and names
 
-- Avoid terms the viewer doesn't know unless you can show them. An example of a failure is using "generative world model" as a hook term.
-- Prefer names that can't be misread. For a video about floor plans, "future of home design" works better as first text than "life-size floor plans".
-- Compression, not speed: 8 words beat 28 because the brain can only hold so much at once.
+- Don't use a term your reader doesn't know unless you can show what it means. For example, "generative world model" means nothing to most people, so it makes a weak opening.
+- Name things in a way that can't be misread. For a video about floor plans, "future of home design" is clearer than "life-size floor plans".
+- Short lines are easier because the brain can only hold so much at once. A line of 8 words is usually clearer than one of 28.
 
 ### Using AI for clarity
 
-- Note what the prompt asks for: the same meaning, only clearer. The idea stays yours.
+- You can ask an AI tool to make a line clearer, as long as you tell it to keep the same meaning and only make it simpler. The idea stays yours.
 
 ### Frameworks
 
-**Four hook killers (the confusion fix)**
+**Four ways a first line fails**
 
-1. Delay: the topic arrives too late, so move it to line one
-2. Confusion: the words are hard to parse, so use fewer, simpler words, active voice and better order
-3. Irrelevance: the reader isn't sure it's for them, so say 'you' and name their pain
-4. Disinterest: no curiosity, so add contrast between what they believe and what you say
+1. Too late: the topic shows up after the opening, so move it to line one
+2. Confusing: the words are hard to follow, so use fewer, simpler words in active voice
+3. Not relevant: the reader can't tell it's for them, so say "you" and name their problem
+4. Not interesting: nothing makes them curious, so show the gap between what they believe and what you say
 
-**Misinterpretation test**
+**The two-meanings test**
 
-1. Isolate the key line
-2. Ask if it can be read more than one way
-3. Rewrite until only one reading remains
+1. Pick the key line
+2. Ask if it could be read more than one way
+3. Rewrite until only one reading is left
 
 ### Examples
 
-- **A hook rewrite example:** "...the online money they made is most difficult to earn if you don't develop a journaling practice like they did" became "...their secret for earning money online was their insane journaling practice."
-  <br>*Why it works:* Same facts, new order and simpler words. The reader gets it on the first pass.
+- **A first line, rewritten:** Before: "The online money they made is most difficult to earn if you don't develop a journaling practice like they did." After: "Their secret for earning money online was an intense journaling practice."
+  <br>*Why it works:* Same facts. The new version has simpler words and a better order, so you get it on the first read.
 - **Active voice:** "The dog jumped" instead of "the jump of the dog".
-  <br>*Why it works:* Active voice puts a clear subject doing a clear action, which is faster to read.
+  <br>*Why it works:* Active voice puts a clear subject next to a clear action, which is faster to read.
 
 ### Common mistakes
 
-- Cutting so many words that the line can be misunderstood (fewer words, but enough)
-- Wordplay and clever double meanings in key lines
-- Leading with jargon the reader has never seen
-- Never reading the line out loud before publishing
+- Cutting so many words that the line can be misread
+- Using clever wordplay with a double meaning in a key line
+- Opening with jargon the reader has never seen
+- Publishing without reading the line out loud
 
 ### Try it
 
-Write the first line of your next post. Run the misinterpretation test: show it to someone with no context and ask what it means. Then rewrite it three ways: once shorter, once in active voice, once with the words reordered so the main point comes first. Read all versions out loud and keep the clearest.
-
-<details><summary><b>Check yourself (4 questions)</b></summary>
-
-**1. What is the misinterpretation test?**
-
-- a) Asking AI if the post is good
-- b) Counting how many words a line has
-- c) Reading a line alone and checking if it could be understood more than one way
-- d) Checking spelling
-
-*Answer: c) Reading a line alone and checking if it could be understood more than one way.* If more than one reading is possible, rewrite until only one is left.
-
-**2. In the \$30 million empire example, what made the second version clearer?**
-
-- a) Different words and word order, with nothing new added
-- b) Adding a number
-- c) Making it longer
-- d) Adding more detail
-
-*Answer: a) Different words and word order, with nothing new added.* Reordering and simplifying alone raised comprehension.
-
-**3. Which of these is active voice?**
-
-- a) Mistakes were made
-- b) The dog jumped
-- c) The post was written by me
-- d) The jump of the dog
-
-*Answer: b) The dog jumped.* A clear subject doing a clear action.
-
-**4. What does the AI clarity prompt ask the AI to keep the same?**
-
-- a) The reading level
-- b) The jargon
-- c) The length
-- d) The meaning
-
-*Answer: d) The meaning.* It asks for the exact same meaning at a sixth grade reading level, so the idea stays yours.
-
-</details>
+Write the first line of your next post. Show it to someone with no context and ask what it means. Then rewrite it three ways: shorter, in active voice, and with the main point moved to the front. Read all versions out loud and keep the clearest.
 
 [Back to the top of this module](#top) · [All modules](../README.md#contents)
 
@@ -365,103 +240,57 @@ Write the first line of your next post. Run the misinterpretation test: show it 
 
 *7 min read*
 
-> **The big idea:** The word choice rule: if deleting a word doesn't change the meaning, delete it. Cut filler and soft words, pick simple words and strong verbs, and swap broad words for emotional, specific ones.
+> **The big idea:** One rule cleans up most writing: if taking out a word doesn't change the meaning, take it out. Cut filler and hedges, use short words and strong verbs, and swap broad words for specific ones people feel.
 
 ### Word choice rules
 
-- Every word needs to earn its place in your copy.
-- Cut filler: really, very, just, actually.
-- Use simple words: utilise becomes use, facilitate becomes help, commence becomes start.
-- Use strong verbs: "grew really quickly" becomes "exploded".
-- Write in active voice: "Mistakes were made" becomes "Most creators make this mistake".
-- Delete: if deleting a word doesn't change the meaning, delete it.
-- In a good hook process: cut any words that say the same thing twice or add no value.
+- Every word has to earn its place. Cut filler words like really, very, just and actually.
+- Use simple words: say "use" instead of "utilise", "help" instead of "facilitate", "start" instead of "commence".
+- Use strong verbs. "Grew really quickly" becomes "exploded". One strong word replaces three weak ones.
+- Use active voice. "Mistakes were made" hides who did it. "Most creators make this mistake" says it.
+- If a line says the same thing twice, keep the better half.
 
-### Cut soft words, be concrete
+### Cut hedges
 
-- Cut soft words like "kind of" and "I think".
-- Cut "very", "really" and "honestly".
+- Hedges are soft phrases that make you sound unsure, like "kind of" and "I think". Cut them.
+- Cut "honestly" too. It makes the other lines sound less honest.
 
-### Emotional, specific words
+### Pick emotional, specific words
 
-- A creator averaging 1.2M views a video says one or two words can decide 5k versus 100k views.
-- Swap vague words for emotional, specific ones: "alone" over "by yourself", "burnt out", "going broke", "dying business", "passive income machine", "AI agents", "10K a month".
-- Avoid broad words like "get better" or "improve".
-- Stack several keywords in one line (one example stacks insecure, Asian, nerds and losers in one hook).
-- After you upgrade a word, remove what became redundant: "AI agents" makes "with AI" unnecessary.
-
-### Strong nouns and verbs in titles
-
-- Use well-known entities and strong verbs in titles. The example "How the UN is holding back the Sahara Desert" uses "the UN" and "holding back".
-- Jargon like "yield a positive ROI" has zero emotion.
+- Choosing one or two words well can change how many people stop and read. One creator who averages 1.2M views per video says a single word can be the difference between 5k views and 100k.
+- Swap vague words for specific ones people feel: "alone" instead of "by yourself", "burnt out", "going broke", "dying business", "AI agents", "10K a month".
+- Avoid broad words like "get better" or "improve". They don't give the reader a picture.
+- Once you upgrade a word, remove what became extra. If you write "AI agents", you no longer need "with AI".
+- In titles, use well-known names and strong verbs. "How the UN is holding back the Sahara Desert" works because "the UN" is familiar and "holding back" is a strong action.
+- Avoid jargon like "yield a positive ROI". It has no feeling in it.
 
 ### Frameworks
 
 **The delete test**
 
-1. Go through the draft one word at a time
+1. Go through your draft one word at a time
 2. Ask: if I delete this, does the meaning change?
 3. If not, delete it
 4. Then swap long words for short ones and weak verbs for strong ones
 
 ### Examples
 
-- **Weak versus strong wording:** "Mistakes were made" becomes "Most creators make this mistake". "Grew really quickly" becomes "exploded".
-  <br>*Why it works:* Active voice names who did it; a strong verb replaces a weak verb plus two filler words.
-- **The psychology of selling:** "There by Friday" instead of "fast delivery".
-  <br>*Why it works:* A concrete picture the buyer can see beats an abstract promise.
+- **Weak and strong wording:** "Mistakes were made" becomes "Most creators make this mistake". "Grew really quickly" becomes "exploded".
+  <br>*Why it works:* Active voice names who did it, and one strong verb replaces a weak verb and two filler words.
+- **Picture over promise:** "There by Friday" instead of "fast delivery".
+  <br>*Why it works:* The buyer can picture a day on the calendar, but not "fast".
 
 ### Common mistakes
 
 - Filler words like really, very, just, actually
 - Hedging with "kind of" and "I think"
 - Broad words like "improve" or "get better"
-- Fancy words where a short one works: utilise, facilitate, commence
+- Fancy words where a short one works, like utilise, facilitate, commence
 - Saying the same thing twice in one line
 
 ### Try it
 
-Take a 150 word draft. Circle every filler and soft word (really, very, just, actually, kind of, I think, honestly) and delete them. Then run the delete test on every remaining word. Finally replace one vague word with an emotional, specific one. Compare the word count before and after.
-
-<details><summary><b>Check yourself (4 questions)</b></summary>
-
-**1. What is the test for whether a word stays?**
-
-- a) If deleting it doesn't change the meaning, delete it
-- b) If it sounds smart, keep it
-- c) Only keep words under 5 letters
-- d) Keep every adjective
-
-*Answer: a) If deleting it doesn't change the meaning, delete it.* Every word has to earn its place.
-
-**2. Which swap follows the advice to cut soft words and be concrete?**
-
-- a) "I think this might help" instead of "this helps"
-- b) "honestly, it works" instead of "it works"
-- c) "very fast" instead of "fast"
-- d) "there by Friday" instead of "fast delivery"
-
-*Answer: d) "there by Friday" instead of "fast delivery".* Concrete beats abstract, and soft words get cut.
-
-**3. What should replace a word like "improve"?**
-
-- a) A longer word
-- b) An emotional, specific word people actually use
-- c) A technical term
-- d) Nothing, keep it broad to reach more people
-
-*Answer: b) An emotional, specific word people actually use.* One or two words can decide 5k versus 100k views.
-
-**4. After upgrading "with AI" to "AI agents", what should you do?**
-
-- a) Add more AI keywords
-- b) Move it to the end
-- c) Remove the now redundant words
-- d) Keep both for clarity
-
-*Answer: c) Remove the now redundant words.* The upgraded word already carries the meaning.
-
-</details>
+Take a 150 word draft. Delete every filler and hedge (really, very, just, actually, kind of, I think, honestly). Then run the delete test on every remaining word. Finally, replace one vague word with a specific one people feel. Compare the word count before and after.
 
 [Back to the top of this module](#top) · [All modules](../README.md#contents)
 
@@ -473,103 +302,60 @@ Take a 150 word draft. Circle every filler and soft word (really, very, just, ac
 
 *7 min read*
 
-> **The big idea:** Vague lines give the reader nothing to picture or predict. Numbers, names, timeframes and real proof make a line believable and make people want the rest.
+> **The big idea:** Vague lines give the reader nothing to picture. Numbers, names, timeframes and real proof make a line believable and make people want to read on.
 
 ### Vague versus specific
 
-- "I grew fast" is weak. "I hit 5.8M impressions in my first month" is better. Numbers, names and timeframes beat vague promises.
-- Use numbers, results and specifics.
-- "Something crazy happened", "you're not going to believe it" and "things were about to change" are empty teasers. Give enough specific detail that the reader can guess: "within 30 minutes, she tells me something that completely changes my strategy for the next 6 months."
-- Specific urgency sounds like "within a week", "the call was in 2 hours", "48 hours".
+- "I grew fast" is weak. "I hit 5.8M impressions in my first month" is better, because the number and timeframe make it believable. Use numbers, results and details wherever you can, and only use ones that are true.
+- Empty teasers like "something crazy happened", "you won't believe this" and "things were about to change" give the reader nothing. Give enough detail that they can guess what's coming: "within 30 minutes, she tells me something that completely changes my strategy for the next 6 months."
+- Specific urgency sounds like "within a week", "the call was in 2 hours" or "48 hours".
 - Specific proof sounds like "from 2 to 15,000 followers in 6 weeks", not "this will help you grow faster".
-- Specific, provocative claims beat generic ones: "this tool is now illegal in 7 and a half states", "99% of woodworkers get this wrong".
+- Odd, exact claims beat generic ones: "this tool is now illegal in 7 and a half states" or "99% of woodworkers get this wrong".
 
-### Specificity sells
+### A quick test for vague lines
 
-- Say specific things instead of vague ones.
-- Specificity sells.
-- A simple test: if a stranger couldn't add anything to your line, it's generic. Include something more specific.
-- One creator's own audit found that specific numbers in hooks did "10x better" (their own claim).
-- Text hook rules: specific numbers like "22 days" beat "a few weeks"; "\$97,000 in 13 days" beats a round claim.
+- If a stranger couldn't add anything to your line, it's generic. Add something only you could say.
+- One creator checked their own posts and says hooks with specific numbers did about 10 times better. Treat that as their own result, not a proven rule, and test it on your account.
+- For text hooks, "22 days" beats "a few weeks", and "\$97,000 in 13 days" beats a round claim.
 
-### Specific and believable outcomes
+### Believable outcomes and exact scarcity
 
-- Make outcomes specific and believable within the timeframe: "build your first website in 30 days", "lose your first 10 pounds".
-- Scarcity must be said specifically ("4 slots, 2 are gone"), never "limited spots".
+- Make a promised result specific and believable inside its timeframe: "build your first website in 30 days" or "lose your first 10 pounds". A promise that is too big for the timeframe makes people stop trusting you.
+- Say scarcity exactly. "4 slots, 2 are gone" is believable. "Limited spots" is not.
 
-### Specific in praise and feedback too
+### Be specific in praise and feedback too
 
-- When praising a team member to executives, name the person, the situation, the deadline and the result (for example a team member called Sarah).
-- Positive "keep doing" notes should be specific too ("I love this cutaway").
+- When you praise a teammate to a boss, name the person, the situation, the deadline and the result. Say "Sarah fixed the checkout bug before Friday's launch", not "Sarah did great work" (made-up example).
+- Positive feedback should be specific too. "I love this cutaway" tells an editor what to do more of. "Nice job" doesn't.
 
 ### Frameworks
 
-**Specific proof line**
+**A specific proof line**
 
 1. A number with its unit (followers, dollars, days)
 2. A before and after (from 2 to 15,000)
 3. A timeframe (in 6 weeks)
-4. A name where it helps (a person, a company, a tool)
+4. A name where it helps (a person, a company or a tool)
 
 ### Examples
 
-- **Addictive storytelling:** "Something crazy happened" versus "within 30 minutes, she tells me something that completely changes my strategy for the next 6 months."
-  <br>*Why it works:* The specific version lets the reader guess what's coming, which is what creates curiosity. The vague one gives them nothing to predict.
-- **Hooks 101:** "I grew fast" versus "I hit 5.8M impressions in my first month."
-  <br>*Why it works:* Numbers and a timeframe make the claim believable and concrete.
-- **A provocative claim:** "This tool is now illegal in 7 and a half states."
-  <br>*Why it works:* The odd, exact number makes it feel real and sparks curiosity.
+- **A vague teaser against a specific one:** "Something crazy happened" versus "within 30 minutes, she tells me something that completely changes my strategy for the next 6 months."
+  <br>*Why it works:* The specific version lets the reader guess what's coming, and guessing is what creates curiosity. The vague one gives them nothing to guess.
+- **Fast against a number:** "I grew fast" versus "I hit 5.8M impressions in my first month."
+  <br>*Why it works:* A number and a timeframe make the claim concrete and believable.
+- **An odd, exact claim:** "This tool is now illegal in 7 and a half states."
+  <br>*Why it works:* The odd, exact number makes it feel real and makes you want to know more.
 
 ### Common mistakes
 
 - Empty teasers like "you won't believe this"
 - Round, vague promises like "grow faster"
-- Outcomes that are too big for the timeframe to be believable
+- Promises too big to be believed in the timeframe
 - "Limited spots" instead of an exact number
 
 ### Try it
 
-Find three vague lines in your recent writing (look for words like 'fast', 'a lot', 'huge', 'something'). Rewrite each one with a number, a timeframe or a name. Only use numbers that are true. Then run the stranger test: could a stranger have written the old line? Could they write the new one?
-
-<details><summary><b>Check yourself (4 questions)</b></summary>
-
-**1. Why does "something crazy happened" fail?**
-
-- a) It uses too many numbers
-- b) It's too long
-- c) It gives no specific detail, so the reader has nothing to predict
-- d) It's too formal
-
-*Answer: c) It gives no specific detail, so the reader has nothing to predict.* Curiosity needs enough detail to guess. A totally vague tease could be anything.
-
-**2. What is the specificity test?**
-
-- a) If it has a number, it's specific
-- b) If a stranger could have written it, add something more specific
-- c) If AI wrote it, it's generic
-- d) If it's under 10 words, it's specific
-
-*Answer: b) If a stranger could have written it, add something more specific.* Generic lines are ones anyone could produce.
-
-**3. The advice on outcomes is to make them...**
-
-- a) About the creator, not the reader
-- b) Specific and believable within the timeframe
-- c) Vague so nobody can check
-- d) As big as possible
-
-*Answer: b) Specific and believable within the timeframe.* "Lose your first 10 pounds" is both specific and believable.
-
-**4. How should you present a price?**
-
-- a) Round it up
-- b) Hide it until the end
-- c) Give the big anchor number first, the comparison, then the price, and stop
-- d) Give it with a list of reasons
-
-*Answer: c) Give the big anchor number first, the comparison, then the price, and stop.* Numbers need an anchor, and a long list of reasons after the price weakens it.
-
-</details>
+Find three vague lines in your recent writing (look for words like fast, a lot, huge, something). Rewrite each one with a number, a timeframe or a name, using only true facts. Then ask: could a stranger have written the old line? Could they write the new one?
 
 [Back to the top of this module](#top) · [All modules](../README.md#contents)
 
@@ -581,108 +367,69 @@ Find three vague lines in your recent writing (look for words like 'fast', 'a lo
 
 *7 min read*
 
-> **The big idea:** The best words are the ones your readers would say themselves. Collect their exact phrases, talk the way people talk to a friend, and name your ideas so others can repeat them.
+> **The big idea:** The best words are the ones your readers would say themselves. Collect their exact phrases, write the way people talk to a friend, and give your ideas short names that others can repeat.
 
-### Self-articulated words
+### Use the words your reader would use
 
-- These are self-articulated words: say what people would say themselves.
-- "Make more money" reaches a much bigger market than "make more revenue". "More money" beats "a bigger team".
-- Always pick the wording the widest group already uses.
+- Say things the way your reader would say them themselves. "Make more money" reaches many more people than "make more revenue".
+- Lead with the result people want, not the method. Business owners don't want "a bigger team". They want more money and more time.
+- Pick the wording the widest group of people already uses.
 
 ### Talk like people talk
 
-- Write the way people actually say it to a friend, like "break my sh\*tty habits" instead of "develop better habits". Casual but specific.
-- Build a keyword bank for your niche from top videos and titles (examples: "dopamine detox", "lock in", "zero motivation scrolling").
-- Keep a problem bank in your audience's exact words: "I don't have the money and I'm scared I'll look stupid asking", not "capital constraints".
-- Mirror people's exact words. A 2003 study found that waitresses who repeated orders word for word got bigger tips (the percentages usually quoted need checking).
+- Write the way people say it to a friend. "Break my sh\*tty habits" feels real, while "develop better habits" sounds like a brochure. It is casual but still specific.
+- Build a word bank for your topic. Collect the phrases that appear in top videos and titles, like "dopamine detox", "lock in" or "zero motivation scrolling".
+- Keep a problem bank in your audience's exact words. "I don't have the money and I'm scared I'll look stupid asking" is better than "capital constraints".
+- Repeating someone's exact words builds trust. A study from 2003 found that waitresses who repeated customers' orders word for word got bigger tips. The exact size of the effect is quoted differently in different places, so don't rely on a number.
 
-### Power words
+### Power words: borrow, then twist
 
-- One creator's two best videos both used "scientifically impossible to skip". Lazy creators copy the phrase; good ones remix it: "psychologically impossible to resist", "neurochemically impossible to skip".
-- Level 1 is copying hook formats; level 2 is mining power words from top performers and twisting them.
+- A power word is a strong phrase that already works in top content. One creator noticed that their two best videos both used "scientifically impossible to skip".
+- Lazy writers copy the phrase. Better writers remix it: "psychologically impossible to resist" or "neurochemically impossible to skip".
+- Level 1 is copying proven hook formats. Level 2 is collecting power words from top posts and twisting them into your own.
 
-### Name things so people can repeat them
+### Name your ideas so people can repeat them
 
-- Name your concepts so they pass the three Rs: easy to remember, repeat and reference. Then other people spread them for you. Only name things you already teach.
-- Redefine vague niche words with operational definitions that tell people what to do. Examples: branding is "an intentional pairing of relevant things done consistently"; trust is the belief that you will meet or exceed expectations based on what you have done in the past.
-- Positioning language must be repeatable in one sentence by someone else.
-- Give your steps a name so they read as a system. "Systems sell."
-- A name makes an old idea feel new: one creator admits their term "illusion of novelty" is made up, old persuasion psychology in a new wrapper, and that is the point.
+- Give your main ideas short names that are easy to remember, easy to repeat and easy to point others to. When a name sticks, other people spread your idea for you. Only name things you really teach.
+- Replace vague words with a definition that tells people what to do. Example: branding is "an intentional pairing of relevant things done consistently". Trust is believing someone will meet or beat expectations because of what they did before.
+- Your positioning (what you do and who for) should fit in one sentence that someone else could repeat.
+- Give your steps a name so they read like a system. Systems are easier to sell than loose tips.
+- A name can make an old idea feel new. One creator admits that their term "illusion of novelty" is made up, old persuasion psychology in a new wrapper, and says that is the point.
 
 ### Frameworks
 
-**Problem bank**
+**The problem bank**
 
 1. Read comments, replies and DMs in your niche
 2. Copy problems word for word, in their language
-3. Never translate them into expert terms
-4. Use those exact phrases in hooks and posts
+3. Don't translate them into expert terms
+4. Use those exact phrases in your hooks and posts
 
-**Three Rs of naming**
+**Three tests for a good name**
 
 1. Remember: is it easy to remember?
-2. Repeat: can people say it back?
+2. Repeat: can people say it back to someone else?
 3. Reference: can they point others to it?
 
 ### Examples
 
 - **Everyday wording:** "Make more money" instead of "make more revenue".
-  <br>*Why it works:* The everyday wording reaches a much bigger market.
+  <br>*Why it works:* The everyday version reaches a much bigger group of people.
 - **Talk like a friend:** "Break my sh\*tty habits" instead of "develop better habits".
   <br>*Why it works:* It's what people say out loud to a friend, so it feels like their own thought.
-- **Operational definition:** Branding = "an intentional pairing of relevant things done consistently".
-  <br>*Why it works:* An operational definition tells people what action to take, unlike a vague word everyone uses.
+- **A definition that tells you what to do:** Branding = "an intentional pairing of relevant things done consistently".
+  <br>*Why it works:* It tells you the action to take, unlike a vague word everyone uses and nobody defines.
 
 ### Common mistakes
 
-- Translating the audience's pain into expert terms like "capital constraints"
+- Translating your audience's pain into expert terms like "capital constraints"
 - Copying a power word phrase exactly instead of remixing it
 - Naming things you don't actually teach
-- Positioning lines nobody else could repeat
+- Writing a positioning line that nobody else could repeat
 
 ### Try it
 
 Spend 10 minutes reading comments under three top posts in your niche. Copy 10 phrases people use to describe their problem, word for word. Then rewrite one of your hooks using one of those exact phrases instead of your own wording.
-
-<details><summary><b>Check yourself (4 questions)</b></summary>
-
-**1. What are self-articulated words?**
-
-- a) Words you invent yourself
-- b) Words from a thesaurus
-- c) Long technical words
-- d) Words the audience would say themselves
-
-*Answer: d) Words the audience would say themselves.* "Make more money" over "make more revenue": use the wording the widest group already uses.
-
-**2. Which problem bank entry follows the rule of using the audience's exact words?**
-
-- a) Capital constraints
-- b) "I don't have the money and I'm scared I'll look stupid asking"
-- c) Insufficient liquidity
-- d) Funding gap
-
-*Answer: b) "I don't have the money and I'm scared I'll look stupid asking".* Keep their exact words, not expert terms.
-
-**3. What do good creators do with a power word phrase that worked?**
-
-- a) Trademark it
-- b) Remix it into a new phrase
-- c) Copy it exactly
-- d) Avoid it
-
-*Answer: b) Remix it into a new phrase.* "Scientifically impossible to skip" becomes "psychologically impossible to resist".
-
-**4. The three Rs test for a concept name is...**
-
-- a) Read, Reply, Repost
-- b) Relevant, Recent, Repeated
-- c) Rare, Rich, Real
-- d) Remember, Repeat, Reference
-
-*Answer: d) Remember, Repeat, Reference.* A name that passes them gets spread by other people.
-
-</details>
 
 [Back to the top of this module](#top) · [All modules](../README.md#contents)
 
@@ -694,102 +441,63 @@ Spend 10 minutes reading comments under three top posts in your niche. Copy 10 p
 
 *8 min read*
 
-> **The big idea:** The rules for the shape of a post: get to the point fast, one thought per line, short paragraphs, and a closing line that never trails off. Add the rhythm rules and the 'you before I' rule.
+> **The big idea:** A good post gets to the point fast, puts one thought on each line, keeps paragraphs short and ends with a clear last line instead of trailing off. Write about "you" before "I".
 
 ### How to open a post
 
-- Cut the filler, get to the point fast, and show proof and credibility as early as you can.
-- In hooks, use 'you' and 'your' instead of 'I' and 'me', so the viewer feels it is for them. One note: the power word example 'If I had to grow from 0 to 100K...' uses 'I' with the viewer replicating it, and a creator's own result can work as proof when the creator matches the viewer.
-- Think 'you' before 'I'. Always make it about the reader.
+- Cut the warm-up and get to the point. Show your proof early so the reader trusts you.
+- Use "you" and "your" more than "I" and "me". The reader feels the post is for them. Example: "you can grow your account" pulls people in more than "I grew my account".
+- There is one exception. A line like "If I had to grow from 0 to 100K..." uses "I", but it works because the reader pictures themselves doing the same. Your own result also works as proof when you are clearly like your reader.
+- Think "you" before "I". Make the post about the reader.
 
 ### How to close a post
 
-- Close with the takeaway in 1 or 2 lines, a question, or a tease of what comes next.
-- 'Never trail off.' The last line is the second most important line of the post (after the first).
-- Every post needs a takeaway. Ask 'what does someone walk away with?'
+- End with the takeaway in 1 or 2 lines, a question, or a hint of what comes next.
+- Never trail off. The last line is the second most important line of the post, after the first.
+- Ask yourself again: what does someone walk away with? The last line should say it.
 
-### Rhythm and readability
+### Make it easy on the eyes
 
 - Use line breaks. Walls of text get skipped.
-- Mix short and long sentences.
-- One thought per line. 'If a sentence has two ands and a comma, it's probably two sentences.'
-- Paragraphs of 1 to 3 lines. On a phone, 4 lines look like an essay.
-- Make it scannable with numbers, lists and arrows.
-- Use transition lines that pull people down, like 'Let me explain...'.
+- Mix short and long sentences so the post has rhythm.
+- Put one thought on each line. If a sentence has two "and"s and a comma, it is probably two sentences.
+- Keep paragraphs to 1 to 3 lines. On a phone, 4 lines look like an essay.
+- Make it easy to scan with numbers, lists and arrows.
+- Use short lines that pull people down the page, like "Let me explain...".
 - Preview the post on your phone before you publish.
 
-### Sentence rhythm for hooks versus body
+### Rhythm for hooks and for the body
 
-- Hooks: staccato, short sentences for maximum clarity and value per word.
-- Body: vary sentence length for rhythm. Expand to medium and longer sentences.
+- In a hook, use short, punchy sentences so every word does work.
+- In the body, vary the length. Mix short lines with medium and longer ones so it doesn't sound robotic.
 
 ### Frameworks
 
-**The post shape**
+**The shape of a post**
 
-1. Open: cut filler, state the point, show proof early
+1. Open: cut the warm-up, state the point, show proof early
 2. Middle: one thought per line, paragraphs of 1 to 3 lines, mix short and long sentences
-3. Pull: add transition lines like 'Let me explain...'
-4. Close: takeaway in 1 or 2 lines, a question, or a tease of what's next
-5. Check: preview on your phone
+3. Pull: add lines like "Let me explain..." to move readers down
+4. Close: the takeaway in 1 or 2 lines, a question, or a hint of what's next
+5. Check: preview it on your phone
 
 ### Examples
 
-- **The two-ands rule:** A sentence with two 'and's and a comma is probably two sentences, so split it into two lines.
-  <br>*Why it works:* This keeps one thought per line.
-- **You versus I:** Hooks lean on 'you / your' so the viewer feels the line is for them.
-  <br>*Why it works:* Creator-proof with 'I' can still work when the creator matches the viewer.
+- **The two-ands rule:** Say you write: "I tried posting every day and I got more followers and I also learned what my audience wants." Split it into three short lines.
+  <br>*Why it works:* This example is made up. Each line now holds one thought and is easier to read on a phone.
+- **You before I:** "You can do this in 10 minutes" instead of "I do this in 10 minutes".
+  <br>*Why it works:* The reader feels the line is for them.
 
 ### Common mistakes
 
-- Opening with filler before the point
-- Walls of text and 4-line paragraphs
-- Trailing off with no takeaway at the end
-- Writing about 'I' when the post should be about the reader
+- Opening with warm-up before the point
+- Walls of text and 4 line paragraphs
+- Trailing off at the end with no takeaway
+- Writing about "I" when the post should be about the reader
 
 ### Try it
 
-Take one finished post. Split every sentence that has two 'and's, cap paragraphs at 3 lines, rewrite the last line as a takeaway, a question or a tease, then preview it on your phone.
-
-<details><summary><b>Check yourself (4 questions)</b></summary>
-
-**1. What is true about the last line of a post?**
-
-- a) It should always be a hashtag
-- b) It should repeat the first line word for word
-- c) It is the second most important line, so never trail off
-- d) It does not matter
-
-*Answer: c) It is the second most important line, so never trail off.* Close with the takeaway, a question or a tease. Never trail off.
-
-**2. How long should a paragraph be on a phone?**
-
-- a) One giant block
-- b) 6 to 8 lines
-- c) 1 to 3 lines
-- d) As long as needed
-
-*Answer: c) 1 to 3 lines.* Paragraphs of 1 to 3 lines. 4 lines on a phone look like an essay.
-
-**3. The rule for sentence rhythm is:**
-
-- a) Same length every line
-- b) Short staccato in hooks, varied lengths in the body
-- c) Only questions
-- d) Long sentences everywhere
-
-*Answer: b) Short staccato in hooks, varied lengths in the body.* Staccato gives clarity in hooks. Varying length in the body gives rhythm.
-
-**4. Which opening is recommended?**
-
-- a) A long story with no point
-- b) A joke first
-- c) A list of hashtags
-- d) Cut filler, get to the point, show proof early
-
-*Answer: d) Cut filler, get to the point, show proof early.* Cut filler, get to the point fast and show credibility early.
-
-</details>
+Take one finished post. Split every sentence that has two "and"s, keep paragraphs to 3 lines or fewer, rewrite the last line as a takeaway, a question or a hint of what's next, then preview it on your phone.
 
 [Back to the top of this module](#top) · [All modules](../README.md#contents)
 
@@ -797,46 +505,46 @@ Take one finished post. Split every sentence that has two 'and's, cap paragraphs
 
 <a id="m11-l8"></a>
 
-## 11.8 Contrast, tension and honest tone
+## 11.8 Contrast, tension and an honest tone
 
 *9 min read*
 
-> **The big idea:** A phrasing toolkit builds contrast with small connecting words and benefit-first lines, then keeps it honest: commit to the story, whisper instead of shouting, show instead of command, and always deliver the payoff.
+> **The big idea:** Small connecting words like "but" create contrast, and contrast makes people curious. Keep it honest: stand behind your story, stay calm instead of shouting, show instead of telling people what to do, and always deliver what you promised.
 
-### Contrast phrasing toolkit
+### Contrast: the "but" move
 
-- Interjection words that create contrast: but, however, yet, although, therefore, on the other hand, 'but get this', 'but here's the thing'.
-- 'Everyone thinks X, but actually it's Y.'
-- Stated contrast (A and B both said) versus implied contrast (only B said).
-- Lead with the benefit or pain: 'If you want better sleep...', 'If you struggle with acne...'.
+- Contrast means putting two opposite things next to each other. It makes people curious about how both can be true. Words that create it: but, however, yet, although, therefore, "on the other hand", "but here's the thing".
+- A simple pattern: "Everyone thinks X, but actually it's Y."
+- You can state both sides ("people say A, I say B") or imply the first side and only say B.
+- Lead with the benefit or the pain: "If you want better sleep..." or "If you struggle with acne...". The right readers stop right away.
 
-### Phrasing devices from other creators
+### Phrases that add pull
 
-- A closing line like 'Take notes and thank me later' adds pull (a super hook).
-- Templates: 'Here's how to [stop painful thing]' and 'If you're [painful situation], here's the ultimate guide to [result]'.
-- 'This [thing] should not [expected outcome]...' with trailing dots to open a loop.
-- Contradict a common belief in one short line, like 'Lean at 45 and I eat carbs every day'.
+- A closing line like "Take notes and thank me later" gives people a reason to finish.
+- Two useful templates: "Here's how to [stop a painful thing]" and "If you're [in a painful situation], here's the ultimate guide to [result]".
+- A line like "This [thing] should not [do what you'd expect]..." with trailing dots opens a question the reader wants answered.
+- Go against a common belief in one short line, like "Lean at 45 and I eat carbs every day".
 
-### Tone and commitment (the illusion of novelty)
+### Tone: stay calm and stand behind it
 
-- Commit to the story. Do not hedge or downplay. 'Of course this is just circadian biology, known for decades' kills it.
-- Be the gossip whisperer ('Okay, so not that many people know about this yet...'), not the town crier ('Huge news. This changes everything.').
-- No fake urgency.
+- Commit to your story. Don't downplay it with lines like "of course this is just basic biology, known for decades", because that kills the curiosity you just built.
+- Be the friend who lowers their voice to share a secret ("Okay, so not that many people know about this yet..."), not the town crier ("Huge news. This changes everything.").
+- Don't invent urgency. If nothing is happening now, don't say it is.
 
-### Show, do not command (the power of suggestion)
+### Show, don't command
 
-- Do not tell people what to believe or do ('you should believe you can grow faster', 'go rewrite your scripts now'). Show the story, data and steps and let them conclude.
-- Commands raise the guard and feel like homework.
+- Don't tell people what to believe or do ("you should believe you can grow faster", "go rewrite your scripts now"). Show the story, the data and the steps, and let them reach the conclusion.
+- Commands put people on guard and feel like homework.
 
 ### The payoff must be real
 
-- A great setup with no compelling payoff makes people churn and makes you 'a fraud'.
-- Headlines and hooks should be strong but accurate, and the content must deliver the promise.
+- A great setup with a weak payoff makes people leave and trust you less. They feel tricked.
+- Make headlines and hooks strong but accurate, and make sure the post really delivers what they promised.
 
-### Story sentences
+### Tell stories with detail
 
-- Name the location briefly, use action verbs, quote raw thoughts, show emotion through the body, use exact juicy dialogue. Avoid professional-sounding thoughts and stiff dialogue.
-- For a 60-second story, keep it short and concise, under 60 seconds.
+- Name the place in a few words, use action verbs, quote the real thoughts you had, show emotion through the body ("my hands were shaking"), and use exact dialogue. Avoid stiff, professional-sounding lines.
+- For a story told in a short video, keep it under 60 seconds.
 
 ### Frameworks
 
@@ -844,71 +552,31 @@ Take one finished post. Split every sentence that has two 'and's, cap paragraphs
 
 1. Everyone thinks X, but actually it's Y
 2. If you want X, don't do Y, do Z
-3. X used to be the gold standard, but now Y makes X obsolete
+3. X used to be the gold standard, but now Y makes X outdated
 4. You've been told X your whole life. Turns out X is wrong
-5. Lead with the benefit or pain, then add the contrast
+5. Lead with the benefit or pain first, then add the contrast
 
 ### Examples
 
-- **Whisperer versus town crier:** Whisperer: 'Okay, so not that many people know about this yet...' Town crier: 'Huge news. This changes everything.'
-  <br>*Why it works:* The whisperer is preferred. Calm, committed and honest.
-- **Bad commands:** 'You should believe you can grow faster' and 'go rewrite your scripts now'.
-  <br>*Why it works:* Show the story and steps instead, and let people conclude.
+- **The calm voice against the town crier:** Calm: "Okay, so not that many people know about this yet..." Town crier: "Huge news. This changes everything."
+  <br>*Why it works:* The calm version feels honest and sure of itself. The loud one feels like an ad.
+- **Commands against showing:** "You should believe you can grow faster" and "go rewrite your scripts now".
+  <br>*Why it works:* Both are commands. Show a story and the steps instead, and let people decide.
 
 ### Common mistakes
 
-- Hedging or downplaying your own story
-- Shouting 'huge news' with fake urgency
-- Telling people what to believe or do instead of showing
-- Writing a hook the content cannot pay off
+- Downplaying your own story
+- Shouting "huge news" with fake urgency
+- Telling people what to believe or do instead of showing them
+- Writing a hook the post can't pay off
 
 ### Where the sources disagree
 
-Provocation limits: one view says stand firm and pick a side, you will get hate. Another says controversial is fine but irrelevant, annoying or misleading is not. A third adds: pick a take you can defend with evidence.
+Creators disagree on how bold to be. Some say pick a side and accept that some people will dislike you. Others say being controversial is fine, but being irrelevant, annoying or misleading is not. A third group adds: only take a stand you can back up with evidence.
 
 ### Try it
 
-Write one hook with the 'Everyone thinks X, but actually it's Y' recipe, then check it: is there a real payoff in the body, and is any line a command that should be a shown story?
-
-<details><summary><b>Check yourself (4 questions)</b></summary>
-
-**1. Which tone works best?**
-
-- a) Lecturer
-- b) Town crier
-- c) Cheerleader
-- d) Gossip whisperer
-
-*Answer: d) Gossip whisperer.* Gossip whisperer: calm and committed, with no fake urgency.
-
-**2. Why do commands like 'go rewrite your scripts now' hurt?**
-
-- a) They are too polite
-- b) They cost more
-- c) They are too short
-- d) They raise the guard and feel like homework
-
-*Answer: d) They raise the guard and feel like homework.* Show the story, data and steps and let people conclude.
-
-**3. What happens with a great setup and no real payoff?**
-
-- a) People still share it
-- b) People churn and you look like a fraud
-- c) Nothing
-- d) The algorithm rewards it
-
-*Answer: b) People churn and you look like a fraud.* The payoff must be real.
-
-**4. Which of these is a contrast phrase?**
-
-- a) Follow for more
-- b) Like if you agree
-- c) Please read this post
-- d) Everyone thinks X, but actually it's Y
-
-*Answer: d) Everyone thinks X, but actually it's Y.* It is one of the contrast recipes.
-
-</details>
+Write one hook with the "Everyone thinks X, but actually it's Y" pattern. Then check it: does the post really pay it off, and is any line a command that should be a story?
 
 [Back to the top of this module](#top) · [All modules](../README.md#contents)
 
@@ -916,110 +584,70 @@ Write one hook with the 'Everyone thinks X, but actually it's Y' recipe, then ch
 
 <a id="m11-l9"></a>
 
-## 11.9 Persuasive copy: six elements and headlines
+## 11.9 Persuasive copy: six checks and better headlines
 
 *8 min read*
 
-> **The big idea:** Persuasive content captures, holds and delivers value on attention, and six boxes help you check it. Other rules cover headlines, bullets, product titles and promises.
+> **The big idea:** Persuasive content grabs attention, holds it and gives value for it. Six simple checks help you build that, and a few rules help with headlines, bullet lists and promises.
 
-### The six elements of persuasive content
+### The six checks for persuasive content
 
-- Persuasive means it captures, holds and delivers value on attention. Check at least 3 or 4 of the boxes in every piece at the start. With skill you make your own rules. Save the list somewhere safe.
-- 1\. Hook: will the first sentence grab attention? Words, structure and visual design of the post all count.
-- 2\. A big problem: imply or state a problem people relate to. Not too high level.
-- 3\. A clear solution: an actionable way to overcome it, preferably a unique way from personal experience.
-- 4\. A big benefit: imply or state a desirable benefit they'll get.
-- 5\. Confidence or polarization: stand firm, pick a side, be willing to change. You will get hate.
-- 6\. A novel perspective or big idea: an explanation that isn't normal, which gives a dopamine hit and advances understanding.
+- Persuasive means it grabs attention, holds it and gives value for it. Check at least 3 or 4 of these six boxes in every piece while you are learning. Once you are skilled, make your own rules. Save the list somewhere you can find it.
+- 1\. Hook: will the first sentence grab attention? The words, the structure and the look of the post all count.
+- 2\. A big problem: state or imply a problem your reader recognises. Keep it down to earth, not abstract.
+- 3\. A clear solution: a way to solve it that people can act on, ideally one that comes from your own experience.
+- 4\. A big benefit: say or hint at what they get if it works.
+- 5\. Confidence: stand firm, pick a side and be willing to change your mind if you are proven wrong. You will get some hate, and that is normal.
+- 6\. A fresh view: an explanation that isn't the usual one. It gives the reader a small "oh, I never saw it like that" moment.
 
-### Articulation
+### Practise putting ideas into words
 
-- Train articulation with high-performing structures as training wheels (the anomaly exercise).
-- When you can articulate an idea engagingly and want to write about it, everything becomes a source of ideas.
+- To get better at putting ideas into words, copy the structure of posts that already did well, like training wheels, and fill them with your own ideas.
+- Once you can explain an idea in a way people enjoy, everything you see becomes a source of post ideas.
 
 ### Headlines, bullets and promises
 
-- Good headlines sell the outcome, not the product.
-- Bullets are what they will learn plus the benefit.
-- Title products to spark desire, not describe the category. 'Writing Course' is a bad example.
-- Present ideas as options. List benefits, show low risk, make a compelling argument and let the reader choose.
+- A good headline sells the result, not the product.
+- Bullet lists should say what the reader will learn and the benefit of it.
+- Give products names that spark desire, not names that describe the category. "Writing Course" is a weak name because it only says what it is.
+- Present your offer as an option. List the benefits, show that the risk is low, make a good case and let the reader choose.
 
 ### Copy craft tips
 
-- Rewrite AI openings. The generic default is wrong.
-- Rewrite the landing page headline yourself even if AI writes the page.
-- Write ad stories the way you would tell them to a friend first.
-- The first line of a sales email should be about them, tied to something that just happened at their company.
-- A script nobody would say out loud feels off.
+- If AI writes the opening, rewrite it. The default AI opening sounds like everyone else's.
+- Even if AI writes a landing page, write the headline yourself.
+- Tell the story in an ad the way you'd tell it to a friend first.
+- The first line of a sales email should be about the reader, tied to something that just happened at their company.
+- If nobody would say the script out loud, it feels off. Read it aloud and fix any line that sounds stiff.
 
 ### Frameworks
 
-**The six elements checklist**
+**The six checks**
 
 1. Hook
 2. A big problem
 3. A clear solution
 4. A big benefit
-5. Confidence or polarization
-6. A novel perspective or big idea
+5. Confidence
+6. A fresh view
 
 ### Examples
 
-- **A bad product title:** 'Writing Course' only describes the category.
-  <br>*Why it works:* Title it to spark desire instead.
-- **Believable outcomes:** 'Build your first website in 30 days' and 'lose your first 10 pounds'.
-  <br>*Why it works:* Specific and believable inside the timeframe.
+- **A weak product name:** "Writing Course" only describes the category.
+  <br>*Why it works:* A name that points at the result, like "Write a post people actually finish", would spark more desire (made-up example).
+- **Believable results:** "Build your first website in 30 days" and "lose your first 10 pounds".
+  <br>*Why it works:* Both are specific, and both are realistic inside the timeframe.
 
 ### Common mistakes
 
-- Describing the product category instead of the outcome
-- Stating a huge vague promise nobody believes
-- Checking none of the six boxes
+- Describing the product instead of the result
+- Making a huge, vague promise nobody believes
+- Ticking none of the six checks
 - Letting AI write the headline and not rewriting it
 
 ### Try it
 
-Take one draft post and tick the six boxes. If fewer than 3 or 4 are ticked, add a problem, a clear solution or a benefit before posting.
-
-<details><summary><b>Check yourself (4 questions)</b></summary>
-
-**1. How many of the six boxes should you check at the start of every piece?**
-
-- a) Only the hook
-- b) All six, always
-- c) None
-- d) At least 3 or 4
-
-*Answer: d) At least 3 or 4.* Check at least 3 or 4. With skill you make your own rules.
-
-**2. Which is NOT one of the six elements?**
-
-- a) A clear solution
-- b) A long bio
-- c) Confidence or polarization
-- d) A big benefit
-
-*Answer: b) A long bio.* The six are hook, big problem, clear solution, big benefit, confidence or polarization, novel perspective.
-
-**3. Good headlines sell:**
-
-- a) Nothing
-- b) The company name
-- c) The outcome, not the product
-- d) The price only
-
-*Answer: c) The outcome, not the product.* Sell the outcome.
-
-**4. Why should you name your steps?**
-
-- a) It shortens the post
-- b) It is required by X
-- c) They read as a system, and systems sell
-- d) Names are free
-
-*Answer: c) They read as a system, and systems sell.* 'Systems sell.'
-
-</details>
+Take one draft post and tick off the six checks. If you ticked fewer than 3 or 4, add a problem, a clear solution or a benefit before you post.
 
 [Back to the top of this module](#top) · [All modules](../README.md#contents)
 
@@ -1027,110 +655,70 @@ Take one draft post and tick the six boxes. If fewer than 3 or 4 are ticked, add
 
 <a id="m11-l10"></a>
 
-## 11.10 CTAs and persuasion in every format
+## 11.10 Calls to action and persuasion in every format
 
 *7 min read*
 
-> **The big idea:** Persuasion is not only for posts. Be persuasive in replies, DMs, emails and videos, written like a friend. CTAs should be soft, clear and tied to the content, never engagement bait.
+> **The big idea:** Persuasion isn't only for posts. Use it in replies, DMs, emails and videos, and write like a friend. A call to action (CTA, the line that tells people what to do next) should be soft, clear and tied to your content, never a trick to farm likes.
 
-### Persuade in every format
+### Persuade everywhere you write
 
-- Be persuasive in posts, replies, quote posts, DMs, emails and videos.
-- Do not write DMs like a corporate robot full of jargon. Write like a friend.
-- Replies and quotes: do not repeat the original post. Add your own experience.
+- Persuasion applies to posts, replies, quote posts, DMs, emails and videos, not only to the main post.
+- Don't write DMs like a corporate robot full of jargon. Write like a friend would.
+- In replies and quote posts, don't repeat the original post. Add your own experience or a new angle.
 
-### Soft and single CTAs
+### Keep your call to action soft and single
 
-- A soft CTA in conversation: a casual mention of the offer, a concrete outcome, no pressure, no countdown.
-- A newsletter CTA example: 'If you want to work with me on this, fill out this quick questionnaire and I'll reach out.' Place it mid and end.
-- One core CTA per video, pointing to a lead magnet that matches the video's topic.
-- Be clear on what you sell, what to do, how and when to buy. Promote it like a sponsorship.
+- A soft CTA in a conversation is a casual mention of what you offer, with a concrete result, no pressure and no countdown.
+- Example for a newsletter: "If you want to work with me on this, fill out this quick questionnaire and I'll reach out." Place it in the middle and at the end.
+- In a video, use one main CTA, and point it to a free resource that matches the video's topic.
+- Be clear on what you sell, what the person should do, and how and when to buy. Talk about your offer the way you would read out a sponsor message: plainly and once.
 
-### CTAs creators actually used in articles
+### CTAs that creators use in long articles
 
-- A light early 'a like and repost go a long way'.
-- An end ask to follow and to scroll back up and repost.
-- A newsletter link.
-- 'DM me LAUNCH' with an offer of angles.
-- 'Drop any questions below'.
-- In a MrBeast video, the merch CTA structure is exclusivity plus a bonus incentive plus a deadline.
-- No engagement bait CTAs: 'like if you agree', 'comment yes', 'tag 3 friends'.
-- End the sales page with a recap: promise, proof, price, cost of inaction, cost of action, and a price card.
+- A light one early on: "a like and repost go a long way".
+- An ask at the end to follow, and to scroll back up and repost.
+- A link to a newsletter.
+- "DM me LAUNCH", paired with an offer of post angles.
+- "Drop any questions below".
+- MrBeast's merch pitch in his videos uses three parts: something exclusive, a bonus for acting, and a deadline.
+- Avoid engagement bait like "like if you agree", "comment yes" or "tag 3 friends". It brings the wrong audience and feels cheap.
+- End a sales page with a short recap: the promise, the proof, the price, what it costs to do nothing, what it costs to act, and a final price card.
 
 ### Frameworks
 
-**Sales page CTA recap**
+**Sales page recap**
 
 1. Promise
 2. Proof
 3. Price
-4. Cost of inaction
-5. Cost of action
-6. Price card
+4. What it costs to do nothing
+5. What it costs to act
+6. A final price card
 
-**Merch CTA**
+**A merch pitch in three parts**
 
-1. Exclusivity
-2. Bonus incentive
-3. Deadline
+1. Something exclusive
+2. A bonus for acting
+3. A deadline
 
 ### Examples
 
-- **Questionnaire CTA:** If you want to work with me on this, fill out this quick questionnaire and I'll reach out.
-  <br>*Why it works:* Place it mid and end of a newsletter.
-- **Keyword CTA:** DM me LAUNCH.
-  <br>*Why it works:* Paired with an offer of angles.
+- **A questionnaire CTA:** "If you want to work with me on this, fill out this quick questionnaire and I'll reach out."
+  <br>*Why it works:* It is friendly, has one clear step and no pressure. Place it in the middle and at the end of a newsletter.
+- **A keyword CTA:** "DM me LAUNCH."
+  <br>*Why it works:* Paired with an offer of post angles, it gives people one easy action.
 
 ### Common mistakes
 
-- Engagement bait like 'comment yes'
+- Engagement bait like "comment yes"
 - Several different CTAs in one video
-- A CTA that does not match the topic
-- Corporate-robot DMs
+- A CTA that doesn't match the topic
+- DMs that sound like a corporate robot
 
 ### Try it
 
-Choose the one CTA for your next piece. Make sure it matches the topic, then write it in one friendly line with a concrete outcome and no countdown.
-
-<details><summary><b>Check yourself (4 questions)</b></summary>
-
-**1. The rule for CTAs in videos is:**
-
-- a) One core CTA to a lead magnet that matches the topic
-- b) Five CTAs
-- c) No CTA ever
-- d) CTA only in comments
-
-*Answer: a) One core CTA to a lead magnet that matches the topic.* One core CTA per video.
-
-**2. Which should you avoid?**
-
-- a) Clear CTAs
-- b) Short posts
-- c) Specific numbers
-- d) 'Like if you agree' and 'tag 3 friends'
-
-*Answer: d) 'Like if you agree' and 'tag 3 friends'.* No engagement bait CTAs.
-
-**3. DMs should sound like:**
-
-- a) A legal notice
-- b) A corporate robot
-- c) A friend
-- d) A press release
-
-*Answer: c) A friend.* Write like a friend.
-
-**4. The merch CTA structure is:**
-
-- a) Hashtag, link, emoji
-- b) Price, price, price
-- c) Question only
-- d) Exclusivity, bonus incentive, deadline
-
-*Answer: d) Exclusivity, bonus incentive, deadline.* Exclusivity plus bonus plus deadline.
-
-</details>
+Choose the one CTA for your next piece. Make sure it matches the topic, then write it as one friendly line with a concrete result and no countdown.
 
 [Back to the top of this module](#top) · [All modules](../README.md#contents)
 
@@ -1142,43 +730,42 @@ Choose the one CTA for your next piece. Make sure it matches the topic, then wri
 
 *9 min read*
 
-> **The big idea:** Anyone can copy your format and hooks, but copying your voice is much harder. Write like you talk, have opinions, stay consistent, and tighten later.
+> **The big idea:** Anyone can copy your format and your hooks, but your voice is much harder to copy. Write like you talk, have opinions, stay consistent, and tighten your words after the first rough draft.
 
-### Write as you talk
+### Write the way you talk
 
-- 'Write as you talk. With the rise of AI, it's genuinely so easy to stand out.'
-- The best way to write copy is the exact same way you talk in real life.
-- 'Anyone can copy your format and hooks, but copying your voice is much harder.'
-- The voice list: write like you talk, have opinions, keep the tone consistent, show personality, share your experiences, do not copy someone else's voice, keep your quirks.
-- Write like you talk, with personality (dialogue, slang, acronyms).
+- The best way to write is the way you talk in real life. With so much AI writing around, a real voice stands out more than ever.
+- Anyone can copy your format and hooks, but copying your voice is much harder. That makes your voice the part that is truly yours.
+- What makes up a voice: write like you talk, have opinions, keep the tone the same from post to post, show personality, share your own experiences, don't copy someone else's voice and keep your quirks.
+- Real speech has personality: dialogue, slang and short forms like "ASAP". Use them if they are how you talk.
 
-### Be yourself so you can sustain it
+### Be yourself so you can keep it up
 
-- Do not portray a character you are not. Be yourself so you can sustain it.
-- Choose a messaging style by emulating someone you like, then iterate until it is yours.
-- 'Social media is a reflection of you.'
-- Be contrarian, not controversial. Do not say things just to trigger.
+- Don't play a character you aren't. You will get tired of it, and readers can tell.
+- If you don't know your style yet, copy the style of someone you like for a while, then change it step by step until it becomes yours.
+- Your content is a reflection of you, so write things you actually believe.
+- Be contrarian, not controversial. Disagreeing with a common belief is fine. Saying something only to trigger people is not.
 
 ### Draft loose, then tighten
 
-- Write unstructured first, ignoring quality and length, then distill into tighter, punchier lines.
-- Write by hand to slow down and actually think (for planning work like a content map).
-- Edit for fewer words, simpler, fifth grader language. Less is more, like the six-word Hemingway story.
+- Write the first draft without worrying about quality or length. Then cut it down into shorter, punchier lines.
+- For planning work, like mapping out your content, write by hand. It slows you down and makes you think.
+- When you edit, aim for fewer words, simpler words and fifth grader language. Less is more. The famous six-word story, "For sale: baby shoes, never worn", shows how much a few words can hold.
 
-### Being provocative
+### Being provocative, within limits
 
-- Do not care about opinions. Picture writing an email draft to a close friend instead of thinking of haters.
-- Intend to upset a few people. Pandering leads to 'intellectual poverty'.
-- Good stories challenge people, spark comments, present new ideas or revive cancelled ones.
-- 'What people think of your story is none of your business.'
-- Limit: controversial is fine, irrelevant, annoying or misleading is not. Pick a take you can defend with evidence.
+- Don't write for the opinions of people. Imagine writing an email to a close friend instead of picturing haters.
+- Aim to upset a few people. If you try to please everyone, your writing turns bland.
+- Good stories challenge people, spark comments, bring new ideas or bring back old ideas people dropped too soon.
+- What people think of your story is their business, not yours.
+- One limit: controversial is fine, but irrelevant, annoying or misleading is not. Only take a stand you can defend with evidence.
 
 ### Taste
 
-- Taste cannot be faked. Build it by consuming top content, creating, failing and iterating.
-- Keep a swipe file and re-create (not copy) what worked.
-- One writer learned copy from other writers' old content, old Apple and Google ads, viral X posts (analyze why they hit) and Substack for long form.
-- Reading enough great writing lets you feel when a sentence carries its weight or fills space.
+- You can't fake taste. You build it by reading and watching lots of top content, creating your own, failing and trying again.
+- Keep a swipe file, a folder of posts and ads you admire. Re-create what worked in your own words, never copy.
+- One writer learned from other writers' old posts, old Apple and Google ads, viral X posts (studying why they worked) and Substack for long form.
+- Read enough great writing and you start to feel when a sentence carries weight and when it just fills space.
 
 ### Frameworks
 
@@ -1188,69 +775,29 @@ Choose the one CTA for your next piece. Make sure it matches the topic, then wri
 2. Have opinions
 3. Keep the tone consistent
 4. Show personality
-5. Share your experiences
-6. Do not copy someone else's voice
+5. Share your own experiences
+6. Don't copy someone else's voice
 7. Keep your quirks
 
 ### Examples
 
-- **The friend email:** Picture writing a draft email to a close friend instead of thinking about haters.
-  <br>*Why it works:* A way of writing without caring about opinions.
+- **The friend email:** Before you write, picture a draft email to a close friend, not a crowd of strangers who might disagree.
+  <br>*Why it works:* This helps you say what you really think without worrying about haters.
 
 ### Common mistakes
 
-- Playing a character you cannot sustain
-- Copying someone's voice instead of studying their moves
-- Saying things only to trigger
+- Playing a character you can't keep up
+- Copying someone's voice instead of learning from their moves
+- Saying things only to trigger people
 - Polishing before the first rough draft exists
 
 ### Where the sources disagree
 
-Provocation: one view says intend to upset a few people, because pandering is poverty. Another says limit it: controversial is fine, irrelevant, annoying or misleading is not.
+Creators disagree on how provocative to be. Some say aim to upset a few people, because trying to please everyone makes your writing bland. Others say limit it: controversial is fine, but irrelevant, annoying or misleading is not.
 
 ### Try it
 
 Read your last post aloud. Mark every line you would never say to a friend, rewrite it in your own words, then tighten it by cutting.
-
-<details><summary><b>Check yourself (4 questions)</b></summary>
-
-**1. What is harder to copy than formats and hooks?**
-
-- a) Your posting time
-- b) Your voice
-- c) Your logo
-- d) Your hashtags
-
-*Answer: b) Your voice.* Anyone can copy format and hooks. Voice is much harder.
-
-**2. The method is to:**
-
-- a) Never edit
-- b) Use only AI
-- c) Write unstructured first, then distill
-- d) Write perfect from line one
-
-*Answer: c) Write unstructured first, then distill.* Draft loose, then tighten into punchier lines.
-
-**3. The advice is to be:**
-
-- a) A character
-- b) Neutral
-- c) Contrarian, not controversial
-- d) Controversial for clicks
-
-*Answer: c) Contrarian, not controversial.* Do not say things just to trigger.
-
-**4. How do you build taste?**
-
-- a) It cannot be built
-- b) Consume top content, create, fail, iterate, keep a swipe file
-- c) Buy a course
-- d) Copy one creator exactly
-
-*Answer: b) Consume top content, create, fail, iterate, keep a swipe file.* Taste can't be faked. Re-create what worked, do not copy.
-
-</details>
 
 [Back to the top of this module](#top) · [All modules](../README.md#contents)
 
@@ -1258,115 +805,74 @@ Read your last post aloud. Mark every line you would never say to a friend, rewr
 
 <a id="m11-l12"></a>
 
-## 11.12 Speak to one person: spoken delivery
+## 11.12 Speak to one person: how to talk on camera
 
 *10 min read*
 
-> **The big idea:** Content is a conversation, not a presentation. Talk to one person, lower your tone, use outlines not scripts, and treat authenticity as a skill that compounds.
+> **The big idea:** Content is a conversation, not a presentation. Talk to one person, lower your energy, use an outline instead of a script, and practise, because sounding natural on camera is a skill you build.
 
 ### A conversation, not a presentation
 
-- People watch and scroll alone, on a couch or at a computer, not in a group around one phone. Talk to one person.
-- Top creators say 'you', never 'you guys', 'hey everyone', 'you all' or 'y'all'. Group words turn it into a performance. Example: Obama's 2008 victory speech says 'you'.
-- Some content speaks to everyone, some speaks to one person. Speak to one.
-- Lower your tone. 'Content creators think they need to MrBeast themselves', and people see through it. Talk to the camera like to a friend: lower your energy, do not scream, do not rush, pause when you need to.
-- Educators do not need MrBeast energy. People are done with 'putting on a front'.
+- People watch alone, on a couch or at a computer, not in a group around one phone. So talk to one person.
+- Top creators say "you", not "you guys", "hey everyone", "you all" or "y'all". Words for a group turn it into a performance. Barack Obama's 2008 victory speech is an example: he says "you".
+- Lower your tone. Many creators feel they must copy MrBeast's high energy, and viewers can see through it. Talk to the camera like you'd talk to a friend: calmer, no screaming, no rushing, and pause when you need to.
+- If you teach, you don't need big energy. People are tired of someone putting on a front.
 
-### No upspeak, slow down, use pauses
+### Slow down, end low, use pauses
 
-- Upspeak is ending sentences going up. It sounds unsure. End sentences low and it sounds like authority.
-- Slow down and let pauses happen. Nerves make you 'word vomit' value. Pauses give people time to take it in and pull them in.
+- Upspeak is when your voice rises at the end of a sentence. It sounds unsure. End sentences on a lower note and you sound like you know what you are talking about.
+- Slow down and let pauses happen. When you're nervous, you pour out information too fast. Pauses give people time to take it in and pull them closer.
 
-### Outlines, not scripts
+### Use an outline, not a script
 
-- Call them 'scripts' if you like, but they are outlines ('calling them scripts is a disservice'): notes off to the side, never read word for word.
-- Write it yourself: scripts by hand, AI only to widen options.
+- Call it a script if you like, but treat it as an outline: a few notes off to the side that you glance at and never read word for word. Reading word for word is what makes people sound stiff.
+- Write the outline yourself, by hand if you can. Use AI only to give you more options to choose from.
 
-### The off the dome method
+### The off-the-dome method
 
-- 1\. Write the outline, ideally the same week so it is fresh.
-- 2\. Remember it: read it before you shoot, like actors learn their lines.
-- 3\. Riff: let yourself go on small tangents. That is where authentic delivery comes from.
-- 4\. Repeat: if you are bad at delivering something, you just have not said it enough times. One creator has said their points hundreds of times to their team and on stage. 'No one's a natural.' Your authenticity compounds.
+- 1\. Write the outline, ideally the same week you film, so it is fresh.
+- 2\. Remember it: read it before you shoot, like actors learning lines.
+- 3\. Riff: let yourself go on small tangents. That is where natural delivery comes from.
+- 4\. Repeat: if you're bad at delivering something, you probably haven't said it enough times. One creator has told their main points hundreds of times to their team and on stage. Nobody is a natural, and the practice adds up.
 
-### Authenticity is a skill, and yapping builds it
+### Natural delivery is a skill, and talking builds it
 
-- Being on camera is not natural at first. Do it enough and talking to the camera feels like talking to a friend.
-- 'Ignore your comments': the less you care what people say, the more you make what you believe, and that is when it sounds real.
-- One creator found the biggest benefit of yapping was not the 50K followers, it was getting better at explaining ideas in meetings and on camera. 'Those reps you cannot replace.' Hard at first, different over 3 to 12 months.
-- One creator calls themselves 'pretty bland and super stoic' on camera and still grows, because they are convinced of what they say.
+- Being on camera feels strange at first. Do it enough and talking to the camera feels like talking to a friend.
+- Try to ignore your comments while you create. The less you worry about what people say, the more you say what you believe, and that is when you sound real.
+- One creator says the biggest gain from talking on camera wasn't 50K followers. It was getting better at explaining ideas in meetings and in person. Those practice hours can't be replaced. It is hard at first and feels different after 3 to 12 months.
+- Even a calm, plain delivery can work. One creator describes themselves as bland and very stoic on camera and still grows, because they clearly believe what they say.
 
 ### Frameworks
 
-**The off the dome method**
+**The off-the-dome method**
 
-1. Write the outline the same week
-2. Remember it before you shoot
-3. Riff on small tangents
+1. Write the outline the same week you film
+2. Read it before you shoot so you remember it
+3. Riff on small tangents while you film
 4. Repeat until it comes out naturally
 
 ### Examples
 
-- **Trail, not rail:** A train stays on the rail. A hiker wanders to the edges of the trail but always comes back to the middle.
-  <br>*Why it works:* A picture for following an outline loosely.
-- **Obama, 2008:** The victory speech says 'you'.
-  <br>*Why it works:* An example of speaking to one person.
+- **Trail, not rail:** A train stays on its rails. A hiker wanders to the edges of the trail but always comes back to the middle.
+  <br>*Why it works:* Follow your outline like a hiker: go off to the sides, then return to the main path.
+- **One person, not a crowd:** Say "if you're stuck on your first post" instead of "hey guys, if any of you are stuck".
+  <br>*Why it works:* Obama's 2008 victory speech uses "you" the same way. It feels like he is talking to one person.
 
 ### Common mistakes
 
-- Saying 'you guys' or 'hey everyone'
+- Saying "you guys" or "hey everyone"
 - Reading a script word for word
-- Ending sentences with upspeak
-- Copying MrBeast energy when you are an educator
+- Ending sentences on a rising note
+- Copying MrBeast's energy when you are a teacher
 - Rushing instead of pausing
 
 ### Where the sources disagree
 
-Comments: one view is 'ignore your comments' so you make what you really believe. This is in tension with replying to comments, which other sources in this course recommend.
+Creators disagree on comments. One view is to ignore them so you make what you really believe. Another is to reply to them, because they show you what your audience wants.
 
 ### Try it
 
-Write a 5-bullet outline for one video, read it once, put it away, and film it in one take. Repeat 3 times and compare.
-
-<details><summary><b>Check yourself (4 questions)</b></summary>
-
-**1. Top creators say:**
-
-- a) 'You'
-- b) 'Y'all'
-- c) 'You guys'
-- d) 'Hey everyone'
-
-*Answer: a) 'You'.* Group words turn it into a performance.
-
-**2. What does 'trail, not rail' mean?**
-
-- a) Film outdoors
-- b) Read the script exactly
-- c) Follow the outline loosely and always return to the middle
-- d) Never plan
-
-*Answer: c) Follow the outline loosely and always return to the middle.* Wander to the edges like a hiker and come back.
-
-**3. Upspeak sounds:**
-
-- a) Unsure
-- b) Confident
-- c) Funny
-- d) Quiet
-
-*Answer: a) Unsure.* End sentences low to sound like authority.
-
-**4. Which is step 4 of the off the dome method?**
-
-- a) Write
-- b) Riff
-- c) Remember
-- d) Repeat
-
-*Answer: d) Repeat.* Repeat. No one is a natural, authenticity compounds.
-
-</details>
+Write a 5 bullet outline for one video, read it once, put it away and film it in one take. Do this 3 times and compare the takes.
 
 [Back to the top of this module](#top) · [All modules](../README.md#contents)
 
@@ -1378,100 +884,60 @@ Write a 5-bullet outline for one video, read it once, put it away, and film it i
 
 *8 min read*
 
-> **The big idea:** People can tell when content is not authentic. Use AI as a tool, not the writer, and teach it to avoid AI tells.
+> **The big idea:** People can tell when content isn't real. Use AI as a helper, not as the writer, and tell it what to avoid so it doesn't sound like AI.
 
-### Clear over clever when explaining
+### Explaining hard things in a few clear words
 
-- Mastering copywriting means explaining hard topics in few words. Start with one skill (writing or presenting), learn both later.
-- Use the words people actually use (self-articulated words, see the earlier lesson).
+- A good writer can explain a hard topic in a few words. Start with one skill, either writing or presenting, and add the other later.
+- Use the words your audience actually uses. The lesson "Use the words your audience already uses" covers this.
 
 ### Human stands out
 
-- 'AI slop is everywhere, so human stands out.'
-- Use AI minimally until you are good. Consume good content to build taste.
-- A writing prompt can end with 'avoid anything that sounds like AI', and it is still best to write most copy by hand.
+- AI writing is everywhere now, so writing that sounds human stands out.
+- Use AI as little as you can until you're a good writer. Build your taste first by reading and watching a lot of good content.
+- If you do use a writing prompt, end it with "avoid anything that sounds like AI". Even then, write most of your copy by hand.
 
-### Teach AI to speak human
+### Teach AI to sound human
 
-- Audiences can tell when you are not authentic. Do not paste a ChatGPT viral script into a teleprompter.
-- 'Make me a viral video' gives you nothing. Break down what you mean: ask for novel, non-obvious ideas, avoid em dashes, and use contractions ('what's' and 'they'll', not 'what is' and 'they all').
-- The way to use AI: only to widen options, writing the script yourself by hand.
+- Audiences can tell when you aren't being real. Don't paste an AI-written "viral script" into a teleprompter.
+- "Make me a viral video" gives you nothing useful. Be specific about what you want: ask for new, non-obvious ideas, ban em dashes (the long dash that AI loves), and ask for contractions like "what's" and "they'll" instead of "what is" and "they will".
+- The safest way to use AI: let it widen your options, and write the final script yourself by hand.
 
-### AI tells and checks
+### Check for AI tells
 
-- Have AI check 'This doesn't sound like you' in drafts.
-- 'Not written by AI' can work as an explicit trust line.
-- A clarity prompt asks AI for the same meaning, only clearer, at a sixth grade level. The idea stays yours.
+- Ask AI to check your draft with the question: "Where does this not sound like me?"
+- A line like "not written by AI" can work as an honest trust signal.
+- For clarity, ask AI to say the same thing more clearly at a 6th grade level. The idea stays yours.
 
 ### Frameworks
 
-**Human AI prompt rules**
+**Rules for a human-sounding AI prompt**
 
-1. Break down what you mean instead of 'make it viral'
-2. Ask for novel, non-obvious ideas
+1. Describe exactly what you want instead of saying "make it viral"
+2. Ask for new, non-obvious ideas
 3. Tell it to avoid em dashes
 4. Tell it to use contractions
 5. Rewrite the opening yourself
 
 ### Examples
 
-- **Contractions:** 'What's' and 'they'll', not 'what is' and 'they all'.
-  <br>*Why it works:* An example of making AI sound spoken.
+- **Contractions:** "What's" and "they'll", not "what is" and "they will".
+  <br>*Why it works:* Contractions are how people speak, so they make AI text sound spoken.
 
 ### Common mistakes
 
 - Pasting an AI script straight into a teleprompter
-- Prompting 'make me a viral video' with nothing else
+- Prompting "make me a viral video" and nothing else
 - Keeping the generic AI opening
-- Using big terms to sound smart
+- Using big words to sound smart
 
 ### Where the sources disagree
 
-How much AI: one view is minimal use until you are good, still writing most copy by hand. Another is fine using AI to widen options, but not to write the script. Neither suggests the AI writes the final words.
+Creators disagree on how much AI to use. Some say use it as little as possible until you are good, and still write most copy by hand. Others say it is fine to use AI for more options, but not to write the script. Neither says to let AI write the final words.
 
 ### Try it
 
-Paste a draft into your AI tool with these rules (novel ideas, no em dashes, contractions), then rewrite the opening yourself and read it aloud.
-
-<details><summary><b>Check yourself (4 questions)</b></summary>
-
-**1. What does 'make me a viral video' give you?**
-
-- a) A script in your voice
-- b) Nothing useful
-- c) A great video
-- d) Views
-
-*Answer: b) Nothing useful.* You need to break down what you mean.
-
-**2. Which is one of the AI instructions to use?**
-
-- a) Use passive voice
-- b) Use big words
-- c) Use many em dashes
-- d) Use contractions
-
-*Answer: d) Use contractions.* Contractions sound spoken.
-
-**3. What is true about AI slop?**
-
-- a) It is everywhere, so human stands out
-- b) It is banned
-- c) Embrace it
-- d) It is rare
-
-*Answer: a) It is everywhere, so human stands out.* Human stands out.
-
-**4. A true expert:**
-
-- a) Writes long
-- b) Uses jargon
-- c) Avoids beginners
-- d) Turns complex topics into simple principles
-
-*Answer: d) Turns complex topics into simple principles.* Beginners understand and experts understand more.
-
-</details>
+Paste a draft into your AI tool with these rules (new ideas, no em dashes, contractions). Then rewrite the opening yourself and read it aloud.
 
 [Back to the top of this module](#top) · [All modules](../README.md#contents)
 
@@ -1485,174 +951,24 @@ The whole module on one page.
 
 - Good copy gets the right person to take the right action.
 - Write for one specific reader, with one idea and one takeaway per post.
-- Clarity over cleverness: smart ideas, simple words (12 year old test).
-- Active voice, fewer words, no jargon.
-- Test every key line: can it be read two ways? Rewrite until it cannot.
-- Delete any word that does not change the meaning.
-- Swap vague words for emotional, specific ones.
-- Use numbers, names, timeframes and proof, not 'a few weeks'.
-- Use the exact words your audience says.
-- Name your concepts so people can remember, repeat and reference them.
-- Open fast with the point and proof. Close with the takeaway, a question or a tease.
-- One thought per line, paragraphs of 1 to 3 lines, preview on your phone.
-- Think 'you' before 'I'.
-- Build contrast with 'but', 'however' and 'everyone thinks X, but actually Y'.
-- Commit to the story and whisper, do not shout. The payoff must be real.
-- Show, do not command.
-- Check 3 or 4 of the six persuasion elements in every piece.
-- One soft CTA matching the topic. No engagement bait.
-- Write like you talk. Voice is the part nobody can copy.
-- Speak to one person, use an outline not a script, and keep AI from writing the final words.
-
-<a id="flashcards"></a>
-
-## Flashcards
-
-Read the question, answer it in your head, then open it.
-
-<details><summary>The definition of good copywriting</summary>
-
-Getting the right person to take the right action.
-
-</details>
-
-<details><summary>Good copywriting is good...</summary>
-
-Thinking. Concise, easy to understand, thought-provoking, built on a strong idea.
-
-</details>
-
-<details><summary>The 4 copy fundamentals</summary>
-
-A specific reader, one idea, a takeaway, clarity over cleverness.
-
-</details>
-
-<details><summary>The reading level rule</summary>
-
-If a 12 year old can't read it, I'm not publishing. (An earlier version said 10.)
-
-</details>
-
-<details><summary>The four hook killers</summary>
-
-Delay, Confusion, Irrelevance, Disinterest.
-
-</details>
-
-<details><summary>The misinterpretation test</summary>
-
-Read key lines in isolation. If there is more than one reading, rewrite until only one remains.
-
-</details>
-
-<details><summary>The word delete test</summary>
-
-If deleting a word does not change the meaning, delete it.
-
-</details>
-
-<details><summary>Filler words to cut</summary>
-
-Really, very, just, actually.
-
-</details>
-
-<details><summary>Words that work</summary>
-
-Swap vague for emotional and specific: 'burnt out', 'going broke', '10K a month'.
-
-</details>
-
-<details><summary>Self-articulated words</summary>
-
-Say what people would say themselves. 'Make more money' beats 'make more revenue'.
-
-</details>
-
-<details><summary>The three Rs of naming</summary>
-
-Easy to remember, repeat and reference.
-
-</details>
-
-<details><summary>Empty teasers</summary>
-
-'Something crazy happened' gives nothing. Add specific detail the reader can predict.
-
-</details>
-
-<details><summary>The post closing rule</summary>
-
-Takeaway in 1 or 2 lines, a question or a tease. Never trail off.
-
-</details>
-
-<details><summary>The paragraph rule</summary>
-
-1 to 3 lines. 4 lines on a phone look like an essay.
-
-</details>
-
-<details><summary>The six persuasion elements</summary>
-
-Hook, big problem, clear solution, big benefit, confidence or polarization, novel perspective.
-
-</details>
-
-<details><summary>Whisperer or town crier?</summary>
-
-Gossip whisperer. Commit to the story, no fake urgency.
-
-</details>
-
-<details><summary>Commands</summary>
-
-Show the story and steps, let people conclude. Commands feel like homework.
-
-</details>
-
-<details><summary>The CTA rule</summary>
-
-One core CTA per video, to a lead magnet that matches the topic.
-
-</details>
-
-<details><summary>Speak to...</summary>
-
-One person. Say 'you', not 'you guys' or 'hey everyone'.
-
-</details>
-
-<details><summary>Trail, not rail</summary>
-
-Follow your outline like a hiker on a trail: wander, but come back to the middle.
-
-</details>
-
-<details><summary>The off the dome method</summary>
-
-Write the outline, remember it, riff, repeat.
-
-</details>
-
-<details><summary>Tips for AI</summary>
-
-Ask for novel ideas, avoid em dashes, use contractions, do not paste AI scripts.
-
-</details>
-
-<details><summary>Voice</summary>
-
-Anyone can copy your format and hooks, but copying your voice is much harder.
-
-</details>
-
-<details><summary>Taste</summary>
-
-It cannot be faked. Consume top content, create, fail, iterate, keep a swipe file.
-
-</details>
+- Choose clear over clever: smart ideas in simple words that a 12 year old could read.
+- Use active voice, fewer words and no jargon.
+- Test every key line: can it be read two ways? Rewrite until it can't.
+- Delete any word that doesn't change the meaning.
+- Swap vague words for specific ones people can feel.
+- Use numbers, names, timeframes and real proof instead of "a few weeks".
+- Use the exact words your audience says, not expert terms.
+- Give your ideas short names so people can remember and repeat them.
+- Open with the point and your proof. Close with a takeaway, a question or a hint of what's next.
+- Put one thought on each line, keep paragraphs to 1 to 3 lines, and preview on your phone.
+- Write "you" before "I".
+- Build contrast with "but" and "everyone thinks X, but actually Y".
+- Stand behind your story, stay calm instead of shouting, and always deliver the promised payoff.
+- Show people the story and steps instead of commanding them.
+- Check 3 or 4 of the six persuasion boxes in every piece.
+- End with one soft CTA that matches the topic. No engagement bait.
+- Write like you talk. Your voice is the part nobody can copy.
+- Speak to one person, use an outline instead of a script, and let AI help with options but not write your final words.
 
 ---
 
