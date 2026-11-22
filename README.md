@@ -2,11 +2,11 @@
 
 *Everything about growing online with content, in one place: personal branding, hooks, storytelling, the psychology of attention, packaging and virality, formats and video, articles, distribution, systems, making money and writing.*
 
-We took 65 of the best videos and articles from creators who grew huge audiences (Kallaway, Sam Gaudet, Ryan @ryangrowthh, Caleb Ralston, Paddy Galloway, Dan Koe, Matt Gray, Jenny Hoyos and more), over 300,000 words in total, and turned them into one free guide. The filler is gone, every important point is kept, and every idea says who teaches it.
+We took 65 of the best videos and articles from creators who grew huge audiences, over 300,000 words in total, and turned them into one free guide. The filler is gone and every important point is kept.
 
 **11 modules · 176 lessons · 297 frameworks · 287 examples · 702 quiz questions · about 25 hours of reading**
 
-Put together by [@BuzzMalx](https://x.com/BuzzMalx). Full credits for every creator: [Credits](CREDITS.md).
+Put together by [@BuzzMalx](https://x.com/BuzzMalx). Every creator is credited at the end: [Credits](CREDITS.md).
 
 ## How to use this guide
 
@@ -53,7 +53,7 @@ Plus: [cheat sheet](guide/01-personal-brand-and-positioning.md#cheat-sheet) · [
 <details><summary>All lessons</summary>
 
 1. [What a hook does and why it decides everything](guide/02-hooks.md#m2-l1)
-2. [Kallaway's master formula: lean, stun, snap back](guide/02-hooks.md#m2-l2)
+2. [The master formula: lean, stun, snap back](guide/02-hooks.md#m2-l2)
 3. [Five fast tips: visuals, benefits, culture hopping, speed, staccato](guide/02-hooks.md#m2-l3)
 4. [The six hook formats](guide/02-hooks.md#m2-l4)
 5. [The four parts of a hook and the key visual](guide/02-hooks.md#m2-l5)
@@ -63,8 +63,8 @@ Plus: [cheat sheet](guide/01-personal-brand-and-positioning.md#cheat-sheet) · [
 9. [Text hooks and the first frame](guide/02-hooks.md#m2-l9)
 10. [After the hook: keep the promise, time the payoff](guide/02-hooks.md#m2-l10)
 11. [Copy, understand, maximize: building hook and keyword banks](guide/02-hooks.md#m2-l11)
-12. [Sam Gaudet's hook toolkit: proof, promise, plan](guide/02-hooks.md#m2-l12)
-13. [Ryan's hook system for X posts](guide/02-hooks.md#m2-l13)
+12. [The hook toolkit: proof, promise, plan](guide/02-hooks.md#m2-l12)
+13. [A hook system for X posts](guide/02-hooks.md#m2-l13)
 14. [Hooks in writing: first lines for posts, threads and articles](guide/02-hooks.md#m2-l14)
 15. [Hooks across platforms, long form and testing](guide/02-hooks.md#m2-l15)
 
@@ -86,9 +86,9 @@ Plus: [cheat sheet](guide/02-hooks.md#cheat-sheet) · [flashcards](guide/02-hook
 6. [Head fakes and re-hooks](guide/03-storytelling.md#m3-l6)
 7. [Captivation, anticipation, validation](guide/03-storytelling.md#m3-l7)
 8. [The illusion of novelty: boring topics that hold attention](guide/03-storytelling.md#m3-l8)
-9. [Short stories: Hoyos, HPC and tension](guide/03-storytelling.md#m3-l9)
-10. [Kallaway's craft: rhythm, tone, direction, lenses](guide/03-storytelling.md#m3-l10)
-11. [Kallaway's storytelling mistakes and the story ladder](guide/03-storytelling.md#m3-l11)
+9. [Short stories: the 60-second story, HPC and tension](guide/03-storytelling.md#m3-l9)
+10. [Craft: rhythm, tone, direction, lenses](guide/03-storytelling.md#m3-l10)
+11. [Storytelling mistakes and the story ladder](guide/03-storytelling.md#m3-l11)
 12. [Finding, writing and editing your stories](guide/03-storytelling.md#m3-l12)
 13. [Your brand as a story](guide/03-storytelling.md#m3-l13)
 14. [Trust through transformation, losses and takeaways](guide/03-storytelling.md#m3-l14)
@@ -106,7 +106,7 @@ Plus: [cheat sheet](guide/03-storytelling.md#cheat-sheet) · [flashcards](guide/
 1. [The autopilot scroll and the freeze point](guide/04-psychology-and-attention.md#m4-l1)
 2. [The attention span myth](guide/04-psychology-and-attention.md#m4-l2)
 3. [Dopamine is the prediction chemical](guide/04-psychology-and-attention.md#m4-l3)
-4. [Kallaway's dopamine ladder](guide/04-psychology-and-attention.md#m4-l4)
+4. [The dopamine ladder](guide/04-psychology-and-attention.md#m4-l4)
 5. [Curiosity: the gap and the open loop](guide/04-psychology-and-attention.md#m4-l5)
 6. [Novelty: why the brain stops for new things](guide/04-psychology-and-attention.md#m4-l6)
 7. [Making old ideas feel new](guide/04-psychology-and-attention.md#m4-l7)
@@ -114,10 +114,10 @@ Plus: [cheat sheet](guide/03-storytelling.md#cheat-sheet) · [flashcards](guide/
 9. [Association, familiarity and liking](guide/04-psychology-and-attention.md#m4-l9)
 10. [Trust, weakness and proof](guide/04-psychology-and-attention.md#m4-l10)
 11. [Identity, sharing, enemies and disagreement](guide/04-psychology-and-attention.md#m4-l11)
-12. [Influence: Sam Gaudet's seven Rs and persuading the non-interested](guide/04-psychology-and-attention.md#m4-l12)
+12. [Influence: the seven Rs and persuading the non-interested](guide/04-psychology-and-attention.md#m4-l12)
 13. [Persuasion shortcuts, certainty and the pull of a plan](guide/04-psychology-and-attention.md#m4-l13)
 14. [Faces, stimulus and what people remember](guide/04-psychology-and-attention.md#m4-l14)
-15. [How X reads attention: Ryan's algorithm reading](guide/04-psychology-and-attention.md#m4-l15)
+15. [How X reads attention: one creator's algorithm reading](guide/04-psychology-and-attention.md#m4-l15)
 
 Plus: [cheat sheet](guide/04-psychology-and-attention.md#cheat-sheet) · [flashcards](guide/04-psychology-and-attention.md#flashcards)
 
@@ -143,11 +143,11 @@ Plus: [cheat sheet](guide/04-psychology-and-attention.md#cheat-sheet) · [flashc
 12. [Titles that get the click](guide/05-ideas-packaging-and-virality.md#m5-l12)
 13. [Viral writing 101](guide/05-ideas-packaging-and-virality.md#m5-l13)
 14. [How the algorithm decides (and what the experts disagree on)](guide/05-ideas-packaging-and-virality.md#m5-l14)
-15. [The X algorithm: pmitu's 16 rules](guide/05-ideas-packaging-and-virality.md#m5-l15)
+15. [The X algorithm: 16 rules](guide/05-ideas-packaging-and-virality.md#m5-l15)
 16. [The viral trap: chase on-target virality](guide/05-ideas-packaging-and-virality.md#m5-l16)
 17. [Doubling down and testing new things](guide/05-ideas-packaging-and-virality.md#m5-l17)
 18. [Making things worth spreading](guide/05-ideas-packaging-and-virality.md#m5-l18)
-19. [Home run ideas and the three stages of packaging (Paddy Galloway)](guide/05-ideas-packaging-and-virality.md#m5-l19)
+19. [Home run ideas and the three stages of packaging](guide/05-ideas-packaging-and-virality.md#m5-l19)
 
 Plus: [cheat sheet](guide/05-ideas-packaging-and-virality.md#cheat-sheet) · [flashcards](guide/05-ideas-packaging-and-virality.md#flashcards)
 
@@ -171,10 +171,10 @@ Plus: [cheat sheet](guide/05-ideas-packaging-and-virality.md#cheat-sheet) · [fl
 10. [Filming: delivery, setting and simple production](guide/06-formats-and-video.md#m6-l10)
 11. [Editing craft and giving editors feedback](guide/06-formats-and-video.md#m6-l11)
 12. [Posting frequency: volume, quality and batching](guide/06-formats-and-video.md#m6-l12)
-13. [Kallaway's speedrun playbook for short video](guide/06-formats-and-video.md#m6-l13)
+13. [The speedrun playbook for short video](guide/06-formats-and-video.md#m6-l13)
 14. [One idea, many platforms: repurposing and sequence](guide/06-formats-and-video.md#m6-l14)
 15. [AI in video production and editing](guide/06-formats-and-video.md#m6-l15)
-16. [Satisfaction: deliver what the packaging promised (Paddy Galloway)](guide/06-formats-and-video.md#m6-l16)
+16. [Satisfaction: deliver what the packaging promised](guide/06-formats-and-video.md#m6-l16)
 
 Plus: [cheat sheet](guide/06-formats-and-video.md#cheat-sheet) · [flashcards](guide/06-formats-and-video.md#flashcards)
 
@@ -192,7 +192,7 @@ Plus: [cheat sheet](guide/06-formats-and-video.md#cheat-sheet) · [flashcards](g
 4. [The opening, part 1: earning trust](guide/07-articles-and-long-form-writing.md#m7-l4)
 5. [The opening, part 2: attention and clarity](guide/07-articles-and-long-form-writing.md#m7-l5)
 6. [Five opening recipes](guide/07-articles-and-long-form-writing.md#m7-l6)
-7. [Ryan's article skeleton, top to bottom](guide/07-articles-and-long-form-writing.md#m7-l7)
+7. [A 12-part article skeleton, top to bottom](guide/07-articles-and-long-form-writing.md#m7-l7)
 8. [Inside a section: text boxes and teaching moves](guide/07-articles-and-long-form-writing.md#m7-l8)
 9. [How top article authors structure the whole piece](guide/07-articles-and-long-form-writing.md#m7-l9)
 10. [Drafting, AI help and the taste you add](guide/07-articles-and-long-form-writing.md#m7-l10)
@@ -224,15 +224,15 @@ Plus: [cheat sheet](guide/07-articles-and-long-form-writing.md#cheat-sheet) · [
 12. [Own your audience: the web between channels](guide/08-distribution-and-growth.md#m8-l12)
 13. [Patience, reps and not quitting](guide/08-distribution-and-growth.md#m8-l13)
 14. [Starting from zero: niche, bio, voice and category](guide/08-distribution-and-growth.md#m8-l14)
-15. [Why a 226M-view article worked (Dan Koe)](guide/08-distribution-and-growth.md#m8-l15)
-16. [From views to money: Kallaway's attention conversion funnel](guide/08-distribution-and-growth.md#m8-l16)
-17. [An audience of buyers (Kallaway)](guide/08-distribution-and-growth.md#m8-l17)
-18. [Content that sells: Matt Gray, Codie and promotion frequency](guide/08-distribution-and-growth.md#m8-l18)
+15. [Why a 226M-view article worked](guide/08-distribution-and-growth.md#m8-l15)
+16. [From views to money: the attention conversion funnel](guide/08-distribution-and-growth.md#m8-l16)
+17. [An audience of buyers](guide/08-distribution-and-growth.md#m8-l17)
+18. [Content that sells: the filter, a dinner test and promotion frequency](guide/08-distribution-and-growth.md#m8-l18)
 19. [Content campaigns and the funnel by audience stage](guide/08-distribution-and-growth.md#m8-l19)
-20. [Launches and creator collabs (0xfJuan)](guide/08-distribution-and-growth.md#m8-l20)
+20. [Launches and creator collabs](guide/08-distribution-and-growth.md#m8-l20)
 21. [Growth phases for a company, and founders with zero distribution](guide/08-distribution-and-growth.md#m8-l21)
-22. [Go to market: pick channels by how you sell (EXM7777)](guide/08-distribution-and-growth.md#m8-l22)
-23. [Outbound email, SEO and ads (EXM7777)](guide/08-distribution-and-growth.md#m8-l23)
+22. [Go to market: pick channels by how you sell](guide/08-distribution-and-growth.md#m8-l22)
+23. [Outbound email, SEO and ads](guide/08-distribution-and-growth.md#m8-l23)
 
 Plus: [cheat sheet](guide/08-distribution-and-growth.md#cheat-sheet) · [flashcards](guide/08-distribution-and-growth.md#flashcards)
 
@@ -259,7 +259,7 @@ Plus: [cheat sheet](guide/08-distribution-and-growth.md#cheat-sheet) · [flashca
 13. [Safe to fail: flops, hackathons and training](guide/09-systems-teams-and-ai.md#m9-l13)
 14. [Being a leader worth following](guide/09-systems-teams-and-ai.md#m9-l14)
 15. [Burnout, focus time and creative structure](guide/09-systems-teams-and-ai.md#m9-l15)
-16. [Sam's team standards: principles, details and values](guide/09-systems-teams-and-ai.md#m9-l16)
+16. [Team standards: principles, details and values](guide/09-systems-teams-and-ai.md#m9-l16)
 
 Plus: [cheat sheet](guide/09-systems-teams-and-ai.md#cheat-sheet) · [flashcards](guide/09-systems-teams-and-ai.md#flashcards)
 
@@ -283,11 +283,11 @@ Plus: [cheat sheet](guide/09-systems-teams-and-ai.md#cheat-sheet) · [flashcards
 10. [Building an offer from zero and a 90-day plan](guide/10-money-and-careers-in-content.md#m10-l10)
 11. [Sales page structure and guarantees](guide/10-money-and-careers-in-content.md#m10-l11)
 12. [Careers in content: advocating for your work and hiring](guide/10-money-and-careers-in-content.md#m10-l12)
-13. [Sam's selling system: customers, trust and owned audience](guide/10-money-and-careers-in-content.md#m10-l13)
+13. [A selling system: customers, trust and owned audience](guide/10-money-and-careers-in-content.md#m10-l13)
 14. [CTAs, offers and big moments](guide/10-money-and-careers-in-content.md#m10-l14)
-15. [Ryan's career path: becoming the person brands hire](guide/10-money-and-careers-in-content.md#m10-l15)
-16. [Sam's career path: becoming a creative director](guide/10-money-and-careers-in-content.md#m10-l16)
-17. [Sam's career principles and his path](guide/10-money-and-careers-in-content.md#m10-l17)
+15. [A career path: becoming the person brands hire](guide/10-money-and-careers-in-content.md#m10-l15)
+16. [A career path: becoming a creative director](guide/10-money-and-careers-in-content.md#m10-l16)
+17. [Career principles and one creative director's path](guide/10-money-and-careers-in-content.md#m10-l17)
 
 Plus: [cheat sheet](guide/10-money-and-careers-in-content.md#cheat-sheet) · [flashcards](guide/10-money-and-careers-in-content.md#flashcards)
 
@@ -301,16 +301,16 @@ Plus: [cheat sheet](guide/10-money-and-careers-in-content.md#cheat-sheet) · [fl
 
 1. [What good copy actually is](guide/11-writing-and-copywriting.md#m11-l1)
 2. [Clear over clever: smart ideas, simple words](guide/11-writing-and-copywriting.md#m11-l2)
-3. [Kallaway's sentence clarity toolkit](guide/11-writing-and-copywriting.md#m11-l3)
+3. [The sentence clarity toolkit](guide/11-writing-and-copywriting.md#m11-l3)
 4. [Every word earns its place](guide/11-writing-and-copywriting.md#m11-l4)
 5. [Be specific: numbers, names and proof](guide/11-writing-and-copywriting.md#m11-l5)
 6. [Use the words your audience already uses](guide/11-writing-and-copywriting.md#m11-l6)
 7. [Open, close and shape a post](guide/11-writing-and-copywriting.md#m11-l7)
 8. [Contrast, tension and honest tone](guide/11-writing-and-copywriting.md#m11-l8)
-9. [Persuasive copy: Koe's six elements and headlines](guide/11-writing-and-copywriting.md#m11-l9)
+9. [Persuasive copy: six elements and headlines](guide/11-writing-and-copywriting.md#m11-l9)
 10. [CTAs and persuasion in every format](guide/11-writing-and-copywriting.md#m11-l10)
 11. [Voice: write like you talk](guide/11-writing-and-copywriting.md#m11-l11)
-12. [Speak to one person: Sam's spoken delivery](guide/11-writing-and-copywriting.md#m11-l12)
+12. [Speak to one person: spoken delivery](guide/11-writing-and-copywriting.md#m11-l12)
 13. [Explain simply, and keep AI sounding human](guide/11-writing-and-copywriting.md#m11-l13)
 
 Plus: [cheat sheet](guide/11-writing-and-copywriting.md#cheat-sheet) · [flashcards](guide/11-writing-and-copywriting.md#flashcards)
@@ -319,20 +319,7 @@ Plus: [cheat sheet](guide/11-writing-and-copywriting.md#cheat-sheet) · [flashca
 
 ### [The Personal Brand Playbook](PLAYBOOK.md)
 
-*Every step from the course in the order you build a brand. Each step has the questions to answer, the rules from the sources, the mistakes to avoid and the lessons behind it.*
-
-## Start here: watch and read these first
-
-- [How to create hooks better than 99% of people](https://www.youtube.com/watch?v=nok9rnFQcb4) by Kallaway (Video, 62 min). His full hooks masterclass: the 3-step formula, the 6 power words, the 6 hook formats and the 4 hook killers.
-- [Distribution 101: A Guide to Reaching Millions](https://x.com/ryangrowthh/status/2111080389565640897) by @ryangrowthh (Article, 320k views · 6.5k bookmarks). The clearest written guide to getting content seen: hooks, posting, repurposing and pushing what works.
-- [What Getting 2M+ Subs Taught Me About YouTube Psychology](https://www.youtube.com/watch?v=zd-lg-54Ffo) by Sam Gaudet (Video, 23 min). The 4 C's of a video (click, capture, consume, convert), from the team that grew Dan Martell to 2.7M subscribers.
-- [How To Become A Master Storyteller](https://www.youtube.com/watch?v=t5Z-Q1bg1tU) by Kallaway (Video, 2.8M views). Six storytelling techniques: the but/therefore dance, rhythm, tone, writing the last line first and story lenses.
-- [Meet the Man Who Solved YouTube](https://www.youtube.com/watch?v=HEiAiPGatwc) by Paddy Galloway with Jay Clouse (Video, 396k views). MrBeast's former strategist on outliers, packaging and core/casual/new audience fit.
-- [How to Build a Disgustingly Good Personal Brand](https://www.youtube.com/watch?v=NuIFEJ7KkTY) by Caleb Ralston (Video). The foundations of a personal brand people remember.
-- [How to manage a personal brand team](https://www.youtube.com/watch?v=KThtvMu0bXA) by Caleb Ralston (Video, 2 hours). A full course on running someone's personal brand as a team: roles, process and how the work flows.
-- [How to Grow a Massive Brand (Full 2026 Masterclass)](https://x.com/ryangrowthh/status/2109644746465726929) by @ryangrowthh (Article, 328k views · 6k bookmarks). A complete playbook for growing a brand on X, and a model of how a big educational article is built.
-
-All 65 videos and articles are listed in [Credits](CREDITS.md).
+*Every step from the course in the order you build a brand. Each step has the questions to answer, the rules to follow, the mistakes to avoid and the lessons behind it.*
 
 ## Credits
 

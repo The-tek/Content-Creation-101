@@ -56,9 +56,9 @@ Each step has a goal, the questions to answer, the rules from the sources, the m
 
 **Rules from the sources**
 
-- Start from the end: outcome, known for, do, learn (Caleb Ralston's Brand Journey Framework).
-- Aim for known and paid for the right thing. A big following that earns little is a trap (Sam Gaudet's 2x2).
-- Every idea and every post should sit somewhere on the path from Point A to Point B (Dan Koe).
+- Start from the end: outcome, known for, do, learn (the Brand Journey Framework).
+- Aim for known and paid for the right thing. A big following that earns little is a trap (the 2x2).
+- Every idea and every post should sit somewhere on the path from Point A to Point B.
 - Test every action: is it moving me closer to the outcome or further away?
 
 **Mistakes to avoid**
@@ -81,17 +81,17 @@ Each step has a goal, the questions to answer, the rules from the sources, the m
 1. Have you already done what your audience wants? Then you're on the expert route. Still on the way? Then you're on the student route. Which one is true?
 2. What are 5 real wins, failures or results you have, and what can someone else learn from each?
 3. If you're a student: what are you pursuing right now, how, and what are you doing differently?
-4. Could friends grill you on each of your topics for 30 minutes with no prep? (Codie Sanchez's dinner test)
+4. Could friends grill you on each of your topics for 30 minutes with no prep? (the dinner test)
 5. Which proof can you show for your main claim: a result for someone like them, your own result, a following or cosign, 'i was where you are', or common ground?
 6. What real weakness or mistake can you mention after the proof?
 
 **Rules from the sources**
 
 - Do the thing first, then talk about it. Faked expertise gets found out.
-- Pick the route that is true. Posing as an expert while you're a student is lying (Caleb Ralston).
-- The strongest proof is a result for someone like the viewer, the weakest is a polished setup (Kallaway's trust proof ladder).
+- Pick the route that is true. Posing as an expert while you're a student is lying.
+- The strongest proof is a result for someone like the viewer, the weakest is a polished setup (the trust proof ladder).
 - Proof first, then a real flaw. That order builds trust.
-- Keep stacking proof: document, then do, then teach what you did (Sam Gaudet).
+- Keep stacking proof: document, then do, then teach what you did.
 
 **Mistakes to avoid**
 
@@ -123,8 +123,8 @@ Each step has a goal, the questions to answer, the rules from the sources, the m
 
 - Write for one specific reader, with one idea and one takeaway per post.
 - Use the exact words your audience uses, so they feel understood.
-- Trust is built by naming their painful problem, promising to solve one problem per piece, then doing it with clear steps, again and again (Caleb Ralston).
-- Copy unanswered questions from the comments of big posts in your niche into a problem bank, in their exact words (Codie Sanchez).
+- Trust is built by naming their painful problem, promising to solve one problem per piece, then doing it with clear steps, again and again.
+- Copy unanswered questions from the comments of big posts in your niche into a problem bank, in their exact words.
 
 **Mistakes to avoid**
 
@@ -149,14 +149,14 @@ Each step has a goal, the questions to answer, the rules from the sources, the m
 4. Could you make 100+ posts about it?
 5. How big is the market? What do the dedicated accounts in this niche usually get?
 6. Will your ideas work for core fans, casual viewers and new people?
-7. Are you already making money, or do you have an offer? Then that's your topic. Under about 30 posts? Make 20 to 30 on anything first, then decide (Kallaway).
+7. Are you already making money, or do you have an offer? Then that's your topic. Under about 30 posts? Make 20 to 30 on anything first, then decide.
 
 **Rules from the sources**
 
-- Start in the pond where your experience can win. Move up only as proof grows, never because you're bored (Caleb Ralston).
-- Own one category before five (Kallaway).
-- Check your market size before you blame the niche (Paddy Galloway).
-- Every idea should reach core, casual and new people. Only-core and only-new both fail (Paddy Galloway's CCN).
+- Start in the pond where your experience can win. Move up only as proof grows, never because you're bored.
+- Own one category before five.
+- Check your market size before you blame the niche.
+- Every idea should reach core, casual and new people. Only-core and only-new both fail (CCN).
 
 **Mistakes to avoid**
 
@@ -176,21 +176,21 @@ Each step has a goal, the questions to answer, the rules from the sources, the m
 **Answer these**
 
 1. Fill in: I help [who] with [what] in [what way].
-2. What do you stand for, who is it for, why should they care, and why can't they get it anywhere else? (Ryan's brand-market fit)
+2. What do you stand for, who is it for, why should they care, and why can't they get it anywhere else? (brand-market fit)
 3. Which emotion should people feel when they see your posts?
 4. What are you genuinely exceptional at?
 5. Who else can say what you say? If many can, what's your unfair advantage: experience, access, results, perspective or taste?
-6. Can you list 10 pieces of original work around your position (things to build, test, explain, measure or argue)? (VibeMarketer)
+6. Can you list 10 pieces of original work around your position (things to build, test, explain, measure or argue)?
 7. Which 5 things do you want people to link with you?
 8. Which 3 things do you refuse to be linked with?
-9. What's your promise, your proof, your perspective and your personality? (Sam Gaudet's 4 Ps)
+9. What's your promise, your proof, your perspective and your personality? (the 4 Ps)
 
 **Rules from the sources**
 
-- A brand is an association in people's heads, built by repeating the same pairing again and again (Caleb Ralston, Kallaway).
+- A brand is an association in people's heads, built by repeating the same pairing again and again.
 - Pair yourself with your 5 associations in every piece.
-- Find the gap one layer under a hot conversation: what keeps getting asked, and where does the content stop before it's useful? (VibeMarketer)
-- Positioning has 4 parts: beliefs, clear messaging, signal (how much of your content is valuable) and taste (consistent choices over time) (Kallaway).
+- Find the gap one layer under a hot conversation: what keeps getting asked, and where does the content stop before it's useful?
+- Positioning has 4 parts: beliefs, clear messaging, signal (how much of your content is valuable) and taste (consistent choices over time).
 
 **Mistakes to avoid**
 
@@ -218,11 +218,11 @@ Each step has a goal, the questions to answer, the rules from the sources, the m
 
 **Rules from the sources**
 
-- Keep 3 to 5 contrarian takes and repeat them (Caleb Ralston's Two Column Approach, Kallaway's contrarian take vault).
+- Keep 3 to 5 contrarian takes and repeat them (a Two Column Approach or a contrarian take vault).
 - Be contrarian, not controversial. The enemy is a belief or behaviour, never a person.
 - Test the takes in content and double down on the one that lands.
-- A topic gives you things to post about, a point of view gives those posts somewhere to go (VibeMarketer).
-- Build a world: named concepts, your own language, characters and places people recognise (Caleb Ralston, Kallaway).
+- A topic gives you things to post about, a point of view gives those posts somewhere to go.
+- Build a world: named concepts, your own language, characters and places people recognise.
 
 **Mistakes to avoid**
 
@@ -246,13 +246,13 @@ Each step has a goal, the questions to answer, the rules from the sources, the m
 3. Which 5 surprising true facts about your life could open a story?
 4. What loss or miss can you share, how did it feel, and what can someone learn from it?
 5. What will you share about your life, and what stays private?
-6. What's your purpose, your pain, your real interests and your non-negotiables? (Sam Gaudet's character diamond)
+6. What's your purpose, your pain, your real interests and your non-negotiables? (the character diamond)
 7. Which chapters do you want your story to have next?
 
 **Rules from the sources**
 
-- Your story is what makes the same idea land differently when you say it (Dan Koe).
-- Tell a story as the topic itself, or open a proven topic with your story (Dan Koe).
+- Your story is what makes the same idea land differently when you say it.
+- Tell a story as the topic itself, or open a proven topic with your story.
 - A vulnerable story builds trust only when it gives the audience a takeaway.
 - Share real weaknesses only, never faked ones.
 - Write one line every night about the story of the day, and keep a story bank: title, point, summary, where to use it, rating.
@@ -274,7 +274,7 @@ Each step has a goal, the questions to answer, the rules from the sources, the m
 
 **Answer these**
 
-1. Which 2 to 3 broad topics will you cover, and which 3 to 5 subtopics sit under each? (Dan Koe's content map)
+1. Which 2 to 3 broad topics will you cover, and which 3 to 5 subtopics sit under each? (the content map)
 2. Which 3 to 4 pillars back up your authority sentence?
 3. What's each pillar's job: get you discovered, build trust or sell?
 4. Which 1 to 3 formats will you use? Are they native to your platform, and do you enjoy making them?
@@ -283,11 +283,11 @@ Each step has a goal, the questions to answer, the rules from the sources, the m
 
 **Rules from the sources**
 
-- Pick 3 to 4 topics and 1 to 3 formats, and combine them into 5 to 10 repeatable formulas (Kallaway).
-- Change the input, not the structure (Matt Gray).
-- Give every post one job: eyeballs, trust or a sale. Around 60% discovery, 30% trust, 10% sales, adjusted to your business (Ryan).
-- Run about 70% proven, 20% new versions of what's proven and 10% experiments (Caleb Ralston).
-- Short posts are where you test ideas fast. The winners become long pieces (Ryan).
+- Pick 3 to 4 topics and 1 to 3 formats, and combine them into 5 to 10 repeatable formulas.
+- Change the input, not the structure.
+- Give every post one job: eyeballs, trust or a sale. Around 60% discovery, 30% trust, 10% sales, adjusted to your business.
+- Run about 70% proven, 20% new versions of what's proven and 10% experiments.
+- Short posts are where you test ideas fast. The winners become long pieces.
 
 **Mistakes to avoid**
 
@@ -317,9 +317,9 @@ Each step has a goal, the questions to answer, the rules from the sources, the m
 **Rules from the sources**
 
 - Master one platform first, then add a second.
-- The full setup is 1 short-form platform for reach, 1 long-form for depth and 1 email list or community to stay in touch (Kallaway).
-- Get quality to 7 out of 10, raise volume to the platform's normal, then push quality to 9 (Kallaway's quality-quantity accordion).
-- Leave 2 to 3 hours between posts so each one gets its chance (Ryan).
+- The full setup is 1 short-form platform for reach, 1 long-form for depth and 1 email list or community to stay in touch.
+- Get quality to 7 out of 10, raise volume to the platform's normal, then push quality to 9 (the quality-quantity accordion).
+- Leave 2 to 3 hours between posts so each one gets its chance.
 - Start an email list on day one. Platforms you rent can change or ban you overnight.
 
 **Mistakes to avoid**
@@ -347,7 +347,7 @@ Each step has a goal, the questions to answer, the rules from the sources, the m
 
 1. Demand: do enough people care? Fit: does your audience come to you for this? Interest: do you care enough? (score each 1 to 5, cut any 1)
 2. What's the topic, what's your angle on it, and what's the format?
-3. Is it relevant to your person, a small effort for a big reward, non-obvious, proven and doable? (Kallaway's 5 points)
+3. Is it relevant to your person, a small effort for a big reward, non-obvious, proven and doable? (the 5 points)
 4. Will it work for core fans, casual viewers and new people?
 5. Which pillar does it serve, and what's its job: discover, trust or sell?
 6. Has it worked before, for you or as an outlier for someone else (judged against that account's own normal)?
@@ -355,11 +355,11 @@ Each step has a goal, the questions to answer, the rules from the sources, the m
 
 **Rules from the sources**
 
-- Topic is king (Sam Gaudet).
-- 1 topic x 3 angles x 3 formats = 9 ideas (Sam Gaudet).
+- Topic is king.
+- 1 topic x 3 angles x 3 formats = 9 ideas.
 - Steal the format, never the words, and use recent outliers.
-- Write 20 or more ideas, kill most of them, make the best few (Paddy Galloway's idea funnel).
-- Everything has a stake: give every intro a consequence or an enemy (Paddy Galloway).
+- Write 20 or more ideas, kill most of them, make the best few (the idea funnel).
+- Everything has a stake: give every intro a consequence or an enemy.
 
 **Mistakes to avoid**
 
@@ -368,7 +368,7 @@ Each step has a goal, the questions to answer, the rules from the sources, the m
 
 **You are done when:** Your idea is written as topic + angle + format, with its job.
 
-**Read more:** [5.2 Topic is king](guide/05-ideas-packaging-and-virality.md#m5-l2) · [5.4 The anatomy of an idea: topic, angle, format](guide/05-ideas-packaging-and-virality.md#m5-l4) · [5.7 Finding outliers](guide/05-ideas-packaging-and-virality.md#m5-l7) · [5.9 Choosing which ideas to make](guide/05-ideas-packaging-and-virality.md#m5-l9) · [5.19 Home run ideas and the three stages of packaging (Paddy Galloway)](guide/05-ideas-packaging-and-virality.md#m5-l19)
+**Read more:** [5.2 Topic is king](guide/05-ideas-packaging-and-virality.md#m5-l2) · [5.4 The anatomy of an idea: topic, angle, format](guide/05-ideas-packaging-and-virality.md#m5-l4) · [5.7 Finding outliers](guide/05-ideas-packaging-and-virality.md#m5-l7) · [5.9 Choosing which ideas to make](guide/05-ideas-packaging-and-virality.md#m5-l9) · [5.19 Home run ideas and the three stages of packaging](guide/05-ideas-packaging-and-virality.md#m5-l19)
 
 <a id="s11"></a>
 
@@ -389,7 +389,7 @@ Each step has a goal, the questions to answer, the rules from the sources, the m
 **Rules from the sources**
 
 - Say what it's about in the first sentence, in as few words as possible.
-- Lean, 'but', snapback in 2 to 4 lines, and only snap back to something you can deliver (Kallaway).
+- Lean, 'but', snapback in 2 to 4 lines, and only snap back to something you can deliver.
 - The same idea can flop or fly depending on how it's packaged.
 - Write the hook last, and never keep the AI's first line.
 - Make the spoken words, visuals, text and audio say the same thing.
@@ -397,11 +397,11 @@ Each step has a goal, the questions to answer, the rules from the sources, the m
 **Mistakes to avoid**
 
 - Warm-up lines before the point (delay).
-- Hooks that confuse, feel irrelevant or don't make people care (Kallaway's hook mistakes).
+- Hooks that confuse, feel irrelevant or don't make people care (the hook mistakes).
 
 **You are done when:** Your first line passes the one-second test.
 
-**Read more:** [2.1 What a hook does and why it decides everything](guide/02-hooks.md#m2-l1) · [2.2 Kallaway's master formula: lean, stun, snap back](guide/02-hooks.md#m2-l2) · [2.7 Hook mistakes 1 and 2: delay and confusion](guide/02-hooks.md#m2-l7) · [2.14 Hooks in writing: first lines for posts, threads and articles](guide/02-hooks.md#m2-l14) · [5.10 Why packaging decides the result](guide/05-ideas-packaging-and-virality.md#m5-l10)
+**Read more:** [2.1 What a hook does and why it decides everything](guide/02-hooks.md#m2-l1) · [2.2 The master formula: lean, stun, snap back](guide/02-hooks.md#m2-l2) · [2.7 Hook mistakes 1 and 2: delay and confusion](guide/02-hooks.md#m2-l7) · [2.14 Hooks in writing: first lines for posts, threads and articles](guide/02-hooks.md#m2-l14) · [5.10 Why packaging decides the result](guide/05-ideas-packaging-and-virality.md#m5-l10)
 
 <a id="s12"></a>
 
@@ -423,9 +423,9 @@ Each step has a goal, the questions to answer, the rules from the sources, the m
 
 - Clarity over cleverness: smart ideas in simple words.
 - Write like you talk. Voice is the part nobody can copy.
-- Open the next question as you close the last one, so people keep going (Kallaway's dopamine ladder).
+- Open the next question as you close the last one, so people keep going (the dopamine ladder).
 - Proof before teaching, and be honest about what the piece is not.
-- Satisfaction: the piece has to pay off what the packaging promised (Paddy Galloway).
+- Satisfaction: the piece has to pay off what the packaging promised.
 - Use text boxes people can screenshot, so the piece gets saved and shared.
 
 **Mistakes to avoid**
@@ -435,7 +435,7 @@ Each step has a goal, the questions to answer, the rules from the sources, the m
 
 **You are done when:** Every line earns its place and the promise is kept.
 
-**Read more:** [2.10 After the hook: keep the promise, time the payoff](guide/02-hooks.md#m2-l10) · [11.2 Clear over clever: smart ideas, simple words](guide/11-writing-and-copywriting.md#m11-l2) · [11.4 Every word earns its place](guide/11-writing-and-copywriting.md#m11-l4) · [11.5 Be specific: numbers, names and proof](guide/11-writing-and-copywriting.md#m11-l5) · [3.2 Context plus conflict](guide/03-storytelling.md#m3-l2) · [6.16 Satisfaction: deliver what the packaging promised (Paddy Galloway)](guide/06-formats-and-video.md#m6-l16)
+**Read more:** [2.10 After the hook: keep the promise, time the payoff](guide/02-hooks.md#m2-l10) · [11.2 Clear over clever: smart ideas, simple words](guide/11-writing-and-copywriting.md#m11-l2) · [11.4 Every word earns its place](guide/11-writing-and-copywriting.md#m11-l4) · [11.5 Be specific: numbers, names and proof](guide/11-writing-and-copywriting.md#m11-l5) · [3.2 Context plus conflict](guide/03-storytelling.md#m3-l2) · [6.16 Satisfaction: deliver what the packaging promised](guide/06-formats-and-video.md#m6-l16)
 
 <a id="s13"></a>
 
@@ -445,7 +445,7 @@ Each step has a goal, the questions to answer, the rules from the sources, the m
 
 **Answer these**
 
-1. Would people share it, and what does sharing it say about them? (Dan Koe's share check)
+1. Would people share it, and what does sharing it say about them? (the share check)
 2. Do you believe everything you're saying?
 3. Is every claim, number and story true? Did you check the original source of any study?
 4. What's this post's one job: discover, trust or sell?
@@ -456,7 +456,7 @@ Each step has a goal, the questions to answer, the rules from the sources, the m
 
 - People share what says something good about them.
 - Treat viral stats as claims until you find the original source.
-- If you sell something, aim for trust, not virality (Caleb Ralston).
+- If you sell something, aim for trust, not virality.
 - Match the size of any ask to the trust you've built, with no fake urgency.
 
 **Mistakes to avoid**
@@ -466,7 +466,7 @@ Each step has a goal, the questions to answer, the rules from the sources, the m
 
 **You are done when:** It's true, it has one job, and you'd be proud to have your name on it.
 
-**Read more:** [4.11 Identity, sharing, enemies and disagreement](guide/04-psychology-and-attention.md#m4-l11) · [4.15 How X reads attention: Ryan's algorithm reading](guide/04-psychology-and-attention.md#m4-l15) · [4.2 The attention span myth](guide/04-psychology-and-attention.md#m4-l2)
+**Read more:** [4.11 Identity, sharing, enemies and disagreement](guide/04-psychology-and-attention.md#m4-l11) · [4.15 How X reads attention: one creator's algorithm reading](guide/04-psychology-and-attention.md#m4-l15) · [4.2 The attention span myth](guide/04-psychology-and-attention.md#m4-l2)
 
 ---
 
@@ -492,8 +492,8 @@ Each step has a goal, the questions to answer, the rules from the sources, the m
 
 - Reply and quote to add your own view, never just 'great post'.
 - Credit the people whose ideas you use. It builds relationships and borrowed reach.
-- Every month, rewrite your winners from new angles: shorter, longer, as a list, with a better hook (Dan Koe).
-- Add depth (long form) and new platforms only with your best ideas (Dan Koe).
+- Every month, rewrite your winners from new angles: shorter, longer, as a list, with a better hook.
+- Add depth (long form) and new platforms only with your best ideas.
 
 **Mistakes to avoid**
 
@@ -520,9 +520,9 @@ Each step has a goal, the questions to answer, the rules from the sources, the m
 
 **Rules from the sources**
 
-- Views are a leading signal. Follows, leads and revenue are the goal (Sam Gaudet's 4 metrics).
+- Views are a leading signal. Follows, leads and revenue are the goal (the 4 metrics).
 - Review daily, weekly, monthly and quarterly, but change things monthly, not daily.
-- Judge a format only after enough reps, because early results mislead (Matt Gray used 100).
+- Judge a format only after enough reps, because early results mislead (one creator used 100).
 - Treat algorithm rules as one creator's claims and test them yourself.
 
 **Mistakes to avoid**
@@ -543,10 +543,10 @@ Each step has a goal, the questions to answer, the rules from the sources, the m
 **Answer these**
 
 1. What do you sell, or what will you sell? (a service, a product, brand deals)
-2. Fill in: helping [who] go from [where they're stuck] to [where they want to be] so they can [benefit] (Hussain's promise formula).
+2. Fill in: helping [who] go from [where they're stuck] to [where they want to be] so they can [benefit] (the promise formula).
 3. Is the result worth far more than the price?
 4. What's the next step in your content: a free resource, a sales page or a call?
-5. What's the smallest version you could build and sell in a week? (Dan Koe's \$10 test)
+5. What's the smallest version you could build and sell in a week? (the \$10 test)
 6. Of your last 10 posts, how many gave something and how many asked for something?
 7. How can someone raise their hand: a questionnaire, a DM, a reply?
 
@@ -554,9 +554,9 @@ Each step has a goal, the questions to answer, the rules from the sources, the m
 
 - Give first, sell later, and keep the ask much smaller than what you gave.
 - Give away your best ideas and sell the help applying them.
-- Views turn into money only when 4 things work: they feel 'that's my problem', they trust you, there's a clear next step, and the offer fits. If one is zero, the result is zero (Kallaway).
-- With a small audience, sell by hand: posts, newsletter, questionnaire, DMs, link to pay (Dan Koe).
-- Test an offer before building it: problem post, poll, behind the scenes, waitlist, soft pre-sell (Ryan).
+- Views turn into money only when 4 things work: they feel 'that's my problem', they trust you, there's a clear next step, and the offer fits. If one is zero, the result is zero.
+- With a small audience, sell by hand: posts, newsletter, questionnaire, DMs, link to pay.
+- Test an offer before building it: problem post, poll, behind the scenes, waitlist, soft pre-sell.
 
 **Mistakes to avoid**
 
@@ -565,7 +565,7 @@ Each step has a goal, the questions to answer, the rules from the sources, the m
 
 **You are done when:** You have one clear promise, one next step in your content and a way for people to raise their hand.
 
-**Read more:** [10.3 Give first, sell later](guide/10-money-and-careers-in-content.md#m10-l3) · [10.4 Give away the best, sell the implementation](guide/10-money-and-careers-in-content.md#m10-l4) · [10.5 Your first product: small, fast, validated](guide/10-money-and-careers-in-content.md#m10-l5) · [10.7 Getting your first client by hand](guide/10-money-and-careers-in-content.md#m10-l7) · [10.10 Building an offer from zero and a 90-day plan](guide/10-money-and-careers-in-content.md#m10-l10) · [8.16 From views to money: Kallaway's attention conversion funnel](guide/08-distribution-and-growth.md#m8-l16)
+**Read more:** [10.3 Give first, sell later](guide/10-money-and-careers-in-content.md#m10-l3) · [10.4 Give away the best, sell the implementation](guide/10-money-and-careers-in-content.md#m10-l4) · [10.5 Your first product: small, fast, validated](guide/10-money-and-careers-in-content.md#m10-l5) · [10.7 Getting your first client by hand](guide/10-money-and-careers-in-content.md#m10-l7) · [10.10 Building an offer from zero and a 90-day plan](guide/10-money-and-careers-in-content.md#m10-l10) · [8.16 From views to money: the attention conversion funnel](guide/08-distribution-and-growth.md#m8-l16)
 
 <a id="s17"></a>
 
@@ -584,11 +584,11 @@ Each step has a goal, the questions to answer, the rules from the sources, the m
 
 **Rules from the sources**
 
-- Expect about 36 months before meaningful results (Caleb Ralston's claim).
-- Test widely for the first 60 days (about 50 posts), then keep only the formulas that perform, bring the right people, you enjoy and you're proud of (Kallaway).
-- Oren's timeline: 30 days to 'i can do this', 100 days to a habit, 365 days to expect the first money.
-- Fix the process before blaming creativity, and simplify before you automate (Sam Gaudet).
-- Let AI handle speed and keep taste for yourself, with a human approval step (Shann Holmberg).
+- Expect about 36 months before meaningful results (a creator's claim).
+- Test widely for the first 60 days (about 50 posts), then keep only the formulas that perform, bring the right people, you enjoy and you're proud of.
+- One timeline: 30 days to 'i can do this', 100 days to a habit, 365 days to expect the first money.
+- Fix the process before blaming creativity, and simplify before you automate.
+- Let AI handle speed and keep taste for yourself, with a human approval step.
 
 **Mistakes to avoid**
 

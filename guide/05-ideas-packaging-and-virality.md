@@ -4,7 +4,7 @@
 
 *Pick ideas the market already wants, package them so people click, and double down on what wins.*
 
-This module teaches how ideas are found, chosen and packaged. It starts with what makes an idea viral (Kallaway, Paddy Galloway), the topic, angle and format of an idea, and where ideas come from. It covers outliers (finding them, breaking them down) and how to kill weak ideas fast. Then it teaches packaging: thumbnails, titles, viral writing on X, how algorithms decide, pmitu's 16 X rules, on-target virality, 70/20/10 testing and making things worth spreading.
+This module teaches how ideas are found, chosen and packaged. It starts with what makes an idea viral, the topic, angle and format of an idea, and where ideas come from. It covers outliers (finding them, breaking them down) and how to kill weak ideas fast. Then it teaches packaging: thumbnails, titles, viral writing on X, how algorithms decide, 16 X rules, on-target virality, 70/20/10 testing and making things worth spreading.
 
 **19 lessons · about 159 minutes of reading**
 
@@ -24,13 +24,13 @@ This module teaches how ideas are found, chosen and packaged. It starts with wha
 12. [Titles that get the click](#m5-l12)
 13. [Viral writing 101](#m5-l13)
 14. [How the algorithm decides (and what the experts disagree on)](#m5-l14)
-15. [The X algorithm: pmitu's 16 rules](#m5-l15)
+15. [The X algorithm: 16 rules](#m5-l15)
 16. [The viral trap: chase on-target virality](#m5-l16)
 17. [Doubling down and testing new things](#m5-l17)
 18. [Making things worth spreading](#m5-l18)
-19. [Home run ideas and the three stages of packaging (Paddy Galloway)](#m5-l19)
+19. [Home run ideas and the three stages of packaging](#m5-l19)
 
-At the end: [Cheat sheet](#cheat-sheet) · [Flashcards](#flashcards) · [Key sources](#key-sources)
+At the end: [Cheat sheet](#cheat-sheet) · [Flashcards](#flashcards)
 
 ---
 
@@ -40,53 +40,53 @@ At the end: [Cheat sheet](#cheat-sheet) · [Flashcards](#flashcards) · [Key sou
 
 *8 min read*
 
-> **The big idea:** Viral ideas share a few traits that have nothing to do with gear or editing. Kallaway sums it up as relevant, new and interesting, and Paddy Galloway adds that the idea must work for core fans, casual viewers and total strangers at once.
+> **The big idea:** Viral ideas share a few traits that have nothing to do with gear or editing. In short: relevant, new and interesting, and the idea must work for core fans, casual viewers and total strangers at once.
 
 ### The three questions every viewer asks
 
-- Kallaway says addictive content is relevant, novel and interesting. The viewer silently asks three questions: Do I care? Is it new to me? Am I intrigued?
+- Addictive content is relevant, novel and interesting. The viewer silently asks three questions: Do I care? Is it new to me? Am I intrigued?
 - If any one answer is no, the viewer leaves. A topic people care about but have heard a hundred times fails the second question.
-- Kallaway's fix for boring or old topics is his five-step illusion of novelty (lesson 5).
+- The fix for boring or old topics is a five-step illusion of novelty (lesson 5).
 
-### Paddy Galloway's 4 traits of a viral video in any niche
+### 4 traits of a viral video in any niche
 
 - 1) CCN fit: the idea interests your core, casual and new audience at the same time.
-- 2) Unique novelty value: something that makes the video feel like its own thing, new information the viewer has not heard before. Galloway says this is why you should spend so much time brainstorming fresh things for your niche.
-- 3) Easy to convey in a title and thumbnail. "A great idea has to be easy to convey in a title and thumbnail." If you catch yourself saying "I've got this amazing idea, I just don't know how to thumbnail it", Galloway says you don't have an amazing idea, just an interesting thing.
+- 2) Unique novelty value: something that makes the video feel like its own thing, new information the viewer has not heard before. This is why you should spend so much time brainstorming fresh things for your niche.
+- 3) Easy to convey in a title and thumbnail. "A great idea has to be easy to convey in a title and thumbnail." If you catch yourself saying "I've got this amazing idea, I just don't know how to thumbnail it", you don't have an amazing idea, just an interesting thing.
 - 4) People get excited when you mention it. Build a "YouTube council" of people in your niche or friends with similar interests and ask them: does this make you excited?
 
 ### CCN: core, casual, new
 
-- Paddy Galloway's named framework (Sam Gaudet credits it to him and uses it constantly). Every piece should work for three people.
+- A named framework used constantly by video creators. Every piece should work for three people.
 - Core: people who know, like and trust you, watch and buy.
 - Casual: people who kind of know you, watch now and then but don't buy yet.
 - New: people who have never seen you.
-- Galloway's test: the world's biggest creator AND his mother should both want to watch it.
-- Sam's phrasing: understandable for everyone, applicable for a select few. Applicable to your core, understandable to casual and new viewers.
-- Sam's method: start wide so anyone can follow, then serve the core audience with deeper tactics later in the video. He calls this progressively overloading the content with deeper knowledge.
+- The test: the world's biggest creator AND that creator's mother should both want to watch it.
+- A useful phrasing: understandable for everyone, applicable for a select few. Applicable to your core, understandable to casual and new viewers.
+- A method: start wide so anyone can follow, then serve the core audience with deeper tactics later in the video. This is called progressively overloading the content with deeper knowledge.
 
 ### Any niche can do this
 
-- Galloway's woodworking case (731 Woodworks): a niche where "you'd think you can't MrBeast-ify it". Instead of "reviewing the [model name] Second Edition", the viral formats were: testing woodworking hacks, "99% of woodworkers get this wrong", "this tool is now illegal in 7 and a half states", "this tool is so good it should be illegal", the most expensive woodworking tool in the world, and a cheap Wish saw vs a \$500 saw.
-- Galloway on niche size: search your niche on YouTube, filter for long videos and sort by most viewed. That is your real ceiling. His observation is that most people who say their niche is too small get about 10% of what the best in their niche get.
-- Galloway's monkey bars: almost every channel now at 100k+ views a video started niche and expanded into the overlapping niche next door. Going broad first alienates your first fans. The few who went viral on video one are survivorship bias.
+- A woodworking case: a niche where "you'd think you can't MrBeast-ify it". Instead of "reviewing the [model name] Second Edition", the viral formats were: testing woodworking hacks, "99% of woodworkers get this wrong", "this tool is now illegal in 7 and a half states", "this tool is so good it should be illegal", the most expensive woodworking tool in the world, and a cheap Wish saw vs a \$500 saw.
+- On niche size: search your niche on YouTube, filter for long videos and sort by most viewed. That is your real ceiling. The observation is that most people who say their niche is too small get about 10% of what the best in their niche get.
+- The monkey bars: almost every channel now at 100k+ views a video started niche and expanded into the overlapping niche next door. Going broad first alienates your first fans. The few who went viral on video one are survivorship bias.
 
 ### Frameworks
 
-**Relevant, novel, interesting** (Kallaway)
+**Relevant, novel, interesting**
 
 1. Do I care? The topic is relevant to the viewer
 2. Is it new to me? A new angle, finding or frame
 3. Am I intrigued? A question they want answered
 
-**4 traits of a viral video** (Paddy Galloway)
+**4 traits of a viral video**
 
 1. CCN fit: core, casual and new all want it
 2. Unique novelty value: new information, its own thing
 3. Easy to convey in a title and thumbnail
 4. People in your niche get excited when you mention it
 
-**CCN fit** (Paddy Galloway (taught by Sam Gaudet too))
+**CCN fit**
 
 1. Core: knows, likes, trusts and buys
 2. Casual: watches sometimes, doesn't buy yet
@@ -95,36 +95,36 @@ At the end: [Cheat sheet](#cheat-sheet) · [Flashcards](#flashcards) · [Key sou
 
 ### Examples
 
-- **Galloway, Andrew Millison's Sahara video:** A very niche horticulture lecturer got about 12M views with "How the UN is holding back the Sahara Desert".
+- **The Sahara video:** A very niche horticulture lecturer got about 12M views with "How the UN is holding back the Sahara Desert".
   <br>*Why it works:* A niche topic framed so anyone clicks: the UN is a well-known, top-of-mind name and "holding back" is a strong framing. The thumbnail used a left/right contrast.
-- **Sam Gaudet, the meetings video:** "Meetings are the biggest time waster in any company." Core = business owners, casual = people stuck in meetings that could have been an email, new = everyone knows what a meeting is. It ends with tactical advice only owners need: clear KPIs, owners and a scorecard instead of meetings.
-  <br>*Why it works:* Owners agreed, employees shared it, all of them commented. Sam gives different numbers for it in different videos: over 3M every time they made it, 2.3M, or 4M views and 10,000 new Instagram followers.
+- **The meetings video:** "Meetings are the biggest time waster in any company." Core = business owners, casual = people stuck in meetings that could have been an email, new = everyone knows what a meeting is. It ends with tactical advice only owners need: clear KPIs, owners and a scorecard instead of meetings.
+  <br>*Why it works:* Owners agreed, employees shared it, all of them commented. The numbers for it are quoted differently in different places: over 3M every time it was made, 2.3M, or 4M views and 10,000 new Instagram followers.
 
 ### Common mistakes
 
-- Having an idea you can't put into a title and thumbnail and calling it a great idea (Galloway).
-- Making content only your core audience understands, which serves today's buyer but misses growth (Sam).
-- Going broad before you have a small core of fans (Galloway).
-- Saying your niche is too small without checking the most viewed videos in it (Galloway).
+- Having an idea you can't put into a title and thumbnail and calling it a great idea.
+- Making content only your core audience understands, which serves today's buyer but misses growth.
+- Going broad before you have a small core of fans.
+- Saying your niche is too small without checking the most viewed videos in it.
 
 ### Where the sources disagree
 
-Sam Gaudet says "stop niching down": keep your ideal customer but cover every problem they have, not just one narrow topic. Kallaway and Galloway both advise starting narrow and widening later. They agree more than it looks: Sam means the topics, not the audience, and Galloway's CCN asks a niche idea to be framed so strangers also click. Kallaway's warning about broad virality is in lesson 16.
+Some creators say "stop niching down": keep your ideal customer but cover every problem they have, not just one narrow topic. Others advise starting narrow and widening later. They agree more than it looks: the first view means the topics, not the audience, and CCN asks a niche idea to be framed so strangers also click. The warning about broad virality is in lesson 16.
 
 ### Try it
 
-Take your last 5 content ideas. For each, write one line on how a core fan, a casual viewer and a total stranger would react to the title. Score each idea on Galloway's 4 traits (1 point each). Rewrite the lowest scorer so a stranger would want to click, like the Sahara title.
+Take your last 5 content ideas. For each, write one line on how a core fan, a casual viewer and a total stranger would react to the title. Score each idea on the 4 traits of a viral video (1 point each). Rewrite the lowest scorer so a stranger would want to click, like the Sahara title.
 
 <details><summary><b>Check yourself (4 questions)</b></summary>
 
-**1. According to Paddy Galloway, what does it mean if you can't work out how to thumbnail your idea?**
+**1. What does it mean if you can't work out how to thumbnail your idea?**
 
 - a) You should post it as a short instead
 - b) You need a better designer
 - c) The idea is too original for the algorithm
 - d) You have an interesting thing, not an amazing idea
 
-*Answer: d) You have an interesting thing, not an amazing idea.* Galloway's third trait: a great idea must be easy to convey in a title and thumbnail. If it isn't, it isn't a great idea yet.
+*Answer: d) You have an interesting thing, not an amazing idea.* The third trait: a great idea must be easy to convey in a title and thumbnail. If it isn't, it isn't a great idea yet.
 
 **2. In CCN, who is the 'casual' viewer?**
 
@@ -135,27 +135,25 @@ Take your last 5 content ideas. For each, write one line on how a core fan, a ca
 
 *Answer: d) Someone who kind of knows you and watches but doesn't buy yet.* Core knows, likes, trusts and buys. Casual watches sometimes but doesn't buy yet. New has never seen you.
 
-**3. How does Sam Gaudet make one video work for all three CCN groups?**
+**3. How can one video work for all three CCN groups?**
 
-- a) He avoids any tactical advice
-- b) He makes three versions of every video
-- c) He only talks about trends
-- d) He starts wide so anyone can follow, then adds deeper tactics for the core later
+- a) Avoid any tactical advice
+- b) Make three versions of every video
+- c) Only talk about trends
+- d) Start wide so anyone can follow, then add deeper tactics for the core later
 
-*Answer: d) He starts wide so anyone can follow, then adds deeper tactics for the core later.* Understandable for everyone, applicable for a select few. The meetings video ends with owner-only tactics.
+*Answer: d) Start wide so anyone can follow, then add deeper tactics for the core later.* Understandable for everyone, applicable for a select few. The meetings video ends with owner-only tactics.
 
-**4. What is Galloway's 'YouTube council'?**
+**4. What is the 'YouTube council'?**
 
 - a) People in your niche or friends you ask if an idea excites them
 - b) A paid group of editors
 - c) YouTube's internal review team
 - d) A panel of big creators who share your videos
 
-*Answer: a) People in your niche or friends you ask if an idea excites them.* His fourth trait is that people get excited when you mention the idea, so he asks a small group before making it.
+*Answer: a) People in your niche or friends you ask if an idea excites them.* The fourth trait is that people get excited when you mention the idea, so you ask a small group before making it.
 
 </details>
-
-*Sources: Kallaway, Illusion of novelty; Paddy Galloway, Jay Clouse interview; Sam Gaudet, Feels Like Cheating / Brutal Truths 2026 / YouTube Psychology; Sam Gaudet, 6 Months*
 
 [Back to the top of this module](#top) · [All modules](../README.md#contents)
 
@@ -167,47 +165,47 @@ Take your last 5 content ideas. For each, write one line on how a core fan, a ca
 
 *8 min read*
 
-> **The big idea:** The topic decides more than any hook, edit or camera. Sam Gaudet puts topic at the top of his pyramid of importance and filters every topic for demand, fit and interest.
+> **The big idea:** The topic decides more than any hook, edit or camera. Put topic at the top of the pyramid of importance and filter every topic for demand, fit and interest.
 
 ### Why topic comes first
 
-- Sam Gaudet: "you can't out-edit a [bad] topic". Lighting, gear and editing can't save a topic nobody cares about.
-- Sam's order of importance: topic first, then packaging (angle and format), then everything else.
-- His pyramid of importance, bottom to top (New Era version): camera gear, editing, lighting, hooks, formats, and topic at the top. In his Yap Method version: fancy editing and gear, then hooks and formats, then delivery style and tone, then topic.
-- Sam calls topic the 20% in the Pareto principle, and says: "if you could ignore every other piece of advice on social media and just pick the best topics, you will be ahead of 99% of people".
-- Logan Smith says the same for shorts: an interesting topic is the base of every viral short, and without it you can't get many views. His claim is that researching your niche before picking a topic makes ideas "10 times better".
+- A saying worth keeping: "you can't out-edit a [bad] topic". Lighting, gear and editing can't save a topic nobody cares about.
+- The order of importance: topic first, then packaging (angle and format), then everything else.
+- The pyramid of importance, bottom to top (one version): camera gear, editing, lighting, hooks, formats, and topic at the top. In another version: fancy editing and gear, then hooks and formats, then delivery style and tone, then topic.
+- Topic is the 20% in the Pareto principle: "if you could ignore every other piece of advice on social media and just pick the best topics, you will be ahead of 99% of people".
+- The same goes for shorts: an interesting topic is the base of every viral short, and without it you can't get many views. One creator's claim is that researching your niche before picking a topic makes ideas "10 times better".
 
 ### Demand: how many people care
 
-- All else equal (same editing, gear, format and hooks), Sam says a video on getting abs in 90 days beats one on building a B2B SaaS in 90 days, because the total addressable market (TAM) is bigger.
-- Logan Smith's three questions: who is my audience, what do they want to see, and what video types already perform in my space? Research the big channels in your niche.
-- Kallaway's rule for the AI era: let data pick the topic and you bring the take. Pick topics the market already proved it wants by studying top accounts' best posts, then ask what you believe about it that everyone else gets wrong.
-- Sam's topic-first ideation: the old way starts from your own perspective and then looks for a hot topic. The new way starts from a topic you know is hot (from outlier tools) and puts your perspective, stories, analogies and examples inside it. His blunt reason: "most of our ideas" don't resonate with people.
-- Tools Sam names for finding topics: 1of10, topicfinder.ai and VidIQ.
+- All else equal (same editing, gear, format and hooks), a video on getting abs in 90 days beats one on building a B2B SaaS in 90 days, because the total addressable market (TAM) is bigger.
+- Three questions: who is my audience, what do they want to see, and what video types already perform in my space? Research the big channels in your niche.
+- A rule for the AI era: let data pick the topic and you bring the take. Pick topics the market already proved it wants by studying top accounts' best posts, then ask what you believe about it that everyone else gets wrong.
+- Topic-first ideation: the old way starts from your own perspective and then looks for a hot topic. The new way starts from a topic you know is hot (from outlier tools) and puts your perspective, stories, analogies and examples inside it. The blunt reason: "most of our ideas" don't resonate with people.
+- Tools for finding topics: 1of10, topicfinder.ai and VidIQ.
 
 ### Fit and interest: the other two filters
 
-- Sam's three filters for any topic: demand, fit and interest.
-- Fit: does MY audience care, and does it fit what they come to me for? No fitness or makeup on a branding page. "Abs in 90 days" would flop on Sam's content account. Chase only demand and you "split test yourself" into fitness content.
+- Three filters for any topic: demand, fit and interest.
+- Fit: does MY audience care, and does it fit what they come to me for? No fitness or makeup on a branding page. "Abs in 90 days" would flop on a branding account. Chase only demand and you "split test yourself" into fitness content.
 - Interest: do I genuinely care? If not, skip it. Skip interest and you build a brand you hate, viewers can feel that you don't care, and creators "back themselves into a corner" by over-serving the audience.
-- Kallaway narrows topics all the way down to the ideal viewer. Broad topics chase views and fail to build an obsessed audience.
+- Narrow topics all the way down to the ideal viewer. Broad topics chase views and fail to build an obsessed audience.
 
 ### Need-to-have beats nice-to-have
 
-- Kallaway: frame topics around need-to-have pain points, not nice-to-have trends. "3 trends in skincare" is nice to have. "If you struggle with acne, try these 3 things" is need to have.
-- Kallaway: get proof first, then build the content on the proof.
-- Jenny Hoyos: pick topics with high demand and low supply. "Your video could suck, but if nobody made it and people want it, you get views." Her #1 mistake is selfish content, talking about yourself instead of the viewer's gain.
-- Sahil Bloom built his audience on evergreen content, not news or "breaking this, breaking that": content someone could come back to years later and still find good. Build a repository. Not everything goes viral, and that is fine.
+- Frame topics around need-to-have pain points, not nice-to-have trends. "3 trends in skincare" is nice to have. "If you struggle with acne, try these 3 things" is need to have.
+- Get proof first, then build the content on the proof.
+- Pick topics with high demand and low supply. "Your video could suck, but if nobody made it and people want it, you get views." The #1 mistake is selfish content, talking about yourself instead of the viewer's gain.
+- One creator built an audience on evergreen content, not news or "breaking this, breaking that": content someone could come back to years later and still find good. Build a repository. Not everything goes viral, and that is fine.
 
 ### Frameworks
 
-**Pyramid of importance** (Sam Gaudet)
+**Pyramid of importance**
 
 1. Bottom: camera gear, editing, lighting
 2. Middle: hooks and formats, then delivery style and tone
 3. Top: topic, the thing that matters most
 
-**Demand, fit, interest** (Sam Gaudet)
+**Demand, fit, interest**
 
 1. Demand: how many people care (TAM, outlier score)
 2. Fit: does my audience come to me for this?
@@ -215,18 +213,18 @@ Take your last 5 content ideas. For each, write one line on how a core fan, a ca
 
 ### Examples
 
-- **Sam Gaudet, abs vs B2B SaaS:** Two identical videos, one about getting abs in 90 days, one about building a B2B SaaS in 90 days. The abs video wins on demand.
-  <br>*Why it works:* Bigger TAM. But Sam also warns that abs content on a business account fails the fit filter, so demand alone isn't enough.
-- **Kallaway, skincare vs acne:** "3 trends in skincare" vs "If you struggle with acne, try these 3 things".
+- **Abs vs B2B SaaS:** Two identical videos, one about getting abs in 90 days, one about building a B2B SaaS in 90 days. The abs video wins on demand.
+  <br>*Why it works:* Bigger TAM. But abs content on a business account fails the fit filter, so demand alone isn't enough.
+- **Skincare vs acne:** "3 trends in skincare" vs "If you struggle with acne, try these 3 things".
   <br>*Why it works:* The second is a need-to-have pain the viewer already feels.
 
 ### Common mistakes
 
-- Trying to fix a weak topic with better editing, lighting or gear (Sam).
-- Starting from your own perspective and hoping the topic is hot (Sam).
-- Chasing demand outside what your audience comes to you for (Sam's fit filter).
-- Picking topics you don't care about and building a brand you hate (Sam's interest filter).
-- Selfish content about you instead of the viewer's gain (Jenny Hoyos).
+- Trying to fix a weak topic with better editing, lighting or gear.
+- Starting from your own perspective and hoping the topic is hot.
+- Chasing demand outside what your audience comes to you for (the fit filter).
+- Picking topics you don't care about and building a brand you hate (the interest filter).
+- Selfish content about you instead of the viewer's gain.
 
 ### Try it
 
@@ -234,25 +232,25 @@ List 10 topics you could make content about. Score each 1 to 5 on demand, fit an
 
 <details><summary><b>Check yourself (4 questions)</b></summary>
 
-**1. In Sam Gaudet's pyramid of importance, what sits at the top?**
+**1. In the pyramid of importance, what sits at the top?**
 
 - a) Editing
 - b) Camera gear
 - c) Topic
 - d) Hooks
 
-*Answer: c) Topic.* Sam says you can't out-edit a bad topic. Topic first, then packaging, then everything else.
+*Answer: c) Topic.* You can't out-edit a bad topic. Topic first, then packaging, then everything else.
 
-**2. Why does Sam warn against chasing demand alone?**
+**2. Why should you not chase demand alone?**
 
 - a) Demand only matters on YouTube
 - b) High-demand topics get banned
 - c) Demand data is always wrong
 - d) You end up making content that doesn't fit what your audience comes to you for
 
-*Answer: d) You end up making content that doesn't fit what your audience comes to you for.* His fit filter: abs videos would flop on a branding account. Chase only demand and you split test yourself into another niche.
+*Answer: d) You end up making content that doesn't fit what your audience comes to you for.* The fit filter: abs videos would flop on a branding account. Chase only demand and you split test yourself into another niche.
 
-**3. What does Kallaway mean by a need-to-have topic?**
+**3. What is a need-to-have topic?**
 
 - a) A topic only experts understand
 - b) A topic with a big number in it
@@ -261,7 +259,7 @@ List 10 topics you could make content about. Score each 1 to 5 on demand, fit an
 
 *Answer: d) A topic framed around a pain the viewer already feels.* "If you struggle with acne, try these 3 things" beats "3 trends in skincare".
 
-**4. What is Sam's 'topic-first' ideation?**
+**4. What is 'topic-first' ideation?**
 
 - a) Start from a topic you know is hot, then put your perspective and stories inside it
 - b) Write the script first, then find a topic
@@ -271,8 +269,6 @@ List 10 topics you could make content about. Score each 1 to 5 on demand, fit an
 *Answer: a) Start from a topic you know is hot, then put your perspective and stories inside it.* The old way starts from your view. The new way starts from proven demand, then adds you.
 
 </details>
-
-*Sources: Sam Gaudet, New Era / Yap Method / 15 Brutal Truths / 4 Billion Views; Sam Gaudet, Brand Training / YouTube Psychology; Logan Smith, viral shorts; Kallaway, Power of suggestion / The NEW Era of Personal Brands; Jenny Hoyos, V.I.R.A.L. (Philipp Humm interview); Sahil Bloom, 20VC*
 
 [Back to the top of this module](#top) · [All modules](../README.md#contents)
 
@@ -284,24 +280,24 @@ List 10 topics you could make content about. Score each 1 to 5 on demand, fit an
 
 *9 min read*
 
-> **The big idea:** Good ideas come from a system, not from staring at a blank page. Sahil Bloom calls it a content engine, Dan Koe calls it the idea-to-execution muscle, and Matt Gray and Codie Sanchez pull ideas straight from customers and comments.
+> **The big idea:** Good ideas come from a system, not from staring at a blank page. One creator calls it a content engine, another the idea-to-execution muscle, and others pull ideas straight from customers and comments.
 
-### The content engine (Sahil Bloom)
+### The content engine
 
-- Bloom: at the heart of a creator's process must be a content engine, the thing that lets you produce high quality content consistently.
-- His version: everything he regularly consumes (newsletters, podcasts, videos) is the source. He pulls out novel insights, the things that made him go "hmm" or "oh wow", and logs them on a board in Notion.
-- When he feels inspired to write, he picks from the board. He often abandons a piece halfway.
+- At the heart of a creator's process must be a content engine, the thing that lets you produce high quality content consistently.
+- One version: everything the creator regularly consumes (newsletters, podcasts, videos) is the source. They pull out novel insights, the things that made them go "hmm" or "oh wow", and log them on a board in Notion.
+- When they feel inspired to write, they pick from the board. They often abandon a piece halfway.
 
-### The idea-to-execution muscle (Dan Koe)
+### The idea-to-execution muscle
 
-- Koe's pattern in successful creators: the moment they notice an idea at the intersection of performance and excitement, they drop everything and write it down.
+- A pattern in successful creators: the moment they notice an idea at the intersection of performance and excitement, they drop everything and write it down.
 - Performance: will others like it, does it have potential to do well, can it be said in an engaging way?
 - Excitement: do you have a genuine interest in understanding it or saying it your way?
 - Ideas tend to come on a walk, while listening to an audiobook or video, while reading a book or heavy content (not "brain rot" social posts), or in conversation.
 - They see their brand as a collection of notes of these ideas.
-- Two reasons people struggle for ideas, per Koe: their mind isn't trained to articulate, and they don't consume information at the edge of their understanding.
+- Two reasons people struggle for ideas: their mind isn't trained to articulate, and they don't consume information at the edge of their understanding.
 
-### Six idea types for every subtopic (Dan Koe)
+### Six idea types for every subtopic
 
 - Pain points: what frustrates them, what they're doing wrong, what keeps them stuck. Makes people feel seen.
 - How-to ideas: step-by-step processes, methods and frameworks they can try now.
@@ -312,22 +308,22 @@ List 10 topics you could make content about. Score each 1 to 5 on demand, fit an
 
 ### Ideas from customers and comments
 
-- Matt Gray: survey real customers on their main problems, challenges, obstacles, goals and biggest dreams. The answers give you hundreds of ideas that solve exactly that.
-- Gray's three-question buyer survey: what's your biggest goal this year? what keeps you up at night? if you had a magic wand, what would you want my help with?
-- Gray also asks customers which of his content is their favorite. They said watching him live helping other founders, which became his "whiteboard sessions" format. His claim: how-to videos convert best for him because they teach the core problem people bring to him.
-- Codie Sanchez's 4 steps: 1) a swipe file of the top 100 posts in your niche (save the hook, the first 30 seconds and the top comments) 2) steal the hook, never the content, and pour your own expertise in 3) mine unanswered questions in comments ("but how do I do this with no money?" is your next video) 4) keep a problem bank in THEIR exact words ("I don't have the money and I'm scared I'll look stupid asking", not "capital constraints").
-- Codie's filter: don't ask "what should I post?", ask "what have I earned the right to explain?" Her dinner test: could friends grill you on it for 30 minutes with zero prep?
+- Survey real customers on their main problems, challenges, obstacles, goals and biggest dreams. The answers give you hundreds of ideas that solve exactly that.
+- A three-question buyer survey: what's your biggest goal this year? what keeps you up at night? if you had a magic wand, what would you want my help with?
+- Also ask customers which of your content is their favorite. In one case they said watching the creator live helping other founders, which became a "whiteboard sessions" format. One creator's own claim: how-to videos convert best because they teach the core problem people bring to them.
+- Four steps: 1) a swipe file of the top 100 posts in your niche (save the hook, the first 30 seconds and the top comments) 2) steal the hook, never the content, and pour your own expertise in 3) mine unanswered questions in comments ("but how do I do this with no money?" is your next video) 4) keep a problem bank in THEIR exact words ("I don't have the money and I'm scared I'll look stupid asking", not "capital constraints").
+- A filter: don't ask "what should I post?", ask "what have I earned the right to explain?" The dinner test: could friends grill you on it for 30 minutes with zero prep?
 
 ### Ideas from your own day and your niche's news
 
-- Jenny Hoyos: ideas come from outliers (small accounts with far above normal views) and from your own day: "everything is an idea". Collect 100 ideas, pick the one that fits her V.I.R.A.L. framework. With AI, give it the hook shape ("is it possible to...", "what happens if...") or it hands you flat statements.
-- Oren's yap map: the touch points of your day (a question someone asked you that you had to explain is a post), your personal life, media you consumed (react to it), and shower or workout thoughts. Goal: 3 to 5 ideas a day. For each, ask: do I have a strong opinion, a story, or a relatable breakdown?
-- Oren's twice-a-month content meeting: news in the niche (do we like it or not? is it an opinion or a tactic?), then your own history (camera roll from last week, then 1, 3 and 5 years ago), then outliers in your topic, then debate each one out loud with someone ("would this make a good video? what's the hook?"). Record it and sort ideas into priority, middle and backburner.
-- GaryVee watches "PAC": platforms and culture. Trends are clues about what people want, and he says people who hate trends "are either lazy or tired".
+- Ideas come from outliers (small accounts with far above normal views) and from your own day: "everything is an idea". Collect 100 ideas, pick the one that scores best on a viral checklist. With AI, give it the hook shape ("is it possible to...", "what happens if...") or it hands you flat statements.
+- The yap map: the touch points of your day (a question someone asked you that you had to explain is a post), your personal life, media you consumed (react to it), and shower or workout thoughts. Goal: 3 to 5 ideas a day. For each, ask: do I have a strong opinion, a story, or a relatable breakdown?
+- A twice-a-month content meeting: news in the niche (do we like it or not? is it an opinion or a tactic?), then your own history (camera roll from last week, then 1, 3 and 5 years ago), then outliers in your topic, then debate each one out loud with someone ("would this make a good video? what's the hook?"). Record it and sort ideas into priority, middle and backburner.
+- One big creator watches "PAC": platforms and culture. Trends are clues about what people want, and people who hate trends "are either lazy or tired".
 
 ### Frameworks
 
-**Six idea types** (Dan Koe)
+**Six idea types**
 
 1. Pain points
 2. How-to ideas
@@ -336,14 +332,14 @@ List 10 topics you could make content about. Score each 1 to 5 on demand, fit an
 5. Harsh truths
 6. Your opinion on popular ideas
 
-**4 steps to content ideas** (Codie Sanchez)
+**4 steps to content ideas**
 
 1. Swipe file: top 100 posts, hook, first 30 seconds, top comments
 2. Steal the hook, never the content
 3. Mine unanswered questions in the comments
 4. Problem bank in the audience's exact words
 
-**Content meeting** (Oren (orenmeetsworld))
+**Content meeting**
 
 1. News in the niche: like it or not, opinion or tactic
 2. Your own history: camera roll last week, 1, 3 and 5 years ago
@@ -352,23 +348,23 @@ List 10 topics you could make content about. Score each 1 to 5 on demand, fit an
 
 ### Examples
 
-- **Matt Gray, whiteboard sessions:** His audience said their favorite content was watching him help other founders live. He turned that into a format where he sits down with founders like Ali Abdaal and brings the audience into the room.
-  <br>*Why it works:* People see how he helps, then join his program. The idea came from asking customers, not guessing.
+- **Whiteboard sessions:** The audience said their favorite content was watching the creator help other founders live. That became a format where the creator sits down with well-known founders and brings the audience into the room.
+  <br>*Why it works:* People see how the creator helps, then join the program. The idea came from asking customers, not guessing.
 
 ### Common mistakes
 
-- Only consuming light social posts instead of books and heavy content at the edge of your understanding (Koe).
-- Writing ideas down later instead of the moment they arrive (Koe).
-- Describing problems in your words instead of the audience's (Codie).
-- Asking AI for ideas without giving it a hook shape (Jenny Hoyos).
+- Only consuming light social posts instead of books and heavy content at the edge of your understanding.
+- Writing ideas down later instead of the moment they arrive.
+- Describing problems in your words instead of the audience's.
+- Asking AI for ideas without giving it a hook shape.
 
 ### Try it
 
-Pick one subtopic you know well. Write one idea for each of Dan Koe's six idea types. Then open the comments under a big post in your niche and copy 3 unanswered questions word for word into a problem bank.
+Pick one subtopic you know well. Write one idea for each of the six idea types. Then open the comments under a big post in your niche and copy 3 unanswered questions word for word into a problem bank.
 
 <details><summary><b>Check yourself (4 questions)</b></summary>
 
-**1. According to Dan Koe, when should you write an idea down?**
+**1. When should you write an idea down?**
 
 - a) At the end of the week
 - b) Only after checking analytics
@@ -377,16 +373,16 @@ Pick one subtopic you know well. Write one idea for each of Dan Koe's six idea t
 
 *Answer: c) The moment it sits at the intersection of performance and excitement.* Successful creators drop everything and capture ideas that could perform and that excite them.
 
-**2. Which of Koe's six idea types does he say tend to perform extremely well?**
+**2. Which of the six idea types tends to perform extremely well?**
 
 - a) Harsh truths
 - b) Why it matters
 - c) Lessons you've learned
 - d) How-to ideas
 
-*Answer: a) Harsh truths.* Harsh truths cut through the noise, he says.
+*Answer: a) Harsh truths.* Harsh truths cut through the noise.
 
-**3. What goes in Codie Sanchez's problem bank?**
+**3. What goes in a problem bank?**
 
 - a) Competitors' weak spots
 - b) Technical terms for each problem
@@ -395,18 +391,16 @@ Pick one subtopic you know well. Write one idea for each of Dan Koe's six idea t
 
 *Answer: c) Problems in the audience's exact words.* "I'm scared I'll look stupid asking", not "capital constraints".
 
-**4. What did Matt Gray learn by asking customers about their favorite content?**
+**4. What was learned by asking customers about their favorite content?**
 
-- a) They preferred his beach lifestyle posts
+- a) They preferred lifestyle posts from the beach
 - b) They wanted more news
 - c) They wanted shorter videos
-- d) They loved watching him help other founders live
+- d) They loved watching the creator help other founders live
 
-*Answer: d) They loved watching him help other founders live.* That became his whiteboard sessions format.
+*Answer: d) They loved watching the creator help other founders live.* That became the whiteboard sessions format.
 
 </details>
-
-*Sources: Sahil Bloom, 20VC 500K; Dan Koe, Better personal brand / Interests course; Matt Gray, Content CEO / boring content makes the money; Codie Sanchez, 6 C's for starting on social in 2026; Jenny Hoyos, V.I.R.A.L. (Philipp Humm interview); Oren, art of yapping / world around a brand; GaryVee, 25% experiments*
 
 [Back to the top of this module](#top) · [All modules](../README.md#contents)
 
@@ -418,38 +412,38 @@ Pick one subtopic you know well. Write one idea for each of Dan Koe's six idea t
 
 *7 min read*
 
-> **The big idea:** An idea is more than a topic. Sam Gaudet validates every idea as topic plus angle plus format before he writes a script, and Kallaway breaks ideas into seven building blocks you can swap.
+> **The big idea:** An idea is more than a topic. Validate every idea as topic plus angle plus format before writing a script, and break ideas into seven building blocks you can swap.
 
-### Topic + angle + format (Sam Gaudet)
+### Topic + angle + format
 
-- Sam validates an idea at this level before writing any script.
+- Validate an idea at this level before writing any script.
 - Topic: enter a conversation that already exists, which is easier than starting a new one. Validate it internally (sales calls, coaching calls, team calls, your own past posts) or externally (other people's posts, Reddit, Quora, Google search trends).
 - Angle: the same topic with the wrong angle flops. Pick the angle you agree with most that you also think will perform, the one that resonates with the most people. When copying inspiration, don't change the angle too much.
-- Once you have a topic, Sam uses AI to list about 50 angles, then picks one.
+- Once you have a topic, use AI to list about 50 angles, then pick one.
 - Format: the packaging of the idea so the viewer understands it. Ranking videos work because they show visually where the creator puts each thing.
 - The 1 x 3 x 3 rule: 1 hot topic x 3 angles x 3 formats = 9 videos.
 
-### An idea is 7 Lego bricks (Kallaway)
+### An idea is 7 Lego bricks
 
-- Kallaway's idea mining splits an idea into 7 bricks: topic, angle, hook (spoken, text and visual), story structure, visual format, key visuals and audio.
+- Idea mining splits an idea into 7 bricks: topic, angle, hook (spoken, text and visual), story structure, visual format, key visuals and audio.
 - Angle is the take plus the key facts. "Apple's logo history" and "Apple's 2004 ad campaign" share a topic but are different videos.
 - How to use the bricks on outliers is in lesson 8.
 
 ### Common knowledge, better packaged
 
-- Ryan: don't reinvent the wheel, one idea per post, use numbers, results and specifics.
-- Sam: top brands (Codie Sanchez, Dan Martell, Alex Hormozi, GaryVee) say the same 5 or 6 things over and over. You can repeat yourself as long as the packaging keeps getting better.
+- Don't reinvent the wheel, one idea per post, use numbers, results and specifics.
+- Top brands say the same 5 or 6 things over and over. You can repeat yourself as long as the packaging keeps getting better.
 
 ### Frameworks
 
-**Topic + angle + format, 1 x 3 x 3** (Sam Gaudet)
+**Topic + angle + format, 1 x 3 x 3**
 
 1. Topic: an existing conversation, validated internally or externally
 2. Angle: the take you agree with that resonates with the most people
 3. Format: how the viewer will understand it
 4. 1 topic x 3 angles x 3 formats = 9 videos
 
-**7 Lego bricks of an idea** (Kallaway)
+**7 Lego bricks of an idea**
 
 1. Topic
 2. Angle (take + key facts)
@@ -461,14 +455,14 @@ Pick one subtopic you know well. Write one idea for each of Dan Koe's six idea t
 
 ### Examples
 
-- **Sam Gaudet, meetings angles:** Topic = meetings. Angle "meetings are the biggest time waster in any company" got 3M+ views. Sam says "Are meetings the best use of time?" or "meetings are the best use of time" probably wouldn't have.
+- **Meetings angles:** Topic = meetings. Angle "meetings are the biggest time waster in any company" got 3M+ views. "Are meetings the best use of time?" or "meetings are the best use of time" probably wouldn't have.
   <br>*Why it works:* Same topic, different angle, completely different result.
 
 ### Common mistakes
 
-- Writing a script before the topic, angle and format are validated (Sam).
-- Changing the angle too much when you borrow a proven idea (Sam).
-- Thinking you need secret information instead of a better package (Ryan).
+- Writing a script before the topic, angle and format are validated.
+- Changing the angle too much when you borrow a proven idea.
+- Thinking you need secret information instead of a better package.
 
 ### Try it
 
@@ -476,7 +470,7 @@ Pick one topic. Ask an AI for 20 angles on it, then choose the 3 you agree with 
 
 <details><summary><b>Check yourself (4 questions)</b></summary>
 
-**1. What is Sam Gaudet's 1 x 3 x 3 rule?**
+**1. What is the 1 x 3 x 3 rule?**
 
 - a) 1 idea a day, 3 posts, 3 reviews
 - b) 1 hook, 3 bodies, 3 CTAs
@@ -485,7 +479,7 @@ Pick one topic. Ask an AI for 20 angles on it, then choose the 3 you agree with 
 
 *Answer: d) 1 hot topic x 3 angles x 3 formats = 9 videos.* It turns one validated topic into nine pieces.
 
-**2. In Kallaway's idea bricks, what makes 'Apple's logo history' and 'Apple's 2004 ad campaign' different?**
+**2. In the idea bricks, what makes 'Apple's logo history' and 'Apple's 2004 ad campaign' different?**
 
 - a) The audio
 - b) The topic
@@ -494,27 +488,25 @@ Pick one topic. Ask an AI for 20 angles on it, then choose the 3 you agree with 
 
 *Answer: c) The angle.* Same topic (Apple), different angle: the take plus the key facts.
 
-**3. Why does Sam say it's easier to enter an existing conversation?**
+**3. Why is it easier to enter an existing conversation?**
 
 - a) Algorithms ban new topics
 - b) People are already interested in it, so demand is proven
 - c) It needs less editing
 - d) It avoids copyright problems
 
-*Answer: b) People are already interested in it, so demand is proven.* He validates topics internally and externally so he knows people already care.
+*Answer: b) People are already interested in it, so demand is proven.* Topics are validated internally and externally so you know people already care.
 
-**4. What does Ryan say made his viral article work?**
+**4. What made one creator's viral article work?**
 
 - a) A famous co-author
 - b) Secret insider data
 - c) Paid promotion
 - d) Formatting and presentation of fairly common knowledge to a specific audience
 
-*Answer: d) Formatting and presentation of fairly common knowledge to a specific audience.* He admits the content was relatively common knowledge. The package made the difference.
+*Answer: d) Formatting and presentation of fairly common knowledge to a specific audience.* The writer admits the content was relatively common knowledge. The package made the difference.
 
 </details>
-
-*Sources: Sam Gaudet, Brand Training / Yap Method / 5 Levels / No Time; Kallaway, idea mining; Kallaway, 90-day personal brand plan; Ryan (ryangrowthh), video transcripts / posts*
 
 [Back to the top of this module](#top) · [All modules](../README.md#contents)
 
@@ -526,36 +518,36 @@ Pick one topic. Ask an AI for 20 angles on it, then choose the 3 you agree with 
 
 *9 min read*
 
-> **The big idea:** Most topics have been covered. Kallaway's answer is to collide two worlds, give old knowledge a new name and frame, and lead with a contrarian belief. He calls the result the illusion of novelty.
+> **The big idea:** Most topics have been covered. The answer is to collide two worlds, give old knowledge a new name and frame, and lead with a contrarian belief. The result is called the illusion of novelty.
 
-### Non-obvious ideas: collide two worlds (Kallaway)
+### Non-obvious ideas: collide two worlds
 
-- Kallaway: creativity is merging two worlds that don't usually collide. Spend time outside your niche (in a nearby or totally unrelated field), see what works there, and collide it with a core framework you know.
-- His own examples: dopamine ladders (psychology x storytelling) and the power of suggestion (psychology x content growth).
-- Recycled ideas get views but never an obsessive audience. His claim: in the AI content era only the non-obvious, novel and unique cuts through.
-- Kallaway's story lenses: everyone covers the same topic, your lens is the angle. When Taylor Swift was at the Super Bowl, most creators covered her outfit. He covered her business impact on the NFL and got 1M views as a "category of one".
+- Creativity is merging two worlds that don't usually collide. Spend time outside your niche (in a nearby or totally unrelated field), see what works there, and collide it with a core framework you know.
+- Examples: dopamine ladders (psychology x storytelling) and the power of suggestion (psychology x content growth).
+- Recycled ideas get views but never an obsessive audience. A creator's own claim: in the AI content era only the non-obvious, novel and unique cuts through.
+- Story lenses: everyone covers the same topic, your lens is the angle. When Taylor Swift was at the Super Bowl, most creators covered her outfit. One creator covered her business impact on the NFL and got 1M views as a "category of one".
 
 ### New frame, new name, new update, new finding
 
-- Kallaway's four ways to make an old topic new: a new frame, a new name, a new update, or a new finding.
-- Naming a framework makes old knowledge feel new. He invented the names "dopamine ladders" and "illusion of novelty", and admits the latter is old persuasion psychology in a new wrapper. That is the point.
+- Four ways to make an old topic new: a new frame, a new name, a new update, or a new finding.
+- Naming a framework makes old knowledge feel new. One creator invented the names "dopamine ladders" and "illusion of novelty", and admits the latter is old persuasion psychology in a new wrapper. That is the point.
 
-### The illusion of novelty, step by step (Kallaway)
+### The illusion of novelty, step by step
 
 - New reveal plus outcome: an old topic with a new angle, tied to what the viewer wants. Example: "drinking water at the right TIME gives you more energy than your morning coffee".
-- Bullseye proof, his trust ladder: best is someone exactly like the viewer who got the result, middle is "a lot of people like you", lowest is a study or stat (it works, but people wonder "was it people like me?").
+- Bullseye proof, a trust ladder: best is someone exactly like the viewer who got the result, middle is "a lot of people like you", lowest is a study or stat (it works, but people wonder "was it people like me?").
 - Protect the illusion: never undercut yourself ("of course, this is just circadian biology, known for decades"). Deliver it like a whispered secret ("not many people know this yet..."), not like a town crier.
 
 ### The contrarian content formula
 
-- Kallaway: once your 3 to 5 contrarian beliefs are written down, pick a subtopic in your niche, state the common belief, introduce your contrarian frame (what everyone is wrong about), and explain why your frame is right. Repeat. His claim: this is all he does in every video and why he grew faster.
-- Caleb Ralston: contrarian beliefs beat titles, thumbnails and hooks as the reason the biggest brands blow up.
-- Dan Koe's harsh truths and your opinion on popular ideas (lesson 3) are the same move in idea form.
-- Sam Gaudet's own start: he took the common topic "how to get more views and followers" and added his own take, a framework to pick topics that will perform, which nobody else was saying.
+- Once your 3 to 5 contrarian beliefs are written down, pick a subtopic in your niche, state the common belief, introduce your contrarian frame (what everyone is wrong about), and explain why your frame is right. Repeat. One creator's claim: this is all they do in every video and why they grew faster.
+- Contrarian beliefs beat titles, thumbnails and hooks as the reason the biggest brands blow up.
+- Harsh truths and your opinion on popular ideas (lesson 3) are the same move in idea form.
+- One creator's own start: they took the common topic "how to get more views and followers" and added their own take, a framework to pick topics that will perform, which nobody else was saying.
 
 ### Frameworks
 
-**Illusion of novelty** (Kallaway)
+**Illusion of novelty**
 
 1. New reveal + outcome: old topic, new angle, tied to what they want
 2. Contrast framing: a true opposite of what they believe
@@ -563,7 +555,7 @@ Pick one topic. Ask an AI for 20 angles on it, then choose the 3 you agree with 
 4. Bullseye proof: someone like them got the result
 5. Protect the illusion: don't undercut, deliver it like a secret
 
-**Contrarian content formula** (Kallaway)
+**Contrarian content formula**
 
 1. Pick a subtopic
 2. State the common belief
@@ -573,25 +565,25 @@ Pick one topic. Ask an AI for 20 angles on it, then choose the 3 you agree with 
 
 ### Examples
 
-- **Kallaway, Taylor Swift at the Super Bowl:** Most creators covered her outfit. He covered her business impact on the NFL.
-  <br>*Why it works:* A different lens on the same news made him a category of one: 1M views.
-- **Kallaway, the reveal at the end of his video:** He tells viewers the name "illusion of novelty" is made up and the idea is old persuasion psychology.
-  <br>*Why it works:* Naming an old idea makes it feel new, and he proves it on the viewer.
+- **Taylor Swift at the Super Bowl:** Most creators covered her outfit. One creator covered her business impact on the NFL.
+  <br>*Why it works:* A different lens on the same news made that creator a category of one: 1M views.
+- **The reveal at the end of a video:** The creator tells viewers the name "illusion of novelty" is made up and the idea is old persuasion psychology.
+  <br>*Why it works:* Naming an old idea makes it feel new, and the creator proves it on the viewer.
 
 ### Common mistakes
 
-- Recycling the same ideas as everyone else, which can get views but not an obsessed audience (Kallaway).
-- Using a random comparison instead of a true opposite in contrast framing (Kallaway).
-- Fake urgency, which kills trust (Kallaway).
-- Undercutting your own idea by saying it's old news (Kallaway).
+- Recycling the same ideas as everyone else, which can get views but not an obsessed audience.
+- Using a random comparison instead of a true opposite in contrast framing.
+- Fake urgency, which kills trust.
+- Undercutting your own idea by saying it's old news.
 
 ### Try it
 
-Write down one common belief in your niche. Then write your contrarian frame and three reasons it's right. Finally, name the idea in 2 to 4 words, the way Kallaway named the dopamine ladder.
+Write down one common belief in your niche. Then write your contrarian frame and three reasons it's right. Finally, name the idea in 2 to 4 words, the way the dopamine ladder was named.
 
 <details><summary><b>Check yourself (4 questions)</b></summary>
 
-**1. How does Kallaway define creativity?**
+**1. How is creativity defined in this lesson?**
 
 - a) Merging two worlds that don't usually collide
 - b) Using AI to brainstorm
@@ -600,14 +592,14 @@ Write down one common belief in your niche. Then write your contrarian frame and
 
 *Answer: a) Merging two worlds that don't usually collide.* Dopamine ladders = psychology x storytelling.
 
-**2. In the illusion of novelty, which proof does Kallaway rank highest?**
+**2. In the illusion of novelty, which proof ranks highest?**
 
 - a) A celebrity quote
 - b) Someone exactly like the viewer who got the result
 - c) A big follower count
 - d) A study
 
-*Answer: b) Someone exactly like the viewer who got the result.* His trust ladder: someone like them, then many people like them, then a study.
+*Answer: b) Someone exactly like the viewer who got the result.* The trust ladder: someone like them, then many people like them, then a study.
 
 **3. What does 'protect the illusion' mean?**
 
@@ -618,18 +610,16 @@ Write down one common belief in your niche. Then write your contrarian frame and
 
 *Answer: d) Never undercut your idea by calling it old news.* Deliver it like a whispered secret, don't say "of course this has been known for decades".
 
-**4. According to Caleb Ralston, what beats titles, thumbnails and hooks as the reason big brands blow up?**
+**4. What beats titles, thumbnails and hooks as the reason big brands blow up?**
 
 - a) Posting volume
 - b) Camera quality
 - c) Contrarian beliefs
 - d) Paid ads
 
-*Answer: c) Contrarian beliefs.* Caleb says the contrarian belief is the strongest lever.
+*Answer: c) Contrarian beliefs.* The contrarian belief is the strongest lever.
 
 </details>
-
-*Sources: Kallaway, Power of suggestion; Kallaway, Illusion of novelty; Kallaway, 6 storytelling techniques; Kallaway, Art of personal branding; Caleb Ralston, Disgustingly good brand; Sam Gaudet, Model before you modify*
 
 [Back to the top of this module](#top) · [All modules](../README.md#contents)
 
@@ -641,56 +631,56 @@ Write down one common belief in your niche. Then write your contrarian frame and
 
 *9 min read*
 
-> **The big idea:** Every creator in this course learns from what already works. The rule they agree on: borrow the format, topic or hook shape, never the words or the other person's perspective, then make it yours.
+> **The big idea:** The best creators learn from what already works. The rule they agree on: borrow the format, topic or hook shape, never the words or the other person's perspective, then make it yours.
 
-### Model first (Sam Gaudet)
+### Model first
 
-- Sam: musicians play other people's songs before writing their own. Don't write your own song too early.
+- Musicians play other people's songs before writing their own. Don't write your own song too early.
 - Look at what's working for others, what worked for you before, and what's trending on Reddit and X. Find which topics, formats and angles perform.
 - "Originality is overrated": take inspiration from the topic, angle and format, never the words or the other person's perspective. Then add your own stories and experience so it's yours, not a remake.
 - Model the rise, not where they're at today: look at what big creators posted 2 to 4 years ago while they were blowing up, not what they post now.
-- Dan Koe: starting over, he'd list 5 to 10 creators making content in the style he wants, study their top content and how they grew, and plan to replicate it with his own story, ideas and experience. Also look at what products they sell. "Every great artist has references."
-- Koe: validated ideas that make people grow are already out there. Find them, make them your own, and experiment until growth is consistent.
+- Starting over, the plan would be to list 5 to 10 creators making content in the style you want, study their top content and how they grew, and plan to replicate it with your own story, ideas and experience. Also look at what products they sell. "Every great artist has references."
+- Validated ideas that make people grow are already out there. Find them, make them your own, and experiment until growth is consistent.
 
 ### Steal the format, not the content
 
-- Ryan: steal formats, not content. Look at adjacent niches and pull ideas into yours.
-- Nicolas Cole calls this the biggest lever: copy the viral FORMAT of the moment, never the content, and bend it to your niche. Platforms keep changing (Quora answers, then Medium articles, then Twitter threads, then LinkedIn carousels, now X articles), so watch your own feed: if it's in your feed, it's there for a reason.
-- Codie Sanchez: steal the hook, never the content.
-- Ryan: study outside your niche (info products, e-commerce, massive personal brands and luxury brands), then pull the ideas in. Mino Lee: format matters more than niche, so a productivity creator can study fitness videos in the same format.
-- Ernesto (ErnestoSOFTWARE) built a 6,000-videos-a-month operation on formats "proven to go viral over and over again", one of which his team invented. Creators just had to execute them correctly.
+- Steal formats, not content. Look at adjacent niches and pull ideas into yours.
+- The biggest lever: copy the viral FORMAT of the moment, never the content, and bend it to your niche. Platforms keep changing (Quora answers, then Medium articles, then Twitter threads, then LinkedIn carousels, now X articles), so watch your own feed: if it's in your feed, it's there for a reason.
+- Steal the hook, never the content.
+- Study outside your niche (info products, e-commerce, massive personal brands and luxury brands), then pull the ideas in. Format matters more than niche, so a productivity creator can study fitness videos in the same format.
+- One operation built a 6,000-videos-a-month machine on formats "proven to go viral over and over again", one of which the team invented. Creators just had to execute them correctly.
 
 ### Scroll like a creator, read like a researcher
 
-- Ryan: scroll as a creator, not a consumer. When a video hooks you, ask why, who it targeted, and read the comments, then pull it into your niche. "I've lost count of how many viral posts this hack has made me."
-- Ryan: build a swipe file of what stops YOU scrolling, then work out why. Matt Gray: build a swipe file of the top 20 posts you couldn't help saving and hold your posts to that bar.
-- Dan Koe: stop reading the internet as a consumer and start reading as a researcher. You do it to generate ideas, not for entertainment.
-- EXM7777: if you ask AI for a viral post with nothing else, you get "the average of everything it has read", which is boring. Flip the order: collect what's working on each platform now, then write from that.
-- EXM7777's weekly loop: find what's working in your niche this week, pull the best accounts and posts in full, turn every video into text, spot patterns that fit your offer, write the batch with the source posts attached, wait for approval.
-- beechinour (on EXM7777's guide): a transcript alone misses the opening frame, the pacing and what's shown as proof, so analyse the video itself.
-- XCreators' breakdown template for saved videos: why it worked, the hook (how it grabs in the first seconds), the pacing, the sound (what song), and make it yours (how to adapt it to your brand and audience).
+- Scroll as a creator, not a consumer. When a video hooks you, ask why, who it targeted, and read the comments, then pull it into your niche. "I've lost count of how many viral posts this hack has made me."
+- Build a swipe file of what stops YOU scrolling, then work out why. Another version: build a swipe file of the top 20 posts you couldn't help saving and hold your posts to that bar.
+- Stop reading the internet as a consumer and start reading as a researcher. You do it to generate ideas, not for entertainment.
+- If you ask AI for a viral post with nothing else, you get "the average of everything it has read", which is boring. Flip the order: collect what's working on each platform now, then write from that.
+- A weekly loop: find what's working in your niche this week, pull the best accounts and posts in full, turn every video into text, spot patterns that fit your offer, write the batch with the source posts attached, wait for approval.
+- One reply to that loop: a transcript alone misses the opening frame, the pacing and what's shown as proof, so analyse the video itself.
+- A breakdown template for saved videos: why it worked, the hook (how it grabs in the first seconds), the pacing, the sound (what song), and make it yours (how to adapt it to your brand and audience).
 
 ### Ads and competitor research
 
-- EXM7777 on the Meta Ad Library: ask a specific question ("which hooks are the best story ads in my niche using this month?"), not the vague "what are competitors doing?". Copy the skeleton, never the script.
+- On the Meta Ad Library: ask a specific question ("which hooks are the best story ads in my niche using this month?"), not the vague "what are competitors doing?". Copy the skeleton, never the script.
 - For winning ads, note what they say, not how they look: the hook, the order of beats (hook, problem, how it works, proof, call to action), the type of person on camera and the product angle.
-- EXM7777 on YouTube: scrape thumbnails, transcripts and titles from a list of competitors, check daily which topics trend, and turn every scraped video into a note (title, thumbnail, transcript, hook, structure) so scripts draw from a growing pile of real examples.
+- A YouTube version: scrape thumbnails, transcripts and titles from a list of competitors, check daily which topics trend, and turn every scraped video into a note (title, thumbnail, transcript, hook, structure) so scripts draw from a growing pile of real examples.
 
 ### Borrowing what's already validated
 
-- Kallaway on Ava's move: open with an already-viral clip ("wash your bread", about 66 million views) as the hook, then teach about it.
-- Kallaway notes Citizen markets music through viral stitch clips, and that cult hopping (showing a brand or celebrity people already know) lets small accounts draft off their popularity.
-- GaryVee: a new TikTok account's first post, zero followers, a slight re-edit of a clip that already did well, got 8.2M organic views (his claim).
+- One creator's move: open with an already-viral clip ("wash your bread", about 66 million views) as the hook, then teach about it.
+- Citizen markets music through viral stitch clips, and cult hopping (showing a brand or celebrity people already know) lets small accounts draft off their popularity.
+- A new TikTok account's first post, zero followers, a slight re-edit of a clip that already did well, got 8.2M organic views (a creator's own claim).
 
 ### Warnings
 
-- Ryan: "far too many people are just copycats". Never copy someone one-for-one, and "don't be reactive to what other creators are doing".
-- EXM7777: just because something went viral doesn't make it true.
-- Kallaway's desensitisation warning: if everyone copies the same motion, colour and contrast pattern, the feed numbs viewers to it and it stops working. Develop your own look.
+- "Far too many people are just copycats". Never copy someone one-for-one, and "don't be reactive to what other creators are doing".
+- Just because something went viral doesn't make it true.
+- The desensitisation warning: if everyone copies the same motion, colour and contrast pattern, the feed numbs viewers to it and it stops working. Develop your own look.
 
 ### Frameworks
 
-**Saved-video breakdown** (XCreators)
+**Saved-video breakdown**
 
 1. Why it worked
 2. The hook: how it grabs in the first seconds
@@ -698,7 +688,7 @@ Write down one common belief in your niche. Then write your contrarian frame and
 4. The sound
 5. Make it yours: adapt to your brand and audience
 
-**Weekly research loop** (EXM7777)
+**Weekly research loop**
 
 1. Find what's working in your niche this week
 2. Pull the best accounts and posts in full
@@ -709,30 +699,30 @@ Write down one common belief in your niche. Then write your contrarian frame and
 
 ### Examples
 
-- **Ava, via Kallaway:** She opened with the "wash your bread" clip that already had about 66 million views, then taught about it.
-  <br>*Why it works:* The hook was already validated, so she borrowed its proven pull.
-- **Sam Gaudet, his own start:** He took the common topic "how to get more views and followers" and added a framework for picking topics that will perform.
+- **A creator opening with a viral clip:** The creator opened with the "wash your bread" clip that already had about 66 million views, then taught about it.
+  <br>*Why it works:* The hook was already validated, so the creator borrowed its proven pull.
+- **A creator's own start:** The creator took the common topic "how to get more views and followers" and added a framework for picking topics that will perform.
   <br>*Why it works:* A modelled topic plus an original take nobody else was saying.
 
 ### Common mistakes
 
-- Copying the words or someone else's perspective instead of the format (Sam, Ryan).
-- Modelling what big creators post today instead of what they posted while growing (Sam).
-- Asking AI for viral content with no real examples attached (EXM7777).
-- Analysing only a transcript and missing the visuals and pacing (beechinour).
-- Assuming a viral claim is true (EXM7777).
+- Copying the words or someone else's perspective instead of the format.
+- Modelling what big creators post today instead of what they posted while growing.
+- Asking AI for viral content with no real examples attached.
+- Analysing only a transcript and missing the visuals and pacing.
+- Assuming a viral claim is true.
 
 ### Where the sources disagree
 
-Sam says "originality is overrated" and to model before you modify. Ryan warns that "far too many people are just copycats" and not to be reactive to other creators, and Kallaway warns copied looks desensitise the feed. They meet in the middle: all say borrow the format or topic, never copy one-for-one, and add your own take.
+One view: "originality is overrated", so model before you modify. Another: "far too many people are just copycats", so don't be reactive to other creators, and copied looks desensitise the feed. They meet in the middle: all say borrow the format or topic, never copy one-for-one, and add your own take.
 
 ### Try it
 
-Save 5 posts or videos that stopped you scrolling this week, at least 2 from outside your niche. Run each through the XCreators breakdown (why, hook, pacing, sound, make it yours) and write one idea for your own niche from the best one.
+Save 5 posts or videos that stopped you scrolling this week, at least 2 from outside your niche. Run each through the saved-video breakdown (why, hook, pacing, sound, make it yours) and write one idea for your own niche from the best one.
 
 <details><summary><b>Check yourself (4 questions)</b></summary>
 
-**1. What does Sam Gaudet mean by 'model the rise'?**
+**1. What is meant by 'model the rise'?**
 
 - a) Copy what big creators post today
 - b) Study what big creators posted 2 to 4 years ago while they were blowing up
@@ -741,7 +731,7 @@ Save 5 posts or videos that stopped you scrolling this week, at least 2 from out
 
 *Answer: b) Study what big creators posted 2 to 4 years ago while they were blowing up.* What works for a huge account now isn't what got them there.
 
-**2. According to Nicolas Cole, what is the biggest lever?**
+**2. What is the biggest lever when copying what works?**
 
 - a) Copying the viral format of the moment and bending it to your niche
 - b) Posting more often
@@ -750,7 +740,7 @@ Save 5 posts or videos that stopped you scrolling this week, at least 2 from out
 
 *Answer: a) Copying the viral format of the moment and bending it to your niche.* Formats move from platform to platform; copy the format, never the content.
 
-**3. What does EXM7777 say you get if you ask AI for a viral post with nothing else?**
+**3. What do you get if you ask AI for a viral post with nothing else?**
 
 - a) The average of everything it has read, which is boring
 - b) A copy of the top post
@@ -759,7 +749,7 @@ Save 5 posts or videos that stopped you scrolling this week, at least 2 from out
 
 *Answer: a) The average of everything it has read, which is boring.* Collect what's working first, then write from it.
 
-**4. Why does Kallaway warn against everyone copying the same look?**
+**4. Why is it a risk if everyone copies the same look?**
 
 - a) Algorithms detect it
 - b) It costs more
@@ -769,8 +759,6 @@ Save 5 posts or videos that stopped you scrolling this week, at least 2 from out
 *Answer: d) The feed desensitises viewers, so it stops working.* Develop a unique look so you still stand out.
 
 </details>
-
-*Sources: Sam Gaudet, Creative Director / 6 Months / Disgustingly Good / 10M Followers; Ryan (ryangrowthh), Distribution 101 and posts; Nicolas Cole, if I started writing on X again; Dan Koe, Better personal brand / Interests course; EXM7777, automate distribution; Kallaway, Hooks masterclass / Dopamine ladders; GaryVee, interest media*
 
 [Back to the top of this module](#top) · [All modules](../README.md#contents)
 
@@ -782,33 +770,33 @@ Save 5 posts or videos that stopped you scrolling this week, at least 2 from out
 
 *8 min read*
 
-> **The big idea:** An outlier is a post or video that did several times better than that account's normal. Paddy Galloway, MrBeast, Dan Koe, Mino Lee, Kallaway and Sam Gaudet all use outliers to find ideas, and they mostly differ on the exact cut-off.
+> **The big idea:** An outlier is a post or video that did several times better than that account's normal. Many creators, MrBeast among them, use outliers to find ideas, and they mostly differ on the exact cut-off.
 
 ### What counts as an outlier
 
-- Paddy Galloway: at least 3 to 4x the channel's average views.
-- MrBeast: a video doing multiples better than the channel average. If a channel gets 100, 100, 100 views and then 100,000, "it didn't just go viral randomly": something about the title, thumbnail or content was special. His tool (ViewStats) is built around outliers that did 10x the channel average.
-- Dan Koe: posts with at least 2x the engagement of that creator's other posts.
-- Mino Lee: only study hooks from videos with 50k+ likes, and only in your own format (talking head, faceless, list).
-- Kallaway: views divided by that channel's average (100k on a 10k-average channel = 10x). His filters: 5x+ outlier, 5%+ engagement (to screen out paid brand deals), the last 7 to 14 days for news topics and 3 to 12 months for evergreen.
-- Sam Gaudet: filter for 2 to 4x outliers in the last 6 months only, because demand moves. Prefer smaller accounts: a 10K to 100K subscriber channel with a 250K+ outlier is more interesting than a million views on a million-sub channel, where everything hits.
+- At least 3 to 4x the channel's average views.
+- A video doing multiples better than the channel average. If a channel gets 100, 100, 100 views and then 100,000, "it didn't just go viral randomly": something about the title, thumbnail or content was special. The ViewStats tool is built around outliers that did 10x the channel average.
+- Posts with at least 2x the engagement of that creator's other posts.
+- Only study hooks from videos with 50k+ likes, and only in your own format (talking head, faceless, list).
+- Views divided by that channel's average (100k on a 10k-average channel = 10x). The filters: 5x+ outlier, 5%+ engagement (to screen out paid brand deals), the last 7 to 14 days for news topics and 3 to 12 months for evergreen.
+- Filter for 2 to 4x outliers in the last 6 months only, because demand moves. Prefer smaller accounts: a 10K to 100K subscriber channel with a 250K+ outlier is more interesting than a million views on a million-sub channel, where everything hits.
 
 ### What outliers are made of
 
-- Galloway: outliers are rarely about colour grade or a camera upgrade. Those matter but don't make exponential differences. It's usually the idea, the title or the thumbnail.
-- Galloway on Jay Clouse's Jenny Hoyos interview (nearly 3M views, higher CTR in the first 24 hours): probably less about design details like text placement and more about the topic and guest, a very young girl who figured something hard out, packaged with "I can make anything viral" as thumbnail text. His next step would be to brainstorm similar subjects, like teenagers making big money from content.
-- Kallaway's outlier numbers from his hooks masterclass: his sphere video 8 million views, life-size floor plans about 15 million, Colin and Samir's Ray-Ban Meta 50 to 60 million, "wash your bread" about 66 million, a Hormozi marriage hook 6.3 million, and "13-year-olds" 2.9 million ("a massive outlier"). His generative world model video got 100,000 or less.
+- Outliers are rarely about colour grade or a camera upgrade. Those matter but don't make exponential differences. It's usually the idea, the title or the thumbnail.
+- Take a podcast interview with a very young creator (nearly 3M views, higher CTR in the first 24 hours): probably less about design details like text placement and more about the topic and guest, a very young girl who figured something hard out, packaged with "I can make anything viral" as thumbnail text. The next step would be to brainstorm similar subjects, like teenagers making big money from content.
+- Outlier numbers from real hooks: a sphere video 8 million views, life-size floor plans about 15 million, a Ray-Ban Meta video 50 to 60 million, "wash your bread" about 66 million, a marriage hook 6.3 million, and "13-year-olds" 2.9 million ("a massive outlier"). A generative world model video got 100,000 or less.
 
 ### Searching at scale
 
-- Galloway's cross-niche mining: filter for videos with at least 3x the average of the channel's last 5 videos, at least 100,000 views, posted in the last year. Search an unrelated topic (toys: "I tested 100 years of kids' toys") and adapt it ("I tested 100 years of productivity hacks / morning routines").
-- MrBeast's filtering: for example, videos over 1M views on channels over 100K subscribers that did at least 10x the channel average in the last 90 days. A video's rank out of 10 against that channel's other videos tells you how it did for them.
-- MrBeast: track a title pattern. If you plan "I built the world's largest treehouse", set an alert for any long-form video over 1M views with "I built" in the title.
+- Cross-niche mining: filter for videos with at least 3x the average of the channel's last 5 videos, at least 100,000 views, posted in the last year. Search an unrelated topic (toys: "I tested 100 years of kids' toys") and adapt it ("I tested 100 years of productivity hacks / morning routines").
+- Outlier filtering: for example, videos over 1M views on channels over 100K subscribers that did at least 10x the channel average in the last 90 days. A video's rank out of 10 against that channel's other videos tells you how it did for them.
+- Track a title pattern. If you plan "I built the world's largest treehouse", set an alert for any long-form video over 1M views with "I built" in the title.
 - MrBeast: separate long-form and short-form views when judging a channel. A billion views a month from Shorts is completely different from a billion from long form.
-- Galloway: reverse-search a viral thumbnail to see if the concept came from another niche where it already went viral.
-- Sam's research account: a new Google account that subscribes to every competitor and watches their videos, so the home feed fills with niche ideas. "Do not copy, just get inspired by the topics", then write your own title and thumbnail.
+- Reverse-search a viral thumbnail to see if the concept came from another niche where it already went viral.
+- A research account: a new Google account that subscribes to every competitor and watches their videos, so the home feed fills with niche ideas. "Do not copy, just get inspired by the topics", then write your own title and thumbnail.
 
-### Studying outliers on text platforms (Dan Koe's anomaly exercise)
+### Studying outliers on text platforms (the anomaly exercise)
 
 - 1) Write down 5 to 10 writers, thinkers or creators you admire for how they say things.
 - 2) Spend 1 hour a day for a week scrolling their accounts.
@@ -816,11 +804,11 @@ Save 5 posts or videos that stopped you scrolling this week, at least 2 from out
 - 4) Collect at least 20 to 30 posts that represent the way of writing you want.
 - 5) Under each, write 3 to 5 bullets on why it worked: the psychological patterns, how it captured attention, the value, why people care.
 - 6) Optional: paste the post into an AI prompt that breaks down why it worked, its structure and how to replicate it step by step with your own ideas.
-- Koe calls high-performing post structures "training wheels" for how you say things. When you write in a way that stops the scroll, growth is a byproduct. You don't need to grow by thousands, you just need to be growing: no growth means no traffic, which means no pay.
+- High-performing post structures are "training wheels" for how you say things. When you write in a way that stops the scroll, growth is a byproduct. You don't need to grow by thousands, you just need to be growing: no growth means no traffic, which means no pay.
 
 ### Frameworks
 
-**Anomaly exercise** (Dan Koe)
+**Anomaly exercise**
 
 1. List 5 to 10 creators you admire
 2. 1 hour a day for a week on their accounts
@@ -829,7 +817,7 @@ Save 5 posts or videos that stopped you scrolling this week, at least 2 from out
 5. Write 3 to 5 bullets on why each worked
 6. Optional: AI breakdown of structure and how to replicate
 
-**Cross-niche outlier mining** (Paddy Galloway)
+**Cross-niche outlier mining**
 
 1. 3x+ the average of the channel's last 5 videos
 2. 100,000+ views
@@ -839,20 +827,20 @@ Save 5 posts or videos that stopped you scrolling this week, at least 2 from out
 
 ### Examples
 
-- **Galloway, toys to productivity:** "I tested 100 years of kids' toys" becomes "I tested 100 years of productivity hacks" or "100 years of morning routines".
+- **Toys to productivity:** "I tested 100 years of kids' toys" becomes "I tested 100 years of productivity hacks" or "100 years of morning routines".
   <br>*Why it works:* A format proven in one niche, adapted to another.
 
 ### Common mistakes
 
 - Studying averages instead of outliers.
-- Blaming outliers on better cameras or colour grading (Galloway).
-- Treating a big channel's views as signal when everything they post hits (Sam).
+- Blaming outliers on better cameras or colour grading.
+- Treating a big channel's views as signal when everything they post hits.
 - Mixing short-form and long-form views when judging a channel (MrBeast).
-- Using old outliers when demand has moved (Sam: last 6 months).
+- Using old outliers when demand has moved (last 6 months).
 
 ### Where the sources disagree
 
-The cut-off differs: Dan Koe uses 2x, Sam 2 to 4x, Galloway 3 to 4x minimum, Kallaway 5x plus 5% engagement, MrBeast's tool 10x. Mino Lee skips ratios and uses 50k+ likes. All agree you judge a post against its own account's normal.
+The cut-off differs: 2x engagement, 2 to 4x, 3 to 4x minimum, 5x plus 5% engagement, a tool built around 10x. Another approach skips ratios and uses 50k+ likes. All agree you judge a post against its own account's normal.
 
 ### Try it
 
@@ -860,7 +848,7 @@ Pick 5 accounts in or near your niche. For each, note their typical views or lik
 
 <details><summary><b>Check yourself (4 questions)</b></summary>
 
-**1. What is Paddy Galloway's minimum for an outlier?**
+**1. What is one common minimum for an outlier?**
 
 - a) At least 3 to 4x the channel's average
 - b) 1M views
@@ -869,7 +857,7 @@ Pick 5 accounts in or near your niche. For each, note their typical views or lik
 
 *Answer: a) At least 3 to 4x the channel's average.* Judge a video against its own channel's normal.
 
-**2. Why does Sam Gaudet prefer outliers from smaller accounts?**
+**2. Why prefer outliers from smaller accounts?**
 
 - a) Small accounts are easier to copy
 - b) Small accounts post more
@@ -878,7 +866,7 @@ Pick 5 accounts in or near your niche. For each, note their typical views or lik
 
 *Answer: c) On huge channels everything hits, so a big number tells you less.* A 250K outlier on a 10K to 100K channel is real signal.
 
-**3. Why does Kallaway filter for 5%+ engagement?**
+**3. Why filter for 5%+ engagement?**
 
 - a) To avoid news topics
 - b) To screen out paid brand deals
@@ -887,7 +875,7 @@ Pick 5 accounts in or near your niche. For each, note their typical views or lik
 
 *Answer: b) To screen out paid brand deals.* Paid promotion inflates views without matching engagement.
 
-**4. According to Galloway, what are outliers usually about?**
+**4. What are outliers usually about?**
 
 - a) Colour grading
 - b) A camera upgrade
@@ -897,8 +885,6 @@ Pick 5 accounts in or near your niche. For each, note their typical views or lik
 *Answer: d) The idea, title or thumbnail.* Production matters but doesn't make exponential differences.
 
 </details>
-
-*Sources: Paddy Galloway, Jay Clouse interview; MrBeast, 100M views per video; Dan Koe, Better personal brand; Kallaway, idea mining / Hooks masterclass; Sam Gaudet, YouTube Psychology; Mino Lee, hooks 1M+ views*
 
 [Back to the top of this module](#top) · [All modules](../README.md#contents)
 
@@ -910,30 +896,30 @@ Pick 5 accounts in or near your niche. For each, note their typical views or lik
 
 *7 min read*
 
-> **The big idea:** Finding an outlier is half the job. The other half is working out why it won and what you can reuse. Galloway journals on it, Kallaway splits it into seven bricks and keeps the ones that keep winning.
+> **The big idea:** Finding an outlier is half the job. The other half is working out why it won and what you can reuse. One method is journaling on it, another is splitting it into seven bricks and keeping the ones that keep winning.
 
-### Galloway's reflection prompts
+### Reflection prompts
 
 - Screenshot any successful video into a doc or Notion and ask: 1) What made this unique (topic? thumbnail?) 2) What about the packaging made it an outlier: was it titled or thumbnailed differently from the rest of the space, or a different format? 3) Why did this go viral when similar ones didn't?
 - Watch for survivorship bias: they may have tried the same video eight other times.
 - Put videos side by side: others covered this topic for 10,000 views and this one got 150,000. Why? Also look at timing and how the views trended over time.
 - Don't dismiss it in three seconds ("they have more money", "they're bigger"). Journal on it.
 
-### Hold 2, remix 5 (Kallaway)
+### Hold 2, remix 5
 
 - Step 1: find outliers. Step 2: break each one into the 7 bricks (topic, angle, hook, story structure, visual format, key visuals, audio) and look for patterns across many winners.
 - Step 3: "hold 2, remix 5". Keep the bricks that keep winning and change the rest, like redrawing cards in poker.
 - The best place to look is the SAME content type: short video studies other short video, on any platform. A tweet's topic can inspire a video, but its hook and structure won't carry over.
-- His routine: one doc with "daily inspiration" (topics, angles and visuals worth stealing) and "long-term patterns" (hooks, structures and formats that keep showing up over weeks).
+- A routine: one doc with "daily inspiration" (topics, angles and visuals worth stealing) and "long-term patterns" (hooks, structures and formats that keep showing up over weeks).
 
 ### Learn from other people's tests
 
-- MrBeast: learning from others' title and thumbnail tests saves you running hundreds of your own.
-- His example: Ryan Trahan's "I tried every seat on the most expensive airline" tested a "24/7 service" thumbnail (him in a bed), "sleep pod \$54" and "economy vs first class". The split economy-vs-first-class thumbnail won. MrBeast had made a similar video a year earlier where a split economy/first-class thumbnail also won, so Ryan could have studied that first.
+- Learning from others' title and thumbnail tests saves you running hundreds of your own.
+- An example: a travel YouTuber's "I tried every seat on the most expensive airline" tested a "24/7 service" thumbnail (the creator in a bed), "sleep pod \$54" and "economy vs first class". The split economy-vs-first-class thumbnail won. MrBeast had made a similar video a year earlier where a split economy/first-class thumbnail also won, so that YouTuber could have studied it first.
 
 ### Frameworks
 
-**Outlier reflection** (Paddy Galloway)
+**Outlier reflection**
 
 1. What made it unique?
 2. What about the packaging made it an outlier?
@@ -941,7 +927,7 @@ Pick 5 accounts in or near your niche. For each, note their typical views or lik
 4. Compare side by side, check timing and view trend
 5. Journal, don't dismiss
 
-**Idea mining: hold 2, remix 5** (Kallaway)
+**Idea mining: hold 2, remix 5**
 
 1. Find outliers (5x+, 5%+ engagement)
 2. Break each into 7 bricks
@@ -950,23 +936,23 @@ Pick 5 accounts in or near your niche. For each, note their typical views or lik
 
 ### Examples
 
-- **MrBeast on Ryan Trahan's airline video:** Three thumbnails tested; the split economy vs first class one won, the same result MrBeast had seen a year earlier.
+- **A travel YouTuber's airline video:** Three thumbnails tested; the split economy vs first class one won, the same result MrBeast had seen a year earlier.
   <br>*Why it works:* Studying another creator's test result first can save you the test.
 
 ### Common mistakes
 
-- Dismissing a competitor's outlier as luck or budget (Galloway).
-- Ignoring survivorship bias (Galloway).
-- Borrowing a hook or structure from a different content type (Kallaway).
-- Changing every brick at once instead of holding the ones that win (Kallaway).
+- Dismissing a competitor's outlier as luck or budget.
+- Ignoring survivorship bias.
+- Borrowing a hook or structure from a different content type.
+- Changing every brick at once instead of holding the ones that win.
 
 ### Try it
 
-Take 3 outliers from last lesson. Fill in Kallaway's 7 bricks for each in a table. Circle any brick that repeats across at least 2 of them. Plan one piece that holds those 2 bricks and changes the other 5.
+Take 3 outliers from last lesson. Fill in the 7 bricks for each in a table. Circle any brick that repeats across at least 2 of them. Plan one piece that holds those 2 bricks and changes the other 5.
 
 <details><summary><b>Check yourself (4 questions)</b></summary>
 
-**1. What does Kallaway's 'hold 2, remix 5' mean?**
+**1. What does 'hold 2, remix 5' mean?**
 
 - a) Keep the bricks that keep winning and change the rest
 - b) Post 2 times, edit 5 times
@@ -975,7 +961,7 @@ Take 3 outliers from last lesson. Fill in Kallaway's 7 bricks for each in a tabl
 
 *Answer: a) Keep the bricks that keep winning and change the rest.* Like redrawing cards in poker, keep the strong ones.
 
-**2. Why does Kallaway say to study the same content type?**
+**2. Why study the same content type?**
 
 - a) A tweet's hook and structure won't carry over into a video
 - b) Text never goes viral
@@ -984,7 +970,7 @@ Take 3 outliers from last lesson. Fill in Kallaway's 7 bricks for each in a tabl
 
 *Answer: a) A tweet's hook and structure won't carry over into a video.* Topics can cross formats, hooks and structures mostly can't.
 
-**3. Which bias does Galloway warn about when studying a viral video?**
+**3. Which bias is a risk when studying a viral video?**
 
 - a) Anchoring
 - b) Recency bias
@@ -993,7 +979,7 @@ Take 3 outliers from last lesson. Fill in Kallaway's 7 bricks for each in a tabl
 
 *Answer: d) Survivorship bias: they may have tried it eight times.* You only see the version that won.
 
-**4. What did MrBeast say Ryan Trahan could have done before his thumbnail test?**
+**4. What could a travel YouTuber have done before a thumbnail test?**
 
 - a) Skip thumbnails
 - b) Hire a designer
@@ -1003,8 +989,6 @@ Take 3 outliers from last lesson. Fill in Kallaway's 7 bricks for each in a tabl
 *Answer: d) Study MrBeast's similar test from a year earlier.* The split economy vs first class thumbnail had already won before.
 
 </details>
-
-*Sources: Paddy Galloway, Jay Clouse interview; Kallaway, idea mining; MrBeast, 100M views per video*
 
 [Back to the top of this module](#top) · [All modules](../README.md#contents)
 
@@ -1016,42 +1000,42 @@ Take 3 outliers from last lesson. Fill in Kallaway's 7 bricks for each in a tabl
 
 *8 min read*
 
-> **The big idea:** The best creators aren't more creative, they kill bad ideas faster. Galloway runs an elimination funnel, Sam runs ideation meetings, and Kallaway asks one question first: what will people see in the first few seconds?
+> **The big idea:** The best creators aren't more creative, they kill bad ideas faster. One approach is an elimination funnel, another is ideation meetings, and another asks one question first: what will people see in the first few seconds?
 
-### Kill bad ideas faster (Sam Gaudet)
+### Kill bad ideas faster
 
-- Sam: "the best creators aren't more creative, they kill bad ideas faster". Many people find one outlier and remake it, instead of finding 20 to 30 topics and killing 25.
-- His ideation meetings: weekly, per platform, 3 to 4 people. Nobody brainstorms in the meeting. Everyone brings 3 to 5 ideas they found during the week.
+- "The best creators aren't more creative, they kill bad ideas faster". Many people find one outlier and remake it, instead of finding 20 to 30 topics and killing 25.
+- Ideation meetings: weekly, per platform, 3 to 4 people. Nobody brainstorms in the meeting. Everyone brings 3 to 5 ideas they found during the week.
 - Abundance: present 12 YouTube ideas, make 4. The other 8 weren't wasted, you picked the best of the best.
 - Solo version: find 20 ideas in one session, then in a second session kill as many as you can.
 - Every idea is pitched in 3 parts: topic (AI tools), angle (these AI tools will make you money), format (a tier list ranked by how much money each makes you).
-- Split ideas from execution. A MrBeast employee asked Sam if the person who comes up with ideas also makes them. When he said yes: "Don't do that", because you'll pick the easiest thing to make, not the one that performs best. Split by people or by time (ideas from this week get made in two weeks).
+- Split ideas from execution. A MrBeast employee once asked whether the person who comes up with ideas also makes them. When the answer was yes: "Don't do that", because you'll pick the easiest thing to make, not the one that performs best. Split by people or by time (ideas from this week get made in two weeks).
 
-### Galloway's idea funnel
+### The idea funnel
 
 - Start with 100 ideas. Cut the ones without CCN fit (about 40 left). Cut the ones that aren't feasible.
 - Ask: can I write the title and sketch the thumbnail? (about 20 left). Ask: am I excited to make it? (about 10 left).
 - Write a one-pager for each: a rough thumbnail, a title, 1 to 3 points on why it will work, and a log line. Ask other people. Make the best 3 or 4.
-- Galloway's three sources for the funnel: internal (what worked for you), external (what worked for others) and innovation.
+- Three sources for the funnel: internal (what worked for you), external (what worked for others) and innovation.
 - Overthinking needs a time limit: overthink a title for an hour, not a week. There are always views left on the table, but time passing costs more.
 
-### Pick the idea by its key visual (Kallaway)
+### Pick the idea by its key visual
 
-- When an idea arrives, Kallaway first asks what visual he has for the first 3 to 5 seconds. No good visual: reconsider making it, or manufacture one (motion graphics, stock footage).
-- Concrete beats abstract. His "future of storytelling" and "generative world model" videos failed. "Life-size floor plans", with the thing on screen, worked (about 15 million views). If the B-roll can't explain it, can the idea. There are always more ideas.
+- When an idea arrives, first ask what visual you have for the first 3 to 5 seconds. No good visual: reconsider making it, or manufacture one (motion graphics, stock footage).
+- Concrete beats abstract. "Future of storytelling" and "generative world model" videos failed. "Life-size floor plans", with the thing on screen, worked (about 15 million views). If the B-roll can't explain it, can the idea. There are always more ideas.
 - Among the facts or angles of a story, choose the one with the biggest contrast. It picks the hook format.
 - Something people have never seen carries built-in contrast just by existing.
-- Jenny Hoyos' V in V.I.R.A.L. is the same idea: visual shock. Even educational posts need a picture. Gohar Khan's jar (golf balls, then rocks, then sand all fit, the other order doesn't, so do big tasks first). In text, a concrete image beats an abstract claim.
+- The V in the V.I.R.A.L. checklist is the same idea: visual shock. Even educational posts need a picture. The jar story (golf balls, then rocks, then sand all fit, the other order doesn't, so do big tasks first). In text, a concrete image beats an abstract claim.
 
 ### Final checks before you commit
 
-- Kallaway's 5-point checklist for every piece: relevant to the ideal viewer (narrow, it should feel like you read their mind), small effort for a big reward, non-obvious, proven, tactically doable.
-- Galloway's council: do people in your niche get excited when you mention it?
-- Dan Koe's intersection: will it perform, and are you genuinely excited to say it your way?
+- A 5-point checklist for every piece: relevant to the ideal viewer (narrow, it should feel like you read their mind), small effort for a big reward, non-obvious, proven, tactically doable.
+- The council: do people in your niche get excited when you mention it?
+- The intersection: will it perform, and are you genuinely excited to say it your way?
 
 ### Frameworks
 
-**Idea funnel (elimination)** (Paddy Galloway)
+**Idea funnel (elimination)**
 
 1. 100 ideas
 2. Cut no CCN fit (about 40 left)
@@ -1061,7 +1045,7 @@ Take 3 outliers from last lesson. Fill in Kallaway's 7 bricks for each in a tabl
 6. One-pager each: thumbnail, title, why it works, log line
 7. Ask others, make the best 3 or 4
 
-**Ideation meeting** (Sam Gaudet)
+**Ideation meeting**
 
 1. Weekly, per platform, 3 to 4 people
 2. Everyone brings 3 to 5 ideas found during the week
@@ -1069,7 +1053,7 @@ Take 3 outliers from last lesson. Fill in Kallaway's 7 bricks for each in a tabl
 4. Kill most, make the best
 5. Ideas made later or by different people
 
-**5-point idea checklist** (Kallaway)
+**5-point idea checklist**
 
 1. Relevant to the ideal viewer
 2. Small effort, big reward
@@ -1079,23 +1063,23 @@ Take 3 outliers from last lesson. Fill in Kallaway's 7 bricks for each in a tabl
 
 ### Examples
 
-- **Kallaway, floor plans vs world models:** "Generative world model" got 100,000 views or less. "These are called life-size floor plans, you can walk through your exact home design before you build it" got about 15 million.
+- **Floor plans vs world models:** "Generative world model" got 100,000 views or less. "These are called life-size floor plans, you can walk through your exact home design before you build it" got about 15 million.
   <br>*Why it works:* The floor plan idea had a concrete visual for the first seconds. The abstract one didn't.
 
 ### Common mistakes
 
-- Remaking one outlier instead of finding 20 to 30 topics and killing most (Sam).
-- Letting the person who makes the content also choose ideas, so the easiest ones win (Sam).
-- Picking abstract ideas with no visual for the first seconds (Kallaway).
-- Spending a week on a title instead of an hour (Galloway).
+- Remaking one outlier instead of finding 20 to 30 topics and killing most.
+- Letting the person who makes the content also choose ideas, so the easiest ones win.
+- Picking abstract ideas with no visual for the first seconds.
+- Spending a week on a title instead of an hour.
 
 ### Try it
 
-Write 20 ideas in 10 minutes. Then, in a separate session, run them through Galloway's funnel: cut no CCN fit, cut not feasible, cut any you can't title and picture, cut any you aren't excited about. Write a one-pager for the last 3.
+Write 20 ideas in 10 minutes. Then, in a separate session, run them through the idea funnel: cut no CCN fit, cut not feasible, cut any you can't title and picture, cut any you aren't excited about. Write a one-pager for the last 3.
 
 <details><summary><b>Check yourself (4 questions)</b></summary>
 
-**1. What does Sam Gaudet say the best creators do differently?**
+**1. What do the best creators do differently?**
 
 - a) They are more creative
 - b) They have bigger teams
@@ -1104,16 +1088,16 @@ Write 20 ideas in 10 minutes. Then, in a separate session, run them through Gall
 
 *Answer: d) They kill bad ideas faster.* Find 20 to 30 topics and kill 25, rather than remaking one outlier.
 
-**2. Why does Sam split idea-picking from making?**
+**2. Why split idea-picking from making?**
 
 - a) Algorithms prefer it
 - b) Makers pick the easiest thing to make, not the best-performing
 - c) Makers don't like ideas
 - d) It's cheaper
 
-*Answer: b) Makers pick the easiest thing to make, not the best-performing.* A MrBeast employee told him "Don't do that".
+*Answer: b) Makers pick the easiest thing to make, not the best-performing.* A MrBeast employee said "Don't do that".
 
-**3. What is the first question Kallaway asks when an idea arrives?**
+**3. What is the first question to ask when an idea arrives?**
 
 - a) What visual do I have for the first 3 to 5 seconds?
 - b) What hashtag fits?
@@ -1122,7 +1106,7 @@ Write 20 ideas in 10 minutes. Then, in a separate session, run them through Gall
 
 *Answer: a) What visual do I have for the first 3 to 5 seconds?.* If the B-roll can't explain it, can the idea.
 
-**4. In Galloway's funnel, what does each finalist get before production?**
+**4. In the idea funnel, what does each finalist get before production?**
 
 - a) A paid test
 - b) A full script
@@ -1132,8 +1116,6 @@ Write 20 ideas in 10 minutes. Then, in a separate session, run them through Gall
 *Answer: d) A one-pager with rough thumbnail, title, why it works and a log line.* Then ask other people and make the best 3 or 4.
 
 </details>
-
-*Sources: Sam Gaudet, 5 Levels / Brutal Truths 2026; Paddy Galloway, idea funnel (Jay Clouse interview); Kallaway, Hooks masterclass; Kallaway, Power of suggestion; Jenny Hoyos, V.I.R.A.L. (Philipp Humm interview); Dan Koe, Better personal brand*
 
 [Back to the top of this module](#top) · [All modules](../README.md#contents)
 
@@ -1145,38 +1127,38 @@ Write 20 ideas in 10 minutes. Then, in a separate session, run them through Gall
 
 *8 min read*
 
-> **The big idea:** Packaging is how an idea is presented before anyone consumes it. Ryan says the same idea can get 5 to 10x more with better packaging, and Galloway says small packaging gains have huge, non-linear returns.
+> **The big idea:** Packaging is how an idea is presented before anyone consumes it. The same idea can get 5 to 10x more with better packaging, and small packaging gains have huge, non-linear returns.
 
 ### What packaging is
 
-- Kallaway: "If they don't click, they don't watch" (quoting MrBeast). On YouTube, packaging = title + thumbnail + the first 30 to 60 seconds. On short form = the first caption line + thumbnail + the first 3 to 5 second hook.
-- Ryan: packaging is its own skill, separate from writing. Great packaging invites curiosity, promises a clear payoff, is specific, and matches the platform. It's usually a visual (thumbnail) plus words (title).
-- Ryan: formatting is part of the hook. The shape of a post decides whether people start reading. "It's about reducing friction." High friction kills: "if I have to go through reading some complex graphic to get value, I'm just going to scroll."
-- Sam Gaudet's first C of his four C's is "click", made of the 3 T's: topic, title, thumbnail.
+- As one top creator put it: "If they don't click, they don't watch". On YouTube, packaging = title + thumbnail + the first 30 to 60 seconds. On short form = the first caption line + thumbnail + the first 3 to 5 second hook.
+- Packaging is its own skill, separate from writing. Great packaging invites curiosity, promises a clear payoff, is specific, and matches the platform. It's usually a visual (thumbnail) plus words (title).
+- Formatting is part of the hook. The shape of a post decides whether people start reading. "It's about reducing friction." High friction kills: "if I have to go through reading some complex graphic to get value, I'm just going to scroll."
+- The first C of the four C's is "click", made of the 3 T's: topic, title, thumbnail.
 
 ### Same idea, very different results
 
-- Ryan: "A 6/10 Head of Content can have an idea flop. An 11/10 can take that exact same idea, package it differently, and get 5-10x the results." In his videos: a 6/10 gets 10k views, an 11/10 packages it differently and gets 100k.
-- Sam: "you don't have a content problem, you have a packaging problem". The same information packaged differently performs completely differently. His team's old YouTube videos had great information but unclear packaging, and things improved once they changed it.
-- Shann Holmberg: the AI's default first line is almost always wrong. Rewrite the first 2 sentences yourself.
+- "A 6/10 Head of Content can have an idea flop. An 11/10 can take that exact same idea, package it differently, and get 5-10x the results." In that example: a 6/10 gets 10k views, an 11/10 packages it differently and gets 100k.
+- "You don't have a content problem, you have a packaging problem". The same information packaged differently performs completely differently. One team's old YouTube videos had great information but unclear packaging, and things improved once they changed it.
+- The AI's default first line is almost always wrong. Rewrite the first 2 sentences yourself.
 
-### Small differences, non-linear returns (Galloway)
+### Small differences, non-linear returns
 
 - "A 20% better title could mean double, triple, quadruple, it could mean 100 times more views." YouTube is an exponential game: being a bit better with a lot of people starts a snowball.
-- His estimates: with a 10 to 20% worse title, Red Bull's drone video might have had 2 to 3M instead of 20M+, and the Sahara video might have had 500,000 instead of 12M.
-- When clients prefer a weaker title because "it feels more aligned with our brand", he asks: if your title gets 1M and mine 10M, would you feel the same? He admits he can't know the exact numbers, but 10 to 20% better in an exponential game has outsized returns.
-- Mino Lee at hook level: one or two words can be the difference between 100K and 1M views.
+- Estimates: with a 10 to 20% worse title, Red Bull's drone video might have had 2 to 3M instead of 20M+, and the Sahara video might have had 500,000 instead of 12M.
+- When clients prefer a weaker title because "it feels more aligned with our brand", the answer is to ask: if your title gets 1M and mine 10M, would you feel the same? The exact numbers can't be known, but 10 to 20% better in an exponential game has outsized returns.
+- At hook level: one or two words can be the difference between 100K and 1M views.
 
 ### How much time packaging deserves
 
-- Ryan: spend about 50/50 on content and packaging. Most people do 95/5.
-- Ryan: 80% of effort goes into 3 things: hook, packaging and value. Top creators "obsess over hooks/packaging more than the content itself".
-- Galloway: top creators spend far more time before recording than beginners do.
-- Kallaway calls hooks "the 80 of the 80/20". Mino Lee says the hook is 80% of why a video gets 1k vs 100k.
-- Galloway's principle: don't put 5% of your time into something that's 50% of the game. In his opinion the idea, title and thumbnail make up at least 50% of a video's performance, yet most creators he sees put about 5% of their time into them. He admits people might disagree with the exact ratio.
-- Scripting, filming and editing will always take most of the time, but he says the return on time spent on the idea and packaging is often much higher. His clients make 10+ thumbnails per video, sometimes 50+, and his team will come up with as many as 500 ideas to find one banger. His advice for everyone else: start by giving packaging more than 5%.
+- Spend about 50/50 on content and packaging. Most people do 95/5.
+- 80% of effort goes into 3 things: hook, packaging and value. Top creators "obsess over hooks/packaging more than the content itself".
+- Top creators spend far more time before recording than beginners do.
+- Hooks are "the 80 of the 80/20". Another view: the hook is 80% of why a video gets 1k vs 100k.
+- A principle: don't put 5% of your time into something that's 50% of the game. In one creator's opinion the idea, title and thumbnail make up at least 50% of a video's performance, yet most creators put about 5% of their time into them. The exact ratio is open to disagreement.
+- Scripting, filming and editing will always take most of the time, but the return on time spent on the idea and packaging is often much higher. Some channels make 10+ thumbnails per video, sometimes 50+, and one team will come up with as many as 500 ideas to find one banger. The advice for everyone else: start by giving packaging more than 5%.
 
-### How people actually choose (Kallaway's packaging tips)
+### How people actually choose (packaging tips)
 
 - On YouTube: glance at the thumbnail (colour and motion only), read the title (shorter means more of it gets understood), look back at the thumbnail to understand it, then click.
 - Trust score: people only click packaging above their personal trust line. The more painful their problem, the lower the line. Sloppy design pulls the trust score down.
@@ -1185,14 +1167,14 @@ Write 20 ideas in 10 minutes. Then, in a separate session, run them through Gall
 
 ### Frameworks
 
-**What great packaging does** (Ryan (ryangrowthh))
+**What great packaging does**
 
 1. Invites curiosity
 2. Promises a clear payoff
 3. Is specific
 4. Matches the platform
 
-**How a viewer picks a YouTube video** (Kallaway)
+**How a viewer picks a YouTube video**
 
 1. Glance at thumbnail: colour and motion
 2. Read the title
@@ -1202,33 +1184,33 @@ Write 20 ideas in 10 minutes. Then, in a separate session, run them through Gall
 
 ### Examples
 
-- **Galloway, Red Bull drone vs F1 car:** "World's fastest camera drone vs F1 car" got 20M+ views (his claim). A 10 to 20% worse title might have got 2 to 3M.
+- **Red Bull drone vs F1 car:** "World's fastest camera drone vs F1 car" got 20M+ views (a creator's own account). A 10 to 20% worse title might have got 2 to 3M.
   <br>*Why it works:* Packaging returns aren't linear.
 
 ### Common mistakes
 
-- Spending 95% on content and 5% on packaging (Ryan).
-- Choosing a weaker title because it feels more on-brand (Galloway).
-- Keeping the AI's default first line (Shann Holmberg).
-- High-friction posts that look hard to read (Ryan).
-- An intro that doesn't confirm the title's promise (Kallaway).
+- Spending 95% on content and 5% on packaging.
+- Choosing a weaker title because it feels more on-brand.
+- Keeping the AI's default first line.
+- High-friction posts that look hard to read.
+- An intro that doesn't confirm the title's promise.
 
 ### Try it
 
-Take one post or video that underperformed. Without changing the content, write 5 new titles or first lines and 2 new visual ideas. Pick the strongest using Ryan's four tests: curiosity, clear payoff, specific, fits the platform.
+Take one post or video that underperformed. Without changing the content, write 5 new titles or first lines and 2 new visual ideas. Pick the strongest using four tests: curiosity, clear payoff, specific, fits the platform.
 
 <details><summary><b>Check yourself (4 questions)</b></summary>
 
-**1. What split between content and packaging does Ryan recommend?**
+**1. What split between content and packaging is recommended?**
 
 - a) 80/20 content
 - b) 100% content
 - c) 95/5
 - d) 50/50
 
-*Answer: d) 50/50.* Most people do 95/5. He says closer to 50/50.
+*Answer: d) 50/50.* Most people do 95/5. The advice is closer to 50/50.
 
-**2. What does Galloway say a 20% better title can mean?**
+**2. What can a 20% better title mean?**
 
 - a) No difference
 - b) Fewer views
@@ -1237,7 +1219,7 @@ Take one post or video that underperformed. Without changing the content, write 
 
 *Answer: c) Double, triple, or even 100 times more views.* YouTube is an exponential game, so small gains snowball.
 
-**3. What is Kallaway's 'trust score'?**
+**3. What is the 'trust score'?**
 
 - a) People only click packaging above their personal trust line
 - b) A follower count
@@ -1246,7 +1228,7 @@ Take one post or video that underperformed. Without changing the content, write 
 
 *Answer: a) People only click packaging above their personal trust line.* The more painful their problem, the lower the line. Sloppy design lowers trust.
 
-**4. According to Shaan Puri, when is a headline clickbait?**
+**4. When is a headline clickbait?**
 
 - a) When it asks a question
 - b) When it uses a number
@@ -1256,8 +1238,6 @@ Take one post or video that underperformed. Without changing the content, write 
 *Answer: c) Only when the content doesn't pay off the promise.* No clickbait headlines, only clickbait content.
 
 </details>
-
-*Sources: Ryan (ryangrowthh), How to Be a World-Class Head of Content / Distribution 101; Paddy Galloway, Jay Clouse interview; Kallaway, 10 packaging tips; Sam Gaudet, 6 Months / 7 Strategies / Brutal Truths 2026; Shaan Puri with Dickie Bush and Nicolas Cole, Viral Writing 101; Mino Lee, hooks 1M+ views; Paddy Galloway, 5 Principles That Helped Me Generate 50 Billion Views (X article)*
 
 [Back to the top of this module](#top) · [All modules](../README.md#contents)
 
@@ -1269,51 +1249,51 @@ Take one post or video that underperformed. Without changing the content, write 
 
 *9 min read*
 
-> **The big idea:** A thumbnail has one job, to get the click. Galloway, Sam Gaudet, Kallaway and Ryan all say the same thing in different words: fewer things, clearer emotion, understood in a split second.
+> **The big idea:** A thumbnail has one job, to get the click. Top creators say the same thing in different words: fewer things, clearer emotion, understood in a split second.
 
-### Galloway's rules for simple thumbnails
+### Rules for simple thumbnails
 
-- Paddy Galloway: don't get caught up in design aesthetics. Show something simple.
-- Ryan says the only job of a thumbnail or visual is to get the click, and 'the less, the better'.
-- Glance test (Galloway): put the thumbnail on a Google Slide with a blank white slide before and after it. Keep it small and flick onto it quickly. Can you process it in a split second?
-- Three element rule (Galloway says he popularized it in a video years ago): no more than three things for the viewer to focus on, ideally one to three. A face, another face, an item, text, a logo and more text is too much.
-- Beginners fill all the space. Galloway says many of the most viral thumbnails have empty space, for example just an arrow, a saw and a face.
-- Simplicity plus slight exaggeration, without clickbait, is what Galloway calls 'a really nice formula'. His example is gold on the world's most expensive saw: exaggerated a little, but it does not mislead.
-- Culture matters, so study the thumbnails in your own niche. Galloway's observation: in countries like Singapore and Malaysia (especially Asian, non-English-speaking audiences) people more often click thumbnails with a lot more text than in the Western world.
-- Glance test, in numbers (X article): can someone understand the idea, title and thumbnail in under a second? He watches creators scroll their own feed at break-neck speed, then make packaging that needs 5 seconds to read, which he says is probably 10x more time than it will get.
-- His limits: titles under 60 characters (longer only when it really needs it), thumbnail text under 5 words, 1 to 3 focus areas. Then check how the elements interact, for example text that blends into the background. If it fails the test, keep simplifying.
+- Don't get caught up in design aesthetics. Show something simple.
+- The only job of a thumbnail or visual is to get the click, and 'the less, the better'.
+- Glance test: put the thumbnail on a Google Slide with a blank white slide before and after it. Keep it small and flick onto it quickly. Can you process it in a split second?
+- Three element rule: no more than three things for the viewer to focus on, ideally one to three. A face, another face, an item, text, a logo and more text is too much.
+- Beginners fill all the space. Many of the most viral thumbnails have empty space, for example just an arrow, a saw and a face.
+- Simplicity plus slight exaggeration, without clickbait, is 'a really nice formula'. An example is gold on the world's most expensive saw: exaggerated a little, but it does not mislead.
+- Culture matters, so study the thumbnails in your own niche. One observation: in countries like Singapore and Malaysia (especially Asian, non-English-speaking audiences) people more often click thumbnails with a lot more text than in the Western world.
+- Glance test, in numbers: can someone understand the idea, title and thumbnail in under a second? Creators scroll their own feed at break-neck speed, then make packaging that needs 5 seconds to read, which is probably 10x more time than it will get.
+- The limits: titles under 60 characters (longer only when it really needs it), thumbnail text under 5 words, 1 to 3 focus areas. Then check how the elements interact, for example text that blends into the background. If it fails the test, keep simplifying.
 
-### Sam Gaudet's thumbnail recipe
+### A thumbnail recipe
 
-- Sam studied Dan Koe's 6 best videos of the last year and found a pattern he also calls a three element rule.
+- A study of one creator's 6 best videos of the last year found a pattern that is also called a three element rule.
 - Element 1: a big face with a clear emotion. People are drawn to eyes, and it builds face recognition.
-- The emotion must match the title. A title like 'Stop wasting your life' needs Dan clearly upset. A big smile on a negative title disconnects.
-- Element 2: short text of 3 to 5 words. People scan, they don't read. Sam says Dan's 4 best performers all had exactly 4 words.
+- The emotion must match the title. A title like 'Stop wasting your life' needs the person clearly upset. A big smile on a negative title disconnects.
+- Element 2: short text of 3 to 5 words. People scan, they don't read. In that study the 4 best performers all had exactly 4 words.
 - Element 3, optional: one visual that reinforces the idea, such as money flying around.
 - Never repeat the title on the thumbnail. You get two chances to make the viewer feel something, so don't waste one.
-- Sam's packaged example: for the title 'here's how to grow a business so fast it feels like cheating', the thumbnail adds to the title with text like 'faster than the 99%' or 'unlock extreme growth' instead of repeating it.
+- A packaged example: for the title 'here's how to grow a business so fast it feels like cheating', the thumbnail adds to the title with text like 'faster than the 99%' or 'unlock extreme growth' instead of repeating it.
 
-### Kallaway: stand out, then check dark mode
+### Stand out, then check dark mode
 
-- Invert your niche's look. If everyone's thumbnails are dark and busy, go light and minimal, and the other way round. Kallaway says the brain spots colour and brightness differences before it reads anything.
-- Check your thumbnail in dark mode. Kallaway says 80%+ of YouTube viewers browse in dark mode (his figure).
+- Invert your niche's look. If everyone's thumbnails are dark and busy, go light and minimal, and the other way round. The brain spots colour and brightness differences before it reads anything.
+- Check your thumbnail in dark mode. 80%+ of YouTube viewers browse in dark mode (one creator's figure).
 
-### What makes the MrBeast island thumbnail great (Galloway's 5 points)
+### What makes the MrBeast island thumbnail great (5 points)
 
-- 1) The person: Jimmy himself fills 33% of the frame because he is the most recognizable brand. He has an excited open-mouth smile (Galloway says that is in 76% of his last year's videos) and brightened eyes.
+- 1) The person: Jimmy himself fills 33% of the frame because he is the most recognizable brand. He has an excited open-mouth smile (an analysis found it in 76% of his last year's videos) and brightened eyes.
 - 2) Colour balance and contrast: red headphones against a light blue and green island. Saturated but not overdone, so it stays realistic.
 - 3) Objects that show scale, such as a boat and a volcano.
 - 4) Micro details that add luxury and a subtle brand: a roller coaster, the Beast Burger building and a giant gold statue. A parachuting figure adds scale and intrigue.
-- 5) Simplicity: zoomed out, it is still easy to see what is happening. Galloway's line: 'thumbnails should be instantly understandable at any size'.
+- 5) Simplicity: zoomed out, it is still easy to see what is happening. The line: 'thumbnails should be instantly understandable at any size'.
 
 ### Finding and testing thumbnail ideas
 
 - MrBeast on inspiration: search a scene in words, for example 'a person standing next to a tractor', to see how others angled the camera to make the object look big. Then search by similar thumbnails.
-- Built-in title and thumbnail A/B/C testing lets you test your theories about which option gets more clicks (Galloway).
-- CTR is fickle (Galloway). The more impressions a video gets, the lower the CTR typically drops, so lifetime CTR isn't very useful. But clicking is extremely important, and 'CTR is useless' does not mean thumbnails don't matter.
-- Galloway's observation: first-hour and first-24-hour CTR correlates strongly with long-term performance on many established channels.
+- Built-in title and thumbnail A/B/C testing lets you test your theories about which option gets more clicks.
+- CTR is fickle. The more impressions a video gets, the lower the CTR typically drops, so lifetime CTR isn't very useful. But clicking is extremely important, and 'CTR is useless' does not mean thumbnails don't matter.
+- An observation: first-hour and first-24-hour CTR correlates strongly with long-term performance on many established channels.
 
-### The same video's opening (Galloway's MrBeast intro breakdown)
+### The same video's opening (a MrBeast intro breakdown)
 
 - Establish scale: zoom out to reveal the whole island, or show 100 people in a line.
 - First challenge by second 17.
@@ -1321,7 +1301,7 @@ Take one post or video that underperformed. Without changing the content, write 
 
 ### Frameworks
 
-**Glance test and three element rule** (Paddy Galloway)
+**Glance test and three element rule**
 
 1. Put the thumbnail small between two blank slides
 2. Flick onto it: can you get it in a split second?
@@ -1329,7 +1309,7 @@ Take one post or video that underperformed. Without changing the content, write 
 4. Leave empty space
 5. Exaggerate slightly, never mislead
 
-**Sam's thumbnail recipe** (Sam Gaudet)
+**The thumbnail recipe**
 
 1. A big face with a clear emotion
 2. The emotion matches the title
@@ -1337,7 +1317,7 @@ Take one post or video that underperformed. Without changing the content, write 
 4. Optional: one visual that reinforces the idea
 5. Never repeat the title
 
-**5 things that make a great thumbnail** (Paddy Galloway (on the MrBeast island thumbnail))
+**5 things that make a great thumbnail**
 
 1. The recognizable person at about a third of the frame
 2. Colour balance and contrast
@@ -1347,48 +1327,48 @@ Take one post or video that underperformed. Without changing the content, write 
 
 ### Examples
 
-- **Galloway, the saw thumbnail:** Many of the most viral thumbnails have empty space. One example Galloway gives is just an arrow, a saw and a face, with gold on the world's most expensive saw.
+- **The saw thumbnail:** Many of the most viral thumbnails have empty space. One example is just an arrow, a saw and a face, with gold on the world's most expensive saw.
   <br>*Why it works:* Three things to look at, a little exaggeration, no lie.
-- **Sam on Dan Koe's thumbnails:** A title like 'Stop wasting your life' paired with Dan clearly upset, with about 4 words of text.
+- **A creator's best thumbnails:** A title like 'Stop wasting your life' paired with the creator clearly upset, with about 4 words of text.
   <br>*Why it works:* Emotion matches the title, text is short, the title is not repeated.
 
 ### Common mistakes
 
-- Filling every inch of the thumbnail with a face, another face, an item, text and a logo (Galloway).
-- A big smile on a negative title (Sam).
-- Repeating the title word for word on the thumbnail (Sam).
-- Getting caught up in design aesthetics instead of one clear thing (Galloway).
-- Judging a thumbnail by lifetime CTR alone (Galloway).
+- Filling every inch of the thumbnail with a face, another face, an item, text and a logo.
+- A big smile on a negative title.
+- Repeating the title word for word on the thumbnail.
+- Getting caught up in design aesthetics instead of one clear thing.
+- Judging a thumbnail by lifetime CTR alone.
 
 ### Where the sources disagree
 
-Sam says short text of 3 to 5 words, because people scan and don't read. Galloway says audiences in places like Singapore and Malaysia more often click thumbnails with a lot more text than Western audiences. Both tell you to study your own niche's thumbnails first.
+One view: short text of 3 to 5 words, because people scan and don't read. Another: audiences in places like Singapore and Malaysia more often click thumbnails with a lot more text than Western audiences. Both say study your own niche's thumbnails first.
 
 ### Try it
 
-Take one thumbnail and run Galloway's glance test: put it small between two blank slides and flick onto it. If you can't say what it is in a split second, cut things until you can.
+Take one thumbnail and run the glance test: put it small between two blank slides and flick onto it. If you can't say what it is in a split second, cut things until you can.
 
 <details><summary><b>Check yourself (4 questions)</b></summary>
 
-**1. What is Galloway's three element rule?**
+**1. What is the three element rule?**
 
 - a) Use three colours only
 - b) No more than three things for the viewer to focus on, ideally one to three
 - c) Three words of text on every thumbnail
 - d) Three faces to show a crowd
 
-*Answer: b) No more than three things for the viewer to focus on, ideally one to three.* Galloway says a face, another face, an item, text, a logo and more text is too much. Keep it to one to three things.
+*Answer: b) No more than three things for the viewer to focus on, ideally one to three.* A face, another face, an item, text, a logo and more text is too much. Keep it to one to three things.
 
-**2. According to Sam Gaudet, what should the text on a thumbnail do compared with the title?**
+**2. What should the text on a thumbnail do compared with the title?**
 
 - a) Repeat the title exactly
 - b) Be left out completely
 - c) Be longer than the title
 - d) Add to the title instead of repeating it
 
-*Answer: d) Add to the title instead of repeating it.* Sam says never repeat the title on the thumbnail. You get two chances to make them feel something.
+*Answer: d) Add to the title instead of repeating it.* Never repeat the title on the thumbnail. You get two chances to make them feel something.
 
-**3. What does Galloway's glance test do?**
+**3. What does the glance test do?**
 
 - a) Measures lifetime CTR
 - b) Tests whether you can process the thumbnail in a split second at small size
@@ -1397,18 +1377,16 @@ Take one thumbnail and run Galloway's glance test: put it small between two blan
 
 *Answer: b) Tests whether you can process the thumbnail in a split second at small size.* You place the thumbnail between two blank slides, keep it small and flick onto it quickly.
 
-**4. Which statement matches what Galloway says about CTR?**
+**4. Which statement is correct about CTR?**
 
 - a) CTR is useless so thumbnails don't matter
 - b) Lifetime CTR is the best measure of a thumbnail
 - c) CTR is fickle and drops with more impressions, but clicking is still extremely important
 - d) CTR only matters for Shorts
 
-*Answer: c) CTR is fickle and drops with more impressions, but clicking is still extremely important.* Galloway says lifetime CTR isn't very useful, but first-hour or first-24-hour CTR often correlates with long-term performance.
+*Answer: c) CTR is fickle and drops with more impressions, but clicking is still extremely important.* Lifetime CTR isn't very useful, but first-hour or first-24-hour CTR often correlates with long-term performance.
 
 </details>
-
-*Sources: Paddy Galloway, Jay Clouse interview; Paddy Galloway, MrBeast greatest video; Sam Gaudet, YouTube Psychology / Brutal Truths 2026; Kallaway, 10 packaging tips; MrBeast, 100M views per video; Ryan (ryangrowthh), Distribution 101; Paddy Galloway, 5 Principles That Helped Me Generate 50 Billion Views (X article)*
 
 [Back to the top of this module](#top) · [All modules](../README.md#contents)
 
@@ -1420,43 +1398,43 @@ Take one thumbnail and run Galloway's glance test: put it small between two blan
 
 *9 min read*
 
-> **The big idea:** A good title makes one clear promise about something people want. Galloway frames famous names and strong verbs, Sam Gaudet teaches clear over clever and four emotions to package any topic, and a title study shows which long-form formats worked.
+> **The big idea:** A good title makes one clear promise about something people want. Frame famous names and strong verbs, go for clear over clever, use four emotions to package any topic, and a title study shows which long-form formats worked.
 
-### Galloway on framing a title
+### Framing a title
 
-- 'World's fastest camera drone vs F1 car' (Red Bull, 20M+ views by Galloway's claim): really simple, straight to the point, you get it.
-- A cross-niche viral title format Galloway names: 'If I had to start [X] over again, here's what I'd do'.
-- Same topic, different packaging: Sam's example is 'here's how to grow a business' against 'here's how to grow a business so fast it feels like cheating' (or 'feels illegal').
+- 'World's fastest camera drone vs F1 car' (Red Bull, 20M+ views by one creator's claim): really simple, straight to the point, you get it.
+- A cross-niche viral title format: 'If I had to start [X] over again, here's what I'd do'.
+- Same topic, different packaging: 'here's how to grow a business' against 'here's how to grow a business so fast it feels like cheating' (or 'feels illegal').
 
-### Clear, not clever (Sam Gaudet)
+### Clear, not clever
 
 - Ask: what is the minimum effective promise I can make? Put that in the packaging.
-- Sam's rule: if a stranger can't say what the video is about within 3 seconds of seeing the thumbnail, it's too confusing. People scroll, they don't wait for their brain to catch up.
-- 'Thumbnails clear, not clever' is a Martell Media principle, which Sam repeats.
+- The rule: if a stranger can't say what the video is about within 3 seconds of seeing the thumbnail, it's too confusing. People scroll, they don't wait for their brain to catch up.
+- 'Thumbnails clear, not clever' is an agency principle that many creators repeat.
 
-### Same topic, four packages: hopes, dreams, fears, blockers (Sam)
+### Same topic, four packages: hopes, dreams, fears, blockers
 
-- Sam shows that one topic, 'how to make money', can be packaged four ways, depending on the emotion you aim at.
+- One topic, 'how to make money', can be packaged four ways, depending on the emotion you aim at.
 - Hopes (short-term): 'how to make a million dollars in 2026'.
 - Dreams (long-term): 'if I wanted to achieve financial freedom in the next 12 months, I'd do this'.
 - Fears: 'you'll never become rich until you understand this'.
 - Blockers: 'how to get rich without talent, luck, or a trust fund'.
-- Sam teaches the method instead of handing out 100 titles. His words: teach you how to fish.
+- Learn the method instead of being handed 100 titles. The idea: teach you how to fish.
 
 ### Long-form title formats that worked (a title study, views as reported)
 
-- 'How to [big outcome] (Complete 2026 Masterclass / Full Guide / step-by-step roadmap)': siddharthwv's one-person business masterclass 192k views (216x his normal), Ryan's 'How to Grow a Massive Brand (Full 2026 Masterclass)' 315k, VibeMarketer 61k.
-- 'Full Course: How to turn [what you have] into [money]': Dan Koe's interests into a lifestyle business, 655k.
-- '[Topic] 101: A Guide to [big outcome]': Ryan's 'Distribution 101: A Guide to Reaching Millions', 297k, 28x.
-- 'How to become dangerously good at [skill] (use these 3 strategies)': Hussain on selling, 214k, 145x. beechinour's '7 guides to become (ridiculously) good at AI content', 92k.
-- Deadline claim 'Everyone [doing X] has [time] to [do Y]': Shann's '12 months... 3 moats', 252k.
-- '[Tool] as Your [Job Title] (FULL GUIDE)': Ryan, 159k.
-- 'How to [skill] like the top 0.01%': Tim Denning, 127k.
-- Proof in the title, 'How we [big number] and made [result]': Ernesto 114k, and domschats 'How to go from 0-100M views/month', 103k.
-- 'The Psychology of a [X]': wizofecom's 'The Psychology of a Premium Personal Brand', 70k.
+- 'How to [big outcome] (Complete 2026 Masterclass / Full Guide / step-by-step roadmap)': one creator's one-person business masterclass 192k views (216x their normal), 'How to Grow a Massive Brand (Full 2026 Masterclass)' 315k, another creator's 61k.
+- 'Full Course: How to turn [what you have] into [money]': a course on turning interests into a lifestyle business, 655k.
+- '[Topic] 101: A Guide to [big outcome]': 'Distribution 101: A Guide to Reaching Millions', 297k, 28x.
+- 'How to become dangerously good at [skill] (use these 3 strategies)': a video on selling, 214k, 145x. Another creator's '7 guides to become (ridiculously) good at AI content', 92k.
+- Deadline claim 'Everyone [doing X] has [time] to [do Y]': '12 months... 3 moats', 252k.
+- '[Tool] as Your [Job Title] (FULL GUIDE)': 159k.
+- 'How to [skill] like the top 0.01%': 127k.
+- Proof in the title, 'How we [big number] and made [result]': 114k, and 'How to go from 0-100M views/month', 103k.
+- 'The Psychology of a [X]': 'The Psychology of a Premium Personal Brand', 70k.
 - What the winners share: a big outcome everyone wants (money, escape, being known) instead of a narrow skill; a bracket promising the complete thing (masterclass, full course, 3 strategies); AI or job fear as the 'why now' with a calm system as the answer; proof (numbers or screenshots) before the teaching.
 
-### Sam Gaudet's own titles and what each does (views as listed in the material)
+### One channel's own titles and what each does (views as listed in the material)
 
 - 'How to Become Disgustingly Good at Content Creation', 147,370 views: an outcome everyone wants plus a strong, odd word.
 - 'How to Become a Better Storyteller', 14,956: a plain, clear skill promise.
@@ -1465,12 +1443,12 @@ Take one thumbnail and run Galloway's glance test: put it small between two blan
 - '50 Content Hacks I Know at 10M Followers I Wish I Knew at 0', 4,000: number, proof and 'wish I knew'.
 - 'I'm 25. If you want to get rich in your 20s, watch this', 3,734: age as a signal plus a callout.
 - 'Brutal Truths to Grow Your Personal Brand in 2026', 3,210 and '5 Levels of Building a Personal Brand', 1,700.
-- The reading in the material, from a small sample of Sam's videos: the 'so fast it feels like cheating' outcome and the superlative 'most valuable ... you'll ever watch' did best, 'Full Guide' in brackets also did well, and numbered lists and 'new era' framing did worst.
-- Sam's repeated end line in every video: 'watch this video next if you want to grow on social media so fast it kind of feels like cheating'. It reuses the packaging spin as a call to action.
+- The reading in the material, from a small sample of one creator's videos: the 'so fast it feels like cheating' outcome and the superlative 'most valuable ... you'll ever watch' did best, 'Full Guide' in brackets also did well, and numbered lists and 'new era' framing did worst.
+- A repeated end line in every video: 'watch this video next if you want to grow on social media so fast it kind of feels like cheating'. It reuses the packaging spin as a call to action.
 
 ### Frameworks
 
-**Hopes, dreams, fears, blockers** (Sam Gaudet)
+**Hopes, dreams, fears, blockers**
 
 1. Hope: the short-term win they want
 2. Dream: the long-term life they want
@@ -1478,7 +1456,7 @@ Take one thumbnail and run Galloway's glance test: put it small between two blan
 4. Blocker: what they think is stopping them
 5. Write one title for each, then keep the strongest
 
-**Minimum effective promise** (Sam Gaudet)
+**Minimum effective promise**
 
 1. Find the smallest clear promise the video can make
 2. Put it in the title and thumbnail
@@ -1486,41 +1464,41 @@ Take one thumbnail and run Galloway's glance test: put it small between two blan
 
 ### Examples
 
-- **Sam, one topic four ways:** 'how to make a million dollars in 2026' (hope), 'financial freedom in the next 12 months' (dream), 'you'll never become rich until you understand this' (fear), 'how to get rich without talent, luck, or a trust fund' (blocker).
+- **One topic four ways:** 'how to make a million dollars in 2026' (hope), 'financial freedom in the next 12 months' (dream), 'you'll never become rich until you understand this' (fear), 'how to get rich without talent, luck, or a trust fund' (blocker).
   <br>*Why it works:* Same topic, four emotions.
-- **Galloway, Sahara title:** A very well-known name (the UN) plus a strong verb phrase ('holding back') made a niche lecture clickable.
+- **The Sahara title:** A very well-known name (the UN) plus a strong verb phrase ('holding back') made a niche lecture clickable.
   <br>*Why it works:* Familiar name plus a strong framing.
 
 ### Common mistakes
 
-- A clever title nobody understands in 3 seconds (Sam).
+- A clever title nobody understands in 3 seconds.
 - Choosing a narrow skill promise when a big outcome everyone wants was available (title study).
-- Picking one emotion by habit instead of testing hope, dream, fear and blocker (Sam).
-- Numbered lists and 'new era' framing for the title just because they sound fresh (Sam's own results, small sample).
+- Picking one emotion by habit instead of testing hope, dream, fear and blocker.
+- Numbered lists and 'new era' framing for the title just because they sound fresh (one channel's results, small sample).
 
 ### Try it
 
-Take one topic and write four titles with Sam's hopes, dreams, fears and blockers. Cross out any a stranger could not explain in 3 seconds.
+Take one topic and write four titles with hopes, dreams, fears and blockers. Cross out any a stranger could not explain in 3 seconds.
 
 <details><summary><b>Check yourself (4 questions)</b></summary>
 
-**1. What is Sam Gaudet's 3-second rule?**
+**1. What is the 3-second rule?**
 
 - a) A stranger must be able to say what the video is about within 3 seconds of seeing the thumbnail
 - b) The hook must be 3 seconds long
 - c) Test every title for 3 days
 - d) A title must have 3 words
 
-*Answer: a) A stranger must be able to say what the video is about within 3 seconds of seeing the thumbnail.* Sam says if a stranger can't say what it is about in 3 seconds, it's too confusing.
+*Answer: a) A stranger must be able to say what the video is about within 3 seconds of seeing the thumbnail.* If a stranger can't say what it is about in 3 seconds, it's too confusing.
 
-**2. Which four emotions does Sam use to package the same topic?**
+**2. Which four emotions can package the same topic?**
 
 - a) Hopes, dreams, fears, blockers
 - b) Facts, stories, numbers, quotes
 - c) Who, what, where, when
 - d) Anger, joy, sadness, surprise
 
-*Answer: a) Hopes, dreams, fears, blockers.* His 'how to make money' example gives one title for each of hopes, dreams, fears and blockers.
+*Answer: a) Hopes, dreams, fears, blockers.* The 'how to make money' example gives one title for each of hopes, dreams, fears and blockers.
 
 **3. What did the winning long-form titles in the title study share?**
 
@@ -1531,18 +1509,16 @@ Take one topic and write four titles with Sam's hopes, dreams, fears and blocker
 
 *Answer: a) A big outcome everyone wants, a bracket promising the complete thing, and proof or a 'why now'.* The study lists big outcomes, brackets like masterclass or full course, fear as the why now, and proof before teaching.
 
-**4. Why did Galloway say the Sahara title worked?**
+**4. Why did the Sahara title work?**
 
 - a) It used a well-known entity, the UN, and the strong framing 'holding back'
 - b) It was very short
 - c) It had a number
 - d) It used a question
 
-*Answer: a) It used a well-known entity, the UN, and the strong framing 'holding back'.* Galloway calls the UN super well-known and top of mind, and 'holding back' a strong framing.
+*Answer: a) It used a well-known entity, the UN, and the strong framing 'holding back'.* The UN is super well-known and top of mind, and 'holding back' is a strong framing.
 
 </details>
-
-*Sources: Paddy Galloway, Jay Clouse interview; Sam Gaudet, YouTube Psychology / 7 Strategies / Brutal Truths 2026 / 10M Followers; Title study of long-form article and video titles (Ryan, Dan Koe, Shann Holmberg, VibeMarketer, others)*
 
 [Back to the top of this module](#top) · [All modules](../README.md#contents)
 
@@ -1554,11 +1530,11 @@ Take one topic and write four titles with Sam's hopes, dreams, fears and blocker
 
 *9 min read*
 
-> **The big idea:** Shaan Puri, Dickie Bush and Nicolas Cole teach viral posts as a craft: pick the emotion first, make the first tweet earn the second, write simply, and read two ratios afterwards. Shaan says five threads added 100k followers in about 3 months (his claim).
+> **The big idea:** Viral posts are a craft: pick the emotion first, make the first tweet earn the second, write simply, and read two ratios afterwards. One creator says five threads added 100k followers in about 3 months (their own claim).
 
 ### Pick the emotion before you write
 
-- Shaan keeps a list at the top of his doc: LOL, WTF, 'finally someone said it', aww, wow.
+- Keep a list at the top of your doc: LOL, WTF, 'finally someone said it', aww, wow.
 - Best case: one take that triggers two opposite emotions. Fans think 'finally someone said it' and the other side thinks 'WTF'.
 
 ### Reusable hook shapes
@@ -1571,7 +1547,7 @@ Take one topic and write four titles with Sam's hopes, dreams, fears and blocker
 ### Write simply
 
 - Write at a 2nd to 8th grade reading level. No jargon: 'yield a positive ROI' has zero emotion.
-- Shaan's viral clubhouse thread was at a 2nd to 3rd grade level. A smarter founder's version of the same take was at a 12th grade level and died.
+- A viral clubhouse thread was at a 2nd to 3rd grade level. A smarter founder's version of the same take was at a 12th grade level and died.
 
 ### Timing and reading the numbers
 
@@ -1581,12 +1557,12 @@ Take one topic and write four titles with Sam's hopes, dreams, fears and blocker
 ### Validate small, then expand
 
 - A single tweet that over-performs becomes a thread.
-- The best tweet inside a thread becomes its own post. Shaan's example is Elon's 'if you need words of encouragement, don't do a startup'.
+- The best tweet inside a thread becomes its own post. An example is Elon's 'if you need words of encouragement, don't do a startup'.
 - 'Most people didn't see what you tweeted 6 months ago', so you can reuse what worked.
 
 ### Frameworks
 
-**Viral writing checklist** (Shaan Puri, Dickie Bush, Nicolas Cole)
+**Viral writing checklist**
 
 1. Pick the emotion (LOL, WTF, finally someone said it, aww, wow)
 2. Make tweet 1 earn tweet 2
@@ -1595,7 +1571,7 @@ Take one topic and write four titles with Sam's hopes, dreams, fears and blocker
 5. Read likes per impression and reposts per like
 6. Turn winners into threads, and the best tweet of a thread into its own post
 
-**Reusable hook shapes** (Shaan Puri)
+**Reusable hook shapes**
 
 1. Mythbuster
 2. If you're out of the loop
@@ -1605,25 +1581,25 @@ Take one topic and write four titles with Sam's hopes, dreams, fears and blocker
 
 ### Examples
 
-- **Shaan, the clubhouse thread:** A thread at a 2nd to 3rd grade reading level went viral. A smarter founder's version of the same take at 12th grade level died.
+- **The clubhouse thread:** A thread at a 2nd to 3rd grade reading level went viral. A smarter founder's version of the same take at 12th grade level died.
   <br>*Why it works:* Same take, simpler words won.
-- **Shaan, validate small:** Elon's 'if you need words of encouragement, don't do a startup' started as one tweet inside a thread and became its own post.
+- **Validate small:** Elon's 'if you need words of encouragement, don't do a startup' started as one tweet inside a thread and became its own post.
   <br>*Why it works:* The best tweet in a thread can stand alone.
 
 ### Common mistakes
 
-- Writing before deciding which emotion the reader should feel (Shaan).
-- Spending equal time on every tweet instead of the first and last words (Shaan).
-- Using jargon and a high reading level (Shaan).
-- Judging a post by likes alone and ignoring reposts per like (Shaan).
+- Writing before deciding which emotion the reader should feel.
+- Spending equal time on every tweet instead of the first and last words.
+- Using jargon and a high reading level.
+- Judging a post by likes alone and ignoring reposts per like.
 
 ### Try it
 
-Take one finished post and write the hook 20 different ways. Then check which emotion from Shaan's list the full post leaves behind.
+Take one finished post and write the hook 20 different ways. Then check which emotion from the list the full post leaves behind.
 
 <details><summary><b>Check yourself (4 questions)</b></summary>
 
-**1. What is the only job of tweet 1, according to Shaan Puri?**
+**1. What is the only job of tweet 1?**
 
 - a) Ask for follows
 - b) Get tweet 2 read
@@ -1632,14 +1608,14 @@ Take one finished post and write the hook 20 different ways. Then check which em
 
 *Answer: b) Get tweet 2 read.* Most drop-off happens in the first 2 to 3 tweets, so tweet 1 exists to earn tweet 2.
 
-**2. Which reading level does Shaan recommend?**
+**2. Which reading level is recommended?**
 
 - a) University level
 - b) 12th grade and up
 - c) No preference
 - d) 2nd to 8th grade
 
-*Answer: d) 2nd to 8th grade.* His 2nd to 3rd grade clubhouse thread went viral while a 12th grade version of the same take died.
+*Answer: d) 2nd to 8th grade.* A 2nd to 3rd grade clubhouse thread went viral while a 12th grade version of the same take died.
 
 **3. What does a reposts-to-likes ratio of 20 to 30% mean?**
 
@@ -1648,9 +1624,9 @@ Take one finished post and write the hook 20 different ways. Then check which em
 - c) The post failed
 - d) It is too long
 
-*Answer: a) It will spread, because people repost what they want to be seen agreeing with.* Shaan reads likes per impression (2 to 3% is a big hit) and reposts per likes (20 to 30% means it will spread).
+*Answer: a) It will spread, because people repost what they want to be seen agreeing with.* Read likes per impression (2 to 3% is a big hit) and reposts per likes (20 to 30% means it will spread).
 
-**4. What is the best kind of take, per Shaan?**
+**4. What is the best kind of take?**
 
 - a) One that triggers two opposite emotions
 - b) One that triggers no emotion
@@ -1660,8 +1636,6 @@ Take one finished post and write the hook 20 different ways. Then check which em
 *Answer: a) One that triggers two opposite emotions.* Fans think 'finally someone said it' and the other side thinks 'WTF'. Both reactions drive replies and shares.
 
 </details>
-
-*Sources: Shaan Puri with Dickie Bush and Nicolas Cole, Viral Writing 101 (Ship 30 for 30)*
 
 [Back to the top of this module](#top) · [All modules](../README.md#contents)
 
@@ -1673,17 +1647,17 @@ Take one finished post and write the hook 20 different ways. Then check which em
 
 *9 min read*
 
-> **The big idea:** Kallaway's model: the algorithm is a matchmaker that tests a video on a small group of strangers and pushes what they enjoy. It is his simplified model, not published platform rules, and other teachers disagree on parts of it.
+> **The big idea:** One model: the algorithm is a matchmaker that tests a video on a small group of strangers and pushes what they enjoy. It is a simplified model, not published platform rules, and other teachers disagree on parts of it.
 
-### Kallaway's model: a matchmaker
+### A model: a matchmaker
 
 - Platforms make money when people stay, so they try to match each video with whoever will enjoy it.
 - Step 1: it fingerprints the video. Computer vision reads the visuals, plus the audio or transcript, plus the caption and creator data. It builds a fit score for who should like it.
-- Step 2: it shows the video to a first test group (he says about 200 people), mostly non-followers. Strangers liking it is the real signal.
+- Step 2: it shows the video to a first test group (about 200 people in this model), mostly non-followers. Strangers liking it is the real signal.
 - Step 3: good data pushes it to about 2,000, then about 20,000 and so on. Mixed data re-tests another small group. Bad data stops it. '200 view jail' means the first test group didn't like it.
 - What it reads: average watch time or percent completion, engagement rate (likes plus comments plus shares divided by views), and watch-time session share (how much of someone's session was your videos, which nobody can see).
 
-### 5 ways to get more comments (Kallaway)
+### 5 ways to get more comments
 
 - Take a hard stance.
 - Take the contrarian side.
@@ -1691,36 +1665,36 @@ Take one finished post and write the hook 20 different ways. Then check which em
 - Talk about things people already have opinions on (Nike works better than 'shoes').
 - Make them feel something.
 
-### Retention reality (Kallaway)
+### Retention reality
 
 - Short-form retention is exponential decay with a cliff in the first 2 seconds. Every second without topic clarity loses a large share of viewers.
 - The short-form attention timer is about 4 seconds. On YouTube it is about 1 to 2 minutes.
 
 ### Other teachers on the algorithm
 
-- Logan Smith: the Shorts algorithm 'is not random and has nothing to do with luck'. It shows the best, most engaging content. Make engaging shorts with high retention and blowing up is 'pretty much guaranteed' (his claim).
-- Logan's own claim: his first channel took about 4 months to hit 10K subs. His next channel hit 10K in 3 weeks because he was more experienced.
-- Mino Lee: why would Instagram or TikTok push a video that isn't captivating to 90% of viewers? Keywords and hashtags might add 10% more views but won't take you from 1,000 to 100,000.
-- Dan Koe: the algorithm is always the hot topic. If you understand human nature and what captures, holds and generates attention, you don't need to chase the algorithm or study the latest tactics. You can build a consistent system and 'feel' to your brand instead of hopping on bandwagons.
-- Koe: don't trust gurus who say one platform or format is better because 'the algorithm changed'. Test them all.
-- Koe's three types who fail: people who post and post then blame the algorithm; intelligent people whose posts are like art pieces that never get purchased (the market doesn't care); and people who grow a bit but don't double down.
+- The Shorts algorithm 'is not random and has nothing to do with luck'. It shows the best, most engaging content. Make engaging shorts with high retention and blowing up is 'pretty much guaranteed' (one creator's claim).
+- One creator's own claim: the first channel took about 4 months to hit 10K subs. The next channel hit 10K in 3 weeks because of more experience.
+- Why would Instagram or TikTok push a video that isn't captivating to 90% of viewers? Keywords and hashtags might add 10% more views but won't take you from 1,000 to 100,000.
+- The algorithm is always the hot topic. If you understand human nature and what captures, holds and generates attention, you don't need to chase the algorithm or study the latest tactics. You can build a consistent system and 'feel' to your brand instead of hopping on bandwagons.
+- Don't trust gurus who say one platform or format is better because 'the algorithm changed'. Test them all.
+- Three types who fail: people who post and post then blame the algorithm; intelligent people whose posts are like art pieces that never get purchased (the market doesn't care); and people who grow a bit but don't double down.
 
-### Galloway: there is no meta
+### There is no meta
 
-- Galloway's hot take: there is no single meta. People keep declaring 'everything is moving to storytelling', 'longer videos', 'thumbnails are dead' (citing Sam Sulek) or 'MrBeast-ify'.
+- A hot take: there is no single meta. People keep declaring 'everything is moving to storytelling', 'longer videos', 'thumbnails are dead' (citing one fitness channel) or 'MrBeast-ify'.
 - YouTube is too big. Five to ten years ago long storytelling videos did well, and 5 to 10 years from now 2 to 3 minute non-story videos will do well.
-- His claim: even at the peak of 'MrBeast-ification' only about 5 to 10% of trending videos fit that style, and maybe 1 to 2% of all YouTube viewership. Longer, more storytelling and less hyper-fast retention editing is a trend, not the meta.
-- On consistency, Galloway says a regular schedule doesn't matter algorithmically but matters mentally.
+- One claim: even at the peak of 'MrBeast-ification' only about 5 to 10% of trending videos fit that style, and maybe 1 to 2% of all YouTube viewership. Longer, more storytelling and less hyper-fast retention editing is a trend, not the meta.
+- On consistency: a regular schedule doesn't matter algorithmically but matters mentally.
 
-### Replace 'algorithm' with 'audience' (Galloway)
+### Replace 'algorithm' with 'audience'
 
-- About 6 years ago a friend of Galloway's who works on the YouTube algorithm told him: 'Anytime you're about to use the word algorithm, replace it with audience and you probably have the real answer.'
+- About 6 years ago a friend of one creator's who works on the YouTube algorithm said: 'Anytime you're about to use the word algorithm, replace it with audience and you probably have the real answer.'
 - 'The algorithm is punishing me' becomes 'the audience isn't interested'. 'The algorithm didn't like that thumbnail change' becomes 'my audience didn't click it'.
-- Blaming the algorithm is a cop out, he says. All YouTube strategy comes down to understanding real humans and predicting what they'll do.
+- Blaming the algorithm is a cop out. All YouTube strategy comes down to understanding real humans and predicting what they'll do.
 
 ### Frameworks
 
-**The algorithm as a matchmaker** (Kallaway)
+**The algorithm as a matchmaker**
 
 1. Fingerprint the video and build a fit score
 2. Show it to a first test group of mostly strangers (about 200)
@@ -1728,7 +1702,7 @@ Take one finished post and write the hook 20 different ways. Then check which em
 4. Mixed data: re-test another small group
 5. Bad data: stops ('200 view jail')
 
-**5 ways to get more comments** (Kallaway)
+**5 ways to get more comments**
 
 1. Hard stance
 2. Contrarian side
@@ -1738,21 +1712,21 @@ Take one finished post and write the hook 20 different ways. Then check which em
 
 ### Examples
 
-- **Kallaway, specific beats general:** Naming Nike gets more opinions than saying 'shoes'.
+- **Specific beats general:** Naming Nike gets more opinions than saying 'shoes'.
   <br>*Why it works:* People comment on things they already have a view on.
-- **Galloway, no meta:** Even at the peak of MrBeast-style videos, only about 5 to 10% of trending videos fit that style.
+- **No meta:** Even at the peak of MrBeast-style videos, only about 5 to 10% of trending videos fit that style.
   <br>*Why it works:* A style going around is a trend, not the rules.
 
 ### Common mistakes
 
-- Treating Kallaway's 200-person test as an official platform rule. It is his simplified model (he cites outlier data and Instagram's CEO).
-- Chasing every claim that 'the algorithm changed' (Koe).
-- Believing a new style is now the only way (Galloway).
-- Relying on keywords and hashtags to replace a captivating video (Mino Lee).
+- Treating the 200-person test as an official platform rule. It is a simplified model (citing outlier data and Instagram's CEO).
+- Chasing every claim that 'the algorithm changed'.
+- Believing a new style is now the only way.
+- Relying on keywords and hashtags to replace a captivating video.
 
 ### Where the sources disagree
 
-Kallaway says posting time, hashtags and captions 'don't matter'. Logan Smith found posting time did. Mino Lee says keywords and hashtags might add about 10% more views at most. Treat it as 'sources disagree' and test it yourself. Logan says blowing up is 'pretty much guaranteed' with high retention, while Galloway and Koe say no single trick or meta exists.
+One view: posting time, hashtags and captions 'don't matter'. Another found posting time did. A third says keywords and hashtags might add about 10% more views at most. Treat it as 'sources disagree' and test it yourself. One creator says blowing up is 'pretty much guaranteed' with high retention, while others say no single trick or meta exists.
 
 ### Try it
 
@@ -1760,14 +1734,14 @@ Read the 5 ways to get more comments and check the last post you saw with lots o
 
 <details><summary><b>Check yourself (4 questions)</b></summary>
 
-**1. In Kallaway's model, who sees a video first?**
+**1. In this model, who sees a video first?**
 
 - a) Everyone at once
-- b) A small test group (he says about 200), mostly non-followers
+- b) A small test group (about 200 in this model), mostly non-followers
 - c) Only people who liked your last video
 - d) All your followers
 
-*Answer: b) A small test group (he says about 200), mostly non-followers.* Strangers liking it is the real signal, and good data pushes it to a bigger group.
+*Answer: b) A small test group (about 200 in this model), mostly non-followers.* Strangers liking it is the real signal, and good data pushes it to a bigger group.
 
 **2. What does '200 view jail' mean?**
 
@@ -1778,27 +1752,25 @@ Read the 5 ways to get more comments and check the last post you saw with lots o
 
 *Answer: d) The first test group didn't like the video, so it stopped.* Bad data from the first test group stops the video from spreading.
 
-**3. What is Galloway's position on a consistent posting schedule?**
+**3. What is the position on a consistent posting schedule?**
 
 - a) It doesn't matter algorithmically but matters mentally
 - b) It only matters on YouTube Shorts
 - c) It is useless
 - d) It is the main ranking factor
 
-*Answer: a) It doesn't matter algorithmically but matters mentally.* Galloway separates the algorithm from the creator's own habits.
+*Answer: a) It doesn't matter algorithmically but matters mentally.* The algorithm is separated from the creator's own habits.
 
-**4. Where do Kallaway and Logan Smith disagree?**
+**4. Where do two creators disagree?**
 
 - a) Whether posting time matters
 - b) Whether videos need a hook
 - c) Whether Shorts exist
 - d) Whether retention matters
 
-*Answer: a) Whether posting time matters.* Kallaway says posting time doesn't matter, Logan Smith found it did, so sources disagree.
+*Answer: a) Whether posting time matters.* One says posting time doesn't matter, another found it did, so sources disagree.
 
 </details>
-
-*Sources: Kallaway, how the algorithm decides / Hooks masterclass / 15 min hooks; Logan Smith, viral shorts; Mino Lee, hooks 1M+ views; Dan Koe, Zero followers; Paddy Galloway, Jay Clouse interview; Paddy Galloway, 5 Principles That Helped Me Generate 50 Billion Views (X article)*
 
 [Back to the top of this module](#top) · [All modules](../README.md#contents)
 
@@ -1806,17 +1778,17 @@ Read the 5 ways to get more comments and check the last post you saw with lots o
 
 <a id="m5-l15"></a>
 
-## 5.15 The X algorithm: pmitu's 16 rules
+## 5.15 The X algorithm: 16 rules
 
 *8 min read*
 
-> **The big idea:** pmitu (400 to 26k followers) lists 16 rules for the 2026 X algorithm. They are his reading of the update, not official, so treat them as 'appears to'. His core claim: you grow by understanding what the algorithm wants people to do with your content.
+> **The big idea:** One creator (who grew from 400 to 26k followers) lists 16 rules for the 2026 X algorithm. They are one creator's reading of the update, not official, so treat them as 'appears to'. The core claim: you grow by understanding what the algorithm wants people to do with your content.
 
 ### The big claim
 
-- pmitu: you don't grow by posting and replying more, you grow by understanding what the algorithm wants people to do with your content.
+- You don't grow by posting and replying more, you grow by understanding what the algorithm wants people to do with your content.
 - It wants people to read, watch, reply, quote, share and follow. It is getting better at telling real interest from empty engagement.
-- All 16 rules are his claims and his reading of the update.
+- All 16 rules are one creator's claims and reading of the update.
 
 ### What to make (rules 1 to 7)
 
@@ -1825,7 +1797,7 @@ Read the 5 ways to get more comments and check the last post you saw with lots o
 - 3\. Make people want to reply and quote. Test opinions, observations, frameworks, questions and ideas to react to.
 - 4\. Make videos worth watching. Start with simple, sincere, self-made founder videos and no special effects. The first seconds matter more than ever.
 - 5\. One great post beats six average posts. Your posts compete with each other in the same feed, so spend more time making one idea great. Use drafts on your phone.
-- 6\. Talk to your audience: ask, reply, support, build relationships and follow people you interact with. His claim: reply conversations between people who follow each other get significantly more weight.
+- 6\. Talk to your audience: ask, reply, support, build relationships and follow people you interact with. The claim: reply conversations between people who follow each other get significantly more weight.
 - 7\. Create posts that earn followers. A post that makes someone follow is a powerful signal. Some posts should give a clear reason to follow: useful, interesting, educational or explanatory.
 
 ### What to avoid (rules 9 to 13)
@@ -1845,7 +1817,7 @@ Read the 5 ways to get more comments and check the last post you saw with lots o
 
 ### Frameworks
 
-**pmitu's 16 rules, grouped** (pmitu)
+**The 16 rules, grouped**
 
 1. Make: original, shareable, reply-worthy, watchable, one great post, earns the follow
 2. Talk: engage with people who follow each other
@@ -1854,19 +1826,19 @@ Read the 5 ways to get more comments and check the last post you saw with lots o
 
 ### Examples
 
-- **pmitu, engagement bait:** 'Like if you agree', 'comment yes to receive it' and 'tag 3 friends' are all examples he says are penalized more than ever.
+- **Engagement bait:** 'Like if you agree', 'comment yes to receive it' and 'tag 3 friends' are all examples said to be penalized more than ever.
   <br>*Why it works:* Ask for real replies with a real question instead.
 
 ### Common mistakes
 
-- Building the whole strategy on replies and reposts (pmitu).
-- Posting six average posts instead of one great one (pmitu).
-- Using engagement bait or stuffing hashtags (pmitu).
-- Waiting for the algorithm to revive a post after 48 hours (pmitu).
+- Building the whole strategy on replies and reposts.
+- Posting six average posts instead of one great one.
+- Using engagement bait or stuffing hashtags.
+- Waiting for the algorithm to revive a post after 48 hours.
 
 ### Where the sources disagree
 
-pmitu says bookmarks appear to have little or no direct ranking value. Many creators still treat saves as a sign a post was valuable. Both can be true: a save can show value without being a ranking signal. Remember all 16 rules are one creator's claims, not official statements.
+One creator says bookmarks appear to have little or no direct ranking value. Many creators still treat saves as a sign a post was valuable. Both can be true: a save can show value without being a ranking signal. Remember all 16 rules are one creator's claims, not official statements.
 
 ### Try it
 
@@ -1874,7 +1846,7 @@ Pick one of your recent posts and score it against rules 2, 3 and 7: would someo
 
 <details><summary><b>Check yourself (4 questions)</b></summary>
 
-**1. Which signal does pmitu call one of the strongest?**
+**1. Which signal is called one of the strongest?**
 
 - a) Sharing, especially copying the link and sending it to someone
 - b) Hashtags
@@ -1883,7 +1855,7 @@ Pick one of your recent posts and score it against rules 2, 3 and 7: would someo
 
 *Answer: a) Sharing, especially copying the link and sending it to someone.* Rule 2: sharing is one of the strongest signals.
 
-**2. What does pmitu say about the first 48 hours?**
+**2. What is said about the first 48 hours?**
 
 - a) They don't matter
 - b) They matter only for videos
@@ -1892,7 +1864,7 @@ Pick one of your recent posts and score it against rules 2, 3 and 7: would someo
 
 *Answer: d) They matter most, and old posts are not revived.* Rule 16: the first 48 hours matter most, and you should engage on your own posts in the first 30 minutes.
 
-**3. What does pmitu say about 'not interested' clicks?**
+**3. What is said about 'not interested' clicks?**
 
 - a) They help reach
 - b) They are one of the strongest negative signals
@@ -1901,7 +1873,7 @@ Pick one of your recent posts and score it against rules 2, 3 and 7: would someo
 
 *Answer: b) They are one of the strongest negative signals.* Rule 10: controversial is fine, but irrelevant, annoying or misleading content gets hidden.
 
-**4. Why does pmitu advise against posting back to back?**
+**4. Why is posting back to back discouraged?**
 
 - a) The algorithm blocks it
 - b) Followers unfollow
@@ -1911,8 +1883,6 @@ Pick one of your recent posts and score it against rules 2, 3 and 7: would someo
 *Answer: d) Posts compete for the same audience, so each should earn its own distribution first.* Rule 14 and rule 5: your posts compete with each other in the same feed.
 
 </details>
-
-*Sources: pmitu, 16 rules (X algorithm 2026)*
 
 [Back to the top of this module](#top) · [All modules](../README.md#contents)
 
@@ -1924,44 +1894,44 @@ Pick one of your recent posts and score it against rules 2, 3 and 7: would someo
 
 *9 min read*
 
-> **The big idea:** Not all views are equal. A video that goes viral with the wrong crowd can stall everything that comes next. Kallaway calls the answer on-target virality, and Dominic Bair and Caleb Ralston show the cost of ignoring it.
+> **The big idea:** Not all views are equal. A video that goes viral with the wrong crowd can stall everything that comes next. The answer is called on-target virality, and real examples show the cost of ignoring it.
 
-### Kallaway's wheel of topic slices
+### The wheel of topic slices
 
 - Picture a wheel of topic slices. Passive scrollers sit in the middle. Buyers with specific pains sit at the edges.
 - A huge viral video, like a big ball, gets stuck in the middle: lots of views, nobody buys.
-- A specific video, Kallaway's example is 'mobility for millennials', travels down one slice to the people who buy.
+- A specific video, for example 'mobility for millennials', travels down one slice to the people who buy.
 
 ### The idea rings (example: marketing for restaurant owners)
 
 - Core: their exact problem in their exact niche (restaurant marketing).
 - Inner: their problem in a neighbouring niche (marketing for any local shop).
 - Outer: their problem in any niche (business marketing).
-- Max: anything about the broad topic (all marketing). Kallaway says never: a viral max video brings the wrong followers and confuses the algorithm.
+- Max: anything about the broad topic (all marketing). Never: a viral max video brings the wrong followers and confuses the algorithm.
 - Mix for selling: 40% core, 40% inner, 20% outer ('controlled chaos' for surprise shares), 0% max.
 
-### Three more filters (Kallaway)
+### Three more filters
 
 - Walk-away value: one usable tip, even if they never buy.
 - The peer-share test: would a restaurant owner text it to another restaurant owner?
 - Audience-match consistency: stick to the same few topics for the same person. If you post tech, then health, then politics, the algorithm blends those audiences for your next video and it flops. 'Sometimes say no to ideas that seem viral but resonate with the wrong audience.'
 
-### Topic discipline vs virality (Caleb Ralston, Kallaway)
+### Topic discipline vs virality
 
-- Caleb: optimizing for virality pushes you to topics that don't lead to your business outcome. His example is a fast food order video. Viral audiences may not care about your main topic.
-- Kallaway: keep minutes on target. Narrow topic selection so more of your minutes build the association with one topic.
+- Optimizing for virality pushes you to topics that don't lead to your business outcome. An example is a fast food order video. Viral audiences may not care about your main topic.
+- Keep minutes on target. Narrow topic selection so more of your minutes build the association with one topic.
 
-### The follower trap (Dominic Bair)
+### The follower trap
 
-- Dominic Bair (head of social at Wispr Flow, 3B organic views generated) says not all views are equal and most can harm long-term growth.
-- His picture: a zero-follower Claude page posts a Claude-for-marketers reel and gets 50,000 views and 500 followers. Then it posts a gorilla-runs-a-marathon video and gets 5M views and 5,000 followers.
+- One head of social at an AI app company (3B organic views generated) says not all views are equal and most can harm long-term growth.
+- The picture: a zero-follower Claude page posts a Claude-for-marketers reel and gets 50,000 views and 500 followers. Then it posts a gorilla-runs-a-marathon video and gets 5M views and 5,000 followers.
 - The next product video is served to the gorilla followers, who came for entertainment. They give no engagement, so the algorithm stops pushing it.
-- Cluely is his example of a product company that became known for viral media instead of its product. He calls 'distribution by any means necessary' a trap to avoid.
+- Cluely is an example of a product company that became known for viral media instead of its product. 'Distribution by any means necessary' is called a trap to avoid.
 - Be strict and patient with the audience you gather from 0 to 1M views a month.
 
 ### Frameworks
 
-**Idea rings** (Kallaway)
+**Idea rings**
 
 1. Core: exact problem, exact niche
 2. Inner: same problem, neighbouring niche
@@ -1969,7 +1939,7 @@ Pick one of your recent posts and score it against rules 2, 3 and 7: would someo
 4. Max: anything on the broad topic (avoid)
 5. Mix 40% core, 40% inner, 20% outer, 0% max
 
-**Three on-target filters** (Kallaway)
+**Three on-target filters**
 
 1. Walk-away value
 2. Peer-share test
@@ -1977,21 +1947,21 @@ Pick one of your recent posts and score it against rules 2, 3 and 7: would someo
 
 ### Examples
 
-- **Dominic Bair, the gorilla video:** A Claude page goes from a 50,000-view marketing reel (500 followers) to a 5M-view gorilla video (5,000 followers). The next product video is shown to the gorilla crowd and the algorithm stops pushing it.
-  <br>*Why it works:* His illustration of how the wrong views hurt.
-- **Kallaway, restaurant owners:** Core is restaurant marketing, inner is marketing for any local shop, outer is business marketing, max is all marketing.
+- **The gorilla video:** A Claude page goes from a 50,000-view marketing reel (500 followers) to a 5M-view gorilla video (5,000 followers). The next product video is shown to the gorilla crowd and the algorithm stops pushing it.
+  <br>*Why it works:* An illustration of how the wrong views hurt.
+- **Restaurant owners:** Core is restaurant marketing, inner is marketing for any local shop, outer is business marketing, max is all marketing.
   <br>*Why it works:* The same problem, widening one ring at a time.
 
 ### Common mistakes
 
-- Making a max-ring video just because it could go viral (Kallaway).
-- Switching topics every post so the algorithm blends audiences (Kallaway).
-- Optimizing for views on topics that don't lead to the business outcome (Caleb).
-- Treating 'distribution by any means necessary' as a plan (Dominic Bair).
+- Making a max-ring video just because it could go viral.
+- Switching topics every post so the algorithm blends audiences.
+- Optimizing for views on topics that don't lead to the business outcome.
+- Treating 'distribution by any means necessary' as a plan.
 
 ### Where the sources disagree
 
-Sam Gaudet says stop niching down: keep your ideal customer but cover all the problems they have, not one narrow topic. Kallaway's rings keep the same buyer but warn against the broad max ring and set a 40/40/20/0 mix. They agree on keeping the ideal customer. They differ on how far from the core to go.
+One creator says stop niching down: keep your ideal customer but cover all the problems they have, not one narrow topic. The rings model keeps the same buyer but warns against the broad max ring and sets a 40/40/20/0 mix. They agree on keeping the ideal customer. They differ on how far from the core to go.
 
 ### Try it
 
@@ -1999,16 +1969,16 @@ Write the four idea rings for one topic you teach, then check which ring your la
 
 <details><summary><b>Check yourself (4 questions)</b></summary>
 
-**1. What happens to a max-ring viral video, according to Kallaway?**
+**1. What happens to a max-ring viral video?**
 
 - a) It always converts
 - b) It gets deleted
 - c) It builds a loyal buyer base
 - d) It brings the wrong followers and confuses the algorithm
 
-*Answer: d) It brings the wrong followers and confuses the algorithm.* Kallaway says never: lots of views but nobody buys, and the algorithm blends the audiences.
+*Answer: d) It brings the wrong followers and confuses the algorithm.* Never make one: lots of views but nobody buys, and the algorithm blends the audiences.
 
-**2. What is Kallaway's mix for selling?**
+**2. What is the mix for selling?**
 
 - a) 25% each ring
 - b) 90% max
@@ -2017,7 +1987,7 @@ Write the four idea rings for one topic you teach, then check which ring your la
 
 *Answer: d) 40% core, 40% inner, 20% outer, 0% max.* The 20% outer is controlled chaos for surprise shares.
 
-**3. Why was the gorilla video harmful in Dominic Bair's example?**
+**3. Why was the gorilla video harmful in the example?**
 
 - a) The next product video was shown to followers who came for entertainment, so it got no engagement
 - b) It was too long
@@ -2037,8 +2007,6 @@ Write the four idea rings for one topic you teach, then check which ring your la
 
 </details>
 
-*Sources: Kallaway, on-target virality (the viral trap); Dominic Bair (domschats), How to go from 0-100M views/month; Caleb Ralston, Disgustingly good brand; Kallaway, Art of personal branding*
-
 [Back to the top of this module](#top) · [All modules](../README.md#contents)
 
 ---
@@ -2049,45 +2017,45 @@ Write the four idea rings for one topic you teach, then check which ring your la
 
 *9 min read*
 
-> **The big idea:** Brands grow on what is proven and lead on what is new. Caleb Ralston's 70/20/10 splits content into proven, refined and experimental, while Dan Koe, Matt Gray and Ryan all say to double down on winners.
+> **The big idea:** Brands grow on what is proven and lead on what is new. The 70/20/10 rule splits content into proven, refined and experimental, and many creators say to double down on winners.
 
-### The 70/20/10 framework (Caleb Ralston)
+### The 70/20/10 framework
 
 - 70% of content is what you know works: the audience resonates, it performs at least at benchmark, and there is enough data to say it will consistently perform.
 - 20% iterates on the 70%: refinements like changing a hook, the format or slightly changing structure. Nothing crazy.
-- 10% is experiments: trying something entirely new. Caleb calls leaving this out 'a huge mistake'. Most teams only do the 70%, more advanced teams add the 20%, and few ever try the 10%. It is the only way to find new formats, thumbnails and packaging.
-- His line: 'Brands grow on the 70%, but brands lead on the 10%.'
-- How to run it: not '1 experimental post every 10'. Out of every 30 days, devote 3 days to experimentation. Batching is more efficient, and in that mindset you come up with 2 or 3 ideas at once. Equip the team with the framework so they know they can spend 10% of their time on new things. He uses it for a lot of things, not just content.
+- 10% is experiments: trying something entirely new. Leaving this out is 'a huge mistake'. Most teams only do the 70%, more advanced teams add the 20%, and few ever try the 10%. It is the only way to find new formats, thumbnails and packaging.
+- The line: 'Brands grow on the 70%, but brands lead on the 10%.'
+- How to run it: not '1 experimental post every 10'. Out of every 30 days, devote 3 days to experimentation. Batching is more efficient, and in that mindset you come up with 2 or 3 ideas at once. Equip the team with the framework so they know they can spend 10% of their time on new things. It works for a lot of things, not just content.
 
-### Flops and data (Caleb)
+### Flops and data
 
-- Brands that are well known but stalled at a ceiling are often unwilling to try things that might get a tenth or a twentieth of normal views. Caleb says that is okay.
+- Brands that are well known but stalled at a ceiling are often unwilling to try things that might get a tenth or a twentieth of normal views. That is okay.
 - Not every experiment succeeds ('zero, none'). The more you fail in experimentation, the closer you get to winning.
 - But 7 days in a row of underperforming is not something to celebrate. It is something to investigate. Performance matters and data tracking stays.
-- Content hackathons produced 'so many' new formats, new scripting ways and new YouTube packaging (his claim).
+- Content hackathons produced 'so many' new formats, new scripting ways and new YouTube packaging (a creator's claim).
 - Weekly performance recap: show metrics and watch time. If average view duration (AVD) on YouTube is going up, you are doing the right things. If AVD on average is going down, reconsider how the script is structured.
 - Report work with data: for example a 2.5x or 3x outlier compared to the average video on TikTok or LinkedIn, engagement, AVD, leads and qualified leads that converted.
 - A/B test instead of debating subjective creative calls. Let the audience decide.
 
 ### Double down on winners
 
-- Dan Koe: a common failure is people who grow a bit but don't know how to double down on their best ideas. They forget the levers that made them grow.
-- Koe's monthly method: review your highest performing content, save the links, and rewrite them from different angles. Make some short, some long, some lists, a big idea version, a better hook, a clearer big problem, a more actionable list.
-- This sustains and raises your baseline of engagement and persuasiveness over time. It's not about writing whatever you want, it's about iterating on the ideas your audience actually likes. Koe says it takes 6 months to a year.
-- Koe: the best performing angle points to the product you should create. You need that angle to catch attention and sell.
-- Matt Gray: start with whatever content excites you, listen to customers, then double down (eventually triple down) on a few formats you see working. You don't need to do everything at once.
-- Ryan: when something pops, make 5 more versions. 'Don't think, I already did it.' Top creators repackage their winners instead of chasing new ideas.
-- Matt Gray's strategy people on his team look at data, titles, packaging and thumbnails, where and why people convert, and sales team data to decide what content to make next.
+- A common failure is people who grow a bit but don't know how to double down on their best ideas. They forget the levers that made them grow.
+- A monthly method: review your highest performing content, save the links, and rewrite them from different angles. Make some short, some long, some lists, a big idea version, a better hook, a clearer big problem, a more actionable list.
+- This sustains and raises your baseline of engagement and persuasiveness over time. It's not about writing whatever you want, it's about iterating on the ideas your audience actually likes. It takes 6 months to a year.
+- The best performing angle points to the product you should create. You need that angle to catch attention and sell.
+- Start with whatever content excites you, listen to customers, then double down (eventually triple down) on a few formats you see working. You don't need to do everything at once.
+- When something pops, make 5 more versions. 'Don't think, I already did it.' Top creators repackage their winners instead of chasing new ideas.
+- Another approach: people on the team look at data, titles, packaging and thumbnails, where and why people convert, and sales team data to decide what content to make next.
 
-### Stay dynamic (Ryan)
+### Stay dynamic
 
-- Ryan: every format, angle and package goes stale. Most posts should use formats you know work, but 'a meaningful chunk' should be experiments, because moving first is how you get influence. Most creators are reactive second or third movers. He sets aside 'creative time' to plan new angles.
-- Ryan's habits of the top 1%: study outliers obsessively, consume as much as they create, have strong opinions, only talk about what they've done, are data-driven, fast, think in years and are willing to look stupid.
-- Ryan says he pioneered the 'article plus QT strategy', 'article plus GIF meta' and 'infographic meta' (his claim).
+- Every format, angle and package goes stale. Most posts should use formats you know work, but 'a meaningful chunk' should be experiments, because moving first is how you get influence. Most creators are reactive second or third movers. Set aside 'creative time' to plan new angles.
+- Habits of the top 1%: study outliers obsessively, consume as much as they create, have strong opinions, only talk about what they've done, are data-driven, fast, think in years and are willing to look stupid.
+- One creator says they pioneered the 'article plus QT strategy', 'article plus GIF meta' and 'infographic meta' (their own claim).
 
 ### Frameworks
 
-**70/20/10** (Caleb Ralston)
+**70/20/10**
 
 1. 70% proven content
 2. 20% iterations of the proven content
@@ -2095,7 +2063,7 @@ Write the four idea rings for one topic you teach, then check which ring your la
 4. Run it as 3 days of experiments per 30 days
 5. Track data and investigate a week of flops
 
-**Monthly double down** (Dan Koe)
+**Monthly double down**
 
 1. Review your highest performing content every month
 2. Save the links
@@ -2104,22 +2072,22 @@ Write the four idea rings for one topic you teach, then check which ring your la
 
 ### Examples
 
-- **Ryan, 5 more versions:** When something pops, make 5 more versions and don't think 'I already did it'.
+- **5 more versions:** When something pops, make 5 more versions and don't think 'I already did it'.
   <br>*Why it works:* Repackage winners.
-- **Caleb, 3 days of 30:** Instead of one experimental post every 10, spend 3 days of each 30 on experiments and batch the ideas.
+- **3 days of 30:** Instead of one experimental post every 10, spend 3 days of each 30 on experiments and batch the ideas.
   <br>*Why it works:* Batching is more efficient.
 
 ### Common mistakes
 
-- Only doing the 70% and never testing anything new (Caleb).
-- Forcing one new thing every week instead of batching experiments (Caleb).
-- Celebrating 7 days of flops instead of investigating them (Caleb).
-- Growing a bit and forgetting the levers that made you grow (Koe).
-- Debating creative calls instead of A/B testing (Caleb).
+- Only doing the 70% and never testing anything new.
+- Forcing one new thing every week instead of batching experiments.
+- Celebrating 7 days of flops instead of investigating them.
+- Growing a bit and forgetting the levers that made you grow.
+- Debating creative calls instead of A/B testing.
 
 ### Where the sources disagree
 
-Caleb gives a number: about 10% experiments, 3 days in 30. Ryan says a 'meaningful chunk' with no number. Koe and Gray say to focus on a few formats and double down instead of doing everything at once. They agree both sides are needed. They differ on how much new to try.
+One view gives a number: about 10% experiments, 3 days in 30. Another says a 'meaningful chunk' with no number. Others say to focus on a few formats and double down instead of doing everything at once. They agree both sides are needed. They differ on how much new to try.
 
 ### Try it
 
@@ -2127,16 +2095,16 @@ Write your last 10 posts in three piles: proven, refined and new. Check whether 
 
 <details><summary><b>Check yourself (4 questions)</b></summary>
 
-**1. What does the 10% in Caleb Ralston's framework stand for?**
+**1. What does the 10% in the 70/20/10 framework stand for?**
 
 - a) Reposts
 - b) Experiments with something entirely new
 - c) Paid ads
 - d) Posting more often
 
-*Answer: b) Experiments with something entirely new.* Caleb says leaving the 10% out is a huge mistake, because it is the only way to find new formats and packaging.
+*Answer: b) Experiments with something entirely new.* Leaving the 10% out is a huge mistake, because it is the only way to find new formats and packaging.
 
-**2. How does Caleb suggest running experiments?**
+**2. How are experiments best run?**
 
 - a) Only after a viral post
 - b) One experimental post every 10
@@ -2145,7 +2113,7 @@ Write your last 10 posts in three piles: proven, refined and new. Check whether 
 
 *Answer: c) 3 days of experiments out of every 30, batched.* Batching is more efficient, and you come up with 2 or 3 ideas at once.
 
-**3. What is Dan Koe's monthly habit?**
+**3. What is the monthly double-down habit?**
 
 - a) Change niche
 - b) Post only new ideas
@@ -2154,7 +2122,7 @@ Write your last 10 posts in three piles: proven, refined and new. Check whether 
 
 *Answer: c) Review top content and rewrite it from different angles.* Make some short, some long, some lists and so on, to raise your baseline over time.
 
-**4. What does Caleb say about 7 days in a row of flops?**
+**4. What is said about 7 days in a row of flops?**
 
 - a) Quit the format
 - b) Celebrate it
@@ -2164,8 +2132,6 @@ Write your last 10 posts in three piles: proven, refined and new. Check whether 
 *Answer: d) Investigate it.* A week of flops is not something to celebrate. Performance matters and data tracking stays.
 
 </details>
-
-*Sources: Caleb Ralston, Manage a brand team; Dan Koe, Zero followers / Interests course; Matt Gray, Content CEO; Ryan (ryangrowthh), Distribution 101 and posts*
 
 [Back to the top of this module](#top) · [All modules](../README.md#contents)
 
@@ -2177,9 +2143,9 @@ Write your last 10 posts in three piles: proven, refined and new. Check whether 
 
 *8 min read*
 
-> **The big idea:** Instead of asking who can promote a post, ask what you can create that people want to react to, use, test or share. 0xfJuan and VibeMarketer teach this, Dan Koe applies it to products, and beechinour and domschats say to ride new tools early.
+> **The big idea:** Instead of asking who can promote a post, ask what you can create that people want to react to, use, test or share. Some creators teach this for posts, others apply it to products, and others say to ride new tools early.
 
-### Give people something to quote (0xfJuan)
+### Give people something to quote
 
 - Plan distribution by asking who would share the post and what they'd have to say.
 - 'Excited to announce our new platform' gives nothing to discuss.
@@ -2187,30 +2153,30 @@ Write your last 10 posts in three piles: proven, refined and new. Check whether 
 - Test before publishing: what could a person who doesn't know you add? If you struggle to answer, add something more specific.
 - Disagreement brings attention, but think about what it leaves people believing. You want a conversation you can answer with evidence.
 
-### Create things worth spreading (VibeMarketer)
+### Create things worth spreading
 
 - Instead of 'who can promote this?', ask what you can create that people want to react to, use, test or share.
-- His list: a benchmark, a dataset, a teardown, a strong take, a public experiment, a product to try.
+- A list: a benchmark, a dataset, a teardown, a strong take, a public experiment, a product to try.
 - Let people test the workflow, compare against the benchmark, join the experiment and add their own result.
 - The more personally relevant it is, the less you force distribution.
 
-### Packaging a product: the validated angle (Dan Koe)
+### Packaging a product: the validated angle
 
 - The biggest beginner mistake in building a first product is not searching for the right angle first. Angle is how you position the product so people perceive it as valuable. You wouldn't title it 'Writing Course', you'd title it something that sparks desire.
 - Traditionally this takes boring market research. Now social media engagement shows you exactly what people want.
-- His example: if a YouTube video 'how to focus for 12 hours straight' goes viral, a product called 'How to study for 12 hours straight' will likely sell well, especially linked in that video's description.
-- His AI prompt (product reference removed): 'I'm building a product about [topic]. It helps people [transformation]. I want you to research top performing social posts across all platforms that could act as great angles for my product, then help me brainstorm for what to name my product.'
+- An example: if a YouTube video 'how to focus for 12 hours straight' goes viral, a product called 'How to study for 12 hours straight' will likely sell well, especially linked in that video's description.
+- An AI prompt (product reference removed): 'I'm building a product about [topic]. It helps people [transformation]. I want you to research top performing social posts across all platforms that could act as great angles for my product, then help me brainstorm for what to name my product.'
 - Bonus: use those viral posts as inspiration for your own posts. Plugging the product under content built on a viral idea makes it more likely to go viral and bring sales.
 
 ### Ride new tools early
 
-- beechinour's AI video arbitrage: a new AI model drops, make something interesting or viral with it, and know how to post and get traffic. It lasts as long as AI video keeps improving.
-- beechinour: treat every project as a test for the future, not a snapshot of now, because quality only goes up.
-- domschats on the OpenAI launch video (he calls it the Astra launch video): a generic video would have got views, but pushing for something unique got hundreds of millions of impressions.
+- AI video arbitrage: a new AI model drops, make something interesting or viral with it, and know how to post and get traffic. It lasts as long as AI video keeps improving.
+- Treat every project as a test for the future, not a snapshot of now, because quality only goes up.
+- On the OpenAI launch video (known as the Astra launch video): a generic video would have got views, but pushing for something unique got hundreds of millions of impressions.
 
 ### Frameworks
 
-**Things worth spreading** (VibeMarketer)
+**Things worth spreading**
 
 1. A benchmark
 2. A dataset
@@ -2219,7 +2185,7 @@ Write your last 10 posts in three piles: proven, refined and new. Check whether 
 5. A public experiment
 6. A product to try
 
-**Quote test** (0xfJuan)
+**Quote test**
 
 1. Who would share this?
 2. What would they have to say?
@@ -2228,25 +2194,25 @@ Write your last 10 posts in three piles: proven, refined and new. Check whether 
 
 ### Examples
 
-- **0xfJuan, messy spreadsheet:** Show a messy inventory spreadsheet becoming a working app, with what you started with, what the tool produced and what you had to fix yourself.
+- **Messy spreadsheet:** Show a messy inventory spreadsheet becoming a working app, with what you started with, what the tool produced and what you had to fix yourself.
   <br>*Why it works:* Operators, developers and testers each have a way in.
-- **Dan Koe, 12 hours:** A viral video 'how to focus for 12 hours straight' suggests a product called 'How to study for 12 hours straight'.
+- **12 hours:** A viral video 'how to focus for 12 hours straight' suggests a product called 'How to study for 12 hours straight'.
   <br>*Why it works:* The viral angle is the product angle.
 
 ### Common mistakes
 
-- Posting an announcement that gives people nothing to discuss (0xfJuan).
-- Chasing disagreement without thinking about what people end up believing (0xfJuan).
-- Naming a first product plainly, such as 'Writing Course' (Koe).
-- Treating every project as a snapshot of now when tools keep improving (beechinour).
+- Posting an announcement that gives people nothing to discuss.
+- Chasing disagreement without thinking about what people end up believing.
+- Naming a first product plainly, such as 'Writing Course'.
+- Treating every project as a snapshot of now when tools keep improving.
 
 ### Try it
 
-Take one post you plan to write and run 0xfJuan's quote test: what could a stranger add to it? If you can't answer, add something more specific.
+Take one post you plan to write and run the quote test: what could a stranger add to it? If you can't answer, add something more specific.
 
 <details><summary><b>Check yourself (4 questions)</b></summary>
 
-**1. According to VibeMarketer, which question replaces 'who can promote this?'**
+**1. Which question replaces 'who can promote this?'**
 
 - a) Which hashtag is best?
 - b) Who has the most followers?
@@ -2255,7 +2221,7 @@ Take one post you plan to write and run 0xfJuan's quote test: what could a stran
 
 *Answer: d) What can I create that people want to react to, use, test or share?.* A benchmark, dataset, teardown, strong take, public experiment or product to try.
 
-**2. What is a validated angle for a product, per Dan Koe?**
+**2. What is a validated angle for a product?**
 
 - a) A positioning backed by viral posts that show what people want
 - b) A price
@@ -2264,7 +2230,7 @@ Take one post you plan to write and run 0xfJuan's quote test: what could a stran
 
 *Answer: a) A positioning backed by viral posts that show what people want.* Social engagement shows what people want, and viral posts can act as angles for the product.
 
-**3. What does 0xfJuan suggest testing before publishing?**
+**3. What is suggested testing before publishing?**
 
 - a) What a person who doesn't know you could add
 - b) The posting time
@@ -2273,7 +2239,7 @@ Take one post you plan to write and run 0xfJuan's quote test: what could a stran
 
 *Answer: a) What a person who doesn't know you could add.* If you struggle to answer, add something more specific.
 
-**4. What does beechinour say about every project when tools keep improving?**
+**4. What is said about every project when tools keep improving?**
 
 - a) It should be hidden
 - b) It is a test for the future
@@ -2284,49 +2250,47 @@ Take one post you plan to write and run 0xfJuan's quote test: what could a stran
 
 </details>
 
-*Sources: 0xfJuan, engineer virality; VibeMarketer, positioning guide; Dan Koe, Interests course; beechinour, 7 guides; Dominic Bair (domschats), How to go from 0-100M views/month*
-
 [Back to the top of this module](#top) · [All modules](../README.md#contents)
 
 ---
 
 <a id="m5-l19"></a>
 
-## 5.19 Home run ideas and the three stages of packaging (Paddy Galloway)
+## 5.19 Home run ideas and the three stages of packaging
 
 *8 min read*
 
-> **The big idea:** Galloway's playbook for a viral video in any niche: put the effort of 10 normal videos into one big idea, package it so it stops the scroll, opens a question and earns the click, make it satisfying, then repeat it enough times to give luck a chance.
+> **The big idea:** A playbook for a viral video in any niche: put the effort of 10 normal videos into one big idea, package it so it stops the scroll, opens a question and earns the click, make it satisfying, then repeat it enough times to give luck a chance.
 
 ### Singles, doubles and home runs
 
-- Galloway says most channels are built on single base hits (normal ideas, normal effort, solid but unlikely to break through) and doubles (more effort, maybe better than average, but not a real big swing).
+- Most channels are built on single base hits (normal ideas, normal effort, solid but unlikely to break through) and doubles (more effort, maybe better than average, but not a real big swing).
 - The realisation: the algorithm is a multiplier. You can make 10 single base hits, or put the effort of those 10 videos into one video. That one is a home run.
-- He calls it a power law: a much better idea and execution can get exponentially more views.
+- It is a power law: a much better idea and execution can get exponentially more views.
 
 ### What makes a home run
 
 - Go broader: cast the widest net in your niche. An idea everyone in it could click and enjoy: beginners and experts, die-hard fans and fringe fans.
 - More time: it deserves an unreasonable amount. Two weeks to film, or travel to film it, is fine.
 - Multiply all execution: if you usually make 2 thumbnails, make 10. If your usual budget is \$500, ask whether this one can justify \$2,000.
-- Treat it as a loss leader: paying for itself directly is not the main goal. He wants a video that lifts the whole floor of the channel, because breaking through to a new audience compounds.
-- Not every video should be a home run. Swing for the fences every time and you miss a lot. His advice: go bigger once a month or once a quarter. His example: a student in the permaculture niche got 16M views.
+- Treat it as a loss leader: paying for itself directly is not the main goal. The goal is a video that lifts the whole floor of the channel, because breaking through to a new audience compounds.
+- Not every video should be a home run. Swing for the fences every time and you miss a lot. The advice: go bigger once a month or once a quarter. An example: a student in the permaculture niche got 16M views.
 
 ### The three stages of packaging
 
-- Stage 1, scroll stop: viewers see a title and thumbnail for milliseconds, so something has to stop them. Usually the thumbnail does it: a striking visual, an emotion or a piece of text. His example: a tiny flip-book stopped him the first time he saw it.
+- Stage 1, scroll stop: viewers see a title and thumbnail for milliseconds, so something has to stop them. Usually the thumbnail does it: a striking visual, an emotion or a piece of text. An example: a tiny flip-book stopped one creator the first time they saw it.
 - Stage 2, interest: the viewer has stopped and is processing the packaging, still in seconds. Interest is nearly always built with a curiosity gap, a question the packaging opens: 'Wait, how is a flip-book that small possible? Does it actually work?'
 - Stage 3, the click: the viewer decides whether to act on that interest. A lot of it depends on the value you promise and whether they believe you.
 - All three happen in the blink of an eye, mostly on impulse. Breaking them apart lets you check your own packaging: what stops the scroll, what opens the gap, what makes them click?
 
 ### Surface area for virality
 
-- Galloway: going viral is about creating a larger surface area of probability. The game isn't one try, it's repeated attempts: 5 videos, 10 videos, 50 videos.
-- His full playbook in order: a home run idea, packaging through the three stages, a satisfying video (M6), then repeat.
+- Going viral is about creating a larger surface area of probability. The game isn't one try, it's repeated attempts: 5 videos, 10 videos, 50 videos.
+- The full playbook in order: a home run idea, packaging through the three stages, a satisfying video (M6), then repeat.
 
 ### Frameworks
 
-**The viral video playbook** (Paddy Galloway)
+**The viral video playbook**
 
 1. Pick a home run idea and give it the effort of 10 normal videos
 2. Package it through 3 stages: scroll stop, interest, click
@@ -2337,8 +2301,8 @@ Take one post you plan to write and run 0xfJuan's quote test: what could a stran
 
 - **The tiny flip-book:** Scroll stop: a flip-book small enough to look impossible. Interest: 'how is that possible, does it work?' Click: the viewer believes the video will show it.
   <br>*Why it works:* Each stage is one job, done in under a second.
-- **Permaculture, 16M views:** A student of Galloway's accelerator got 16M views in permaculture, a niche not known for big views.
-  <br>*Why it works:* Galloway uses it to show home runs work in small niches too.
+- **Permaculture, 16M views:** A student of an accelerator program got 16M views in permaculture, a niche not known for big views.
+  <br>*Why it works:* It shows home runs work in small niches too.
 
 ### Common mistakes
 
@@ -2349,7 +2313,7 @@ Take one post you plan to write and run 0xfJuan's quote test: what could a stran
 
 ### Where the sources disagree
 
-The 50% share for idea and packaging is Galloway's own estimate, and home runs pull against pure volume advice (M6). Galloway's answer is a mix: mostly normal videos, plus a big swing once a month or quarter.
+The 50% share for idea and packaging is one creator's own estimate, and home runs pull against pure volume advice (M6). The answer is a mix: mostly normal videos, plus a big swing once a month or quarter.
 
 ### Try it
 
@@ -2357,7 +2321,7 @@ Take one idea you already planned and write how it would look as a home run: bro
 
 <details><summary><b>Check yourself (4 questions)</b></summary>
 
-**1. What is a home run video, per Galloway?**
+**1. What is a home run video?**
 
 - a) A video posted at the best time
 - b) Putting the effort of about 10 normal videos into one big idea
@@ -2366,7 +2330,7 @@ Take one idea you already planned and write how it would look as a home run: bro
 
 *Answer: b) Putting the effort of about 10 normal videos into one big idea.* The algorithm is a multiplier, so one much better idea can get exponentially more views.
 
-**2. How often does Galloway suggest going for a home run?**
+**2. How often is going for a home run suggested?**
 
 - a) Every video
 - b) Never, volume wins
@@ -2395,8 +2359,6 @@ Take one idea you already planned and write how it would look as a home run: bro
 
 </details>
 
-*Sources: Paddy Galloway, A playbook for making a viral YouTube video (X article); Paddy Galloway, 5 Principles That Helped Me Generate 50 Billion Views (X article)*
-
 [Back to the top of this module](#top) · [All modules](../README.md#contents)
 
 ---
@@ -2407,24 +2369,24 @@ Take one idea you already planned and write how it would look as a home run: bro
 
 The whole module on one page.
 
-- Topic first: you can't out-edit a weak topic (Sam Gaudet).
-- Check every topic for demand, fit and interest (Sam).
-- Make ideas work for core, casual and new people (Galloway).
-- An idea is topic, angle and format. Validate all three before scripting (Sam).
-- Make old topics new with a new frame, name, update or finding (Kallaway).
-- Steal the format, not the words (Sam, Ryan, Nicolas Cole).
-- Judge outliers against that account's own normal, and use recent ones (Sam, Galloway).
-- Break outliers down, hold what keeps winning and remix the rest (Kallaway).
-- Kill bad ideas faster: find 20 to 30 and pick the best few (Sam).
-- Pick ideas with a clear visual for the first seconds (Kallaway).
+- Topic first: you can't out-edit a weak topic.
+- Check every topic for demand, fit and interest.
+- Make ideas work for core, casual and new people.
+- An idea is topic, angle and format. Validate all three before scripting.
+- Make old topics new with a new frame, name, update or finding.
+- Steal the format, not the words.
+- Judge outliers against that account's own normal, and use recent ones.
+- Break outliers down, hold what keeps winning and remix the rest.
+- Kill bad ideas faster: find 20 to 30 and pick the best few.
+- Pick ideas with a clear visual for the first seconds.
 - Thumbnail: one to three things, a clear emotion, 3 to 5 words, never repeat the title.
 - Title: a big outcome in a clear promise a stranger gets in 3 seconds.
-- Pick the emotion before you write, and make tweet 1 earn tweet 2 (Shaan Puri).
-- Treat algorithm rules as claims. Test them (Kallaway, pmitu, Logan Smith disagree on parts).
-- Chase on-target views: core and inner rings, never the max ring (Kallaway).
-- Run 70/20/10: proven, iterated and experimental content (Caleb Ralston).
-- Double down on winners every month (Dan Koe, Ryan).
-- Create something people want to react to, use, test or share (VibeMarketer, 0xfJuan).
+- Pick the emotion before you write, and make tweet 1 earn tweet 2.
+- Treat algorithm rules as claims. Test them (creators disagree on parts).
+- Chase on-target views: core and inner rings, never the max ring.
+- Run 70/20/10: proven, iterated and experimental content.
+- Double down on winners every month.
+- Create something people want to react to, use, test or share.
 
 <a id="flashcards"></a>
 
@@ -2432,37 +2394,37 @@ The whole module on one page.
 
 Read the question, answer it in your head, then open it.
 
-<details><summary>Kallaway's three questions every viewer asks</summary>
+<details><summary>The three questions every viewer asks</summary>
 
 Do I care (relevant)? Is it new to me (novel)? Am I intrigued (interesting)?
 
 </details>
 
-<details><summary>What is CCN fit (Paddy Galloway)?</summary>
+<details><summary>What is CCN fit?</summary>
 
 An idea that works for core, casual and new audiences at the same time.
 
 </details>
 
-<details><summary>Sam Gaudet's three filters for a topic</summary>
+<details><summary>The three filters for a topic</summary>
 
 Demand (how many care), fit (does my audience come to me for this), interest (do I genuinely care).
 
 </details>
 
-<details><summary>What is an idea made of, per Sam Gaudet?</summary>
+<details><summary>What is an idea made of?</summary>
 
 Topic plus angle plus format. The 1 x 3 x 3 rule: 1 hot topic x 3 angles x 3 formats = 9 videos.
 
 </details>
 
-<details><summary>Kallaway's four ways to make an old topic new</summary>
+<details><summary>Four ways to make an old topic new</summary>
 
 A new frame, a new name, a new update or a new finding.
 
 </details>
 
-<details><summary>Model before you modify (Sam Gaudet)</summary>
+<details><summary>Model before you modify</summary>
 
 Take inspiration from the topic, angle and format of what works, never the words or the other person's perspective, then add your own stories.
 
@@ -2470,41 +2432,41 @@ Take inspiration from the topic, angle and format of what works, never the words
 
 <details><summary>How do the experts define an outlier?</summary>
 
-Galloway 3 to 4x the channel average, Koe 2x engagement, Kallaway 5x with 5%+ engagement, MrBeast's tool 10x. Always judged against that account's own normal.
+Different creators set different bars: 3 to 4x the channel average, 2x engagement, 5x with 5%+ engagement, and MrBeast's tool uses 10x. Always judged against that account's own normal.
 
 </details>
 
-<details><summary>Kallaway's hold 2, remix 5</summary>
+<details><summary>Hold 2, remix 5</summary>
 
 Break outliers into 7 bricks, keep the bricks that keep winning, change the rest.
 
 </details>
 
-<details><summary>How do the best creators choose ideas (Sam)?</summary>
+<details><summary>How do the best creators choose ideas?</summary>
 
 They kill bad ideas faster. Find 20 to 30 and kill most. Split idea picking from making.
 
 </details>
 
-<details><summary>Galloway's idea funnel</summary>
+<details><summary>The idea funnel</summary>
 
 100 ideas, cut no CCN fit (about 40), cut not feasible, can you write the title and sketch the thumbnail (about 20), excited to make it (about 10), one-pager, make the best 3 or 4.
 
 </details>
 
-<details><summary>Galloway's glance test and three element rule</summary>
+<details><summary>The glance test and three element rule</summary>
 
 Flick a small thumbnail between blank slides: understood in a split second? No more than three things to focus on.
 
 </details>
 
-<details><summary>Sam's thumbnail recipe</summary>
+<details><summary>The thumbnail recipe</summary>
 
 A big face with clear emotion, matching the title, 3 to 5 words of text, optional visual, never repeat the title.
 
 </details>
 
-<details><summary>Sam's hopes, dreams, fears, blockers</summary>
+<details><summary>Hopes, dreams, fears, blockers</summary>
 
 Four ways to package one topic by emotion. Teach the method, not 100 titles.
 
@@ -2512,77 +2474,63 @@ Four ways to package one topic by emotion. Teach the method, not 100 titles.
 
 <details><summary>Minimum effective promise</summary>
 
-Sam's question for packaging. A stranger should say what it is about in 3 seconds.
+The question for packaging. A stranger should say what it is about in 3 seconds.
 
 </details>
 
-<details><summary>Why packaging matters (Ryan and Galloway)</summary>
+<details><summary>Why packaging matters</summary>
 
-Ryan: the same idea can get 5 to 10x with better packaging. Galloway: a 20% better title can mean 2x to 100x views.
+The same idea can get 5 to 10x with better packaging. A 20% better title can mean 2x to 100x views.
 
 </details>
 
-<details><summary>Shaan Puri's two ratios</summary>
+<details><summary>The two ratios</summary>
 
 Likes per impression (2 to 3% is a big hit) and reposts per like (20 to 30% means it will spread).
 
 </details>
 
-<details><summary>Kallaway's algorithm model</summary>
+<details><summary>The algorithm as a matchmaker</summary>
 
-A matchmaker: fingerprint the video, show it to about 200 mostly non-followers, push to 2,000 then 20,000 if the data is good. His simplified model, not an official rule.
+A matchmaker: fingerprint the video, show it to about 200 mostly non-followers, push to 2,000 then 20,000 if the data is good. A simplified model, not an official rule.
 
 </details>
 
-<details><summary>Kallaway's idea rings and mix</summary>
+<details><summary>Idea rings and mix</summary>
 
 Core, inner, outer and max. Sell with 40% core, 40% inner, 20% outer, 0% max.
 
 </details>
 
-<details><summary>Dominic Bair's follower trap</summary>
+<details><summary>The follower trap</summary>
 
 Wrong views bring followers who don't engage with your product videos, so the algorithm stops pushing them.
 
 </details>
 
-<details><summary>Caleb Ralston's 70/20/10</summary>
+<details><summary>70/20/10</summary>
 
 70% proven, 20% iterations, 10% experiments. 'Brands grow on the 70%, but brands lead on the 10%.'
 
 </details>
 
-<details><summary>Dan Koe's monthly double down</summary>
+<details><summary>The monthly double down</summary>
 
 Review top content each month and rewrite it from different angles: short, long, lists, better hook, clearer problem.
 
 </details>
 
-<details><summary>VibeMarketer's things worth spreading</summary>
+<details><summary>Things worth spreading</summary>
 
 A benchmark, dataset, teardown, strong take, public experiment or a product to try.
 
 </details>
 
-<details><summary>Galloway's three stages of packaging</summary>
+<details><summary>The three stages of packaging</summary>
 
 Scroll stop (milliseconds) > interest (a curiosity gap) > click (a value they believe)
 
 </details>
-
-<a id="key-sources"></a>
-
-## Key sources
-
-- Kallaway, Illusion of novelty
-- Paddy Galloway, Jay Clouse interview
-- Sam Gaudet, YouTube Psychology
-- Caleb Ralston, Manage a brand team
-- Shaan Puri with Dickie Bush and Nicolas Cole, Viral Writing 101
-- Paddy Galloway, 5 Principles That Helped Me Generate 50 Billion Views (X article)
-- Paddy Galloway, A playbook for making a viral YouTube video (X article)
-
-Links to every video and article: [Credits](../CREDITS.md)
 
 ---
 

@@ -1,6 +1,6 @@
 # Credits
 
-Everything in this guide comes from the creators below. We watched and read their videos and articles, sorted what they teach into 11 topics, cut the filler and kept every important point. Every lesson also says who teaches each idea, right next to it.
+Everything in this guide comes from the creators below. We watched and read their videos and articles, sorted what they teach into 11 topics, cut the filler and kept every important point. The lessons don't name anyone, so all the credit is here.
 
 The ideas, frameworks, examples and numbers belong to them. Numbers and results are their own claims as they stated them. If something here helps you, go watch and read the originals and follow the people who made them.
 
