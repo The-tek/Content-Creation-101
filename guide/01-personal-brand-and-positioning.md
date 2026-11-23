@@ -1,44 +1,18 @@
-<a id="top"></a>
-
 # Module 1: Personal brand and positioning
 
-*Decide what you want to be known for, prove it, repeat it, and give it time*
+Decide what you want to be known for, prove it, repeat it, and give it time
 
 This module teaches the base of a personal brand. A brand is a link in people's heads between you and one thing, and trust turns that link into money. You will pick a goal, build real proof, choose a narrow niche and a clear position, and stand out with a belief most people disagree with. You will also learn how to last in the age of AI
 
-**15 lessons · about 145 minutes of reading**
+## Lesson 1.1: Why personal brands work so well now
 
-## In this module
+### Big idea
 
-1. [Why personal brands work so well now](#m1-l1)
-2. [Start from the end: what you want to be known for](#m1-l2)
-3. [Proof first: do the thing, then talk about it](#m1-l3)
-4. [What a brand really is: a link in people's minds](#m1-l4)
-5. [Niche: start narrow, then widen](#m1-l5)
-6. [Size your niche: core, casual and new viewers](#m1-l6)
-7. [Positioning: promise, proof, perspective, personality](#m1-l7)
-8. [Contrarian takes and a point of view](#m1-l8)
-9. [Finding your gap and your advantage](#m1-l9)
-10. [Being real, your story and who you are](#m1-l10)
-11. [Worldbuilding: a world your audience lives in](#m1-l11)
-12. [Trust: how it is built and how to protect it](#m1-l12)
-13. [Obsession, stickiness and fans](#m1-l13)
-14. [A brand that lasts in the AI era](#m1-l14)
-15. [Plans, timelines and staying power](#m1-l15)
+People trust people faster than they trust companies, and trust is what turns attention into money. A personal brand is not your business. It is how people find you and why they believe you
 
-At the end: [Cheat sheet](#cheat-sheet)
+### How it works
 
----
-
-<a id="m1-l1"></a>
-
-## 1.1 Why personal brands work so well now
-
-*8 min read*
-
-> **The big idea:** People trust people faster than they trust companies, and trust is what turns attention into money. A personal brand is not your business. It is how people find you and why they believe you
-
-### Trust is the whole plan
+#### Trust is the whole plan
 
 A personal brand is the reputation people carry in their heads about you. Share good ideas for long enough and people start to trust you
 
@@ -50,7 +24,7 @@ A coach uses it to find clients
 
 Without trust, a business has to win people over fast with pushy tricks like countdown timers and loud sales pages. With trust, your content has already done most of the selling
 
-### People follow people, not companies
+#### People follow people, not companies
 
 On social media, people follow Elon Musk and Steve Jobs, not Tesla or Apple in the same way. The accounts people care about most belong to humans
 
@@ -58,7 +32,7 @@ Early-stage companies grow mostly through founder-led content, meaning posts whe
 
 A company account wins mostly in consumer goods and retail, where a shopper has to remember a brand name in a store. Even there, founders often host the content themselves
 
-### Founder-led, brand-led and the whole team
+#### Founder-led, brand-led and the whole team
 
 Founder-led content is written in the first person: opinions, stories, how you are building, lessons learned. It builds trust fastest, but a founder's personal opinions can sometimes hurt the company
 
@@ -70,7 +44,7 @@ The company account handles launches and updates
 
 Employees can build their own brands too. For a company with about 20 or more people, that is a big advantage, because every person reaches their own circle
 
-### Who is in your audience
+#### Who is in your audience
 
 Who follows you is more important than how many follow you. Say you invest in startups
 
@@ -78,21 +52,23 @@ An audience of other investors can't buy anything from the startups you back. An
 
 So ask who you want in the room. A crowd of people in your own job likes your posts, but never becomes a customer
 
-### A personal brand is not the same as being a creator
+#### A personal brand is not the same as being a creator
 
 A personal brand is what people think of you when you are not in the room. You build it to help your career or business, not to become famous
 
 Most people only need a brand that grows out of what they already do and does not define them. Going further, to a brand bigger than you, is optional
 
-**Example: Two audiences**
+### Examples
+
+Two audiences:
 
 Say two investors each have 10,000 followers. The first is followed by other investors
 
 The second is followed by people who want to start companies
 
-*Why it works:* Only the second audience can become customers of the companies the investor backs
+Why it works: Only the second audience can become customers of the companies the investor backs
 
-### Mistakes to avoid
+### Mistakes
 
 - building only a company account when your buyer needs to trust a person
 - building an audience of people in your own job instead of real customers
@@ -104,19 +80,15 @@ Pick a business you know. Ask: does the buyer need to be taught how it works, an
 
 Then list the people in it who could each run a personal account, and one topic each could post about
 
-[Back to the top of this module](#top) · [All modules](../README.md#contents)
+## Lesson 1.2: Start from the end: what you want to be known for
 
----
+### Big idea
 
-<a id="m1-l2"></a>
+Before you make content, decide where your brand is going: what you want to be known for and what that reputation should get you. Then judge every post with one question: does it take me closer to that, or further away?
 
-## 1.2 Start from the end: what you want to be known for
+### How it works
 
-*8 min read*
-
-> **The big idea:** Before you make content, decide where your brand is going: what you want to be known for and what that reputation should get you. Then judge every post with one question: does it take me closer to that, or further away?
-
-### Decide your goal before you learn tricks
+#### Decide your goal before you learn tricks
 
 Beginners get buried in advice like copy these formats, steal this hook. None of it works without a clear goal
 
@@ -126,7 +98,7 @@ A brand with no goal works the same way
 
 Most personal brands fall apart after a few months because they have no base. They never answered what the brand stands for and why anyone should listen
 
-### Known for and paid for
+#### Known for and paid for
 
 Start with one question: 20 years from now, what do you want to be known for and paid for?
 
@@ -138,7 +110,7 @@ The biggest mistake is putting years into the wrong goal. You grow an audience i
 
 A brand also costs time, money and privacy. Without a strong reason why, you are far less likely to keep going when it gets hard
 
-### Build a mission into the brand
+#### Build a mission into the brand
 
 A mission fixes the problem of not knowing what to post. It has 2 points
 
@@ -148,7 +120,7 @@ Your mission is to help as many people as possible go from A to B. Every idea yo
 
 Share the mission in your content. People follow momentum, so they follow people who are clearly moving somewhere
 
-### Work backwards from the result
+#### Work backwards from the result
 
 Ask 4 questions in order. What result do you want from this brand?
 
@@ -158,15 +130,17 @@ What do you need to learn to do it?
 
 Then test every action with one question: does it take me closer to the result or further away?
 
-**Example: A Point A and Point B**
+### Examples
+
+A Point A and Point B:
 
 Say you help busy parents with money. Point A: "stressed about bills every month and never getting ahead"
 
 Point B: "calm about money, with savings growing"
 
-*Why it works:* A post about a monthly budget fits between them. A post about a celebrity's car does not
+Why it works: A post about a monthly budget fits between them. A post about a celebrity's car does not
 
-### Mistakes to avoid
+### Mistakes
 
 - jumping to hooks and formats before you know where you are going
 - picking a topic you won't want to talk about in 10 years
@@ -176,19 +150,15 @@ Point B: "calm about money, with savings growing"
 
 Write 4 lines: the result you want, what you must be known for, what you must do, what you must learn. Then write Point A and Point B as one sentence each, and mark your last 10 posts "closer" or "further"
 
-[Back to the top of this module](#top) · [All modules](../README.md#contents)
+## Lesson 1.3: Proof first: do the thing, then talk about it
 
----
+### Big idea
 
-<a id="m1-l3"></a>
+A personal brand stands on what you have really done. Get real proof first, or be honest that you are still learning, and then talk about it. People spot fake experts fast
 
-## 1.3 Proof first: do the thing, then talk about it
+### How it works
 
-*9 min read*
-
-> **The big idea:** A personal brand stands on what you have really done. Get real proof first, or be honest that you are still learning, and then talk about it. People spot fake experts fast
-
-### There is no shortcut to being believed
+#### There is no shortcut to being believed
 
 People online are more doubtful than ever. Within seconds, viewers wonder: can I trust this person?
 
@@ -198,7 +168,7 @@ Most people post to get believed, and that is backwards. Get proof in real life 
 
 Ask yourself plainly: what do I help people with, and why should anyone follow me for it?
 
-### Do interesting things first
+#### Do interesting things first
 
 The best way to grow is to have interesting things to share. They come from real experience, skills, results, and access to people and places
 
@@ -208,7 +178,7 @@ Switch from "how to" content to "how I" content. Don't teach what you haven't do
 
 Try this test: could friends ask you about this topic for 30 minutes with no preparation? If yes, you can post about it
 
-### Student or expert: pick the true one
+#### Student or expert: pick the true one
 
 There are 2 honest ways to present yourself. An expert already has the result the audience wants and teaches how they got it
 
@@ -218,7 +188,7 @@ Neither is wrong, as long as it is true. A student who poses as an expert is lyi
 
 You don't need to be a big name. You need to be truly interested and one or two steps ahead of your reader
 
-### Keep a list of your proof
+#### Keep a list of your proof
 
 Proof is the real material you turn into content. Keep a list of your wins and failures, each with the lesson someone else can use
 
@@ -230,7 +200,7 @@ A set of steps that solves a real marketing problem is strong
 
 Show what went wrong too, not only the polished result. That is where people learn how you think
 
-### Keep adding proof
+#### Keep adding proof
 
 Put new proof on top of old proof, and talk about what you will do next. A public mission people can follow works well, like growing an account from 0 to 100,000 followers
 
@@ -238,15 +208,17 @@ This keeps you believable 10 years from now. Many people keep repeating what the
 
 Many people with real results are afraid to share them because it feels like bragging. But when you stay quiet, people with less experience give your audience the advice instead
 
-**Example: A proof list entry**
+### Examples
+
+A proof list entry:
 
 Say you run a small bakery. One entry: "My first batch of 200 cookies sold out in an hour
 
 The next 3 batches did not sell at all. Lesson: people buy what they see others buying, so I put a 'sold out yesterday' sign on the shelf"
 
-*Why it works:* A good entry is a real event plus a lesson someone else can use
+Why it works: A good entry is a real event plus a lesson someone else can use
 
-### Mistakes to avoid
+### Mistakes
 
 - posting to get believed, instead of getting real proof first
 - presenting yourself as an expert when you are really a student
@@ -257,19 +229,15 @@ The next 3 batches did not sell at all. Lesson: people buy what they see others 
 
 Spend 10 minutes writing 5 lines, each with a real event or something you are working on, plus the lesson someone else could use. Then run the 30 minute test on each one
 
-[Back to the top of this module](#top) · [All modules](../README.md#contents)
+## Lesson 1.4: What a brand really is: a link in people's minds
 
----
+### Big idea
 
-<a id="m1-l4"></a>
+A brand is not a logo or a colour palette. It is a link in people's heads between you and one thing. You build that link by showing the same pairing again and again
 
-## 1.4 What a brand really is: a link in people's minds
+### How it works
 
-*9 min read*
-
-> **The big idea:** A brand is not a logo or a colour palette. It is a link in people's heads between you and one thing. You build that link by showing the same pairing again and again
-
-### A brand is a pairing
+#### A brand is a pairing
 
 Most people make brand too complicated: logo, colours, fonts. A simpler idea is that a brand exists when your audience links 2 things together
 
@@ -279,7 +247,7 @@ It got its meaning from the athlete, and people started to feel greatness when t
 
 A personal brand is the same link, but between your name and a topic. People should think of you whenever they think of that topic
 
-### How the link gets built
+#### How the link gets built
 
 The only way to build a link in someone's mind is to show it again and again. Content is the best way to do that, because it shows the link to many people at once
 
@@ -287,7 +255,7 @@ If you don't repeat a few topics, you end up known for everything, which means k
 
 Repeating feels boring to you long before it feels boring to your audience. Repeat anyway, with new stories and examples each time
 
-### What you want to be linked with, and what you don't
+#### What you want to be linked with, and what you don't
 
 Decide what you want people to link with you: trust, real usefulness, information that is hard to get. Pick about 5 and pair yourself with them over and over
 
@@ -295,13 +263,13 @@ Decide what you do not want to be linked with, too. If you want to be known as t
 
 Watch out for a brand that traps you. If you build it around one narrow label, it is hard to change later
 
-### Other people spreading the link
+#### Other people spreading the link
 
 If the link only spreads through content you post yourself, your reach is limited by your own time. Other people can spread it for you, and that speeds things up a lot
 
 A clear link is easy to clip and share. Accounts that post short clips of other people's videos can spread your ideas for free, if your ideas are easy to cut out and repeat
 
-### Mistakes to avoid
+### Mistakes
 
 - treating a brand as a logo, fonts and colours instead of a pairing you repeat
 - talking about a topic only sometimes, so the link never forms
@@ -312,19 +280,15 @@ A clear link is easy to clip and share. Accounts that post short clips of other 
 
 Write the 5 things you want people to link with you and 3 things you refuse to be linked with. Then check your last 10 posts: how many pair you with one of the 5?
 
-[Back to the top of this module](#top) · [All modules](../README.md#contents)
+## Lesson 1.5: Niche: start narrow, then widen
 
----
+### Big idea
 
-<a id="m1-l5"></a>
+It is easier to own a small topic than a big one, and easier to own one topic than five. Start in a small area where you go deep, then widen as your proof grows
 
-## 1.5 Niche: start narrow, then widen
+### How it works
 
-*10 min read*
-
-> **The big idea:** It is easier to own a small topic than a big one, and easier to own one topic than five. Start in a small area where you go deep, then widen as your proof grows
-
-### Two rules for building the link
+#### Two rules for building the link
 
 Rule 1: it is easier to be linked with a small topic than a big one. Owning video storytelling for business owners is far easier than owning business
 
@@ -332,7 +296,7 @@ Rule 2: it is much easier to own one topic than five. Every extra topic takes ti
 
 So start narrow, then widen. Creators often start with something small, like boring small businesses, and move to business in general once people know them
 
-### Pond, lake or ocean
+#### Pond, lake or ocean
 
 Pick the size of water to compete in. Business as a whole is an ocean
 
@@ -344,7 +308,7 @@ Most people should start in a pond. The danger is jumping to bigger water only b
 
 Move up when your experience allows it
 
-### The bullseye
+#### The bullseye
 
 Draw a target. Put the narrowest version of your topic in the centre and widen the rings out to the broadest version
 
@@ -352,7 +316,7 @@ Start in the centre, where your topics, examples and proof all fit one clear vie
 
 It is easy to start narrow and widen later, and very hard to go back from broad to narrow
 
-### A small niche can still be a big market
+#### A small niche can still be a big market
 
 A common complaint is "my niche is too small". Most of the time it is not
 
@@ -362,18 +326,11 @@ Small niches can be huge. Millions of people play golf every weekend, and knitti
 
 Being number 1 in a narrow topic is better than number 5 in a big one. People keep folders in their head, like "my golf guy", and go to number 1 first
 
-### Pick the smaller area you win first
+#### Pick the smaller area you win first
 
 Every big niche splits into smaller areas called sub-niches. Start with one or two, then widen as your channel grows
 
 One claim: a wildlife creator struggled while going after everything at once. When he picked 3 small areas first, his views grew a lot
-
-### Mistakes to avoid
-
-- starting broad because you want more reach
-- splitting your content across 4 or 5 topics so every link stays weak
-- moving up from pond to ocean because you are bored of your topic
-- using "my niche is too small" as the reason for low views
 
 ### Where creators disagree
 
@@ -381,25 +338,28 @@ Some creators warn that only talking about one thing can trap you in a job you d
 
 Both ways work, but narrow is the easier way to start
 
+### Mistakes
+
+- starting broad because you want more reach
+- splitting your content across 4 or 5 topics so every link stays weak
+- moving up from pond to ocean because you are bored of your topic
+- using "my niche is too small" as the reason for low views
+
 ### Try it
 
 Draw your niche bullseye on paper. Write the narrowest version of your topic in the centre and 2 wider rings around it
 
 Then answer: what have I done that proves I can win in the centre?
 
-[Back to the top of this module](#top) · [All modules](../README.md#contents)
+## Lesson 1.6: Size your niche: core, casual and new viewers
 
----
+### Big idea
 
-<a id="m1-l6"></a>
+Before you blame your niche, check how big your market really is. Then make every idea work for 3 kinds of viewers: people who love the topic, people who like it a bit, and strangers. Also be clear whether your goal is more views or the right viewers
 
-## 1.6 Size your niche: core, casual and new viewers
+### How it works
 
-*9 min read*
-
-> **The big idea:** Before you blame your niche, check how big your market really is. Then make every idea work for 3 kinds of viewers: people who love the topic, people who like it a bit, and strangers. Also be clear whether your goal is more views or the right viewers
-
-### Measure your market
+#### Measure your market
 
 The size of your market is how many people could realistically watch your content. You can check it in a few minutes
 
@@ -410,13 +370,13 @@ The size of your market is how many people could realistically watch your conten
 
 Then compare. If the best channels get 1 million views and you get 100,000, you are at 10% of what is possible, so the niche is not your problem
 
-### Reach the bigger circle around your niche
+#### Reach the bigger circle around your niche
 
 Your niche sits inside larger interests, like a small circle inside a bigger one. Make videos that reach the bigger circle while still helping your niche
 
 Say you teach business tools and every video is about one app. A video like "what millionaires wish they knew at 20" can be enjoyed by a total beginner and still fit your channel
 
-### Core, casual and new viewers
+#### Core, casual and new viewers
 
 Every idea should work for 3 groups. Core viewers are hardcore fans who really care. Casual viewers dip in and out. New viewers are outside your niche but would click on something interesting
 
@@ -424,13 +384,13 @@ There are 2 ways to fail. One is making only technical content for hardcore fans
 
 Growth means reaching new people, so broader appeal gives you a better chance of a click from a stranger. A simple test: the biggest creator in the world could watch this, and my mother could watch this
 
-### The right order
+#### The right order
 
 Over a career, start narrow with your core viewers, then widen. You can't really go the other way, because starting broad and narrowing later pushes away the viewers you gathered
 
 Think of monkey bars. Start in one small area, then swing to the next, slightly broader one. Because they overlap, you bring people with you
 
-### More views or the right people
+#### More views or the right people
 
 Views aren't everyone's goal. If you sell a niche product to hardcore fans, broad videos may do little for your business. 2 to 3 million very targeted views a month can beat 10 million random ones
 
@@ -438,13 +398,15 @@ More views is the right goal if your main income is ad money, sponsorships or af
 
 Be clear with yourself, and with anyone you hire, about the main goal. Some creators ask for more views, get them, and then dislike making broader videos
 
-**Example: Borrowing a format**
+### Examples
+
+Borrowing a format:
 
 Say you sell a course on using Slack. You borrow a format that did well in other niches: "If I had to start over with Slack, here's what I'd do". You usually get 1,000 views and this gets 30,000
 
-*Why it works:* You borrowed the format and kept your audience, so you got more views and still reached the right people
+Why it works: You borrowed the format and kept your audience, so you got more views and still reached the right people
 
-### Mistakes to avoid
+### Mistakes
 
 - blaming a small niche without checking what the best channels in it really get
 - making ideas only for hardcore fans
@@ -455,19 +417,15 @@ Say you sell a course on using Slack. You borrow a format that did well in other
 
 Do the market check on your niche. Write down what channels fully about it usually get, then work out your own usual views as a percentage of that number
 
-[Back to the top of this module](#top) · [All modules](../README.md#contents)
+## Lesson 1.7: Positioning: promise, proof, perspective, personality
 
----
+### Big idea
 
-<a id="m1-l7"></a>
+Positioning is how you carve out your own spot inside a topic, so people remember you instead of the 50 others posting about it. This lesson gives you 3 checks: 4 building blocks, the 4 Ps, and one sentence that filters every idea
 
-## 1.7 Positioning: promise, proof, perspective, personality
+### How it works
 
-*10 min read*
-
-> **The big idea:** Positioning is how you carve out your own spot inside a topic, so people remember you instead of the 50 others posting about it. This lesson gives you 3 checks: 4 building blocks, the 4 Ps, and one sentence that filters every idea
-
-### Topic and positioning
+#### Topic and positioning
 
 Your topic is the category you are linked with, like fitness or marketing. Positioning is how you talk about it so you have your own spot
 
@@ -479,7 +437,7 @@ Beliefs are the core ideas you stand for, and most people in your space would di
 
 Almost any style works if it is clear and sticks to your beliefs
 
-### Signal and taste
+#### Signal and taste
 
 Signal is how much of your content is truly useful. Out of 100 minutes someone spends with you, how many were useful to them?
 
@@ -489,7 +447,7 @@ So don't spread across too many topics
 
 Taste is how consistent your choices are over time, in line with what your viewer thinks is good quality. It shows in what you keep choosing: people, tools, places and ideas your audience respects
 
-### The 4 Ps
+#### The 4 Ps
 
 Promise: one clear promise of what you offer, repeated, instead of 10 different ones
 
@@ -502,7 +460,7 @@ Perspective: the thing you say that nobody else does. It has to be new and come 
 - Personality: share some of yourself, so people feel they know you
 - If your views and followers don't turn into money, go back to the 4 Ps
 
-### Does a specific audience want what you stand for?
+#### Does a specific audience want what you stand for?
 
 Answer 3 questions: what do you stand for, who is it for, and why should they care? Most brands stand next to 50 competitors and wonder why nobody notices them
 
@@ -510,7 +468,7 @@ One way to stand out is to combine 2 worlds, like AI and trading, or fitness and
 
 Have real opinions. Neutral accounts are forgettable
 
-### One sentence and content buckets
+#### One sentence and content buckets
 
 Write one sentence: "I help X with Y in Z way". It filters every idea
 
@@ -520,7 +478,7 @@ Then pick 3 to 4 content buckets, which are themes that all support your positio
 
 If an idea fits no bucket, don't make it
 
-### Mistakes to avoid
+### Mistakes
 
 - covering many topics so your signal gets low
 - making 10 promises instead of one
@@ -531,19 +489,15 @@ If an idea fits no bucket, don't make it
 
 Write your one-sentence position ("I help X with Y in Z way"). Then list 3 to 4 content buckets that support it, and check your last 10 posts: how many fit a bucket?
 
-[Back to the top of this module](#top) · [All modules](../README.md#contents)
+## Lesson 1.8: Contrarian takes and a point of view
 
----
+### Big idea
 
-<a id="m1-l8"></a>
+The strongest way to stand out is a belief most people in your field disagree with. A topic gives you things to post about. A point of view gives those posts a direction
 
-## 1.8 Contrarian takes and a point of view
+### How it works
 
-*10 min read*
-
-> **The big idea:** The strongest way to stand out is a belief most people in your field disagree with. A topic gives you things to post about. A point of view gives those posts a direction
-
-### Why a contrarian take works
+#### Why a contrarian take works
 
 Titles, thumbnails and hooks help, but the biggest brands also look at their niche in a very different way from most people around them. A contrarian take is the strongest way to stand out
 
@@ -551,7 +505,7 @@ A contrarian take is something you believe is true that most of your space would
 
 It can be an action too. Most business creators sell information, so one who also sells a drink people can buy in a shop stands in a different place in people's minds
 
-### Contrarian or just chasing a reaction
+#### Contrarian or just chasing a reaction
 
 A contrarian take is a belief you feel you have to share because it helps people. A controversial take is said only to get a reaction
 
@@ -561,7 +515,7 @@ Don't be contrarian about everything. A brand made of nothing but disagreement i
 
 Disagree with ideas, not with people. Naming a person or company as your enemy makes you someone who attacks, not someone with a different opinion
 
-### How to find your takes
+#### How to find your takes
 
 Use 2 columns. On the left, write what people in your niche say or do that you strongly disagree with
 
@@ -573,19 +527,21 @@ Keep a running list. Every time you strongly disagree with a post, write down wh
 
 Most big brands run on 3 to 5 big ideas, with smaller takes under each
 
-### Point of view and story
+#### Point of view and story
 
 Build around a belief about what is changing in your market, then keep proving it, testing it and explaining it. That turns your positioning into a story people follow
 
 When there is news, don't ask how you can post about it too. Ask what it lets you prove or explain about the topic you already talk about
 
-**Example: A take and its opposite**
+### Examples
+
+A take and its opposite:
 
 Say most people in content say lighting, gear and editing tricks are the most important. You believe the topic is more important, and you film everything on a phone to prove it
 
-*Why it works:* The left column is what people say. The right column is your belief, and your content proves it
+Why it works: The left column is what people say. The right column is your belief, and your content proves it
 
-### Mistakes to avoid
+### Mistakes
 
 - making up a take just to get a reaction
 - being contrarian about everything
@@ -598,19 +554,15 @@ Do the 2 column exercise. Write 5 things people in your niche say that you disag
 
 Circle the one you would keep sharing even if nobody liked it
 
-[Back to the top of this module](#top) · [All modules](../README.md#contents)
+## Lesson 1.9: Finding your gap and your advantage
 
----
+### Big idea
 
-<a id="m1-l9"></a>
+Your best spot is where something you can offer meets something people want. This lesson gives you 3 tools to find it: your advantages, the step deeper under a popular conversation, and a content map that keeps every post on one path
 
-## 1.9 Finding your gap and your advantage
+### How it works
 
-*10 min read*
-
-> **The big idea:** Your best spot is where something you can offer meets something people want. This lesson gives you 3 tools to find it: your advantages, the step deeper under a popular conversation, and a content map that keeps every post on one path
-
-### Your advantage in the market
+#### Your advantage in the market
 
 Ask yourself: what am I truly good at? What would me, a few years ago, want to read? What can people get from me that they can't get anywhere else? If many people can say what you say, your angle is not unique
 
@@ -618,7 +570,7 @@ Your advantages come from 5 places: your experience, access to people or places,
 
 The best content comes where your advantages meet what the market wants. If you only post what you know, nobody cares. If you only chase trends, you sound like everyone else
 
-### Find the gap you can own
+#### Find the gap you can own
 
 Find a conversation that already gets attention, then look one step deeper. What do people keep asking? Where does the content stop just before it becomes useful?
 
@@ -626,7 +578,7 @@ Say AI content online is full of demos of what tools can do. Someone from market
 
 Test it before you commit: can you think of 10 pieces of original work around it, things to build, test, explain or argue from your own experience? If not, you have a slogan, not a position
 
-### The content map
+#### The content map
 
 A content map turns posts from darts thrown at a board into puzzle pieces that add up to one picture. Make it with pen and paper, because handwriting slows you down
 
@@ -635,19 +587,21 @@ A content map turns posts from darts thrown at a board into puzzle pieces that a
 3. Pick 3 to 5 subtopics under each topic. This is where your own angle comes in
 4. Write 3 to 5 specific content ideas under each subtopic, without judging them yet
 
-### An advantage nobody can copy
+#### An advantage nobody can copy
 
 Everyone has one. Ask what you have access to that most people don't, what you know more about than others, and which life events are only yours. Even being a beginner is an advantage, because you have less to lose
 
 Then run every idea through one filter: could everyone just say this? If yes, it is not your idea
 
-**Example: Two business brands**
+### Examples
+
+Two business brands:
 
 Two people both write about business. One covers freelancing, sales and client work. The other covers digital products, content strategy and audience building
 
-*Why it works:* They are 2 different brands. Your subtopics are where your angle comes in
+Why it works: They are 2 different brands. Your subtopics are where your angle comes in
 
-### Mistakes to avoid
+### Mistakes
 
 - posting only what you know, or only chasing trends
 - staying so narrow that most people who could benefit never see you
@@ -658,19 +612,15 @@ Two people both write about business. One covers freelancing, sales and client w
 
 Write down 10 pieces of original work (things to build, test, explain, measure or argue) around your idea. If you can't get to 10, your position isn't ready yet
 
-[Back to the top of this module](#top) · [All modules](../README.md#contents)
+## Lesson 1.10: Being real, your story and who you are
 
----
+### Big idea
 
-<a id="m1-l10"></a>
+People follow people, not ideas. Your story, your beliefs and what makes you different are what let the same idea land differently when you say it
 
-## 1.10 Being real, your story and who you are
+### How it works
 
-*10 min read*
-
-> **The big idea:** People follow people, not ideas. Your story, your beliefs and what makes you different are what let the same idea land differently when you say it
-
-### People follow people, not ideas
+#### People follow people, not ideas
 
 Take 2 accounts that both post "habits are good for you". One belongs to a famous author of a habits book, and millions know his story
 
@@ -688,7 +638,7 @@ Give people a reason to disagree strongly, and you give others a reason to agree
 
 This is why there is always room for another personal brand. It is fine if someone already said what you want to say, because people connect with the person
 
-### Using your story and beliefs
+#### Using your story and beliefs
 
 You can use your story and beliefs as a topic, or as a new angle on a topic that already works. For example, take a proven topic like building a personal brand and start it with your own story
 
@@ -696,7 +646,7 @@ For your story, write where you were, what made you change, and where you are no
 
 Building a brand is telling chapters of one bigger story, with every post a step on the journey
 
-### Who you are and being different
+#### Who you are and being different
 
 People follow who you are, not just information. If anyone else could have said it, you won't build a big brand
 
@@ -708,7 +658,7 @@ Making content better than everyone else's is a losing plan. Make content that i
 
 Be yourself, because playing a character you aren't is hard to keep up for more than a few months
 
-### Crowded niches
+#### Crowded niches
 
 In a crowded niche like photography, good photos aren't enough, because there are a million photographers. People connect when they understand your personality and the feeling behind the work
 
@@ -716,13 +666,15 @@ Check your profile too. When someone finds you through a short video, your profi
 
 If it does not match your videos, trust drops fast
 
-**Example: Two photographers**
+### Examples
+
+Two photographers:
 
 Say one photographer posts his photos from 10 years ago next to now, with himself in the frame, smiling in a wild place. Another posts beautiful city photos with no person in them
 
-*Why it works:* People connect with the first one, because there is a story and a person behind the work
+Why it works: People connect with the first one, because there is a story and a person behind the work
 
-### Mistakes to avoid
+### Mistakes
 
 - acting like a character you are not
 - hiding your story because it feels embarrassing
@@ -734,19 +686,15 @@ Say one photographer posts his photos from 10 years ago next to now, with himsel
 
 Write where you were, what made you change, and where you are now. Then list 3 beliefs you strongly hold about your topic
 
-[Back to the top of this module](#top) · [All modules](../README.md#contents)
+## Lesson 1.11: Worldbuilding: a world your audience lives in
 
----
+### Big idea
 
-<a id="m1-l11"></a>
+The strongest personal brands feel like a world people live in, not just a feed they scroll. A world has its own names, words, characters and paths, and it turns viewers into fans
 
-## 1.11 Worldbuilding: a world your audience lives in
+### How it works
 
-*11 min read*
-
-> **The big idea:** The strongest personal brands feel like a world people live in, not just a feed they scroll. A world has its own names, words, characters and paths, and it turns viewers into fans
-
-### Why build a world
+#### Why build a world
 
 Think of a fantasy series with its own characters, places and magic. When you come back, you already know the background, so you are not just watching, you are living in it
 
@@ -756,7 +704,7 @@ The audience starts thinking in your frameworks and feels like a citizen, not a 
 
 Useful information alone leaves value unused. Shared language and named ideas people can take with them are what create loyalty
 
-### Name it and define it
+#### Name it and define it
 
 Name your concepts. Take something you already teach and give it a name that is easy to remember, repeat and point to
 
@@ -768,7 +716,7 @@ Give one a clear definition that tells people what to do, and you put yourself i
 
 Make up your own phrases and repeat them for years. A good test: what would someone say if they recommended you to a friend?
 
-### Make it human
+#### Make it human
 
 Share weaknesses. People don't trust someone who pretends everything is perfect
 
@@ -784,13 +732,13 @@ Each interest is another chance to connect
 
 Tell stories of your wins and failures, with the lesson. Hard times often become your strongest points
 
-### A common enemy
+#### A common enemy
 
 People often bond more over a shared dislike than a shared love. Show your contrarian take as the thing standing between your audience and their goal, like treating views as the only measure of success
 
 Keep the enemy an idea, never a person or company. Naming people turns you into someone who attacks
 
-### The parts of a world
+#### The parts of a world
 
 Surfaces are the places people see you, like social media, email and your website. Keep your beliefs the same across them
 
@@ -800,7 +748,7 @@ Citizens are the fans who share your work. Aesthetics are your colours and look
 
 Paths are the links that carry someone from one surface to the next, like from a short video to email. Without paths, your surfaces are random islands
 
-### Mistakes to avoid
+### Mistakes
 
 - naming a concept you invented on the spot instead of something you already teach
 - faking a weakness, or making a specific person your enemy
@@ -811,19 +759,15 @@ Paths are the links that carry someone from one surface to the next, like from a
 
 Pick one thing you already teach and give it a name that is easy to remember. Then pick one vague word in your niche and write a definition for it that tells people what to do
 
-[Back to the top of this module](#top) · [All modules](../README.md#contents)
+## Lesson 1.12: Trust: how it is built and how to protect it
 
----
+### Big idea
 
-<a id="m1-l12"></a>
+Trust means people believe you will do what they expect, or better, because you did before. People also trust conclusions they reach themselves. Chasing a huge number of views can damage trust
 
-## 1.12 Trust: how it is built and how to protect it
+### How it works
 
-*10 min read*
-
-> **The big idea:** Trust means people believe you will do what they expect, or better, because you did before. People also trust conclusions they reach themselves. Chasing a huge number of views can damage trust
-
-### What trust is and how to build it
+#### What trust is and how to build it
 
 Trust is how strongly someone believes you will do what they expect, based on what you did before. So you build it by setting an expectation and meeting it, again and again
 
@@ -833,7 +777,7 @@ It works like a free sample in a shop. If you like the sample, you are more like
 
 When you later mention an offer, people believe you will deliver, because you met their expectations before
 
-### Aim for trust, not for a huge number of views
+#### Aim for trust, not for a huge number of views
 
 Going viral can help. The problem is making content only to go viral, because it makes you pick topics that don't lead to the results you want
 
@@ -843,7 +787,7 @@ If a video would get views but hurt your brand, don't post it. Views should turn
 
 Stay away from rage-bait and drama
 
-### Let people reach the conclusion themselves
+#### Let people reach the conclusion themselves
 
 Direct pressure makes the viewer put their guard up. A hint goes around it
 
@@ -851,7 +795,7 @@ Direct: "I'm the best in the content space, your system is broken, buy mine." Th
 
 A hint: "These are the 5 best content strategies I used to grow these businesses to over \$20 million a year." After the explanation, viewers decide on their own that you are good. When people reach a conclusion themselves, they trust you much faster
 
-### Check every piece
+#### Check every piece
 
 Before you post, ask 5 questions. Is it relevant to my ideal viewer?
 
@@ -863,7 +807,7 @@ Proof is the one people skip. Without proof, you are just another person with an
 
 Get the proof first, then make the content
 
-### 3 levels of obsession
+#### 3 levels of obsession
 
 Level 1 is signal: more useful minutes than anyone else in your category. It is relevant, not obvious and backed by proof
 
@@ -873,7 +817,7 @@ Level 3 is action, the strongest: the viewer follows your steps and gets a real 
 
 Show proof so strong that if they copy it, they might get the same result
 
-### Mistakes to avoid
+### Mistakes
 
 - making content for views on topics that don't lead to your goal
 - telling viewers what to do instead of showing proof
@@ -884,19 +828,15 @@ Show proof so strong that if they copy it, they might get the same result
 
 Write the one painful problem your ideal customer has, and the clear steps from problem to solution. Then check your last 10 posts: how many set up a problem and then solve it?
 
-[Back to the top of this module](#top) · [All modules](../README.md#contents)
+## Lesson 1.13: Obsession, stickiness and fans
 
----
+### Big idea
 
-<a id="m1-l13"></a>
+A strong brand link comes from 3 things: obsession (the time you put in), positioning (how well your content sticks in people's minds) and worldbuilding (how far it spreads). The goal is a fan who feels good just from seeing your name
 
-## 1.13 Obsession, stickiness and fans
+### How it works
 
-*11 min read*
-
-> **The big idea:** A strong brand link comes from 3 things: obsession (the time you put in), positioning (how well your content sticks in people's minds) and worldbuilding (how far it spreads). The goal is a fan who feels good just from seeing your name
-
-### Obsession keeps a brand alive
+#### Obsession keeps a brand alive
 
 The best brands are truly obsessed with their field. If there is one thing you can control, it is how obsessed you are
 
@@ -904,13 +844,13 @@ In practice, obsession means time spent doing, talking about, learning and teach
 
 Obsession leads to skills, skills to results, results to proof, proof to trust, and trust to a brand that spreads. Fake obsession, talking about something you don't really do, is easy for people to spot
 
-### A test for choosing a niche
+#### A test for choosing a niche
 
 Pick one you are already obsessed with, or willing to become obsessed with, enough that you would spend 40 hours a week on it for the next 10 years
 
 If you are not naturally obsessed and can't force it, it will be very hard to spend enough time to build a brand
 
-### A formula for brand value
+#### A formula for brand value
 
 One way to think about it: brand value equals viewers, times content minutes, times stickiness
 
@@ -924,7 +864,7 @@ Contrarian takes, clear messaging and useful minutes raise it too
 
 Obsession creates the minutes, positioning makes them stick, and worldbuilding spreads them out
 
-### The goal: devoted fans
+#### The goal: devoted fans
 
 The ultimate goal is a viewer who feels good just from seeing your name, before they watch anything. You get there by taking viewers up a ladder: first they care about what you say, then they like the person saying it, then they see you will keep giving value
 
@@ -932,7 +872,7 @@ Teaching reaches the top of the ladder more easily than entertainment, because e
 
 Devoted fans act differently from casual fans. They go looking for your work, they share it, and they buy
 
-### Signature habits
+#### Signature habits
 
 Recognisable patterns help you get noticed: a phrase you open with, a colour palette, a clear look. Copied patterns make people stop paying attention
 
@@ -942,7 +882,7 @@ A contrarian hook suits someone who wants to be the different voice in a crowded
 
 A clear topic also helps people sort themselves. If someone does not care about investing, an investing video should lose them quickly
 
-### Mistakes to avoid
+### Mistakes
 
 - talking about something you don't really do
 - ignoring stickiness and counting only views
@@ -953,19 +893,15 @@ A clear topic also helps people sort themselves. If someone does not care about 
 
 Run the niche test: could you spend 40 hours a week on this topic for the next 10 years? If not, write down which area of it you would still be obsessed with
 
-[Back to the top of this module](#top) · [All modules](../README.md#contents)
+## Lesson 1.14: A brand that lasts in the AI era
 
----
+### Big idea
 
-<a id="m1-l14"></a>
+AI made it cheap to make things, but not cheap to be trusted. Taste, getting your work seen and the drive to figure things out yourself are 3 strengths AI can't give you
 
-## 1.14 A brand that lasts in the AI era
+### How it works
 
-*9 min read*
-
-> **The big idea:** AI made it cheap to make things, but not cheap to be trusted. Taste, getting your work seen and the drive to figure things out yourself are 3 strengths AI can't give you
-
-### 3 strengths AI can't give you
+#### 3 strengths AI can't give you
 
 Many people using AI do the same thing: ask, accept, publish, with no judgment and no taste. Building even one of 3 strengths makes you stand out
 
@@ -977,7 +913,7 @@ AI makes what you already bring bigger. Curiosity plus AI is a big gain
 
 Doing nothing plus AI gives nothing, because zero times ten is still zero
 
-### Taste: where you can see it
+#### Taste: where you can see it
 
 Taste shows in specific decisions. You notice your AI-built site looks like every other template, so you spend 20 minutes on icons, colours and a font that fit
 
@@ -989,7 +925,7 @@ You can't shortcut taste. It comes from seeing thousands of examples until you b
 
 Save work that makes you stop scrolling and work out why
 
-### Trust is the most valuable thing
+#### Trust is the most valuable thing
 
 Making things now costs almost nothing. Being trusted is as hard as ever, maybe harder, because AI content made people more doubtful
 
@@ -999,7 +935,7 @@ Followers are only a number. People who reply, share and come back daily are the
 
 A passive audience is easy to replace, and an active community is not
 
-### What a brand needs in the AI era
+#### What a brand needs in the AI era
 
 A position nobody else holds. AI can copy a post within hours, so owning information is worth less
 
@@ -1013,7 +949,7 @@ Ask: if this were the only post people ever saw from you, would you be proud?
 
 A good split: let AI do about 80% of the work, like research and drafts, and put your own 20% into taste: the hook, what stays and what gets cut
 
-### Mistakes to avoid
+### Mistakes
 
 - ask, accept, publish, with no judgment
 - confusing how much you make with how good it is
@@ -1026,19 +962,15 @@ Take one AI draft you have. Rewrite only the first 2 sentences by hand, and writ
 
 That is your taste at work
 
-[Back to the top of this module](#top) · [All modules](../README.md#contents)
+## Lesson 1.15: Plans, timelines and staying power
 
----
+### Big idea
 
-<a id="m1-l15"></a>
+This lesson gives you a plan for the first 90 days and a realistic timeline for the years after. It takes longer than you think, and the people who keep going win
 
-## 1.15 Plans, timelines and staying power
+### How it works
 
-*11 min read*
-
-> **The big idea:** This lesson gives you a plan for the first 90 days and a realistic timeline for the years after. It takes longer than you think, and the people who keep going win
-
-### A 90-day plan
+#### A 90-day plan
 
 Days 1 to 3 are for positioning. Decide which kind of fame you want, who exactly you help (your one-sentence position), and your niche bullseye, contrarian takes, links and what makes you different
 
@@ -1046,13 +978,13 @@ Days 4 to 90 are for content. A content formula is a topic, plus a format, plus 
 
 In the first 60 days, make about 50 posts: 3 in the first week, 5 in the second, then 7 a week. Test lots of different things, even wild ones
 
-### Keep or cut a formula
+#### Keep or cut a formula
 
 Keep a formula only if it passes 4 checks: it does well, it brings the right people, you enjoy making it and you are proud of how it looks
 
 Do more of what passes and cut what doesn't. Formulas stop working after a while, so go back to testing
 
-### What to work on at each stage
+#### What to work on at each stage
 
 - 0 to 500 views: ask why anyone would care. Is it valuable, does it look good, does it make people stop scrolling?
 - 1,000 views and up: work on the idea, the hook and the delivery
@@ -1061,7 +993,7 @@ Do more of what passes and cut what doesn't. Formulas stop working after a while
 
 Review your pillars every month. Look at saves, views and shares, then drop, replace or fix one
 
-### Expect it to take time
+#### Expect it to take time
 
 Don't expect any real result for the first 36 months. Some people take off at 3, 6 or 12 months, but not most. It is better to expect nothing for 3 years and be surprised at month 9 than to expect a jump at 3 months
 
@@ -1069,19 +1001,21 @@ Think of a personal trainer. If you want to lose 60 pounds in 2 months, a good t
 
 It takes hundreds and hundreds of posts. A rough timeline: at 30 days you realise you can do this, at 100 days it is a habit, at 365 days expect the first money, and from year 3 you stick to it
 
-### Staying power
+#### Staying power
 
 Create value for people and you get value back, as their attention. Consistency is the strength: it is really hard to keep someone down if they keep turning up
 
 Much of what looks like luck is thousands of small actions added up. Stay in the game, because most great things pay off over the long term
 
-**Example: 100 people down to 3**
+### Examples
+
+100 people down to 3:
 
 Imagine 100 people in your niche say they will start a personal brand. 80 never start, 10 quit early, 5 chase a new trend and 2 have bad luck. That leaves 3
 
-*Why it works:* These numbers are made up, not a study. The point is that staying power is rare
+Why it works: These numbers are made up, not a study. The point is that staying power is rare
 
-### Mistakes to avoid
+### Mistakes
 
 - expecting results in 3 months
 - comparing yourself to top creators in your first 6 months
@@ -1091,15 +1025,7 @@ Imagine 100 people in your niche say they will start a personal brand. 80 never 
 
 Write your plan for the first 60 days: your 3 to 4 topics, 1 to 3 formats and the number of posts per week. Then put a day-60 review in your calendar
 
-[Back to the top of this module](#top) · [All modules](../README.md#contents)
-
----
-
-<a id="cheat-sheet"></a>
-
-## Cheat sheet: Personal brand and positioning
-
-The whole module on one page
+## Cheat sheet: module 1
 
 - decide what you want to be known for in 20 years before you make content
 - do the thing first, then talk about it, and never pretend to be something you are not
@@ -1115,7 +1041,3 @@ The whole module on one page
 - aim for trust instead of a huge number of views
 - name the things you teach and share real weaknesses
 - expect the first 3 years to be slow, and keep going
-
----
-
-Next: [Module 2: Hooks](../guide/02-hooks.md) · [Contents](../README.md#contents)

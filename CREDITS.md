@@ -357,5 +357,3 @@ The ideas, frameworks, examples and numbers belong to them. Numbers and results 
 - Caleb Ralston, 7 elements of world building
 
 If you made one of these and want something changed or removed, open an issue on this repo and it will be fixed
-
-[Back to the guide](README.md#contents)

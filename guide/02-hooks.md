@@ -1,44 +1,18 @@
-<a id="top"></a>
-
 # Module 2: Hooks
 
-*Write openings that stop the scroll, make your topic clear in a second, and make the right people want the next line*
+Write openings that stop the scroll, make your topic clear in a second, and make the right people want the next line
 
 A hook is the first few words of a video, post or article, and it decides whether anyone sees the rest. This module teaches a simple 3-step formula, six hook formats, how to line up what you say and show, the biggest hook mistakes, and how to build a bank of hooks to learn from
 
-**15 lessons · about 135 minutes of reading**
+## Lesson 2.1: What a hook does and why it decides everything
 
-## In this module
+### Big idea
 
-1. [What a hook does and why it decides everything](#m2-l1)
-2. [The master formula: lean, stun, snap back](#m2-l2)
-3. [Five fast tips: visuals, benefits, familiar references, speed, short sentences](#m2-l3)
-4. [The six hook formats](#m2-l4)
-5. [The four parts of a hook and the key visual](#m2-l5)
-6. [The six word slots inside a hook](#m2-l6)
-7. [Hook mistakes 1 and 2: delay and confusion](#m2-l7)
-8. [Hook mistakes 3 and 4: irrelevance and disinterest](#m2-l8)
-9. [Text hooks and the first frame](#m2-l9)
-10. [After the hook: keep the promise, give the answer at the right time](#m2-l10)
-11. [Copy, understand, improve: building hook and keyword banks](#m2-l11)
-12. [The hook toolkit: proof, promise, plan](#m2-l12)
-13. [A hook system for X posts](#m2-l13)
-14. [Hooks in writing: first lines for posts, threads and articles](#m2-l14)
-15. [Hooks across platforms, long form and testing](#m2-l15)
+A hook is the first words of your video, post or email. Its job is to make the right person stop and keep going, and it needs only two things: a clear topic and a reason to be curious
 
-At the end: [Cheat sheet](#cheat-sheet)
+### How it works
 
----
-
-<a id="m2-l1"></a>
-
-## 2.1 What a hook does and why it decides everything
-
-*8 min read*
-
-> **The big idea:** A hook is the first words of your video, post or email. Its job is to make the right person stop and keep going, and it needs only two things: a clear topic and a reason to be curious
-
-### What a hook is
+#### What a hook is
 
 A hook is the first thing you say or write: the first words of a video, the first line of a post or an email. Its job is to make someone stop scrolling and stay
 
@@ -46,7 +20,7 @@ It only has to do two things. First, make the topic totally clear. Second, make 
 
 A hook is usually 2 to 4 lines. The topic is often in the first sentence and the surprise in the next one or two
 
-### Why it decides so much
+#### Why it decides so much
 
 If the hook fails, nobody sees the rest. That is why top creators spend as much effort on the hook and the packaging as on the content itself
 
@@ -54,7 +28,7 @@ A weak hook hurts twice. People swipe away before they understand what the video
 
 Say you are stuck under 1,000 views and keep changing the music, the camera and the hashtags. If the first seconds are weak, you are fixing the wrong things
 
-### The watch-time graph
+#### The watch-time graph
 
 Platforms show a watch-time graph (also called a retention graph). It shows how many viewers are still watching at 5, 10, 15 and 20 seconds, and the platform uses it to decide if your video is worth showing to more people
 
@@ -62,70 +36,68 @@ Say your video only gets interesting at second 10. By then most viewers have alr
 
 In short videos the drop is steep. Every extra second without saying what the video is about makes more people leave
 
-### Why people stop
+#### Why people stop
 
 People swipe without thinking until something makes them say "hmm, that's interesting". That moment is very short, so the hook has to work fast
 
 To make someone stop, answer two questions right away: what is this about, and what do I get if I keep watching?
 
-### Four checks for a hook
+#### Four checks for a hook
 
 - subject: it is clear who or what this is about
 - stakes: there is a reason to care, like views, clients, money or time
 - speed: use as few words as possible. 8 words work better than 28
 - clarity: it can only be read one way, with no riddles a stranger could misread
 
-### The attention span myth
+#### The attention span myth
 
 You may have heard that people now have an 8-second attention span, shorter than a goldfish. A journalist later found no research behind that number
 
 A better way to see it: people don't have short attention spans, they have little patience for boring content. There are endless options, so they leave fast
 
-**Example: Two openings for the same video**
+### Examples
+
+Two openings for the same video:
 
 Say you made a video about getting your first client. Opening A: "Hey guys, today I wanted to talk about something I've been thinking about." Opening B: "Here is how a freelancer with no portfolio can land a first client this week"
 
-*Why it works:* Opening A has no topic and no reason to care. Opening B says who it is for and what they get
-
-### Mistakes to avoid
-
-- blaming music, camera or hashtags when the real problem is the first seconds
-- copying gimmicks like a zoom effect without knowing why a hook works
-- spending almost all your time on the body and almost none on the packaging
+Why it works: Opening A has no topic and no reason to care. Opening B says who it is for and what they get
 
 ### Where creators disagree
 
 Some creators say the hook is the most important part. Others say the topic comes first: with everything else equal, a better topic wins
 
+### Mistakes
+
+- blaming music, camera or hashtags when the real problem is the first seconds
+- copying gimmicks like a zoom effect without knowing why a hook works
+- spending almost all your time on the body and almost none on the packaging
+
 ### Try it
 
 Open your last 5 posts or videos and write down only the first line of each. Next to it, answer in a few words: what is this about, and why would my ideal viewer care? Rewrite the hooks where you can't answer both
 
-[Back to the top of this module](#top) · [All modules](../README.md#contents)
+## Lesson 2.2: The master formula: lean, stun, snap back
 
----
+### Big idea
 
-<a id="m2-l2"></a>
+A simple 3-step hook formula works almost every time. Pull the viewer in (the lean), stop them with a contrast word like "but" (the stun), then send them the opposite way (the snapback)
 
-## 2.2 The master formula: lean, stun, snap back
+### How it works
 
-*9 min read*
-
-> **The big idea:** A simple 3-step hook formula works almost every time. Pull the viewer in (the lean), stop them with a contrast word like "but" (the stun), then send them the opposite way (the snapback)
-
-### The idea underneath
+#### The idea underneath
 
 A curiosity loop means line 1 makes it hard to stop before line 2, and line 2 makes it hard to stop before line 3. The deeper the loop, the harder it is to leave
 
 The formula builds that loop in three or four sentences
 
-### Step 1: the lean
+#### Step 1: the lean
 
 The lean is the first line or two. It has two jobs: make the topic super clear, and pull the viewer closer so it feels like it is about them
 
 Clear topic means the right people stay and the wrong people leave, which is what you want. You can pull someone in by showing something you have in common, naming a benefit or a pain, using a comparison that makes a hard idea simple, or sharing a surprising fact
 
-### Step 2: the stun
+#### Step 2: the stun
 
 The stun is one line that stops the viewer for a moment, like walking into a glass door. The easiest way to build it is with a contrast word
 
@@ -133,7 +105,7 @@ The favourite is "but". Others are however, yet and although
 
 This line only sets up step 3. The viewer is now wondering what could come next
 
-### Step 3: the snapback
+#### Step 3: the snapback
 
 The snapback goes the opposite way from the lean while staying on the same topic. Think of the reverse card in Uno
 
@@ -143,19 +115,23 @@ The pattern underneath is: "If you want X, don't do Y, do Z." If the viewer want
 
 Z has to be worth hearing. If there is nothing valuable at the end, people leave feeling tricked
 
-**Lean, stun, snapback**
+### Steps
+
+Lean, stun, snapback:
 
 1. Lean: say what it is about and pull the viewer in
 2. Stun: one line built on a contrast word like "but"
 3. Snapback: a line that goes the opposite way, on the same topic
 
-**Example: A hook about hooks**
+### Examples
+
+A hook about hooks:
 
 Lean: "Today we're talking about hooks. If you want your videos to do better, you need better hooks." Stun: "But I'm not going to give you a list of 25 proven hooks, because that's not what you need." Snapback: "What you need is to understand why those hooks worked, and how to use that in your own content"
 
-*Why it works:* The lean gives the topic and a benefit. The stun goes against what viewers expect. The snapback promises the reasons behind the hooks
+Why it works: The lean gives the topic and a benefit. The stun goes against what viewers expect. The snapback promises the reasons behind the hooks
 
-### Mistakes to avoid
+### Mistakes
 
 - a great setup with no real answer at the end
 - skipping a clear topic to be clever, so the viewer can't tell if it is for them
@@ -169,19 +145,15 @@ Then write one line starting with "But" that challenges what they assumed. Then 
 
 Read all three aloud
 
-[Back to the top of this module](#top) · [All modules](../README.md#contents)
+## Lesson 2.3: Five fast tips: visuals, benefits, familiar references, speed, short sentences
 
----
+### Big idea
 
-<a id="m2-l3"></a>
+Five quick moves make almost any hook stronger: put a few words on screen, start with a benefit or a pain, borrow something familiar, give value fast, and use short sentences
 
-## 2.3 Five fast tips: visuals, benefits, familiar references, speed, short sentences
+### How it works
 
-*9 min read*
-
-> **The big idea:** Five quick moves make almost any hook stronger: put a few words on screen, start with a benefit or a pain, borrow something familiar, give value fast, and use short sentences
-
-### Tip 1: add words on screen
+#### Tip 1: add words on screen
 
 People read faster than they listen. Put 3 to 5 words in big bold text on screen that say the same thing as your opening line
 
@@ -189,7 +161,7 @@ Pick words that tell people why to care, not just the name of the thing. "Future
 
 Text, movement and a spoken line together are much stronger than the spoken line alone
 
-### Tip 2: start with the benefit or the pain
+#### Tip 2: start with the benefit or the pain
 
 People listen when you talk about what they already care about. They accept a new idea if it gives them something they want or fixes something that hurts
 
@@ -199,7 +171,7 @@ Now try "If you want better sleep, you need to be taking magnesium". Even people
 
 A simple way to do this is to open with "if you want..." (a wish) or "if you don't want..." (a pain)
 
-### Tip 3: borrow something familiar
+#### Tip 3: borrow something familiar
 
 Familiar things feel comfortable. Too many unfamiliar things make people feel lost, and they leave
 
@@ -207,7 +179,7 @@ So wrap the new idea in something people already know, like a brand, a famous pe
 
 You borrow the popularity of something that already exists
 
-### Tip 4: give value fast
+#### Tip 4: give value fast
 
 Your content has a short countdown before people leave. For short videos that is about 4 seconds
 
@@ -217,19 +189,21 @@ So give a first piece of value in the hook or right after it. Don't save your be
 
 You are not trying to get everyone to the end. You are trying to earn another 30 seconds at a time
 
-### Tip 5: short sentences
+#### Tip 5: short sentences
 
 Over a whole video you should vary the length of your sentences, because that creates rhythm. In the hook, keep them short
 
 Short sentences force you to be clear and give more value to every word when time is most precious. Then use longer ones as the video goes on
 
-**Example: Magnesium hook**
+### Examples
+
+Magnesium hook:
 
 "You should be taking magnesium because it's one of 21 core minerals" becomes "If you want better sleep, you need to be taking magnesium"
 
-*Why it works:* The second one starts with a benefit the viewer badly wants, so even doubters wait for the rest
+Why it works: The second one starts with a benefit the viewer badly wants, so even doubters wait for the rest
 
-### Mistakes to avoid
+### Mistakes
 
 - relying on the spoken hook alone, with no text on screen
 - hooks that name no benefit and need background knowledge
@@ -242,37 +216,33 @@ Take one hook you have written. Rewrite it three ways: start with "If you want..
 
 Pick the version a stranger would understand fastest
 
-[Back to the top of this module](#top) · [All modules](../README.md#contents)
+## Lesson 2.4: The six hook formats
 
----
+### Big idea
 
-<a id="m2-l4"></a>
+Six hook formats appear in top content in every niche: fortune teller, experimenter, teacher, magician, investigator and contrarian. Each one creates a gap between what the viewer thinks now and what you show them
 
-## 2.4 The six hook formats
+### How it works
 
-*10 min read*
-
-> **The big idea:** Six hook formats appear in top content in every niche: fortune teller, experimenter, teacher, magician, investigator and contrarian. Each one creates a gap between what the viewer thinks now and what you show them
-
-### Why formats help
+#### Why formats help
 
 People who studied thousands of top hooks found that these six keep coming up. If you stare at a blank page, pick one and write the hook in that shape
 
 Any idea can be written in all six. The topic doesn't decide the format, you do
 
-### Fortune teller: now vs the future
+#### Fortune teller: now vs the future
 
 You put the present against the future and make people curious about how things will change. Say: "That new microwave is going to change cooking forever"
 
 It works because people love thinking about the future. Good for news, product launches and being known as the person who sees where a topic is going
 
-### Experimenter: show a demo
+#### Experimenter: show a demo
 
 You show how something works with a demo or an experiment, like one friend showing another what they found. Say: "I'm recording this with glasses on my face, and they're about to change how we create"
 
 State the problem you started with, show how the new method or tool solved it, then explain why it is better
 
-### Teacher: a lesson
+#### Teacher: a lesson
 
 Like the experimenter, but you teach instead of demo. You tried something, or studied someone who solved the problem, and you pass on the steps
 
@@ -280,31 +250,33 @@ Say: "Three things you can learn from this store"
 
 Good for being seen as an expert in one area
 
-### Magician: a surprise that grabs attention
+#### Magician: a surprise that grabs attention
 
 This one uses a striking visual or phrase to force attention onto one thing, like "Yo, check this out" or a finger click that cuts to the next scene. It works best stacked on one of the other five
 
 A signature opener helps too. Use the same one in every video so people know it is yours
 
-### Investigator: the secret
+#### Investigator: the secret
 
 You hint at something the viewer doesn't know and that you found by research. Say: "This is a secret city built at the base of a mountain"
 
 Good for anyone who digs deep on a topic
 
-### Contrarian: say the opposite
+#### Contrarian: say the opposite
 
 You say plainly something you believe that goes against what most people think. Say: "You're doing your branding wrong, here is what to do instead"
 
 Work out what you believe that most people don't, and say it directly
 
-**Example: One backpack review in all six formats**
+### Examples
+
+One backpack review in all six formats:
 
 Fortune teller: "This backpack is going to change how people travel." Experimenter: "I took this backpack 7,000 miles, and it has three flaws." Teacher: "Here is the best way to pack this backpack." Magician: a fast cut through many backpacks. Investigator: "I can't believe this company hides this flaw." Contrarian: "Everybody loves this bag, but it is overhyped"
 
-*Why it works:* Same topic, six different openings
+Why it works: Same topic, six different openings
 
-### Mistakes to avoid
+### Mistakes
 
 - thinking your topic only allows one format
 - treating the magician as a full hook instead of an attention grabber on top of another format
@@ -315,19 +287,15 @@ Take one idea you want to post about. Write six one-line hooks for it, one per f
 
 Circle the one with the biggest gap between what people expect and what you show
 
-[Back to the top of this module](#top) · [All modules](../README.md#contents)
+## Lesson 2.5: The four parts of a hook and the key visual
 
----
+### Big idea
 
-<a id="m2-l5"></a>
+Every video hook has four parts: what you say, what you show, the words on screen and the sound. When all four say the same thing, the hook works much better, and the picture is the most important part
 
-## 2.5 The four parts of a hook and the key visual
+### How it works
 
-*10 min read*
-
-> **The big idea:** Every video hook has four parts: what you say, what you show, the words on screen and the sound. When all four say the same thing, the hook works much better, and the picture is the most important part
-
-### Four parts that must match
+#### Four parts that must match
 
 The four parts are the spoken hook (what you say), the visual hook (what you show), the text hook (words on screen) and the audio hook (music and sound effects)
 
@@ -335,13 +303,13 @@ If you say one thing and the picture shows something even slightly different, th
 
 A simple test: watch the video with no sound and guess the text. Then read only the text and guess the picture
 
-### The picture comes first
+#### The picture comes first
 
 Viewers take in a video in a set order. They see the picture and read the text first, then they hear your words, then they look back at the picture to check it matches
 
 Eyes take in much more per second than ears. So the most important part of a hook is the picture, and the strongest image in the first seconds is called the key visual
 
-### Writing the hook, starting from the picture
+#### Writing the hook, starting from the picture
 
 1. List the visuals you could show in the first 3 to 5 seconds, and pick the strongest. If you have no good visual, ask whether you should make the video at all
 2. Pick the hook format that creates the most contrast and fits that visual
@@ -349,19 +317,21 @@ Eyes take in much more per second than ears. So the most important part of a hoo
 4. Decide what text goes on screen to support the first image
 5. Watch it back: picture, speech, picture. Is it clear what the video is about? If not, rework it
 
-### Ways to make the first seconds visual
+#### Ways to make the first seconds visual
 
 The easiest place to start is to move your body, move the visual, or move the text on it. You can also add a graphic, switch suddenly to a different shot, or choose a striking shot
 
 Don't overdo it. Too many effects make the video feel like a cheap trick
 
-**Example: Bad: vague words, no matching picture**
+### Examples
+
+Bad: vague words, no matching picture:
 
 The text says "future of storytelling" over rooms that magically appear. The voice says: "This is the future of storytelling. It's called a generative world model"
 
-*Why it works:* "Future of storytelling" is vague and the rooms don't show it. Most viewers don't know what a generative world model is, and nothing on screen explained it
+Why it works: "Future of storytelling" is vague and the rooms don't show it. Most viewers don't know what a generative world model is, and nothing on screen explained it
 
-### Mistakes to avoid
+### Mistakes
 
 - polishing the spoken hook while the picture and text say something slightly different
 - vague on-screen words that the picture doesn't show
@@ -372,19 +342,15 @@ The text says "future of storytelling" over rooms that magically appear. The voi
 
 Take a video idea. Before you write a word, list 3 visuals you could show in the first 3 seconds and pick the strongest. Write a 2 to 3 line hook that describes exactly what that visual shows, plus 3 to 5 words of on-screen text. Watch it with no sound: could a stranger guess the topic?
 
-[Back to the top of this module](#top) · [All modules](../README.md#contents)
+## Lesson 2.6: The six word slots inside a hook
 
----
+### Big idea
 
-<a id="m2-l6"></a>
+A strong hook is built from up to six word slots: four you always need (who, action, result, contrast) and two you can add (proof, time). Find the slots in hooks that already worked, then fill them in for your own topic
 
-## 2.6 The six word slots inside a hook
+### How it works
 
-*9 min read*
-
-> **The big idea:** A strong hook is built from up to six word slots: four you always need (who, action, result, contrast) and two you can add (proof, time). Find the slots in hooks that already worked, then fill them in for your own topic
-
-### The four core slots
+#### The four core slots
 
 Take this hook apart: "If I had to grow from zero to 100K subs on YouTube, here's how I would do it"
 
@@ -393,26 +359,28 @@ Take this hook apart: "If I had to grow from zero to 100K subs on YouTube, here'
 3. Result: what the action gets you. Here it is "0 to 100K subs on YouTube". The more surprising it is, the better
 4. Contrast: the gap between where things start and where they end, which makes people curious about the road from A to B. Here it is 0 against 100K
 
-### The two optional slots
+#### The two optional slots
 
 1. Proof: a reason the viewer should care what you think. One word can do it: "If I had to grow from zero to 100K subs again" tells the viewer you did it before. Teaching content often needs proof, entertainment rarely does
 2. Time: a time limit that adds urgency, like "in 5 months" or "in the next 90 days"
 
 A slot can be one word or a phrase, and one phrase can do two jobs. The result and the contrast are often the same phrase when you write tightly
 
-### Power words
+#### Power words
 
 Power words are groups of 1 to 3 words that grab attention, like "scientifically impossible to skip". Lazy creators copy such a phrase. Good ones change it to fit their own topic, like "psychologically impossible to resist"
 
 To build the skill, do copy work. Each week, write down 10 to 30 top hooks by hand, mark the slots in each, and swap in your own topic
 
-**Example: Life-size floor plans**
+### Examples
+
+Life-size floor plans:
 
 "These are called life-size floor plans. You can literally walk through your exact home design before you build it"
 
-*Why it works:* Who: "you". Action: "walk through". Result: walking through your home design. Contrast: "before you build it", because normally you only see a home after it is built
+Why it works: Who: "you". Action: "walk through". Result: walking through your home design. Contrast: "before you build it", because normally you only see a home after it is built
 
-### Mistakes to avoid
+### Mistakes
 
 - a hook with no result
 - copying a power phrase word for word instead of changing it to fit your topic
@@ -422,25 +390,21 @@ To build the skill, do copy work. Each week, write down 10 to 30 top hooks by ha
 
 Find 10 hooks from top posts in your format and write each by hand. Underline the who, action, result and contrast. Then write one hook of your own using all four core slots, and a second version that adds proof or time
 
-[Back to the top of this module](#top) · [All modules](../README.md#contents)
+## Lesson 2.7: Hook mistakes 1 and 2: delay and confusion
 
----
+### Big idea
 
-<a id="m2-l7"></a>
+Most weak hooks fail in one of four ways: delay, confusion, irrelevance or disinterest. Fix them in that order. The first two are about getting the topic across fast and clearly
 
-## 2.7 Hook mistakes 1 and 2: delay and confusion
+### How it works
 
-*8 min read*
-
-> **The big idea:** Most weak hooks fail in one of four ways: delay, confusion, irrelevance or disinterest. Fix them in that order. The first two are about getting the topic across fast and clearly
-
-### The four mistakes, in order
+#### The four mistakes, in order
 
 A bad hook fails to make the topic clear and the viewer curious because of one or more of these: delay, confusion, irrelevance, disinterest
 
 The order is important. There is no point making a confusing hook more relevant, so fix delay first, then confusion, then irrelevance, then disinterest
 
-### Mistake 1: delay
+#### Mistake 1: delay
 
 Delay means the viewer learns what the video is about too late. Say a script has 13 lines and the topic first appears in line 3
 
@@ -454,7 +418,7 @@ The fix is to make the first sentence give the topic in as few words as possible
 
 Adding the topic as on-screen text at the top of the first frame helps too, as long as it still leaves a question open
 
-### Mistake 2: confusion
+#### Mistake 2: confusion
 
 Confusion means the topic comes early, but the words are unclear. The viewer understands half of it and can't tell if it is for them
 
@@ -464,19 +428,21 @@ The fix is better writing. Use fewer words, but enough that nobody can misread y
 
 Use simple words that an 11 or 12 year old can read. Use direct sentences where the person does the action
 
-### Two ways to check clarity
+#### Two ways to check clarity
 
 Ask an AI tool: "Rewrite this hook at a sixth grade reading level, with exactly the same meaning, so nobody can misunderstand it"
 
 Or read only the 1 or 2 hook sentences on their own and ask: could the viewer understand this the wrong way? If yes, rewrite until only the meaning you want is left
 
-**Example: Delay fix**
+### Examples
+
+Delay fix:
 
 "Guys, this is one of the craziest things I've ever seen..." becomes "Here are three simple ways to improve your gut health"
 
-*Why it works:* The second one gives the topic in the first words, so the right viewers choose to stay at once
+Why it works: The second one gives the topic in the first words, so the right viewers choose to stay at once
 
-### Mistakes to avoid
+### Mistakes
 
 - opening with fake suspense that names no topic
 - one or two lines of warm-up before the topic
@@ -489,19 +455,15 @@ Take a script or post you wrote and number the lines. Find the first line that s
 
 If it is not line 1, delete everything above it. Then read the first two sentences on their own and rewrite them until they can only be understood one way
 
-[Back to the top of this module](#top) · [All modules](../README.md#contents)
+## Lesson 2.8: Hook mistakes 3 and 4: irrelevance and disinterest
 
----
+### Big idea
 
-<a id="m2-l8"></a>
+Once the topic is fast and clear, the hook has to feel made for the viewer (say "you" and name a real pain) and make them curious (use contrast between what they believe now and what you show)
 
-## 2.8 Hook mistakes 3 and 4: irrelevance and disinterest
+### How it works
 
-*10 min read*
-
-> **The big idea:** Once the topic is fast and clear, the hook has to feel made for the viewer (say "you" and name a real pain) and make them curious (use contrast between what they believe now and what you show)
-
-### Mistake 3: irrelevance
+#### Mistake 3: irrelevance
 
 Irrelevance means the viewer knows the topic but isn't sure it is useful for them
 
@@ -515,7 +477,7 @@ The second fix is to build the hook around something people need, not something 
 
 A flashy visual can stop the scroll, but if the question it raises is not one the viewer cares about, they still leave
 
-### Mistake 4: disinterest
+#### Mistake 4: disinterest
 
 Disinterest means the hook is clear and relevant, but not curious enough. The fix is a curiosity loop: the viewer sees something and asks a question in their head, you answer it but raise a new question, and so on through the video
 
@@ -527,13 +489,13 @@ Say the hook is "This one trick will clear up your acne in 45 minutes with no si
 
 B is your 45 minutes. Putting B next to A reminds them that A didn't solve their problem, and they get curious
 
-### Stated or implied contrast
+#### Stated or implied contrast
 
 Stated contrast says both A and B: "Most people solve acne with a strong drug, but I have an herbal remedy that does it three times faster". It is blunt and hard to miss
 
 Implied contrast says only B, because people already know A: "If you want to solve your acne, this herbal supplement is eight times more effective". It is more subtle
 
-### More ways to build curiosity
+#### More ways to build curiosity
 
 Ask what the most curious question about your topic is, and whether your ideal viewer cares about it. Then pick words and visuals that make that question jump out
 
@@ -541,20 +503,24 @@ Challenging a common belief is one of the strongest hooks. So is a question peop
 
 A good hook introduces the topic while leaving many questions open. Keep loops open as long as you can, and when you close one, open another
 
-**Contrast: A vs B**
+### Steps
+
+Contrast: A vs B:
 
 1. A: what the viewer already believes or does now
 2. B: your different way that solves their pain faster, better or cheaper
 3. Stated contrast: say both A and B
 4. Implied contrast: say only B
 
-**Example: "You" instead of "I"**
+### Examples
+
+"You" instead of "I":
 
 "I've struggled with skin problems my whole life" becomes "If you've struggled with skin problems your whole life..."
 
-*Why it works:* The viewer no longer has to decide whether they are like you. It is clearly about them
+Why it works: The viewer no longer has to decide whether they are like you. It is clearly about them
 
-### Mistakes to avoid
+### Mistakes
 
 - opening with "I" so the viewer has to wonder if it is for them
 - building the hook around nice-to-know facts instead of a pain the viewer has
@@ -567,19 +533,15 @@ Write down one common belief in your field (A) and your different way that solve
 
 Start both with "you" or "if you"
 
-[Back to the top of this module](#top) · [All modules](../README.md#contents)
+## Lesson 2.9: Text hooks and the first frame
 
----
+### Big idea
 
-<a id="m2-l9"></a>
+Viewers read the words on screen before they take in the whole scene, so the text and the first frame do a lot of the hooking. Write short text hooks and build a first frame that plants a question without giving away the answer
 
-## 2.9 Text hooks and the first frame
+### How it works
 
-*8 min read*
-
-> **The big idea:** Viewers read the words on screen before they take in the whole scene, so the text and the first frame do a lot of the hooking. Write short text hooks and build a first frame that plants a question without giving away the answer
-
-### Rules for text hooks
+#### Rules for text hooks
 
 Name the subject, then add one of three things: a reminder of a pain, a dream result, or "something just changed". Say: "Claude just changed social media forever"
 
@@ -589,7 +551,7 @@ Keep it to 2 lines at most, with no sentence punctuation and no joining words li
 
 Place it about a third of the way down from the top, never over the face, and leave it on screen for about 3 seconds
 
-### The first frame is a visual hook
+#### The first frame is a visual hook
 
 The very first frame of a video is itself a hook, so put the text hook on top of it
 
@@ -599,13 +561,13 @@ Viewers think "really? How does she do it?"
 
 Carousels (posts you swipe through) need a hook too. A carousel of only pictures has none
 
-### Don't give away the answer
+#### Don't give away the answer
 
 Say a coffee creator puts "vanilla blueberry iced latte" on screen. That gives the answer away, and anyone not in the mood for that flavour scrolls on
 
 Better is "This coffee should not taste good...", with the dots to open a loop. If the blueberries are still visible in the shot, the viewer can half-solve the puzzle, so blur them until the end
 
-### Improving the first frame
+#### Improving the first frame
 
 Keep text inside the safe zones, the parts of the screen the app doesn't cover. Text over the comment box or the app buttons looks bad
 
@@ -613,13 +575,15 @@ Leave clean space for text when you frame the shot, and clear away clutter so th
 
 Try a different font weight or colour, and a soft glow around the text. You can mock up a better first frame with an AI image tool before you film
 
-### Other hook space
+#### Other hook space
 
 On short videos, the first line of the caption is extra hook space, so write it like a title
 
 Thumbnails still count. They show when people share your video in DMs, and they make your profile look good
 
-**Text hook rules**
+### Steps
+
+Text hook rules:
 
 1. Name the subject
 2. Add a pain, a dream result, or "something just changed"
@@ -627,13 +591,15 @@ Thumbnails still count. They show when people share your video in DMs, and they 
 4. Keep it to 2 lines with no sentence punctuation
 5. Place it a third down from the top, off the face, for about 3 seconds
 
-**Example: The coffee video**
+### Examples
+
+The coffee video:
 
 "vanilla blueberry iced latte" becomes "This coffee should not taste good..." with the blueberries blurred until the end
 
-*Why it works:* The viewer gets a question instead of an answer, and can't solve it from the first frame
+Why it works: The viewer gets a question instead of an answer, and can't solve it from the first frame
 
-### Mistakes to avoid
+### Mistakes
 
 - putting the answer in the text hook or leaving the clue visible
 - text over faces or the app's buttons
@@ -647,19 +613,15 @@ Take one video or image post. Write a text hook with the rules: name the subject
 
 Then look at your first frame and check whether any clue to the answer is visible. Fix one of the two
 
-[Back to the top of this module](#top) · [All modules](../README.md#contents)
+## Lesson 2.10: After the hook: keep the promise, give the answer at the right time
 
----
+### Big idea
 
-<a id="m2-l10"></a>
+A hook that wins the stop but breaks its promise loses the viewer seconds later. The next 2 to 4 sentences must confirm the promise, and the main answer should come later, not right away
 
-## 2.10 After the hook: keep the promise, give the answer at the right time
+### How it works
 
-*8 min read*
-
-> **The big idea:** A hook that wins the stop but breaks its promise loses the viewer seconds later. The next 2 to 4 sentences must confirm the promise, and the main answer should come later, not right away
-
-### The lock-in zone
+#### The lock-in zone
 
 The 2 to 4 sentences right after the hook are called the lock-in zone, because this is where the viewer decides to stay. Some teachers say it is even more important than the hook itself
 
@@ -667,7 +629,7 @@ Two things happen there. You confirm the hook's promise, and the viewer runs a q
 
 Proof helps most here: a study, a case or a screenshot. Repeating the promise of your title in the first seconds confirms the click too
 
-### Keep the promise
+#### Keep the promise
 
 Getting the click is not the goal, keeping attention is. If the hook promises and the content doesn't deliver, people leave and the platform shows you to fewer people
 
@@ -675,30 +637,25 @@ There are no clickbait headlines, only clickbait content. "Want to know a secret
 
 So write hooks that are strong but true, and make the rest of the video give what the hook promised
 
-### Don't give the answer too early
+#### Don't give the answer too early
 
 Say a short opens with "Here is the key secret to his success on YouTube", and then reveals the secret 5 seconds in. Now there is nothing to wait for, so viewers scroll
 
 Start with a question and build toward the answer. Keep loops open as long as you can, and when you close one, open another
 
-### But give value fast
+#### But give value fast
 
 Give a first bit of value in the hook or right after it. The pattern is context, quick value, context, quick value
 
 Start with the strongest material and cut long intros
 
-**Example: The secret revealed too early**
+### Examples
+
+The secret revealed too early:
 
 A short opens with "Here is the key secret to his success on YouTube" and gives the secret 5 seconds later
 
-*Why it works:* Nothing is left to wait for, so viewers scroll. The reveal belonged at the end
-
-### Mistakes to avoid
-
-- a hook that promises one thing and a video that delivers another
-- making a claim and not backing it up in the next lines
-- revealing the main answer seconds after the hook
-- long intros before the first piece of value
+Why it works: Nothing is left to wait for, so viewers scroll. The reveal belonged at the end
 
 ### Where creators disagree
 
@@ -706,25 +663,28 @@ Some creators say to give value first, right after the hook. Others say to hold 
 
 Both agree you can close a loop as long as you open the next one
 
+### Mistakes
+
+- a hook that promises one thing and a video that delivers another
+- making a claim and not backing it up in the next lines
+- revealing the main answer seconds after the hook
+- long intros before the first piece of value
+
 ### Try it
 
 Take a hook you like and write the next 3 sentences. Sentence 1 repeats the hook's promise in different words
 
 Sentence 2 gives one piece of proof. Sentence 3 gives a small piece of value while leaving the main answer for later
 
-[Back to the top of this module](#top) · [All modules](../README.md#contents)
+## Lesson 2.11: Copy, understand, improve: building hook and keyword banks
 
----
+### Big idea
 
-<a id="m2-l11"></a>
+A fast way to get good at hooks has 3 steps: copy hooks from proven videos in your own format, work out which emotional words made them work, then improve your own hook with a checklist and many rewrites
 
-## 2.11 Copy, understand, improve: building hook and keyword banks
+### How it works
 
-*10 min read*
-
-> **The big idea:** A fast way to get good at hooks has 3 steps: copy hooks from proven videos in your own format, work out which emotional words made them work, then improve your own hook with a checklist and many rewrites
-
-### Step 1: copy hooks that went viral
+#### Step 1: copy hooks that went viral
 
 Ignore the pressure to be original at the start. You won't learn why things go viral if you have never copied and studied what works. You take the shape, not the content
 
@@ -732,7 +692,7 @@ Only study videos with 50,000 or more likes, in your format (talking to camera, 
 
 Write every hook down. That list is your hook bank. Then mix the hooks with your own ideas
 
-### Step 2: understand the keywords
+#### Step 2: understand the keywords
 
 Copying alone won't make a viral video. You also need to know what made it work. Here a keyword means a word that triggers an emotion in your viewer, not a search term
 
@@ -742,7 +702,7 @@ Build a keyword bank for your niche. For productivity it might hold: morning rou
 
 Use words people really say. "Here's how to break your bad habits" works better than "here's how to develop better habits and become consistent", because people say the first one to friends
 
-### Step 3: improve it with a checklist
+#### Step 3: improve it with a checklist
 
 - clarity: is this the clearest and shortest wording? One or two words at the start can be the difference between 5,000 and 100,000 views
 - keywords: add the ones that make the hook more specific
@@ -753,52 +713,52 @@ Use words people really say. "Here's how to break your bad habits" works better 
 
 Then read it aloud five times. Does it sound right, or does it still feel a bit off?
 
-### Keep a swipe file
+#### Keep a swipe file
 
 A swipe file is a folder of saved examples. Save the hook, the first 30 seconds and the top comments of the top posts in your niche. Take the hook, never the content, and add your own knowledge
 
 Studying can turn into a trap. Don't stop posting until you find the perfect hook. Post daily and improve from the feedback
 
-**Copy, understand, improve**
+### Steps
+
+Copy, understand, improve:
 
 1. Copy: write down hooks from very viral videos in your format (your hook bank)
 2. Understand: find the emotional words that made each one work (your keyword bank)
 3. Improve: check your own hook against the checklist, then read it aloud five times
 
-**Example: One proven shape, refilled**
+### Examples
+
+One proven shape, refilled:
 
 "Here's how to stop waking up in the morning, looking in the mirror, and hating what you see. Stop using your phone." Reused as "Here's how to [blank]" with the keywords of a new niche
 
-*Why it works:* You keep the shape and swap in the emotional words of your own niche
+Why it works: You keep the shape and swap in the emotional words of your own niche
 
-### Mistakes to avoid
+### Where creators disagree
+
+Some creators say to copy hooks from viral videos to train your sense of what works. Others say to create original ideas and be careful when you copy. Many are in the middle: take the hook or the format, never the content
+
+### Mistakes
 
 - studying hooks from average videos, or from a different format
 - copying the surface instead of the emotional keywords
 - broad, flat words like "improve" and "get better"
 - studying hooks so much that you stop posting
 
-### Where creators disagree
-
-Some creators say to copy hooks from viral videos to train your sense of what works. Others say to create original ideas and be careful when you copy. Many are in the middle: take the hook or the format, never the content
-
 ### Try it
 
 Find 5 posts in your exact format with very high engagement. Write each hook in a list (your hook bank), then underline the emotional words and copy them to a second list (your keyword bank). Take one of your own hooks and rewrite it 5 times, changing one or two words each time
 
-[Back to the top of this module](#top) · [All modules](../README.md#contents)
+## Lesson 2.12: The hook toolkit: proof, promise, plan
 
----
+### Big idea
 
-<a id="m2-l12"></a>
+In the first seconds, every viewer silently asks 3 questions: why should I listen to you, what do I get, and how will you get me there. Answer all 3 and people stay
 
-## 2.12 The hook toolkit: proof, promise, plan
+### How it works
 
-*10 min read*
-
-> **The big idea:** In the first seconds, every viewer silently asks 3 questions: why should I listen to you, what do I get, and how will you get me there. Answer all 3 and people stay
-
-### Proof, promise, plan
+#### Proof, promise, plan
 
 Proof answers "why should I listen to you?" with one line that shows you know what you're talking about, like "I grew my account from 0 to 50,000 followers in 9 months"
 
@@ -808,19 +768,19 @@ Plan answers "how will you get me there?" Show the route. If it is "7 ways to...
 
 You can put the 3 in any order, but use all of them at the start
 
-### Short videos
+#### Short videos
 
 A short-video hook does 3 things in one or two lines: it says what the video is about, it goes against what most people think, and it leaves a question open
 
 Say the hook is "Trial reels aren't dead, they're just misunderstood". It gives the topic, goes against what everyone says, and leaves a question: what am I misunderstanding?
 
-### Write for the stranger
+#### Write for the stranger
 
 Most people who see your video don't know you. Start with a problem that hits almost everyone, like "Meetings are the biggest time waster in any company"
 
 Introduce yourself again every time. Say who you are and why they should listen, because someone new may have seen none of your other videos
 
-### Small moves that make a hook stronger
+#### Small moves that make a hook stronger
 
 - say what people think but can't put into words. The best compliment is "you literally read my mind"
 - start with the result people want (more money, more free time), and talk about how to get it later
@@ -828,13 +788,15 @@ Introduce yourself again every time. Say who you are and why they should listen,
 - give your method a name, like "the 10-80-10 rule". A named idea is easier to remember and sounds new
 - put the viewer's gain before your story. Talking only about yourself is the most common mistake
 
-**Example: One idea, four openings**
+### Examples
+
+One idea, four openings:
 
 Say your video teaches freelancers to get a first client. Plain: "Today I want to talk about getting clients." With proof and promise: "I signed my first 3 clients in 2 weeks with no portfolio, and I'll show you how." With a plan: "Here are the 3 steps, shown on screen now." (All made up to show the build-up)
 
-*Why it works:* Each version answers one more of the viewer's questions: why you, what they get, how, and is this for me
+Why it works: Each version answers one more of the viewer's questions: why you, what they get, how, and is this for me
 
-### Mistakes to avoid
+### Mistakes
 
 - a hook whose promise doesn't match the title or thumbnail
 - starting with the method instead of the result people want
@@ -845,25 +807,21 @@ Say your video teaches freelancers to get a first client. Plain: "Today I want t
 
 Write a 3-sentence opening for your next piece: one line on why you're qualified, one line on what they will get, one line on how ("3 steps", "5 mistakes"). Then ask whether someone who has never seen you would care in the first 3 seconds
 
-[Back to the top of this module](#top) · [All modules](../README.md#contents)
+## Lesson 2.13: A hook system for X posts
 
----
+### Big idea
 
-<a id="m2-l13"></a>
+For written posts on X, the first line has one job: make people read the second line. Learn 8 hook types, what every strong hook connects with, and a process of writing the hook last, in many versions
 
-## 2.13 A hook system for X posts
+### How it works
 
-*9 min read*
-
-> **The big idea:** For written posts on X, the first line has one job: make people read the second line. Learn 8 hook types, what every strong hook connects with, and a process of writing the hook last, in many versions
-
-### The job of the first line
+#### The job of the first line
 
 The only job of your first line is to get someone to read your second line. The goal is a curiosity gap, a question the reader wants answered
 
 Try to write a hook only you can say, one that comes from your own result, so nobody else can copy it. "I hit 5.8M impressions in my first month" can only be said by the person who did it
 
-### 8 hook types
+#### 8 hook types
 
 - bold claim: a strong statement that makes people want to see you prove it
 - callout: name the reader directly ("if you're a founder...")
@@ -874,13 +832,13 @@ Try to write a hook only you can say, one that comes from your own result, so no
 - number or list: "7 copywriting rules I wish I knew 6 years ago"
 - proof: start with a result, like "This post got 2M views. I analyzed why"
 
-### What every great hook connects with
+#### What every great hook connects with
 
 A good hook does at least one of these. The best combine two or three: self-interest (results, money, time saved), curiosity, novelty, emotion, and identity ("this is about people like me")
 
 Say a callout to founders (identity) plus "this one change doubled my reach" (self-interest and curiosity)
 
-### Hook rules
+#### Hook rules
 
 - start with the most interesting thing and cut the warm-up
 - be specific, with numbers, names and timeframes. "I grew fast" is weak, "I hit 5.8M impressions in my first month" is strong
@@ -888,13 +846,13 @@ Say a callout to founders (identity) plus "this one change doubled my reach" (se
 - keep it short
 - if your best line is at the bottom, move it to the top
 
-### Where the hook goes
+#### Where the hook goes
 
 In a short post, the hook is the post, so line one has to stand alone. In a thread (a series of connected posts), it is the hook plus a promise of what is coming. In an article, the title, the subtitle and the first paragraph are each their own hook
 
 In a video it is the first 1 to 2 seconds, with movement, text on screen and a spoken hook together
 
-### The hook process
+#### The hook process
 
 1. Write the post first and the hook last, because only then do you know the best line
 2. Write 5 to 10 versions using different hook types. Three is the minimum
@@ -903,13 +861,15 @@ In a video it is the first 1 to 2 seconds, with movement, text on screen and a s
 
 Put more effort into the hook than into the rest of the post
 
-**Example: Hooks that mix several moves**
+### Examples
+
+Hooks that mix several moves:
 
 "How to build a personal brand on X. Full crash course:" and "Most people think building a personal brand takes 6+ months. It doesn't, and I proved it by building one in 9 days"
 
-*Why it works:* The first states a clear result and shows the value upfront. The second gives a common belief, then proof against it
+Why it works: The first states a clear result and shows the value upfront. The second gives a common belief, then proof against it
 
-### Mistakes to avoid
+### Mistakes
 
 - warming up before the most interesting line
 - vague claims with no numbers, names or timeframes
@@ -920,25 +880,21 @@ Put more effort into the hook than into the rest of the post
 
 Write a short post body first. Then write 6 hooks for it, each a different type from the list of 8. Cut the weakest 3. For the best one, check that it connects with at least 2 of the 5: self-interest, curiosity, novelty, emotion, identity
 
-[Back to the top of this module](#top) · [All modules](../README.md#contents)
+## Lesson 2.14: Hooks in writing: first lines for posts, threads and articles
 
----
+### Big idea
 
-<a id="m2-l14"></a>
+Writers teach the same main idea as video creators: the first line exists to get the next one read. Pick the emotion first, write the hook many times yourself, and use a few proven opening shapes
 
-## 2.14 Hooks in writing: first lines for posts, threads and articles
+### How it works
 
-*9 min read*
-
-> **The big idea:** Writers teach the same main idea as video creators: the first line exists to get the next one read. Pick the emotion first, write the hook many times yourself, and use a few proven opening shapes
-
-### Pick the emotion first
+#### Pick the emotion first
 
 The only job of post 1 in a thread (a series of connected posts) is to get post 2 read. Most readers drop off in the first 2 or 3 posts
 
 Before you write, note the feeling you are aiming for: a laugh, "what the heck", "finally someone said it", wow. If the reader feels nothing at the end, the post goes nowhere
 
-### Reusable hook shapes
+#### Reusable hook shapes
 
 - the mythbuster: "everyone thinks X, I think the opposite, here's how it works"
 - a small person against a big one
@@ -947,31 +903,33 @@ Before you write, note the feeling you are aiming for: a laugh, "what the heck",
 - proof before teaching: "I grew my X account from 400 to 26,000"
 - a clear scene of a pain: "Your launch gets congrats from friends, a few likes, and then the conversation stops"
 
-### Write it simple and many times
+#### Write it simple and many times
 
 Write at a level a 10-year-old could read. Hard words carry no emotion. "Yield a positive ROI" is weaker than "make more money than you put in"
 
 Write the hook 20 times, even out loud, and spend a big share of your time on the first and last words
 
-### Don't let AI write the first line
+#### Don't let AI write the first line
 
 The first line is the only line everyone reads. An AI's default hook is almost always generic and safe, and safe doesn't stop the scroll
 
 A good rule is to rewrite the first two sentences of any AI draft yourself, even if the rest is solid
 
-### Study and check your hooks
+#### Study and check your hooks
 
 Keep a swipe file (a folder of saved examples) of the top 20 posts you couldn't help saving. Study how their first lines work
 
 Compare your top 20% of posts with your bottom 20%: the topics, the hooks and the words. Test what you find on your own account
 
-**Example: A one-line hook**
+### Examples
+
+A one-line hook:
 
 "How to get rich (without getting lucky)"
 
-*Why it works:* One short line, followed by short, easy lines. Hold your own posts to that level
+Why it works: One short line, followed by short, easy lines. Hold your own posts to that level
 
-### Mistakes to avoid
+### Mistakes
 
 - keeping the AI's default first line
 - hard words that carry no emotion
@@ -982,25 +940,21 @@ Compare your top 20% of posts with your bottom 20%: the topics, the hooks and th
 
 Pick a thread or article you want to write and choose the emotion you want. Then write the first line 20 times, using at least three shapes: a mythbuster, a hard truth about the reader, and proof before teaching. Check the best one: could a 10-year-old read it?
 
-[Back to the top of this module](#top) · [All modules](../README.md#contents)
+## Lesson 2.15: Hooks across platforms, long form and testing
 
----
+### Big idea
 
-<a id="m2-l15"></a>
+A hook has to fit the place it appears: a long YouTube intro, a clip cut from a podcast and an ad each need their own opening. Once a hook is live, review and test it
 
-## 2.15 Hooks across platforms, long form and testing
+### How it works
 
-*8 min read*
-
-> **The big idea:** A hook has to fit the place it appears: a long YouTube intro, a clip cut from a podcast and an ad each need their own opening. Once a hook is live, review and test it
-
-### Long-form openings
+#### Long-form openings
 
 On YouTube, packaging means the title, the thumbnail and the first 30 to 60 seconds. The intro has to confirm the click by repeating the promise of the title
 
 A good long-form opening shows people they are in the right place, makes the topic feel bigger, and opens a loop, all in the first 30 seconds
 
-### Clips and signature openers
+#### Clips and signature openers
 
 When you cut a short clip from a long conversation, the hook has to feel made for short videos: fast and straight to the value. If the real moment has no strong opening, record a hook afterwards, in the same clothes
 
@@ -1008,13 +962,13 @@ A series can use the same opener every time. Say a series about product vs brand
 
 Viewers learn to recognise it, and every video feels like part of the same show
 
-### Ads and reposts
+#### Ads and reposts
 
 Make one clean video, then give it a different hook and caption for each app. The same video can do great on Instagram and fail on TikTok, so track how many people stay past the first second, not just views
 
 For ad research, look at winning ads in a free ad library and note the hook and the order of the parts. Copy the outline, never the script
 
-### Review hooks after you post
+#### Review hooks after you post
 
 Read every post with 3 questions. Start: did people stop?
 
@@ -1024,19 +978,23 @@ After each post, write 3 notes: why people started, where they left, and which l
 
 A good split of your content is 70% what you know works, 20% new versions of it such as a new hook, and 10% new experiments
 
-**Three questions for reviewing a post**
+### Steps
+
+Three questions for reviewing a post:
 
 1. Start: did people stop?
 2. Stay: did it deliver fast?
 3. Signal: did they do anything?
 
-**Example: A podcast clip**
+### Examples
+
+A podcast clip:
 
 A strong moment from a long conversation has no strong opening, so the host records a hook afterwards in the same clothes and adds a big text hook
 
-*Why it works:* The hook has to feel made for short videos even when the source is a long conversation
+Why it works: The hook has to feel made for short videos even when the source is a long conversation
 
-### Mistakes to avoid
+### Mistakes
 
 - using a slow, chatty opening as the hook of a short clip
 - the same hook and caption on every app with no testing
@@ -1049,15 +1007,7 @@ Take your last 5 posts or videos. For each one, write the 3 notes: why people st
 
 Then pick the weakest one and write 3 new hooks for it
 
-[Back to the top of this module](#top) · [All modules](../README.md#contents)
-
----
-
-<a id="cheat-sheet"></a>
-
-## Cheat sheet: Hooks
-
-The whole module on one page
+## Cheat sheet: module 2
 
 - say what your content is about in the first sentence, in as few words as possible
 - write the hook in 2 to 4 lines: pull the viewer in, stop them with a "but", then send them the opposite way
@@ -1074,7 +1024,3 @@ The whole module on one page
 - write the hook last, in 5 to 20 versions, and read the best one aloud
 - rewrite the first line an AI gives you, because its default is generic
 - after posting, note why people started, where they left, and which line got a reaction
-
----
-
-Previous: [Module 1: Personal brand and positioning](../guide/01-personal-brand-and-positioning.md) · Next: [Module 3: Storytelling](../guide/03-storytelling.md) · [Contents](../README.md#contents)
